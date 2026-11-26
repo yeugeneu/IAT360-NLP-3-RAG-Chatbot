@@ -1,0 +1,6 @@
+#Data cleaning 
+kagglehub
+pandas
+pyarrow
+requests 
+transformers
