@@ -11,3 +11,25 @@ from pathlib import Path
 
 import pandas as pd
 from huggingface_hub import snapshot_download
+
+# ---------------------------------------------------------------------------
+# settings
+# ---------------------------------------------------------------------------
+HF_REPO = "Anonymous-Team-HC-RAG/Multi-doc-2025"
+RAW_DIR = Path("data/raw/multidoc2025")
+OUT_DIR = Path("data/processed")
+KAGGLE_CLEAN = OUT_DIR / "kaggle_clean.csv"
+
+TARGET_YEAR = 2023
+
+# True  -> keep a row only if year == 2023 AND every year in `years_required` is 2023 the answer can be found in the 2023 filing alone.
+# False -> keep every row whose primary `year` is 2023, even if it also needs 2022/2024.
+STRICT_2023_ONLY = True
+
+# True -> also drop test rows whose company(ies) have no 2023 passages in kaggle_clean.csv (those questions can't be answered by your knowledge base).
+DROP_UNCOVERED = False
+
+# Columns used to cross-check the year -> deleted. The primary `year` column stays (= 2023 only).
+YEAR_CHECK_COLS = ["years_required", "is_cross_year"]
+
+SPLIT_NAMES = {"train", "val", "validation", "test"}
