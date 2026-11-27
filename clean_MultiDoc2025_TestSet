@@ -127,3 +127,26 @@ df["companies"] = df["companies"].map(lambda cs: [str(c).strip().upper() for c i
 before = len(df)
 df = df.drop_duplicates(subset = ["question", "answer", "company", "year"]).reset_index(drop = True)
 print(f"Dropped {before - len(df)} duplicate questions")
+
+#-------------------------------------------
+# Coverage check against the cleaned Kaggle knowledge base
+#--------------------------------------------
+
+if KAGGLE_CLEAN.exists():
+    kg = pd.read_csv(KAGGLE_CLEAN)
+    covered = set(kg.loc[kg["year"] == TARGET_YEAR, "ticker"].astype(str).str.upper())
+    
+    has_docs = df["company"].map(lambda cs: all (c in covered for c in cs)) 
+    print(f"Test rows fully covered by Kaggle knowledge base {TARGET_YEAR} passages: {int(has_docs.sum())} / {len(df)}")
+    
+    missing = sorted({c for cs in df.loc[~has_docs, "companies"] for c in cs if c not in covered})
+    print("Tickers needed by the test set but missing from Kaggle knowledge base:", missing)
+
+    if DROP_UNCOVERED:
+        df = df[has_docs].reset_index(drop = True)
+        print("Dropped uncovered rows. New shape:", df.shape)
+
+else:
+    print (f"(Skipping coverage check: {KAGGLE_CLEAN} not found - run Kaggle cleaning script first)")
+
+    
