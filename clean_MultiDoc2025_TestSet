@@ -1,0 +1,13 @@
+# Dataset: https://huggingface.co/datasets/Anonymous-Team-HC-RAG/Multi-doc-2025
+# Output: data/processed/multidoc_test_2023.json + .csv
+# Purpose: 2023-only TEST set. The original split for train/val/test will be merged for the financial RAG checker.
+#          The knowledge base is data/processed/kaggle_clean.csv (context, ticker, year).
+#          Cross check with base in Kaggle cleaned data to ensure test set is cross checked.
+
+import json
+import os
+import re
+from pathlib import Path
+
+import pandas as pd
+from huggingface_hub import snapshot_download
