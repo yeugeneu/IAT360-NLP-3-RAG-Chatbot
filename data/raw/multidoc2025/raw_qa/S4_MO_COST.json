@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary macroeconomic risks identified by MO and COST in their respective filings?",
+    "answer": "MO identifies inflation and economic uncertainty affecting adult tobacco consumer preferences and purchase behavior, including shifts to discount brands and illicit e-vapor products. COST identifies fluctuations in prices for energy, electricity, natural gas, and other commodities used in retail and manufacturing operations.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "COST"
+    ],
+    "evidence_section": "MO: Item 7 (Risks Relating to Our Business - Business Operations Risks); COST: Item 7 (Market Risk - Commodity Price Risk)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do MO and COST differ in their approaches to managing commodity price risk?",
+    "answer": "MO does not discuss commodity price risk in the provided content. COST partially mitigates commodity price risk through fixed-price contracts for certain warehouses and other facilities, and enters into variable-priced contracts on an index basis for some electricity, natural gas, and gas station fuel, which qualify for the 'normal purchases and normal sales' exception.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "COST"
+    ],
+    "evidence_section": "MO: Not addressed; COST: Item 7 (Market Risk - Commodity Price Risk)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the fiscal year ends of the two companies and note any differences.",
+    "answer": "MO's fiscal year ends on December 31 (2024 and 2023 balance sheet dates). COST's fiscal year ends on September 1, 2024 and September 3, 2023, as stated in the audit report and balance sheet headings.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "COST"
+    ],
+    "evidence_section": "MO: Item 8 - Consolidated Balance Sheets (at December 31, 2024 and 2023); COST: Item 8 - Report of Independent Registered Public Accounting Firm (as of September 1, 2024 and September 3, 2023)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided balance sheet data for MO and the lack thereof for COST, what can be said about the comparability of financial statement data between the two?",
+    "answer": "MO provides detailed balance sheet data including assets, liabilities, and stockholders' equity. COST does not provide any balance sheet data in the provided excerpt; only the index to consolidated financial statements and the audit report are included. Therefore, direct financial comparison of balance sheet metrics is not possible from the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "COST"
+    ],
+    "evidence_section": "MO: Item 8 - Consolidated Balance Sheets (full data); COST: Item 8 - Index to Consolidated Financial Statements (no balance sheet data shown)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does each company describe its exposure to currency risk in the provided content?",
+    "answer": "MO does not discuss currency risk in the provided content. COST describes that a hypothetical 10% strengthening of the functional currencies compared to non-functional currency exchange rates at September 1, 2024 would have decreased the fair value of contracts by approximately $120 and resulted in an unrealized loss in the consolidated statements of income.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "COST"
+    ],
+    "evidence_section": "MO: Not addressed; COST: Item 7 (Market Risk - Currency Risk)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of inventory does MO report, and why might COST not report similar detail in the provided section?",
+    "answer": "MO reports leaf tobacco, other raw materials, work in process, and finished product inventories. COST's provided content does not include inventory detail; the excerpt only contains the MD&A discussion of currency and commodity risks, and the audit report and index to financial statements. The actual financial statements for COST are not reproduced in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "COST"
+    ],
+    "evidence_section": "MO: Item 8 - Consolidated Balance Sheets (Inventories breakdown); COST: Item 8 - Index to Consolidated Financial Statements (no inventory data visible)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What were Caterpillar's total sales and revenues for the fiscal year 2024?",
+    "answer": "$64.809 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In what year was Caterpillar reorganized as Caterpillar Inc.?",
+    "answer": "1986",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years after its original organization did Caterpillar reorganize as Caterpillar Inc.?",
+    "answer": "61 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of insurance coverage does Cat Financial generally require on financed equipment?",
+    "answer": "Physical damage insurance coverage",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In how many U.S. states is Caterpillar Insurance Company licensed to conduct property and casualty insurance business?",
+    "answer": "50",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of jurisdictions (states and territories) where Caterpillar Insurance Company is licensed to conduct business?",
+    "answer": "52",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What term is defined in the Private Securities Litigation Reform Act of 1995 according to this MD&A section?",
+    "answer": "forward-looking statements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What words or expressions are cited as being used to identify forward-looking statements?",
+    "answer": "\"believe,\" \"expect,\" \"estimate,\" \"anticipate,\" \"will be,\" \"should,\" \"plan,\" \"forecast,\" \"target,\" \"guide,\" \"project,\" \"intend,\" \"could\" and similar words or expressions",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does the company undertake any obligation to publicly update forward-looking statements?",
+    "answer": "No, it undertakes no obligation to publicly update forward-looking statements, whether as a result of new information, future events or otherwise.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which notes does Item 7A appear according to the provided content?",
+    "answer": "Note 1, Note 2, Note 4, Note 7, Note 11, and Note 18.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many notes are listed as including Item 7A?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Is Item 7A noted to appear in Note 3?",
+    "answer": "No, Note 3 is not listed among the notes containing Item 7A.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "As of what date did management assess the effectiveness of the company's internal control over financial reporting?",
+    "answer": "December 31, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What criteria did management use to assess the effectiveness of internal control over financial reporting?",
+    "answer": "the criteria set forth by the Committee of Sponsoring Organizations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who is responsible for establishing and maintaining adequate internal control over financial reporting according to the report?",
+    "answer": "The management of Caterpillar Inc. (company)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many policies and procedures are listed in the description of internal control over financial reporting?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What proportion of the total policies is policy (iii)?",
+    "answer": "1/3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If the policies are numbered sequentially starting from 1, what is the sum of the numbers assigned to policies (i), (ii), and (iii)?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

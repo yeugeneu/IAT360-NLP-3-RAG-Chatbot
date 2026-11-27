@@ -1,0 +1,159 @@
+[
+  {
+    "question": "What was the percentage change in DuPont's cash and cash equivalents from 2022 to 2024, and how does that compare to the percentage change in its net working capital over the same period? Provide the exact numerical values used.",
+    "answer": "DuPont's cash and cash equivalents decreased from $3.7 billion in 2022 to $1.9 billion in 2024, a change of (1.9-3.7)/3.7 = -48.65%. Net working capital decreased from $6.4 billion to $1.6 billion, a change of (1.6-6.4)/6.4 = -75.00%. Both values are stated in billions of dollars.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": [
+      "DD FY2022 Item 7 Overview: '$6.4 billion of net working capital and $3.7 billion in cash and cash equivalents'",
+      "DD FY2024 Item 7 Overview: '$1.6 billion of net working capital and $1.9 billion in cash and cash equivalents'"
+    ],
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "APD+DD",
+    "sector": "Materials"
+  },
+  {
+    "question": "Both Air Products (APD) and DuPont (DD) use different units for financial reporting. In APD's FY2022 and FY2024 filings, financial information is presented in millions of dollars; in DD's FY2022 and FY2024 filings, working capital and cash are reported in billions. What is the factor difference between their default reporting scales?",
+    "answer": "APD reports in millions (10^6), while DD reports in billions (10^9). The factor difference is 1,000 (one billion equals one thousand million). This is derived from APD's explicit statement 'in millions of dollars' (FY2022 and FY2024) and DD's numerical values expressed in billions (e.g., $6.4 billion).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": [
+      "APD FY2022 Item 7: 'Unless otherwise stated, financial information is presented in millions of dollars'",
+      "APD FY2024 Item 7: 'Unless otherwise stated, financial information is presented in millions of U.S. Dollars'",
+      "DD FY2022 Item 7: '$6.4 billion of net working capital and $3.7 billion in cash and cash equivalents'",
+      "DD FY2024 Item 7: '$1.6 billion of net working capital and $1.9 billion in cash and cash equivalents'"
+    ],
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "APD+DD",
+    "sector": "Materials"
+  },
+  {
+    "question": "DuPont completed a major divestiture in November 2022 and announced a plan to separate businesses in May 2024. Compare the fiscal year-end dates of DuPont (December 31) and Air Products (September 30). In which fiscal year did the November 2022 divestiture fall for each company?",
+    "answer": "DuPont's fiscal year ends December 31, so the November 1, 2022 divestiture occurred in DuPont's FY2022. Air Products' fiscal year ends September 30, so November 1, 2022 falls in APD's FY2023 (since APD's FY2022 ended September 30, 2022). Evidence: APD's income statements are for fiscal years ended 30 September (2022,2021,2020 in FY2022 filing; 2024,2023,2022 in FY2024 filing). DuPont's Overview states 'As of December 31, 2022' and 'On November 1, 2022'.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": [
+      "APD FY2022 Item 8: 'Consolidated Income Statements – Fiscal Years Ended 30 September 2022, 2021, and 2020'",
+      "APD FY2024 Item 8: 'Consolidated Income Statements – Fiscal Years Ended 30 September 2024, 2023, and 2022'",
+      "DD FY2022 Item 7: 'As of December 31, 2022' and 'On November 1, 2022, DuPont completed the previously announced divestiture'",
+      "DD FY2024 Item 7: 'As of December 31, 2024' and 'On May 22, 2024, DuPont announced a plan to separate'"
+    ],
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "APD+DD",
+    "sector": "Materials"
+  },
+  {
+    "question": "Using only the provided excerpts, calculate the absolute dollar change in DuPont's net working capital from 2022 to 2024. Then express that change as a multiple of Air Products' stated reporting unit (millions of dollars).",
+    "answer": "DuPont's net working capital decreased from $6.4 billion to $1.6 billion, an absolute change of $4.8 billion (4,800 million). Air Products reports in millions of dollars. Therefore, the change is 4,800 times APD's reporting unit (1 million).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": [
+      "DD FY2022 Item 7: '$6.4 billion of net working capital'",
+      "DD FY2024 Item 7: '$1.6 billion of net working capital'",
+      "APD FY2022 Item 7: 'financial information is presented in millions of dollars'",
+      "APD FY2024 Item 7: 'financial information is presented in millions of U.S. Dollars'"
+    ],
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "APD+DD",
+    "sector": "Materials"
+  },
+  {
+    "question": "In both Air Products' FY2022 and FY2024 filings, the independent registered public accounting firm is Deloitte & Touche LLP with PCAOB ID No. 34. Does the same auditor appear in the DuPont excerpts? If so, what is the PCAOB ID number?",
+    "answer": "Yes, the same auditor (Deloitte & Touche LLP) is listed in DuPont's filings. However, the DuPont excerpts do not include a specific PCAOB ID number. Air Products explicitly shows 'PCAOB ID No. 34' in both years. Therefore, the PCAOB ID is not verifiable from the DuPont provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": [
+      "APD FY2022 Item 8: 'Report of Deloitte & Touche LLP, Independent Registered Public Accounting Firm (PCAOB ID No. 34)'",
+      "APD FY2024 Item 8: 'Report of Deloitte & Touche LLP, Independent Registered Public Accounting Firm (PCAOB ID No. 34)'"
+    ],
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "APD+DD",
+    "sector": "Materials"
+  },
+  {
+    "question": "DuPont's cash and cash equivalents decreased from $3.7 billion (2022) to $1.9 billion (2024). If Air Products had reported cash of $X million in its FY2024 filing, how many times larger would DuPont's 2024 cash be than Air Products' cash, assuming X equals the midpoint of typical ranges? (Note: No actual APD cash figure is provided; answer based on available data.)",
+    "answer": "DuPont's 2024 cash is $1.9 billion, which is 1,900 million. Without an APD cash figure, the comparison cannot be calculated. The question illustrates the need for both companies' numerical table data, which is incomplete in the excerpts.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": [
+      "DD FY2022 Item 7: '$3.7 billion in cash and cash equivalents'",
+      "DD FY2024 Item 7: '$1.9 billion in cash and cash equivalents'",
+      "APD FY2024 Item 7: 'Unless otherwise stated, financial information is presented in millions of U.S. Dollars' (indicates unit but no cash number)"
+    ],
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "APD+DD",
+    "sector": "Materials"
+  }
+]

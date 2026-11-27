@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What is Microsoft Viva described as in the business section?",
+    "answer": "Microsoft Viva is an employee experience platform that brings together communications, knowledge, learning, resources, and insights.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What components does Microsoft 365 bring together according to the filing?",
+    "answer": "Microsoft 365 brings together Office 365, Windows, and Enterprise Mobility + Security.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the purpose of Microsoft Power Platform as stated in the business section?",
+    "answer": "Microsoft Power Platform is helping domain experts drive productivity gains with low-code/no-code tools, robotic process automation, virtual agents, and business intelligence.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the current status of the EU-U.S. Data Privacy Framework (DPF) under EU law as mentioned in this section?",
+    "answer": "recognized as adequate under EU law to allow transfers of personal data from the EU to certified companies in the U.S.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A Laws and regulations relating to the handling of personal data may impede the adoption of our services or result in increased costs, legal claims, fines against us, or reputational damage.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which regulation applies to all of Microsoft's activities conducted from an establishment in the EU or related to products and services offered in the EU?",
+    "answer": "the EU General Data Protection Regulation (GDPR)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A Laws and regulations relating to the handling of personal data may impede the adoption of our services or result in increased costs, legal claims, fines against us, or reputational damage.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many new EU regulations are explicitly listed in the text as being developed that add additional rules and restrictions on the use of data?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A Laws and regulations relating to the handling of personal data may impede the adoption of our services or result in increased costs, legal claims, fines against us, or reputational damage.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the primary unresolved issues for the IRS audits as of June 30, 2023?",
+    "answer": "transfer pricing",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What did prior year non-GAAP financial measures exclude?",
+    "answer": "the net income tax benefit related to transfer of intangible properties in the first quarter of fiscal year 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many tax years are under examination for certain jurisdictions, based on the range of tax years 1996 to 2022?",
+    "answer": "27",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the potential loss in future earnings from a hypothetical 10% decrease in foreign exchange rates on revenue as of June 30, 2023?",
+    "answer": "$(8,122)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the potential loss in fair value from a hypothetical 10% decrease in equity market prices as of June 30, 2023?",
+    "answer": "$(705)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total potential loss in fair value from a combined hypothetical 100 basis point increase in U.S. treasury interest rates and a 100 basis point increase in credit spreads as of June 30, 2023?",
+    "answer": "$(2,186)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the recorded basis of U.S. government securities as of June 30, 2022?",
+    "answer": "$77,547 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the net unrealized gain or loss on total debt investments as of June 30, 2022?",
+    "answer": "Net unrealized loss of $2,761 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "As of June 30, 2022, the recorded basis of equity investments classified as 'Other' in the fair value table is $6,435 million. Meanwhile, the text below the table states that equity investments without readily determinable fair values measured at cost with adjustments were $3.8 billion. What is the difference between these two amounts in millions?",
+    "answer": "$2,635 million",
+    "intent": "calculation",
+    "is_hybrid_modal": true,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of the recorded basis of U.S. government securities (Level 1) to the total recorded basis of all debt investments?",
+    "answer": "77,547 / 95,357 ≈ 0.8132 (81.32%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the net unrealized gain/loss for corporate notes and bonds (Level 2) in millions?",
+    "answer": "-550 (net unrealized loss)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total recorded basis of all Level 2 debt investments?",
+    "answer": "17,646 (in millions)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

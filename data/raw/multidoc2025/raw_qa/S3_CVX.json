@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the total revenues reported by CVX for FY2022, FY2023, and FY2024?",
+    "answer": "The provided content for each fiscal year is: 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations The index to Management’s Discussion and Analysis of Financial Condition and Results of Operations is presented in the Financial Table of Contents .' No revenue figures are included; therefore, revenue trends cannot be determined.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CVX",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "CVX"
+    ]
+  },
+  {
+    "question": "How did CVX's net income change from FY2022 to FY2024?",
+    "answer": "The provided content for each fiscal year is: 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations The index to Management’s Discussion and Analysis of Financial Condition and Results of Operations is presented in the Financial Table of Contents .' No net income data is included; therefore, the change cannot be assessed.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CVX",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "CVX"
+    ]
+  },
+  {
+    "question": "What trend is evident in CVX's operating margins over FY2022, FY2023, and FY2024?",
+    "answer": "The provided content for each fiscal year is: 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations The index to Management’s Discussion and Analysis of Financial Condition and Results of Operations is presented in the Financial Table of Contents .' No operating margin data is included; therefore, no trend is evident.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CVX",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "CVX"
+    ]
+  },
+  {
+    "question": "Describe any strategic shifts mentioned in the MD&A across FY2022, FY2023, and FY2024.",
+    "answer": "The provided content for each fiscal year is: 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations The index to Management’s Discussion and Analysis of Financial Condition and Results of Operations is presented in the Financial Table of Contents .' No strategic discussions or shifts are included; the text is identical across all years and contains only the title and index reference.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CVX",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "CVX"
+    ]
+  },
+  {
+    "question": "What changes in risk factors are highlighted in the MD&A from FY2022 to FY2024?",
+    "answer": "The provided content for each fiscal year is: 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations The index to Management’s Discussion and Analysis of Financial Condition and Results of Operations is presented in the Financial Table of Contents .' No risk factor discussions are included; therefore, no changes are identified.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CVX",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "CVX"
+    ]
+  },
+  {
+    "question": "Compare the structure of Item 7 across FY2022, FY2023, and FY2024. Are there any differences in the text provided?",
+    "answer": "The provided content for each fiscal year is identical: 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations The index to Management’s Discussion and Analysis of Financial Condition and Results of Operations is presented in the Financial Table of Contents .' There are no differences in the text across the three years.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CVX",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "CVX"
+    ]
+  }
+]

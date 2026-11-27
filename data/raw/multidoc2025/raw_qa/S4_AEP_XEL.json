@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare the approaches of AEP and XEL regarding the disclosure of forward-looking statements. What differences are evident in their filings?",
+    "answer": "AEP explicitly includes a section on forward-looking statements with cautionary language and a list of risk factors, and states that it undertakes no obligation to update them. XEL's provided content does not include a forward-looking statements section or similar cautionary language; instead, it focuses on non-GAAP financial measures and corporate structure disclosures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "XEL"
+    ],
+    "evidence_section": "AEP: Item 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations; XEL: ITEM 7 — MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do AEP and XEL differ in their use of non-GAAP financial measures?",
+    "answer": "XEL explicitly discusses non-GAAP measures such as ongoing ROE, ongoing earnings, and ongoing diluted EPS, explaining their use for financial planning, performance-based compensation, and communicating earnings outlook. AEP's provided content does not mention the use of any non-GAAP financial measures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "XEL"
+    ],
+    "evidence_section": "AEP: no mention; XEL: ITEM 7 — MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Non-GAAP Financial Measures section)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key differences in the corporate structure and basis of financial reporting between AEP and XEL as described in their filings?",
+    "answer": "XEL Inc. is a holding company with no business operations, reporting its investments in subsidiaries under the equity method, with assets consisting primarily of investments in utility subsidiaries. AEP's content does not explicitly describe its corporate structure, but the auditor's opinion references 'the Company's consolidated financial statements,' implying AEP consolidates its subsidiaries.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "XEL"
+    ],
+    "evidence_section": "AEP: Item 8 (auditor opinion mentioning consolidated financial statements); XEL: Item 8 (Basis of Presentation section)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the disclosure of guarantees and indemnifications between AEP and XEL.",
+    "answer": "XEL explicitly discloses that it provides guarantees and bond indemnities under specified agreements, with exposure based on the net liability of the relevant subsidiary, and notes that most guarantees have a maximum stated amount and that no assets were held as collateral as of Dec. 31, 2024 and 2023. AEP's provided content does not contain any mention of guarantees or indemnifications.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "XEL"
+    ],
+    "evidence_section": "AEP: no mention; XEL: Item 8 (Guarantees and Indemnifications section)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in the risk factors highlighted by each company in their provided excerpts?",
+    "answer": "AEP lists multiple external risk factors including changes in economic conditions, electric market demand, global conflicts and trade tensions, inflation or deflation interest rate trends, new state legislation altering the regulatory framework, and volatility in financial markets. XEL's provided content does not include a dedicated risk factors section; instead, it mentions limitations on subsidiary dividends due to FERC regulations and state laws as a constraint, but does not frame these as risk factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "XEL"
+    ],
+    "evidence_section": "AEP: Item 7 – Management’s Discussion and Analysis (forward-looking statements and risk factors); XEL: Item 8 (Basis of Presentation – discussion of dividend limitations)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the statements on auditor independence and responsibility compare between AEP and XEL?",
+    "answer": "AEP's filing includes an auditor's report paragraph stating the auditor is a public accounting firm registered with the PCAOB, required to be independent under U.S. federal securities laws and PCAOB rules, and that the audits were conducted in accordance with PCAOB standards. XEL's provided content does not include any auditor's report or statement on auditor independence; its filing focuses on management's discussion and basis of presentation.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "XEL"
+    ],
+    "evidence_section": "AEP: Item 8 (auditor responsibility paragraph); XEL: no auditor report in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

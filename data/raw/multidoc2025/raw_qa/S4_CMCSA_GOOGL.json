@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What does each company's Item 7 discuss?",
+    "answer": "CMCSA's Item 7 is titled 'Management’s Discussion and Analysis of Financial Condition and Results of Operations', while GOOGL's Item 7 discusses risks related to intellectual property rights.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "GOOGL"
+    ],
+    "evidence_section": "CMCSA: 'Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations 30' — GOOGL: 'Item 7 of this Annual Report on Form 10-K. Our intellectual property rights are valuable...'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does GOOGL's Item 8 mention any factors affecting revenue that are not mentioned in CMCSA's provided content?",
+    "answer": "Yes, GOOGL's Item 8 lists changes in foreign currency exchange rates, pricing, economic conditions, new products, and seasonality as factors affecting revenues, whereas CMCSA's provided content only includes the title of Item 7 and no such factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "GOOGL"
+    ],
+    "evidence_section": "GOOGL: 'fluctuations in our revenues have been, and may continue to be, affected by a combination of general factors, including: • changes in foreign currency exchange rates; • changes in pricing, such as those resulting from changes in fee structures, discounts, and customer incentives; • general economic conditions and various external dynamics, including geopolitical events, regulations, and other measures and their effect on advertiser, consumer, and enterprise spending; • new product and service launches; and • seasonality.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the level of detail in risk discussion compare between CMCSA and GOOGL based on the provided content?",
+    "answer": "GOOGL provides a detailed discussion of intellectual property risks in its Item 7, including patents, trademarks, trade secrets, and the risk of the word 'Google' becoming generic. CMCSA's provided content only states the title of Item 7 without any risk discussion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "GOOGL"
+    ],
+    "evidence_section": "GOOGL: 'Our intellectual property rights are valuable...' full paragraph on IP risks. CMCSA: 'Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations 30'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What revenue categories does GOOGL break out in its Item 8 that are not mentioned in CMCSA's provided content?",
+    "answer": "GOOGL breaks out Google advertising revenues into Google Search & other, YouTube ads, and Google Network. CMCSA's provided content does not include any revenue breakdown.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "GOOGL"
+    ],
+    "evidence_section": "GOOGL: 'Google advertising revenues are comprised of the following: • Google Search & other, which includes revenues generated on Google search properties... • YouTube ads, which includes revenues generated on YouTube properties; and • Google Network, which includes revenues generated on Google Network properties participating in AdMob, AdSense, and Google Ad Manager.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company discusses the impact of seasonality and foreign exchange on revenues?",
+    "answer": "GOOGL discusses seasonality and foreign exchange rate changes as factors affecting revenues in Item 8. CMCSA's provided content does not mention seasonality or foreign exchange.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "GOOGL"
+    ],
+    "evidence_section": "GOOGL: 'fluctuations in our revenues have been, and may continue to be, affected by a combination of general factors, including: • changes in foreign currency exchange rates; ... • seasonality.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based solely on the provided text, what is the total number of items or sections each company has discussed?",
+    "answer": "For CMCSA, only Item 7 is provided. For GOOGL, Item 7 and Item 8 are provided.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "GOOGL"
+    ],
+    "evidence_section": "CMCSA: 'Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations 30' — GOOGL: The content begins with 'Item 7 of this Annual Report on Form 10-K.' and later 'Item 8 of this Annual Report on Form 10-K.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

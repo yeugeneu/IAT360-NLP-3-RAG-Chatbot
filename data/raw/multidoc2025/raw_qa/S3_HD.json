@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the description of DIY customer strategy change from fiscal 2022 to fiscal 2024?",
+    "answer": "In fiscal 2022, the company described assisting DIY customers in stores and online, offering clinics and workshops. In fiscal 2023 and 2024, the company added: 'As the preferences and behaviors of our DIY customers are changing, we are investing in capabilities to better serve the needs of those customers' (2023) and 'to better meet the evolving expectations of these customers' (2024).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / OUR CUSTOMERS",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "HD"
+    ]
+  },
+  {
+    "question": "What new Pro customer types were added in fiscal 2024 compared to fiscal 2022 and 2023?",
+    "answer": "In fiscal 2024, the Pro customer description added 'small to medium homebuilders' and expanded specialty trades to include 'landscapers, pool contractors, and roofers'. The fiscal 2022 and 2023 descriptions listed only 'electricians, plumbers and painters' as examples.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / OUR CUSTOMERS",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "HD"
+    ]
+  },
+  {
+    "question": "How did the company's phrasing regarding Pro purchase needs evolve from fiscal 2022 to fiscal 2023?",
+    "answer": "In fiscal 2022, the company said it was 'investing in capabilities that will help us better serve our Pros’ planned purchase needs'. In fiscal 2023, this changed to 'investing in differentiated capabilities that will help us better serve our Pros’ complex purchase needs'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / OUR CUSTOMERS",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "HD"
+    ]
+  },
+  {
+    "question": "What acquisition was mentioned in fiscal 2024 that was not present in prior years, and what customer segment does it target?",
+    "answer": "In fiscal 2024, the company stated: 'In fiscal 2024, we acquired SRS, which sells products to specialty trade roofers, landscapers, and pool contractors.' This acquisition was not mentioned in fiscal 2022 or 2023.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / OUR CUSTOMERS",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "HD"
+    ]
+  },
+  {
+    "question": "In which fiscal year did the company first mention serving Pros working on 'both simple and complex projects'?",
+    "answer": "The phrase 'including those working on both simple and complex projects' first appeared in the fiscal 2023 description of Pro initiatives and continued into fiscal 2024. It was absent in fiscal 2022.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / OUR CUSTOMERS",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "HD"
+    ]
+  },
+  {
+    "question": "What change occurred in the description of DIY customer investment between fiscal 2023 and fiscal 2024?",
+    "answer": "In fiscal 2023, the company stated it was 'investing in capabilities to better serve the needs of those customers' (referring to DIY customers). In fiscal 2024, this wording changed to 'investing in capabilities to better meet the evolving expectations of these customers'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / OUR CUSTOMERS",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "HD"
+    ]
+  }
+]

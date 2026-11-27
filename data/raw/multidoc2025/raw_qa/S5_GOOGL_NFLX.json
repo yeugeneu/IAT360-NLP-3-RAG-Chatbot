@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the total revenue growth of Netflix from 2022 to 2024 compare to the qualitative description of revenue drivers for Alphabet?",
+    "answer": "Netflix total revenues increased from $31,615,550 thousand in 2022 to $39,000,966 thousand in 2024, a 23% increase (from $31,615,550 to $39,000,966). Alphabet's 2024 Item 7 notes that revenue fluctuations are affected by changes in foreign currency exchange rates, pricing, general economic conditions, new product launches, and seasonality, while its 2022 Item 8 describes using constant currency revenues to exclude foreign exchange effects. Unlike Netflix's explicit numerical growth, Alphabet only provides qualitative factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GOOGL",
+      "NFLX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GOOGL FY2022 Item 8 text, GOOGL FY2024 Item 7 text; NFLX FY2022 Item 7 table, NFLX FY2024 Item 7 table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GOOGL+NFLX",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Compare the operating margin of Netflix in 2022 and 2024 with the risk factors described by Alphabet for the same years.",
+    "answer": "Netflix operating margin was 18% in 2022 and 27% in 2024, an improvement of 9 percentage points. Alphabet's 2022 and 2024 Item 7 both state identical risk factors about intellectual property protection, noting that inadequate protection could reduce value and affect ability to compete. Netflix's margin improvement contrasts with Alphabet's unchanged risk disclosure regarding IP risks.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GOOGL",
+      "NFLX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GOOGL FY2022 Item 7 text, GOOGL FY2024 Item 7 text; NFLX FY2022 Item 7 table, NFLX FY2024 Item 7 table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "GOOGL+NFLX",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "How did the paid membership growth of Netflix from 2022 to 2024 compare to Alphabet's mention of seasonality as a revenue fluctuation factor?",
+    "answer": "Netflix paid memberships at end of period grew from 230,747 thousand in 2022 to 301,626 thousand in 2024, a 30.7% increase. Alphabet's 2024 Item 7 lists seasonality as one factor that may affect revenue fluctuations. Netflix's membership growth is a direct volume driver, while Alphabet's revenue is influenced by seasonal advertising patterns not explicitly quantified.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GOOGL",
+      "NFLX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GOOGL FY2024 Item 7 text; NFLX FY2022 Item 7 table, NFLX FY2024 Item 7 table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GOOGL+NFLX",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Evaluate the effect of foreign currency on both companies: How does Alphabet's use of constant currency in 2022 compare to Netflix's reported constant currency change in average monthly revenue per paying membership for 2024?",
+    "answer": "Alphabet's 2022 Item 8 states that it uses non-GAAP constant currency revenues to exclude foreign exchange effects and hedging activities for period-to-period comparisons. Netflix's 2024 Item 7 table shows a constant currency change of 4% in average monthly revenue per paying membership for 2024 versus 2023. Alphabet describes a methodology, while Netflix provides a specific numerical constant currency impact.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GOOGL",
+      "NFLX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GOOGL FY2022 Item 8 text; NFLX FY2024 Item 7 table (note 3)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "GOOGL+NFLX",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Compare the revenue composition changes: Netflix's streaming versus DVD revenue shift from 2022 to 2024 versus Alphabet's description of its revenue categories in 2024.",
+    "answer": "Netflix streaming revenues were $31,469,852 thousand in 2022 and $39,000,966 thousand in 2024, while DVD revenues declined from $145,698 thousand in 2022 to $0 in 2024 (discontinued). Alphabet's 2024 Item 7 describes Google advertising revenues (including Google Search & other) and Google subscriptions, platforms, and devices revenues under Google Services, but does not provide numerical breakdowns. Netflix shows a clear shift to streaming-only, whereas Alphabet lists categories without actual figures.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GOOGL",
+      "NFLX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GOOGL FY2024 Item 7 text; NFLX FY2022 Item 7 table, NFLX FY2024 Item 7 table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GOOGL+NFLX",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Analyze the competitive dynamics: How did Netflix's operating income growth rate from 2022 to 2024 compare to Alphabet's unchanged risk factor about intellectual property over the same period?",
+    "answer": "Netflix operating income grew from $5,632,831 thousand in 2022 to $10,417,614 thousand in 2024, a 85% increase. Alphabet's risk factor paragraph in both 2022 and 2024 Item 7 is identical, stating that inability to protect intellectual property could reduce the value of products and affect ability to compete. This suggests Alphabet's disclosure did not change despite its own revenue growth and market changes, while Netflix's operational performance improved significantly.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GOOGL",
+      "NFLX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GOOGL FY2022 Item 7 text, GOOGL FY2024 Item 7 text; NFLX FY2022 Item 7 table, NFLX FY2024 Item 7 table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GOOGL+NFLX",
+    "sector": "Communication Services"
+  }
+]

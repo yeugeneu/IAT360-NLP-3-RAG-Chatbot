@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did Disney's total revenues change from fiscal 2022 to fiscal 2024? Provide the actual revenue figures for each year.",
+    "answer": "Total revenues were $82,722 million in fiscal 2022, $88,898 million in fiscal 2023, and $91.4 billion in fiscal 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DIS",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "DIS"
+    ]
+  },
+  {
+    "question": "What was the trend in Disney’s net income attributable to Disney from fiscal 2023 to fiscal 2024, and what were the dollar values?",
+    "answer": "Net income attributable to Disney increased from $2.4 billion in fiscal 2023 to $5.0 billion in fiscal 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DIS",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "DIS"
+    ]
+  },
+  {
+    "question": "How did Disney’s diluted earnings per share (EPS) from continuing operations change from fiscal 2023 to fiscal 2024?",
+    "answer": "Diluted EPS increased from $1.29 in fiscal 2023 to $2.72 in fiscal 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DIS",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "DIS"
+    ]
+  },
+  {
+    "question": "What were Disney’s service revenues for fiscal years 2022, 2023, and 2024?",
+    "answer": "Service revenues were $74,200 million in fiscal 2022, $79,562 million in fiscal 2023, and $81.8 billion in fiscal 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DIS",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "DIS"
+    ]
+  },
+  {
+    "question": "What was the total costs and expenses for fiscal 2022 and 2023, and what was the percentage change (better/worse)?",
+    "answer": "Total costs and expenses were $75,952 million in fiscal 2022 and $79,906 million in fiscal 2023. The change was (5)% worse (i.e., 5% increase).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DIS",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "DIS"
+    ]
+  },
+  {
+    "question": "What significant leadership change occurred in fiscal 2022, and how did it set the stage for restructuring in subsequent years?",
+    "answer": "Robert A. Iger returned as CEO on November 20, 2022, succeeding Robert A. Chapek. Mr. Iger was mandated by the Board to set strategic direction for renewed growth and to develop a successor. The announcement anticipated that he would initiate organizational and operating changes within the coming months, which were in early stages at the time.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DIS",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "DIS"
+    ]
+  }
+]

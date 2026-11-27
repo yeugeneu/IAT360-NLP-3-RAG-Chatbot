@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What was the high price of WTI crude oil in April 2024?",
+    "answer": "$87 per barrel",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the low price of WTI crude oil in September 2024?",
+    "answer": "$66 per barrel",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between the high and low WTI crude oil prices in 2024?",
+    "answer": "$21 per barrel",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many countries does ConocoPhillips have operations and activities in?",
+    "answer": "14 countries",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What two metrics is ConocoPhillips considered one of the world’s leading E&P companies based on?",
+    "answer": "production and reserves",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the number of countries ConocoPhillips operates in (14) and the page number referenced for the cautionary statement (65)?",
+    "answer": "79 (14 + 65)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total production volume (in thousands of barrels of oil equivalent per day) for 2024 according to the operating statistics table?",
+    "answer": "1,800",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Table of Operating Statistics",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the income statement table, what was the percentage change in total revenues from 2023 to 2024?",
+    "answer": "13.2%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Table of Income Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "From the capital expenditures table, what was the total spend in 2024 for unconventional assets compared to conventional assets?",
+    "answer": "Unconventional: $4,500 million, Conventional: $2,100 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Table of Capital Expenditures by Asset Type",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the Authority Limitations document prohibit?",
+    "answer": "It prohibits the use of highly leveraged derivatives or derivative instruments without sufficient liquidity.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who monitors commodity price risk and risks resulting from foreign currency exchange rates and interest rates?",
+    "answer": "The Executive Vice President and Chief Financial Officer, who reports to the Chief Executive Officer.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the content, what is one objective of using swap contracts?",
+    "answer": "To convert fixed-price sales contracts to floating market prices.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Reports of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For which years are the Consolidated Income Statement presented?",
+    "answer": "2024, 2023 and 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Income Statement",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many notes to consolidated financial statements are listed?",
+    "answer": "24",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Notes to Consolidated Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the start page numbers for Notes 1, 2, and 3?",
+    "answer": "254",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in start pages between Note 8 and Note 15?",
+    "answer": "18",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many notes to consolidated financial statements are listed with start page numbers that are greater than 100 but less than 110?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "COP",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

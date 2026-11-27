@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What type of vehicles do the company and its independent bottlers operate?",
+    "answer": "a large fleet of trucks and other motor vehicles",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What could increase the company's costs and interrupt product supply according to the text?",
+    "answer": "Any sustained or significant disruption to the manufacturing or sourcing of products or materials",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many raw materials and supplies are specifically listed as subject to price volatility?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What types of investments does management perform impairment tests on?",
+    "answer": "Equity method investments and indefinite-lived intangible assets.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "When are equity method investments reviewed for impairment?",
+    "answer": "Whenever significant events or changes in circumstances indicate that the carrying amount of the investment might not be recoverable.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many factors are listed that management must estimate when performing impairment tests?",
+    "answer": "13",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the three segments of alcohol ready-to-drink beverages that the Company focuses on?",
+    "answer": "Hard seltzers (e.g., Topo Chico Hard Seltzer), hard alternatives (e.g., Lemon-Dou) and pre-mixed cocktails (e.g., Jack Daniel’s & Coca-Cola).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which brand is owned by the Company in certain countries other than the United States?",
+    "answer": "Schweppes",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What type of subsidiary has the Company established in the United States to authorize alcohol-licensed third parties to use its trademarks?",
+    "answer": "A wholly owned, indirect, firewalled subsidiary",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many sparkling soft drink brands are listed?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many water, sports, coffee and tea brands are listed?",
+    "answer": "11",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of sparkling soft drink brands to juice, value-added dairy and plant-based brands?",
+    "answer": "8:6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What amount of net operating revenues came from operations outside the United States in 2023?",
+    "answer": "$29.2 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which specific foreign currencies are mentioned as being hedged using forward exchange contracts?",
+    "answer": "euro, British pound and Japanese yen",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Express the net operating revenues from outside the United States in millions of dollars.",
+    "answer": "29,200 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What were the net operating revenues for the fiscal year ended December 31, 2023?",
+    "answer": "$45,754 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the gross profit margin for 2023? (Express as percentage rounded to two decimal places)",
+    "answer": "59.52%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On which page can Note 7 Intangible Assets be found?",
+    "answer": "Page 84",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Table of Contents",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the percentage change in Net Operating Revenues from 2022 to 2023?",
+    "answer": "6.4%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the difference between Interest income and Interest expense for 2023 (Interest income minus Interest expense)?",
+    "answer": "-$620 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Calculate the operating income margin (Operating Income divided by Net Operating Revenues) for 2023.",
+    "answer": "24.7%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

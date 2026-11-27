@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the difference between the earliest and latest fiscal years explicitly mentioned in the provided excerpts from TSLA and HD for 2022 and 2024?",
+    "answer": "2 years (from fiscal year 2020 to fiscal year 2022)",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "TSLA",
+      "HD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of each filing (TSLA 2022: 'for fiscal year 2020'; TSLA 2024: 'for fiscal year 2022'; HD 2022: 'Fiscal 2022')",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "TSLA+HD",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "How many highlight years are mentioned in the Overview of TSLA's 2022 and 2024 10-Ks, and how many customer groups are mentioned in HD's 2022 and 2024 10-Ks?",
+    "answer": "TSLA's 2022 10-K highlights 1 year (2021); TSLA's 2024 10-K highlights 1 year (2023); HD's 2022 10-K mentions 2 customer groups (DIY and DIFM); HD's 2024 10-K mentions 2 customer groups (DIY and Pros).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "TSLA",
+      "HD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "TSLA+HD",
+    "sector": "Consumer Discretionary"
+  }
+]

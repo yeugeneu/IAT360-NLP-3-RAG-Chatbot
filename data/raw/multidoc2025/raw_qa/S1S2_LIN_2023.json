@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What was Linde's sales amount for fiscal year 2023?",
+    "answer": "$32,854 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the change in Linde's sales from fiscal year 2022 to 2023?",
+    "answer": "Sales decreased by $510 million, from $33,364 million in 2022 to $32,854 million in 2023.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the two broad categories of primary products in Linde's industrial gases business?",
+    "answer": "Atmospheric gases and process gases.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the single largest cost item in the production and distribution of industrial gases according to Linde's risk factors?",
+    "answer": "Energy",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Over how many countries does Linde operate according to the risk factor section?",
+    "answer": "more than 80",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many forms of energy are listed as most of Linde's energy requirements?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the age of Sanjiv Lamba as mentioned in the executive officers section?",
+    "answer": "59",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "When was Sanjiv Lamba appointed Chief Executive Officer of Linde?",
+    "answer": "March 1, 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What position does Guillermo Bichara hold and what is his age?",
+    "answer": "He is Executive Vice President and Chief Legal Officer, age 49.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the average age of the two executive officers with ages explicitly listed?",
+    "answer": "54",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the age difference between the CEO and the Chief Legal Officer?",
+    "answer": "10 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the ages of the CEO and the Chief Legal Officer?",
+    "answer": "108",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the single largest cost item in the production and distribution of industrial gases according to Linde's market risk disclosures?",
+    "answer": "Energy",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Where is Linde's research and development primarily conducted?",
+    "answer": "Pullach, Germany, Tonawanda, New York, Burr Ridge, Illinois and Shanghai, China",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many research and development locations are explicitly listed in the section?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the three geographic segments that Linde's industrial gas operations are managed on?",
+    "answer": "Americas, EMEA, APAC",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "BUSINESS OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of Linde's sales in 2023 were generated by the three geographic segments?",
+    "answer": "90%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "BUSINESS OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "By how many percentage points did the sales generated by Linde's three geographic segments exceed those from the Engineering segment and Other in 2023?",
+    "answer": "80 percentage points (90% - 10%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "BUSINESS OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for 'Business Overview' and 'Executive Summary – Financial Results & Outlook'?",
+    "answer": "41",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between 'Segment Discussion' and 'Consolidated Results and Other Information'?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "If you subtract the page number of 'Off-Balance Sheet Arrangements' from the page number of 'Supplemental Guarantee Information', what is the result?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "How do the operational risk descriptions of Southern Company (SO) in FY2022 and FY2024 compare to Duke Energy's (DUK) discussion in FY2024 regarding the types of facilities and risk focus? Provide evidence from the text and indicate what financial table data (e.g., capital expenditures by plant type) would further corroborate the comparison.",
+    "answer": "SO in both FY2022 and FY2024 lists 'electric generation, transmission, and distribution facilities, natural gas distribution facilities, and distributed generation' as operational risks, indicating a broad, consistent focus on multi-fuel infrastructure. DUK in FY2024 specifically mentions 'retirement date assumptions for all coal-fired generating facilities' and references the East Bend plant rate case, signaling a concentrated focus on coal phase-out and regulatory proceedings. The text does not provide financial tables, but a table of capital expenditures by generation type or asset retirement obligations would quantify the differing investment emphases.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SO",
+      "DUK"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SO FY2022 Item 7, SO FY2024 Item 7, DUK FY2024 Item 7 (text); implied financial tables in Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SO+DUK",
+    "sector": "Utilities"
+  },
+  {
+    "question": "Based on the provided text, what trend can be inferred about Duke Energy's coal-fired plant retirement planning between FY2022 and FY2024, and what financial table data would be necessary to confirm this trend?",
+    "answer": "DUK's FY2022 text only references prior-year MD&A without specific mention of coal retirements. Its FY2024 text explicitly states the company continues to 'evaluate the retirement date assumptions for all coal-fired generating facilities' and notes rate cases filed for the East Bend plant. This indicates an emerging focus on coal retirement between 2022 and 2024. A table of accumulated depreciation, estimated useful lives, or asset retirement obligations from the financial statements would provide the numerical evidence needed to confirm a shift in retirement assumptions.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SO",
+      "DUK"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DUK FY2022 Item 7 (reference only), DUK FY2024 Item 7 (text); implied financial tables in Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SO+DUK",
+    "sector": "Utilities"
+  },
+  {
+    "question": "Compare the regulatory risk emphasis in SO's FY2022 and FY2024 operational risk discussions versus DUK's FY2024 discussion. What financial table items (e.g., regulatory deferral balances) would quantify the relative magnitude of regulatory exposure?",
+    "answer": "SO's operational risk sections in both FY2022 and FY2024 do not mention rate cases or regulatory proceedings; they focus solely on facility operations. DUK's FY2024 text explicitly references 'rate cases recently filed or approved across all' jurisdictions, highlighting a stronger regulatory risk focus. A financial table showing regulatory assets, liabilities, or deferred income tax balances in Item 8 of each filing would provide numerical evidence to compare the scale of regulatory exposure between the two companies.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SO",
+      "DUK"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SO FY2022 Item 7, SO FY2024 Item 7, DUK FY2024 Item 7 (text); implied financial tables in Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SO+DUK",
+    "sector": "Utilities"
+  }
+]

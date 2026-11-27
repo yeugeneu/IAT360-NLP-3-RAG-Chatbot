@@ -1,0 +1,134 @@
+[
+  {
+    "question": "According to the provided content, which company discloses the number of employees and what is that number?",
+    "answer": "Bank of America (BAC) discloses approximately 213,000 employees. JPMorgan Chase (JPM) does not provide an employee count in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "BAC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+BAC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a detailed list of its competitors in the provided excerpt?",
+    "answer": "BAC provides a detailed list of competitors in Item 7, while JPM does not include such a list in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "BAC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+BAC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the page references for the MD&A sections: what pages does JPM's MD&A cover, and what page references does BAC provide for its MD&A?",
+    "answer": "JPM's MD&A covers pages 52–167. BAC's Item 7 references MD&A but does not give a page range; instead, it refers to Note 23 – Business Segment Information.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "BAC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+BAC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does BAC state about the competitive environment, and does JPM provide a similar statement?",
+    "answer": "BAC states that it operates in a highly competitive environment and lists numerous competitors including banks, investment firms, and internet-based companies. JPM does not provide a comparable competitive analysis in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "BAC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+BAC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the content, which company mentions human capital resources and what is the employee count?",
+    "answer": "BAC mentions human capital resources and states it has approximately 213,000 employees. JPM does not discuss human capital or employee count in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "BAC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+BAC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the financial statement page references differ between JPM and BAC?",
+    "answer": "JPM states its Consolidated Financial Statements appear on pages 172–321. BAC lists individual page numbers for each statement, e.g., Consolidated Statement of Income on page 90, Balance Sheet on page 91, etc.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "BAC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+BAC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

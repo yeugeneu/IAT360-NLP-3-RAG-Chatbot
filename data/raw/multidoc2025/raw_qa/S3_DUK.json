@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did Duke Energy's approach to evaluating retirement dates for coal-fired generating facilities change from FY2022 to FY2024?",
+    "answer": "In FY2022, the provided content does not mention any evaluation of coal-fired generating facility retirement dates. In both FY2023 and FY2024, the MD&A states that 'Duke Energy continues to evaluate the retirement date assumptions for coal-fired generating facilities as changes in energy usage and/or growth and availability of replacement generation could result in different retirement dates of units than their current estimated useful lives.' The language is identical in those two years, indicating a consistent ongoing evaluation from FY2023 onward.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DUK",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "DUK"
+    ]
+  },
+  {
+    "question": "What strategic action regarding the commercial renewables business was disclosed in FY2022, and is it mentioned again in later years?",
+    "answer": "In FY2022, Duke Energy announced the sale of its commercial renewables business. This action is not mentioned in the provided content for FY2023 or FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DUK",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "DUK"
+    ]
+  },
+  {
+    "question": "How does the discussion of self-insurance for electric transmission and distribution lines differ across the three fiscal years?",
+    "answer": "The FY2022 content does not include any discussion of self-insurance for electric transmission and distribution lines. In both FY2023 and FY2024, the MD&A states, 'The Duke Energy Registrants self-insure their electric transmission and distribution lines against loss due to storm damage and other natural disasters.' This statement is identical in both years.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DUK",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "DUK"
+    ]
+  },
+  {
+    "question": "What was the status of the Carbon Plan filing with the NCUC in FY2022 compared to later years?",
+    "answer": "In FY2022, Duke Energy stated that it 'filed the Carbon Plan with the NCUC.' The FY2023 and FY2024 provided content does not mention the Carbon Plan filing or its status.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DUK",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "DUK"
+    ]
+  },
+  {
+    "question": "Did Duke Energy's commitment to a 'reliable and growing dividend' appear consistently across all three fiscal years?",
+    "answer": "No. The commitment to a 'reliable and growing dividend' is only explicitly stated in the FY2022 content: 'a business portfolio that delivers a reliable and growing dividend, with 2022 representing th' (truncated). The FY2023 and FY2024 provided content does not contain this statement.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DUK",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "DUK"
+    ]
+  },
+  {
+    "question": "How did the mention of rate cases including proposed depreciation rates for earlier retirement dates evolve from FY2022 to FY2024?",
+    "answer": "The FY2022 content does not mention rate cases including depreciation rates for earlier retirement dates. In FY2023, it states 'rate cases recently filed or approved across all jurisdictions included proposed depreciation rates reflecting the earlier retirement dates as outlined in recent IRPs.' In FY2024, the language is very similar: 'rate cases recently filed or approved across all jurisdictions included proposed depreciation rates that approximate earlier retirement dates as outlined in recent IRPs.' The wording changed slightly from 'reflecting' to 'approximate' but the meaning remains consistent.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DUK",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "DUK"
+    ]
+  }
+]

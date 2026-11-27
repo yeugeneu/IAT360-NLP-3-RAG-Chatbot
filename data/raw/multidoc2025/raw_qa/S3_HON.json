@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the page number for the MD&A section (Item 7) in each of the three fiscal years?",
+    "answer": "FY2022: page 37, FY2023: page 38, FY2024: page 37.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HON",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "HON"
+    ]
+  },
+  {
+    "question": "How did the page number for Item 7 change from 2022 to 2023, and then from 2023 to 2024?",
+    "answer": "It increased from 37 to 38 between 2022 and 2023, then decreased from 38 to 37 between 2023 and 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HON",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "HON"
+    ]
+  },
+  {
+    "question": "What is the heading used for the Management's Discussion and Analysis section in FY2022, FY2023, and FY2024?",
+    "answer": "All three years use the same heading: 'ITEM 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HON",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "HON"
+    ]
+  },
+  {
+    "question": "Is the page number for Item 7 the same across all three fiscal years?",
+    "answer": "No. FY2022 has page 37, FY2023 has page 38, and FY2024 has page 37, so only FY2022 and FY2024 share the same page number.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HON",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "HON"
+    ]
+  },
+  {
+    "question": "What is the difference in the starting page of Item 7 between FY2022 and FY2024?",
+    "answer": "The difference is 0 pages; both start on page 37.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "HON",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "HON"
+    ]
+  },
+  {
+    "question": "Based solely on the provided content, what numerical data is available across the three years to compare?",
+    "answer": "The only numerical data available is the page numbers for Item 7: FY2022=37, FY2023=38, FY2024=37.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "HON",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "HON"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "question": "What is the title of Item 7?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HON",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HON"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On what page does Item 7 begin?",
+    "answer": "37",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HON",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HON"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the section number of Management's Discussion and Analysis?",
+    "answer": "ITEM 7",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HON",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HON"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the digits in the page number for Item 7?",
+    "answer": "10",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "HON",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HON"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the product of the digits in the page number for Item 7?",
+    "answer": "21",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "HON",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HON"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the two digits in the page number for Item 7?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "HON",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HON"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary business objectives of DLR and WELL as stated in their respective Form 10-K filings?",
+    "answer": "DLR’s primary business objectives are to maximize: (i) sustainable long-term growth in earnings and funds from operations per share and unit; (ii) cash flow and returns to stockholders and unitholders through distributions; and (iii) return on invested capital. WELL’s filing does not explicitly list primary business objectives but describes its business as a REIT focused on healthcare real estate and providing risk factor disclosures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "WELL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do DLR and WELL differ in their property focus and target customers according to their filings?",
+    "answer": "DLR focuses on data center, colocation and interconnection solutions, targeting technology industry customers with high-quality, strategically located properties containing physical and connectivity infrastructure. WELL focuses on healthcare real estate, as indicated by its name and the risk factor discussions regarding public health crises and healthcare properties, though its filing does not provide a detailed property description in the excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "WELL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the auditor's opinion on internal control over financial reporting for WELL, and does DLR’s filing include such an opinion?",
+    "answer": "For WELL, the auditor expressed an unqualified opinion on the Company’s internal control over financial reporting as of December 31, 2024, based on criteria in the 2013 COSO framework. DLR’s excerpt includes a Management’s Report on Internal Control over Financial Reporting but does not include an auditor's opinion on internal control in the provided text.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "WELL"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the principal risk factors discussed by DLR and WELL in their Item 7 sections?",
+    "answer": "DLR’s Item 7 discusses business overview and growth strategy, with implicit risks related to development and property acquisition, but does not list specific risk factors in the excerpt. WELL’s Item 7 includes a Risk Factor Summary listing principal factors making an investment speculative or risky, such as public health crises, escalating global conflicts, supply chain disruptions, labor market constraints, rising inflation and high interest rates.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "WELL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For which fiscal years do DLR and WELL present consolidated financial statements in their Form 10-K excerpts?",
+    "answer": "Both DLR and WELL present consolidated financial statements for each of the three years in the period ended December 31, 2024. DLR’s content includes statements as of December 31, 2024 and 2023, and for each year in the three-year period ended December 31, 2024. WELL’s content includes audited balance sheets as of December 31, 2024 and 2023, and statements for each of the three years in the period ended December 31, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "WELL"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do DLR and WELL describe their growth strategies in their filings?",
+    "answer": "DLR expects to accomplish its objectives through superior risk-adjusted returns, prudent capital allocation, diversifying product offerings, accelerating global reach and scale, and driving revenue growth and operating efficiencies, with significant internal growth anticipated through development of existing space, acquisition of land for future development, and acquisition of new properties. WELL’s excerpt does not describe a growth strategy; it focuses on risk factors and the business overview is not provided in the text.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "WELL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

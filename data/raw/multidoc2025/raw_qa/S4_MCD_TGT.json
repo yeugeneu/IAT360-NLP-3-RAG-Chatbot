@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the page numbers for Item 7 (Management's Discussion and Analysis) in MCD's and TGT's 10-K filings?",
+    "answer": "MCD's Item 7 is on page 7. TGT's Item 7 does not have a page number specified in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "TGT"
+    ],
+    "evidence_section": "MCD: Item 7 Management’s Discussion and Analysis and Financial Condition and Results of Operations Page 7; TGT: Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations Executive Overview ...",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, what strategic initiatives does TGT highlight in its MD&A that are not mentioned in MCD's MD&A?",
+    "answer": "TGT's MD&A highlights initiatives such as introducing 2,000 new wellness products, exclusive product collaborations (e.g., Taylor Swift Eras Tour Book, Wicked x Stanley), launching owned brands (dealworthy, Auden, Cat & Jack, Gigglescape, up&up), expanding Target Plus marketplace, reimagining Target Circle loyalty program, and enhancing Roundel digital media. MCD's MD&A content only provides the section heading with no specific initiatives described.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "TGT"
+    ],
+    "evidence_section": "MCD: Item 7 Management’s Discussion and Analysis and Financial Condition and Results of Operations Page 7; TGT: Executive Overview paragraph beginning 'In 2024, we drove our strategy...'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the starting page for the Consolidated Statements of Operations in TGT's 10-K, and what page is the MD&A in MCD's 10-K?",
+    "answer": "TGT's Consolidated Statements of Operations starts on page 42. MCD's MD&A is on page 7.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "TGT"
+    ],
+    "evidence_section": "MCD: Item 7 Management’s Discussion and Analysis and Financial Condition and Results of Operations Page 7; TGT: 'Item 8. Financial Statements and Supplementary Data ... Consolidated Statements of Operations 42'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's filing provides details about owned brands exceeding $1 billion in annual sales, and does MCD's filing mention any similar brand performance?",
+    "answer": "TGT's filing states that '11 of our owned brands exceeded $1 billion in annual sales.' MCD's filing does not mention any owned brands or brand performance; it only provides the MD&A section heading on page 7.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "TGT"
+    ],
+    "evidence_section": "TGT: 'with 11 of our owned brands exceeding $1 billion in annual sales'; MCD: entire content is 'Item 7 Management’s Discussion and Analysis and Financial Condition and Results of Operations Page 7'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the length and level of detail in the MD&A sections of MCD and TGT based on the provided content.",
+    "answer": "MCD's MD&A content consists only of the section title and page number ('Item 7... Page 7'), with no further details. TGT's MD&A content includes multiple paragraphs describing strategic initiatives, investments, and examples of product launches, spanning several sentences.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "TGT"
+    ],
+    "evidence_section": "MCD: entire content; TGT: 'Executive Overview' paragraph and the subsequent bulleted list.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the page reference for TGT's Report of Management, and what is the page reference for MCD's MD&A?",
+    "answer": "TGT's Report of Management is on page 39 (as per the index). MCD's MD&A is on page 7.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "TGT"
+    ],
+    "evidence_section": "MCD: 'Item 7 Management’s Discussion and Analysis ... Page 7'; TGT: 'Reports of Management and Independent Registered Public Accounting Firm 39'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was the trend in total revenue over fiscal years 2022, 2023, and 2024?",
+    "answer": "Total revenue was $26,914 million in FY2022, $26,974 million in FY2023 (slight increase of $60 million), and $60,922 million in FY2024 (an increase of $33,948 million or 126%).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Content: Revenue by Reportable Segments; FY2023 Content: Revenue by Reportable Segments; FY2024 Content: Reportable Segments Revenue by Reportable Segments",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "NVDA"
+    ]
+  },
+  {
+    "question": "How did the gross profit margin change across fiscal years 2022, 2023, and 2024?",
+    "answer": "Gross profit margin was 64.9% in FY2022, decreased to 56.9% in FY2023, and then increased to 72.7% in FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Content: Income statement items as percentage of revenue; FY2023 Content: same; FY2024 Content: same",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "NVDA"
+    ]
+  },
+  {
+    "question": "What was the net income margin trend for fiscal years 2022, 2023, and 2024?",
+    "answer": "Net income margin was 36.2% in FY2022, fell to 16.2% in FY2023, and rose to 48.9% in FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Content: Net income as % of revenue; FY2023 Content: same; FY2024 Content: same",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "NVDA"
+    ]
+  },
+  {
+    "question": "Which reportable segment generated the majority of total revenue in each fiscal year 2022, 2023, and 2024? Provide segment revenue and percentage contributions.",
+    "answer": "In FY2022, Graphics contributed $15,868 million (59.0%) and Compute & Networking $11,046 million (41.0%). In FY2023, Compute & Networking became the larger segment with $15,068 million (55.9%) vs Graphics $11,906 million (44.1%). In FY2024, Compute & Networking dominated at $47,405 million (77.8%) vs Graphics $13,517 million (22.2%).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Content: Revenue by Reportable Segments; FY2023 Content: same; FY2024 Content: same",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "NVDA"
+    ]
+  },
+  {
+    "question": "How did operating income as a percentage of revenue evolve from fiscal year 2022 to 2024?",
+    "answer": "Operating income as a percentage of revenue was 37.3% in FY2022, declined to 15.6% in FY2023, and then increased to 54.1% in FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Content: Income from operations as % of revenue; FY2023 Content: same; FY2024 Content: operating income as % of revenue",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "NVDA"
+    ]
+  },
+  {
+    "question": "In which fiscal year did NVIDIA report an acquisition termination cost, and what was its magnitude as a percentage of revenue? How does this compare to other years?",
+    "answer": "NVIDIA reported an acquisition termination cost only in FY2023, amounting to 5.0% of revenue. No such cost was reported in FY2022 or FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2023 Content: Acquisition termination cost as % of revenue; FY2022 and FY2024 show no such item (0% implied)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "NVDA"
+    ]
+  }
+]

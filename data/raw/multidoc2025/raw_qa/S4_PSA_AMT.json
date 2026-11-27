@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the level of detail in disclosure of critical accounting estimates for long-lived asset impairment differ between PSA and AMT in their FY2024 10-K filings?",
+    "answer": "PSA explicitly identifies impairment of long-lived assets as a critical accounting estimate and describes the significant judgments and assumptions involved, including projections of future rental rates, stabilized occupancy, profit margin, discount rates, and capitalization rates. AMT's overview section does not mention critical accounting estimates or impairment.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "AMT"
+    ],
+    "evidence_section": "PSA: ITEM 7. Management’s Discussion and Analysis – Critical Accounting Estimates – Impairment of Long-Lived Assets; AMT: Item 7 of the 2023 Form 10-K Overview (no comparable disclosure)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSA+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total liquidity reported by AMT as of December 31, 2024, and how does the absence of such a liquidity metric in PSA's provided content reflect a difference in financial reporting focus?",
+    "answer": "AMT reports total liquidity of $11,964.0 million as of December 31, 2024, comprising $9,964.4 million available under credit facilities (net) and $1,999.6 million cash and cash equivalents. PSA's provided content includes only critical accounting estimates and references to financial statements, with no liquidity summary, indicating AMT places greater emphasis on liquidity and financing flexibility in its MD&A.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "AMT"
+    ],
+    "evidence_section": "AMT: Item 7 table 'liquidity as of December 31, 2024'; PSA: ITEM 7 MD&A excerpt (no liquidity disclosure)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PSA+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the net cash provided by operating activities for AMT in 2024 with what can be deduced about PSA's operating cash flow from its critical accounting estimates discussion.",
+    "answer": "AMT reports net cash provided by operating activities of $5,290.5 million for the year ended December 31, 2024. PSA's provided content does not include cash flow data, but its critical accounting estimate for impairment of long-lived assets relies on projections of future rental rates and occupancy, implying that its operating cash flows are tied to self-storage property performance and subject to estimation uncertainty.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "AMT"
+    ],
+    "evidence_section": "AMT: Summary cash flow information table; PSA: ITEM 7 Critical Accounting Estimates – Impairment of Long-Lived Assets",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSA+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the financing activities of AMT in 2024 compare to the financing transactions described in PSA's MD&A, if any?",
+    "answer": "AMT details significant 2024 financing transactions including redemption of senior unsecured notes, a $3.6 billion registered public offering of senior notes, and repayment of a €825.0 million term loan, resulting in net cash used in financing activities of $5,452.4 million. PSA's provided content does not describe any financing transactions; its MD&A focuses solely on critical accounting estimates.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "AMT"
+    ],
+    "evidence_section": "AMT: Item 7 Overview – Significant 2024 financing transactions and cash flow table; PSA: ITEM 7 MD&A (no financing discussion)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSA+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in the treatment of impairment indicators between PSA and AMT based on their 10-K disclosures?",
+    "answer": "PSA treats impairment of long-lived assets as a critical accounting estimate and specifically lists indicators such as unfavorable operational results and significant cost overruns, requiring projections of future rental rates and occupancy. AMT's provided content does not mention impairment indicators or critical accounting estimates; instead, it focuses on financing transactions and liquidity management as key financial strategy elements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "AMT"
+    ],
+    "evidence_section": "PSA: ITEM 7 Critical Accounting Estimates – Impairment of Long-Lived Assets; AMT: Item 7 Overview (no comparable discussion)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSA+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the net change in AMT's available credit facilities after considering letters of credit, and explain why PSA does not provide a similar calculation in the given content.",
+    "answer": "AMT's total available under credit facilities, net is $9,964.4 million, calculated as $6,000.0 million available under the 2021 Multicurrency Credit Facility plus $4,000.0 million available under the 2021 Credit Facility minus $35.6 million in letters of credit. PSA does not provide such a calculation because its MD&A excerpt focuses on critical accounting estimates rather than liquidity or credit facility details.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "AMT"
+    ],
+    "evidence_section": "AMT: Liquidity table as of December 31, 2024; PSA: ITEM 7 MD&A excerpt",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PSA+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

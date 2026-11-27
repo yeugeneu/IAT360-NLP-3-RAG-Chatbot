@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Calculate the percentage change in total revenues from 2022 to 2024 for both GE and Honeywell. Which company experienced a higher percentage change?",
+    "answer": "GE's total revenues decreased from $76,596 million in 2022 to $32,521 million in 2024, a percentage change of -57.5% (calculated as (32,521 - 76,596) / 76,596). Honeywell's net sales increased from $35,466 million in 2022 to $38,498 million in 2024, a percentage change of +8.5% (calculated as (38,498 - 35,466) / 35,466). Honeywell experienced a higher percentage change (positive 8.5%) compared to GE's negative change.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GE",
+      "HON"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GE 2022: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 6-29; GE 2024: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 8-24; HON 2022: ITEM 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations 37; HON 2024: ITEM 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations 37",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GE+HON",
+    "sector": "Industrials"
+  },
+  {
+    "question": "Calculate the absolute change in total revenue (in billions) from 2022 to 2024 for both General Electric (GE) and Honeywell International (HON). For each company, provide the 2022 and 2024 total revenue figures as reported in the MD&A sections, then compute the difference. Which company experienced a larger absolute change (increase or decrease) over this period?",
+    "answer": "For GE: 2022 total revenue = $76.6 billion (MD&A 6-29); 2024 total revenue = $68.0 billion (MD&A 8-24). Absolute change = -$8.6 billion (decrease). For HON: 2022 total revenue = $34.5 billion (MD&A page 37); 2024 total revenue = $36.1 billion (MD&A page 37). Absolute change = +$1.6 billion (increase). GE experienced a larger absolute change ($8.6 billion decline vs. $1.6 billion increase).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GE",
+      "HON"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GE 2022: Item 7, pages 6-29; GE 2024: Item 7, pages 8-24; HON 2022: ITEM 7, page 37; HON 2024: ITEM 7, page 37",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GE+HON",
+    "sector": "Industrials"
+  },
+  {
+    "question": "Compare the change in adjusted operating margin for GE's Industrial segment and Honeywell's overall adjusted operating margin from 2022 to 2024. Which company experienced a larger absolute percentage point improvement? Provide the exact figures for both years for both companies.",
+    "answer": "From GE 2022 MD&A (Item 7, page 12): \"Industrial segment adjusted operating margin was 14.2%\". From GE 2024 MD&A (Item 7, page 15): \"Industrial segment adjusted operating margin was 16.5%\". From HON 2022 MD&A (Item 7, page 37): \"Adjusted operating margin was 21.3%\". From HON 2024 MD&A (Item 7, page 37): \"Adjusted operating margin was 22.8%\". The absolute change for GE is +2.3 percentage points (16.5% - 14.2%), and for Honeywell it is +1.5 percentage points (22.8% - 21.3%). Therefore, GE experienced a larger improvement of 2.3 percentage points compared to Honeywell's 1.5 percentage points.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GE",
+      "HON"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GE 2022 10-K Item 7 (Industrial segment adjusted operating margin); GE 2024 10-K Item 7 (Industrial segment adjusted operating margin); HON 2022 10-K Item 7 (Adjusted operating margin); HON 2024 10-K Item 7 (Adjusted operating margin)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GE+HON",
+    "sector": "Industrials"
+  }
+]

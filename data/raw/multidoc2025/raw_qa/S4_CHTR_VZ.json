@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare the total revenues reported by Charter Communications and Verizon Communications for fiscal year 2024.",
+    "answer": "Charter Communications reported total revenue of $55,085 million for the year ended December 31, 2024. Verizon Communications' total revenue for fiscal year 2024 is not provided in the given excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "VZ"
+    ],
+    "evidence_section": "Item 7 (CHTR), Item 7 (VZ - but no revenue figure provided)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CHTR+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the net income attributable to shareholders for Charter Communications compare to that of Verizon Communications for fiscal year 2024?",
+    "answer": "Charter Communications reported net income attributable to its shareholders of $5,083 million for the year ended December 31, 2024. Verizon Communications' net income attributable to shareholders is not provided in the given excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "VZ"
+    ],
+    "evidence_section": "Item 7 (CHTR), Item 7 (VZ - not disclosed in excerpt)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CHTR+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the primary strategic focuses of Charter Communications and Verizon Communications as described in their FY2024 10-K filings?",
+    "answer": "Charter Communications' growth is driven by mobile lines, average revenue per customer, and advertising sales. Verizon Communications focuses on network leadership in 5G and 4G wireless, monetization of C-Band and millimeter wave spectrum, and its fiber infrastructure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "VZ"
+    ],
+    "evidence_section": "Item 7 (CHTR - revenue growth drivers), Item 7 (VZ - business overview and spectrum strategy)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CHTR+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the reportable segments for each company based on the provided 10-K content?",
+    "answer": "Verizon Communications has two reportable segments as stated in its business overview. Charter Communications does not explicitly mention reportable segments in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "VZ"
+    ],
+    "evidence_section": "Item 7 (VZ - 'We have two reportable s...'), CHTR content does not mention segments",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CHTR+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Do both Charter Communications and Verizon Communications provide unqualified audit opinions on their financial statements in the given 10-K excerpts?",
+    "answer": "Verizon Communications' independent auditor expressed an unqualified opinion on the consolidated financial statements for the year ended December 31, 2024. Charter Communications' 10-K excerpt does not include the audit opinion, so it cannot be confirmed.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "VZ"
+    ],
+    "evidence_section": "Item 8 (VZ - audit opinion), CHTR does not have audit opinion in excerpt",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CHTR+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who is the CEO of Charter Communications and is the CEO of Verizon Communications identified in the provided 10-K content?",
+    "answer": "Charter Communications' CEO is Christopher L. Winfrey, as per the signature on the 10-K. Verizon Communications' CEO is not identified in the given excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "VZ"
+    ],
+    "evidence_section": "Signatures (CHTR), VZ content does not include CEO name",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CHTR+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

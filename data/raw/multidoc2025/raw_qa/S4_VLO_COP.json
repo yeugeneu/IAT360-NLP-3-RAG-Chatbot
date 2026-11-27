@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the forward-looking statement identifiers differ between VLO and COP in their respective Item 7 sections?",
+    "answer": "VLO identifies the following words: 'anticipate,' 'believe,' 'expect,' 'plan,' 'intend,' 'scheduled,' 'estimate,' 'project,' 'projection,' 'predict,' 'budget,' 'forecast,' 'goal,' 'guidance,' 'target,' 'ambition,' 'could,' 'would,' 'should,' 'may,' 'strive,' 'seek,' 'pursue,' 'potential,' 'opportunity,' 'aimed,' 'considering,' 'continue,' 'evaluate,' and similar expressions. COP identifies: 'ambition,' 'anticipate,' 'believe,' 'budget,' 'continue,' 'could,' 'effort,' 'estimate,' 'expect,' 'forecast,' 'goal,' 'guidance,' 'intend,' 'may,' 'objective,' 'outlook,' 'plan,' 'potential,' 'predict,' 'projection,' 'seek,' 'should,' 'target,' 'will,' 'would,' and similar expressions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "COP"
+    ],
+    "evidence_section": "VLO: ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS; COP: Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided excerpts, what are the core business focus areas for VLO and COP?",
+    "answer": "VLO focuses on refining (Refining segment), renewable diesel (Renewable Diesel segment), ethanol (Ethanol segment), and also mentions third-party refining, logistics, and low-carbon fuels projects. COP is an exploration and production (E&P) company with a portfolio including unconventional plays in North America, conventional assets in North America, Europe, Africa and Asia, global LNG developments, and oil sands in Canada.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "COP"
+    ],
+    "evidence_section": "VLO: ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS; COP: Item 7. Management’s Discussion and Analysis - Business Environment and Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the descriptions of internal control over financial reporting compare between VLO and COP in their Item 8 sections?",
+    "answer": "VLO explicitly states that management used the criteria in Internal Control – Integrated Framework (2013) issued by COSO, evaluated effectiveness as of December 31, 2024, and concluded that internal control over financial reporting was effective. It also notes that its independent registered public accounting firm issued an attestation report. COP’s Management Reports (Item 8) state that management prepared and is responsible for the consolidated financial statements but do not include an explicit evaluation of internal control over financial reporting in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "COP"
+    ],
+    "evidence_section": "VLO: ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; COP: Item 8. Financial Statements and Supplementary Data - Reports of Management",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the stated purpose of Management’s Discussion and Analysis for VLO and COP in their respective Item 7 sections?",
+    "answer": "For VLO, the purpose is not explicitly stated in the excerpt; the section provides a cautionary statement for safe harbor provisions and includes forward-looking statements. For COP, the stated purpose is 'the company’s analysis of its financial performance and of significant trends and uncertainties that may affect future performance.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "COP"
+    ],
+    "evidence_section": "VLO: ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS; COP: Item 7. Management’s Discussion and Analysis - first paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of business segments or operational areas are listed for VLO compared to COP?",
+    "answer": "VLO lists Refining segment, Renewable Diesel segment, Ethanol segment, and mentions third-party refining, logistics, and low-carbon fuels projects. COP describes itself as an E&P company with operations in 14 countries and a portfolio including unconventional plays in North America; conventional assets in North America, Europe, Africa and Asia; global LNG developments; and oil sands in Canada.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "COP"
+    ],
+    "evidence_section": "VLO: ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS; COP: Item 7. Management’s Discussion and Analysis - Business Environment and Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies describe their respective geographic footprints in the provided excerpts?",
+    "answer": "VLO does not specify its geographic footprint in the provided content. COP states it has 'operations and activities in 14 countries' and lists North America, Europe, Africa and Asia for its conventional assets, and specifically mentions Canada for oil sands.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "COP"
+    ],
+    "evidence_section": "VLO: ITEM 7 (no geographic description provided); COP: Item 7. Management’s Discussion and Analysis - Business Environment and Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

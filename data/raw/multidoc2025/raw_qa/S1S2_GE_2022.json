@@ -1,0 +1,128 @@
+[
+  {
+    "question": "What is the title of Item 7 in the 10-K filing?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GE",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What page range covers the MD&A section?",
+    "answer": "6-29",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GE",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many pages does the MD&A section span?",
+    "answer": "24 (calculated from page range 6-29)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GE",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Based on the revenue table in Item 7, what was the percentage change in revenue from fiscal year 2021 to 2022?",
+    "answer": "Not available in provided content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GE",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Using the segment data table, what was the operating margin for the Aerospace segment in 2022?",
+    "answer": "Not available in provided content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GE",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "From the cash flow table, what was the free cash flow in 2022?",
+    "answer": "Not available in provided content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GE",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

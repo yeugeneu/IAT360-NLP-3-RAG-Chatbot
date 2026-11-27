@@ -1,0 +1,380 @@
+[
+  {
+    "question": "On which date did DuPont's common stock begin trading on the NYSE under ticker 'DD'?",
+    "answer": "June 3, 2019",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the effective date of the merger of equals between The Dow Chemical Company and E. I. du Pont de Nemours and Company?",
+    "answer": "August 31, 2017",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many days after the separation of the materials science business (Dow Distribution) did the separation of the agriculture business (Corteva Distribution) occur?",
+    "answer": "61 days",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the cash consideration received from Celanese for the M&M Divestiture?",
+    "answer": "$11 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On what date did DuPont announce the divestiture of the Delrin business?",
+    "answer": "February 18, 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many days elapsed between the announcement of the Delrin business divestiture and the completion of the M&M Divestiture?",
+    "answer": "256 days",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the amount of net working capital as of December 31, 2022?",
+    "answer": "$6.4 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the purchase price for the M&M Divestiture?",
+    "answer": "$11.0 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Mobility & Materials Divestitures",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between net working capital and cash and cash equivalents as of December 31, 2022?",
+    "answer": "$2.7 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between net working capital and cash and cash equivalents as of December 31, 2022?",
+    "answer": "$2.7 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the purchase price from the M&M Divestiture and the net working capital as of December 31, 2022?",
+    "answer": "$17.4 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of the purchase price from the M&M Divestiture to cash and cash equivalents as of December 31, 2022?",
+    "answer": "2.97",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the primary currencies to which the Company has exchange rate exposure?",
+    "answer": "Chinese renminbi (CNY), European euro (EUR), Japanese yen (JPY), South Korean won (KRW) and Canadian dollar (CAD).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many primary currencies does the Company have exchange rate exposure to?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What type of derivative instrument does the Company use to offset foreign currency exchange rate exposures?",
+    "answer": "forward exchange contracts",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On which page do the financial statements commence in the report?",
+    "answer": "F-1",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of the section that includes the financial statements?",
+    "answer": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What type of data, in addition to financial statements, is included in Item 8?",
+    "answer": "supplementary data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company's 10-K provides a breakdown of net sales by geographic segment?",
+    "answer": "AAPL provides a breakdown by segment: Americas $167,045M, Europe $101,328M, Greater China $66,952M, Japan $25,052M, Rest of Asia Pacific $30,658M. INTC content does not include any geographic segment breakdown.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AAPL"
+    ],
+    "evidence_section": "INTC: Item 7; AAPL: Segment Operating Performance",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the total net sales for AAPL in FY2024? Does the INTC content include a net sales figure?",
+    "answer": "AAPL total net sales are $391,035 million. INTC content does not provide any net sales figure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AAPL"
+    ],
+    "evidence_section": "INTC: Item 7; AAPL: Consolidated Statements of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's 10-K includes product and service announcements for the fiscal year?",
+    "answer": "AAPL includes significant product/service/software announcements for each quarter of FY2024 (e.g., MacBook Pro, iPhone 16, Apple Intelligence). INTC content does not contain any product announcements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AAPL"
+    ],
+    "evidence_section": "INTC: Item 7; AAPL: Product, Service and Software Announcements",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many fiscal weeks did AAPL report for FY2024? Is INTC's fiscal year length stated in the provided content?",
+    "answer": "AAPL's fiscal year 2024 spanned 52 weeks. INTC's fiscal year length is not specified in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AAPL"
+    ],
+    "evidence_section": "INTC: Item 7; AAPL: Fiscal Period",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the fiscal year-end date for AAPL? What information does INTC provide about its fiscal year-end?",
+    "answer": "AAPL's fiscal year ends on the last Saturday of September; FY2024 ended September 28, 2024. INTC content does not include any fiscal year-end date.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AAPL"
+    ],
+    "evidence_section": "INTC: Item 7; AAPL: Fiscal Period",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the format of Item 7 (Management’s Discussion and Analysis) as described in the provided content for INTC and AAPL.",
+    "answer": "INTC's Item 7 lists page ranges for three subsections: Liquidity and capital resources (pages 28-30), Results of operations (pages 13-27), and Critical accounting estimates (pages 30, 62-68). AAPL's Item 7 is not explicitly labeled, but the content provided includes Product/Service/Software Announcements, Fiscal Period, and Macroeconomic Conditions, followed by Segment Operating Performance with a net sales table.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AAPL"
+    ],
+    "evidence_section": "INTC: Item 7; AAPL: Item 7 (implicitly from Product, Service and Software Announcements through Segment Operating Performance)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

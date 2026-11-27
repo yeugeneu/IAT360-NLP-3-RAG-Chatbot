@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company's filing explicitly includes the Report of Independent Registered Public Accounting Firm with an opinion on the financial statements, and which does not?",
+    "answer": "Lockheed Martin (LMT) explicitly includes the Report of Independent Registered Public Accounting Firm with an opinion on the financial statements. Deere (DE) does not include such a report in the provided excerpt; its ITEM 8 only states 'See the Consolidated Financial Statements and notes thereto and supplementary data.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "DE"
+    ],
+    "evidence_section": "LMT from ITEM 8 (Report of Independent Registered Public Accounting Firm); DE from ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the date of the auditor's report for Lockheed Martin, and does Deere's excerpt provide any auditor's report date?",
+    "answer": "Lockheed Martin's auditor's report is dated January 28, 2025. Deere's excerpt does not contain any auditor's report date or mention of an audit report.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "DE"
+    ],
+    "evidence_section": "LMT from ITEM 8 ('our report dated January 28, 2025'); DE from ITEM 8 (no date provided)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's MD&A section includes a description of its purpose (to help readers understand results of operations and financial condition), and which does not?",
+    "answer": "Lockheed Martin's MD&A includes the sentence 'The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to help the reader understand our results of operations and financial condition.' Deere's MD&A is only referenced by a caption 'See the information under the caption “Management’s Discussion and Analysis.”' without any such purpose statement.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "DE"
+    ],
+    "evidence_section": "LMT from ITEM 7; DE from ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does Lockheed Martin's filing mention the Committee of Sponsoring Organizations of the Treadway Commission (COSO) framework for internal control evaluation? Does Deere's filing mention any such framework?",
+    "answer": "Lockheed Martin's filing mentions the COSO 2013 framework: 'based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework).' Deere's excerpt does not mention any internal control framework.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "DE"
+    ],
+    "evidence_section": "LMT from ITEM 8 (Basis for Opinion); DE from all provided content (no mention)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For which fiscal years are the audited financial statements presented for Lockheed Martin, and does Deere's excerpt specify the fiscal years?",
+    "answer": "Lockheed Martin's audited financial statements cover 'each of the three years in the period ended December 31, 2024' (fiscal years 2024, 2023, and 2022). Deere's excerpt does not specify the fiscal years covered; it only references 'Consolidated Financial Statements and notes thereto.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "DE"
+    ],
+    "evidence_section": "LMT from ITEM 8 ('for each of the three years in the period ended December 31, 2024'); DE from ITEM 8 (no years specified)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's filing includes statements that the financial statements are the responsibility of management and that the auditor is required to be independent? Which company's excerpt omits such statements?",
+    "answer": "Lockheed Martin's filing includes both: 'These financial statements are the responsibility of the Corporation’s management' and 'We are required to be independent with respect to the Corporation.' Deere's excerpt does not include any such statements about management responsibility or auditor independence.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "DE"
+    ],
+    "evidence_section": "LMT from ITEM 8 (Basis for Opinion); DE from all provided content (no such statements)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

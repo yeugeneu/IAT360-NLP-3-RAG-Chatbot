@@ -1,0 +1,443 @@
+[
+  {
+    "question": "In what year was Philip Morris International Inc. incorporated?",
+    "answer": "1987",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years after incorporation did Philip Morris International Inc. become a public company on the New York Stock Exchange?",
+    "answer": "21 years (2008 - 1987 = 21)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What total amount has Philip Morris International Inc. invested since 2008 to develop, scientifically substantiate, and commercialize innovative smoke-free products?",
+    "answer": "over $14 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In how many markets has PMI launched its VEEV vaping products?",
+    "answer": "40 markets",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many markets are nicotine pouches currently available in?",
+    "answer": "38 markets",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the number of markets between VEEV vaping products and nicotine pouches?",
+    "answer": "2 markets (40 - 38 = 2)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the favorable fair value adjustment for equity security investments in India and Sri Lanka in 2024?",
+    "answer": "$418 million after tax",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total non-cash impairment charge recorded during the second quarter of 2023?",
+    "answer": "$680 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the after-tax favorable fair value adjustment for equity security investments between 2024 and 2023?",
+    "answer": "$380 million ($418 million minus $38 million)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in favorable fair value adjustment after tax between 2024 and 2023 for equity security investments in India and Sri Lanka?",
+    "answer": "$380 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of the after-tax amortization expense to the pre-tax amortization expense for 2024? (Round to three decimal places)",
+    "answer": "0.753",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the net per-share impact on diluted EPS from the fair value adjustment and amortization of intangibles combined for 2024.",
+    "answer": "-$0.13 per share",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where is the information called for by Item 7A included?",
+    "answer": "Item 7, Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What page number is referenced after 'Market Risk' in the Item 7A content?",
+    "answer": "75",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the exact title of Item 7A as stated in the content?",
+    "answer": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were net revenues for the year ended December 31, 2024?",
+    "answer": "$37,878 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the excise tax on products for the year ended December 31, 2024?",
+    "answer": "$51,563 million",
+    "intent": "fact",
+    "is_hybrid_modal": true,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How much more were net revenues in 2024 compared to 2023?",
+    "answer": "$2,704 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the gross profit margin (gross profit / net revenues) for each of the fiscal years 2022, 2023, and 2024. Which year had the highest margin?",
+    "answer": "2022: 20,360 / 31,762 ≈ 0.6410 (64.10%); 2023: 22,281 / 35,174 ≈ 0.6335 (63.35%); 2024: 24,549 / 37,878 ≈ 0.6481 (64.81%). The highest margin was in 2024.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage change in net earnings attributable to PMI from 2023 to 2024?",
+    "answer": "Net earnings attributable to PMI decreased from $7,813 million in 2023 to $7,057 million in 2024, a change of ($7,057 - $7,813) / $7,813 ≈ -0.0968, or a decrease of 9.68%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compute the effective tax rate (provision for income taxes divided by earnings before income taxes) for each fiscal year 2022, 2023, and 2024. Which year had the lowest effective tax rate?",
+    "answer": "2022: 2,244 / 11,634 ≈ 0.1929 (19.29%); 2023: 2,339 / 10,450 ≈ 0.2238 (22.38%); 2024: 3,017 / 12,199 ≈ 0.2473 (24.73%). The lowest effective tax rate was in 2022 at 19.29%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

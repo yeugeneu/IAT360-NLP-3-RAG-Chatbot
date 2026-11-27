@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do Duke Energy (DUK) and Consolidated Edison (ED) differ in their approach to insurance coverage for electric transmission and distribution lines?",
+    "answer": "Duke Energy self-insures its electric transmission and distribution lines against loss due to storm damage and other natural disasters, while Consolidated Edison's filing does not mention any specific insurance or self-insurance strategy for such lines.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "ED"
+    ],
+    "evidence_section": "DUK: Item 8, Insurance paragraph; ED: No relevant section in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the contrasting strategies of Duke Energy and Consolidated Edison regarding coal-fired generation and clean energy transition?",
+    "answer": "Duke Energy is evaluating retirement dates for coal-fired facilities and plans to seek regulatory recovery for unrecovered amounts when assets are retired. Consolidated Edison expects distributed energy resources and electric alternatives to increase and gas and steam usage to decrease under the CLCPA and Climate Mobilization Act, without mentioning coal.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "ED"
+    ],
+    "evidence_section": "DUK: Item 7, Coal retirement discussion; ED: Item 7, paragraph on distributed energy resources and CLCPA",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the structure of audit opinions provided by Duke Energy and Consolidated Edison in their respective 10-K filings.",
+    "answer": "Duke Energy includes separate reports of independent registered public accounting firms for its parent company and multiple subsidiaries (e.g., Duke Energy Carolinas, Progress Energy), while Consolidated Edison provides a single audit opinion covering the consolidated financial statements of the company as a whole.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "ED"
+    ],
+    "evidence_section": "DUK: Item 8, list of reports; ED: Item 8, single audit opinion paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the regulatory filings and rate case strategies differ between Duke Energy and Consolidated Edison based on their 10-K disclosures?",
+    "answer": "Duke Energy mentions rate cases recently filed or approved across all jurisdictions that included proposed depreciation rates approximating earlier retirement dates for coal plants, and plans to seek regulatory recovery for unrecovered amounts. Consolidated Edison's filing does not discuss specific rate cases but focuses on strategies to address changes in the external business environment and the impact of the CLCPA.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "ED"
+    ],
+    "evidence_section": "DUK: Item 7, rate cases discussion; ED: Item 7, strategies and CLCPA",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What difference exists in the use of captive insurance companies between Duke Energy and Consolidated Edison?",
+    "answer": "Duke Energy uses a captive insurance company named Bison and its affiliates to provide coverage for its registrants. Consolidated Edison's filing does not mention any captive insurance arrangement.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "ED"
+    ],
+    "evidence_section": "DUK: Item 8, Insurance paragraph mentioning Bison; ED: No mention in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies address the potential impact of environmental regulations on their business strategies?",
+    "answer": "Duke Energy is evaluating early retirement of coal-fired units and plans to seek regulatory recovery for stranded costs. Consolidated Edison explicitly expects distributed energy resources and electric alternatives to gas and steam to increase, and gas and steam usage to decrease due to the implementation of the CLCPA and Climate Mobilization Act.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "ED"
+    ],
+    "evidence_section": "DUK: Item 7, coal retirement and regulatory recovery; ED: Item 7, CLCPA and Climate Mobilization Act impact",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

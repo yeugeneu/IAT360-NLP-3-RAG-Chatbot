@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were the auditor opinions expressed for Welltower Inc. and Prologis, Inc. in their respective FY2024 10-K filings?",
+    "answer": "Both Welltower Inc. and Prologis, Inc. received unqualified opinions from their independent registered public accounting firms on their consolidated financial statements as of December 31, 2024. Welltower's audit was conducted by a PCAOB-registered firm and an unqualified opinion was issued on both the financial statements and internal control over financial reporting. Prologis's audit report is not explicitly quoted in the provided content, but the reference to PCAOB standards and the filing of audited financial statements implies an unqualified opinion under GAAP.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "PLD"
+    ],
+    "evidence_section": "WELL Item 8; PLD Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the primary business focuses of Welltower and Prologis differ based on their FY2024 filings?",
+    "answer": "Welltower is a real estate investment trust (REIT) focused on healthcare-related properties, including senior housing, post-acute care, and outpatient medical facilities. Prologis is a REIT focused on logistics real estate, owning and managing high-quality logistics facilities in high-barrier, high-growth markets, serving the supply chain and e-commerce demand.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "PLD"
+    ],
+    "evidence_section": "WELL Item 7 (risk factors imply healthcare focus); PLD Item 7 (description as global leader in logistics real estate)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What key macroeconomic risks did each company identify in their FY2024 filings?",
+    "answer": "Welltower identified risks from public health crises, escalating global conflicts, supply chain disruptions, labor market constraints, rising inflation, and high interest rates as factors that could amplify other risks. Prologis identified risks related to supply chain disruptions, labor market constraints, and the impact of e-commerce growth and modernization of supply chains on demand for logistics space.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "PLD"
+    ],
+    "evidence_section": "WELL Item 7 (risk factor summary); PLD Item 7 (discussion of demand drivers)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the business segments or property types between Welltower and Prologis based on the provided content?",
+    "answer": "Welltower's provided content does not explicitly list property segments but its risk factors and REIT nature indicate healthcare-focused real estate. Prologis explicitly states its focus on logistics real estate, specifically well-located, high-quality logistics facilities in high-barrier, high-growth markets, serving e-commerce and supply chain customers.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "PLD"
+    ],
+    "evidence_section": "WELL Item 7 (implicit); PLD Item 7 (explicit description)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What real estate asset balances and accumulated depreciation did Prologis report as of December 31, 2024, and how does this compare to any similar information available for Welltower?",
+    "answer": "Prologis reported real estate assets of $81,108,966 thousand and accumulated depreciation of $12,450,545 thousand as of December 31, 2024. Welltower's provided content does not include any balance sheet figures, so a direct comparison of asset balances is not possible from the given excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "PLD"
+    ],
+    "evidence_section": "PLD Item 8 (Schedule III); WELL no evidence",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the geographic scopes of Welltower and Prologis differ according to their FY2024 filings?",
+    "answer": "Prologis has a global presence with operations in 20 countries across four continents and principal offices in Amsterdam, Denver, Mexico City, Sao Paulo, Shanghai, Singapore, and Tokyo. Welltower's filing does not specify geographic locations in the provided content; however, as a healthcare REIT, its properties are likely concentrated in the United States, but no international scope is mentioned in the excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "PLD"
+    ],
+    "evidence_section": "WELL no evidence; PLD Item 7 (office locations and 20 countries)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

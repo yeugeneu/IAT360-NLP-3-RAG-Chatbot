@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company had higher revenue growth from 2023 to 2024, and what were the respective growth rates?",
+    "answer": "Lilly's revenue grew 32% from $34,124.1 million in 2023 to $45,042.7 million in 2024 (per LLY Item 7: 'Revenue $45,042.7 $34,124.1 32'). Abbott's revenue grew approximately 4.6% from $40,109 million in 2023 to $41,950 million in 2024 (calculated from ABT Item 8: 'Net Sales $41,950 $40,109'). Therefore, Lilly had higher revenue growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "ABT"
+    ],
+    "evidence_section": "LLY Item 7; ABT Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "LLY+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the net profit margins (net income / revenue) for Lilly and Abbott in FY2024.",
+    "answer": "Lilly's net profit margin is 23.5% ($10,590.0 million net income / $45,042.7 million revenue). Abbott's net profit margin is 31.9% ($13,402 million net earnings / $41,950 million net sales). Note that Abbott's net earnings include a significant tax benefit (Taxes on Earnings of -$6,389 million), which inflates its margin relative to Lilly.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "ABT"
+    ],
+    "evidence_section": "LLY Item 8; ABT Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "LLY+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies compare in terms of research and development (R&D) spending as a percentage of revenue in FY2024?",
+    "answer": "Lilly's R&D expense was $10,990.6 million, which is 24.4% of its revenue of $45,042.7 million. Abbott's R&D expense was $2,844 million, which is 6.8% of its net sales of $41,950 million. This reflects Lilly's strategy as a pharmaceutical company heavily investing in drug development, while Abbott is a diversified healthcare company with lower R&D intensity.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "ABT"
+    ],
+    "evidence_section": "LLY Item 8; ABT Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "LLY+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the cost of sales (or cost of products sold) as a percentage of revenue for both companies in FY2024.",
+    "answer": "Lilly's cost of sales was $8,418.3 million, representing 18.7% of revenue ($45,042.7 million). Abbott's cost of products sold (excluding amortization of intangible assets) was $18,706 million, representing 44.6% of net sales ($41,950 million). Including amortization of intangible assets ($1,878 million), Abbott's total cost of products sold is $20,584 million, or 49.1% of sales. This shows Abbott has a much higher cost structure relative to revenue.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "ABT"
+    ],
+    "evidence_section": "LLY Item 8; ABT Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "LLY+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did diluted earnings per share (EPS) change from 2023 to 2024 for each company?",
+    "answer": "Lilly's diluted EPS increased 102% from $5.80 in 2023 to $11.71 in 2024 (per LLY Item 7: 'Earnings per share - diluted 11.71 5.80 102'). Abbott's diluted EPS increased approximately 134% from $3.26 in 2023 to $7.64 in 2024 (calculated from ABT Item 8: 'Diluted Earnings Per Common Share $7.64 $3.26'). Abbott's higher percentage growth was driven by a significant tax benefit in 2024 (Taxes on Earnings of -$6,389 million).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "ABT"
+    ],
+    "evidence_section": "LLY Item 7; ABT Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "LLY+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key strategic differences in revenue growth drivers between Lilly and Abbott in FY2024?",
+    "answer": "Lilly's revenue growth was primarily driven by increased volume and higher realized prices from new pharmaceutical products, specifically Mounjaro, Zepbound, and Verzenio, partially offset by Trulicity (per LLY Item 7). Abbott's sales growth was driven by Medical Devices, Established Pharmaceutical and Nutritional businesses, aided by a productive R&D pipeline and new product introductions, but was negatively impacted by a continued decline in COVID-19 testing-related sales (from $1.6 billion in 2023 to $747 million in 2024) (per ABT Item 7). This reflects Lilly's focus on innovative drugs for obesity/diabetes, while Abbott relies on a diverse portfolio of medical technologies and branded generics, with legacy pandemic testing fading.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "ABT"
+    ],
+    "evidence_section": "LLY Item 7; ABT Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LLY+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

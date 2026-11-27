@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the principal business segments of NEE and D as described in their 10-K filings?",
+    "answer": "NEE's operating performance is driven by two principal businesses: FPL, which serves more than six million customer accounts in Florida, and NEER, which is the world's largest generator of renewable energy from wind and sun based on 2024 MWh on a net generation basis. D's principal operations are electric transmission, distribution, generation and gas distribution.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "D"
+    ],
+    "evidence_section": "NEE Item 7; D Item 7 MD&A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+D",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the regulatory risks discussed in D's filing compare with any regulatory risk discussion in NEE's filing?",
+    "answer": "D's MD&A extensively discusses regulatory risks, including FERC regulation of wholesale electric transmission rates and Virginia Commission biennial base rate reviews that could require refunds to customers. NEE's provided content does not address regulatory risks; it focuses on internal controls and segment performance.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "D"
+    ],
+    "evidence_section": "NEE Item 8; D Item 7 MD&A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+D",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What net income attributable to NEE is reported for 2024 and 2023, and what is the comparable figure for D?",
+    "answer": "NEE reports net income attributable to NEE of $6,946 million in 2024 and $7,310 million in 2023. D's net income is not provided in the excerpt; only that its consolidated financial statements have been audited and present fairly its financial position.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "D"
+    ],
+    "evidence_section": "NEE Item 7; D Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+D",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do NEE and D describe their involvement in renewable energy?",
+    "answer": "NEE states that NEER is the world's largest generator of renewable energy from wind and sun based on 2024 MWh produced on a net generation basis and a world leader in battery storage capacity. D's excerpt does not mention renewable energy; its operations are described as electric transmission, distribution, generation and gas distribution.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "D"
+    ],
+    "evidence_section": "NEE Item 7; D Item 7 MD&A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+D",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does NEE or D provide a comparison of total shareholder return to a market index?",
+    "answer": "NEE reports that for the five years ended December 31, 2024, it delivered a total shareholder return of approximately 33.2%, compared to the S&P 500’s 97.0% return. D's excerpt does not provide any shareholder return comparison.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "D"
+    ],
+    "evidence_section": "NEE Item 7; D Item 7 MD&A and Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+D",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in the internal control reporting between NEE and D in their filings?",
+    "answer": "NEE includes a Management's Report on Internal Control over Financial Reporting stating that management maintains a system of internal accounting control providing reasonable assurance. D's excerpt includes an independent registered public accounting firm's report on the consolidated financial statements but does not include a separate management report on internal control in the provided text.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "D"
+    ],
+    "evidence_section": "NEE Item 8; D Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+D",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "question": "In what year was Target Corporation incorporated?",
+    "answer": "1902",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Since what year has Target given 5 percent of its profit to communities?",
+    "answer": "1946",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of profit does Target give to communities?",
+    "answer": "5 percent",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what could happen if TGT fails to differentiate its guest experience?",
+    "answer": "our results of operations and financial condition could be adversely affected.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many competitive factors are listed in the sentence that begins with 'We attempt to differentiate our guest experience through a careful combination of'?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What two changes in consumer behavior are mentioned that affect differentiation?",
+    "answer": "Consumers continue to migrate to digital channels and seek out multiple fulfillment options.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many owned brands exceeded $1 billion in annual sales as mentioned in the executive overview?",
+    "answer": "11",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of the 2,000 new wellness products introduced in January 2025 were exclusive to Target?",
+    "answer": "30%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Name one limited-edition collection mentioned in the executive overview.",
+    "answer": "The Cuddle Collab limited-edition collection for pets and pet lovers",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the gross uncertain tax positions as of February 1, 2025?",
+    "answer": "$454 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the gross uncertain tax positions as of February 3, 2024?",
+    "answer": "$366 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By how much did the gross uncertain tax positions increase from February 3, 2024 to February 1, 2025?",
+    "answer": "$88 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what page does the Consolidated Statements of Operations begin?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of Note 3?",
+    "answer": "Cost of Sales and Selling, General, and Administrative Expenses",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Notes to Consolidated Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many notes are listed in the Notes to Consolidated Financial Statements?",
+    "answer": "25",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Notes to Consolidated Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many notes are listed in the Index to Consolidated Financial Statements, from Note 1 to Note 25?",
+    "answer": "25",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Statements of Operations and the Consolidated Statements of Comprehensive Income?",
+    "answer": "85",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between Note 1 (Summary of Accounting Policies) and Note 25 (Segment Reporting)?",
+    "answer": "21",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TGT",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TGT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

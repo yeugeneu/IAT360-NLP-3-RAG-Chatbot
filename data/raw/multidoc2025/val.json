@@ -1,0 +1,5691 @@
+[
+  {
+    "id": "md2025_0007",
+    "question": "What specific disclosure is Item 7A referring the reader to?",
+    "answer": "“Market Risk Disclosures”",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0008",
+    "question": "What was the estimated fair value of LMT's outstanding debt at December 31, 2024?",
+    "answer": "$20.2 billion",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "LMT",
+    "companies": [
+      "LMT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0012",
+    "question": "In which notes does Item 7A appear?",
+    "answer": "Note 1, Note 4, Note 18, and Note 19 of Part II.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Market Risk"
+  },
+  {
+    "id": "md2025_0013",
+    "question": "What was the net negative impact of acquisitions and divestitures on worldwide sales growth in 2021?",
+    "answer": "negative impact of 0.6%",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition"
+  },
+  {
+    "id": "md2025_0016",
+    "question": "What types of terrorist acts are mentioned as potential risks to Berkshire's operating businesses?",
+    "answer": "A nuclear, biological or chemical terrorist attack or armed terrorist incursions.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0017",
+    "question": "What was the net earnings attributable to Berkshire Hathaway shareholders in 2019?",
+    "answer": "$81,417 million",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Results of Operations"
+  },
+  {
+    "id": "md2025_0018",
+    "question": "How many more countries/territories does PG sell products in compared to the number of countries it has operations in?",
+    "answer": "110 countries/territories (180 - 70 = 110)",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0025",
+    "question": "By what percentage did North America sales increase in 2023 compared to 2022?",
+    "answer": "25 percent",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0045",
+    "question": "Where is the corporate headquarters of Berkshire Hathaway located?",
+    "answer": "Omaha, Nebraska",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0046",
+    "question": "What framework was used as criteria for auditing the Company's internal control over financial reporting?",
+    "answer": "Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO)",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0068",
+    "question": "Which note discusses Operations and summary of significant accounting policies as part of Item 7A?",
+    "answer": "Note 1.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Market Risk"
+  },
+  {
+    "id": "md2025_0069",
+    "question": "What was the net earnings (loss) from Insurance – underwriting in 2022?",
+    "answer": "$(90) million",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+  },
+  {
+    "id": "md2025_0073",
+    "question": "Calculate the difference between insurance investment income for 2023 and 2022.",
+    "answer": "$3,083 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0079",
+    "question": "According to Item 1A, in how many countries and territories are PG products sold?",
+    "answer": "about 180",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0084",
+    "question": "What were IFF's total sales in 2024?",
+    "answer": "$11.484 billion",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "ITEM 1. BUSINESS"
+  },
+  {
+    "id": "md2025_0089",
+    "question": "What is one of the risk factors related to legal claims specifically mentioned in the content?",
+    "answer": "the ongoing antitrust and competition investigations and related class action lawsuits",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0093",
+    "question": "What is the exact wording of the instruction in Item 7A?",
+    "answer": "See “Market Risk Disclosures” contained in",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0099",
+    "question": "What is the address of EQ Shareowner Services for obtaining copies of reports?",
+    "answer": "1100 Centre Pointe Curve, Suite 101, Mendota, MN 55120-4100",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0103",
+    "question": "How is the information for Item 7A provided in this section?",
+    "answer": "The information called for by this item is incorporated herein by reference.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
+  },
+  {
+    "id": "md2025_0125",
+    "question": "What type of analysis is used to estimate IFF's exposure to market risk for the year ended December 31, 2024?",
+    "answer": "sensitivity analyses",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0133",
+    "question": "What catastrophic events are mentioned as potential risks to the financial performance of Southern Company and its subsidiaries?",
+    "answer": "fires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, political unrest, or other similar occurrences",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0144",
+    "question": "What was the change in total assets from fiscal year 2020 to fiscal year 2021?",
+    "answer": "Increased by $7,124 million from $174,894 million to $182,018 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Consolidated Balance Sheets"
+  },
+  {
+    "id": "md2025_0145",
+    "question": "In what year was Caterpillar reorganized as Caterpillar Inc.?",
+    "answer": "1986",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0153",
+    "question": "According to the management's report, what is management responsible for establishing and maintaining?",
+    "answer": "adequate internal control over financial reporting of The Procter & Gamble Company",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING"
+  },
+  {
+    "id": "md2025_0161",
+    "question": "How many traditional electric operating companies does Southern Company own?",
+    "answer": "three",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Business Activities"
+  },
+  {
+    "id": "md2025_0163",
+    "question": "Where is the Company's Code of Business Conduct available?",
+    "answer": "On the Company’s website at www.jnj.com/code-of-business-conduct",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0172",
+    "question": "What inherent risks are involved in the operation of nuclear facilities according to the text?",
+    "answer": "environmental, safety, health, regulatory, natural disasters, cy",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0179",
+    "question": "What was the difference between the dealer inventory increase in 2022 and 2023?",
+    "answer": "about $0.3 billion",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0180",
+    "question": "What is the exact title of Item 7A as stated in the section?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk."
+  },
+  {
+    "id": "md2025_0190",
+    "question": "If the biennial review period commenced with the 2023 Biennial Review, what is the next year the biennial review would occur?",
+    "answer": "2025",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0198",
+    "question": "What criteria did management use to assess the effectiveness of internal control over financial reporting?",
+    "answer": "the criteria set forth by the Committee of Sponsoring Organizatio",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0212",
+    "question": "How many years after the founding of the business in 1837 was the company incorporated in Ohio in 1905?",
+    "answer": "68 years",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0221",
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0225",
+    "question": "How many employees did Berkshire Hathaway have worldwide at the end of 2021?",
+    "answer": "approximately 372,000",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0233",
+    "question": "As of what date did management assess the effectiveness of the company's internal control over financial reporting?",
+    "answer": "December 31, 2024",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING"
+  },
+  {
+    "id": "md2025_0236",
+    "question": "What is the total basis point impact from higher pricing and manufacturing productivity savings on gross margin?",
+    "answer": "580 basis points (430 + 150)",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0241",
+    "question": "What is the exact first sentence of Item 7A in the 2023 JNJ 10-K?",
+    "answer": "The information called for by this item is incorporated herein by reference to",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0249",
+    "question": "How many traditional electric operating companies does Southern Company own?",
+    "answer": "three",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Business Activities"
+  },
+  {
+    "id": "md2025_0260",
+    "question": "What costs are deferred as regulatory assets for regulated businesses?",
+    "answer": "Costs that otherwise would be expensed by nonregulated companies are deferred as regulatory assets.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0267",
+    "question": "Which federal agency regulates the Companies' wholesale rates for electric transmission service?",
+    "answer": "FERC",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0275",
+    "question": "What are the main areas of focus for the company?",
+    "answer": "defense, space, intelligence, homeland security and information technology, including cybersecurity",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "LMT",
+    "companies": [
+      "LMT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0277",
+    "question": "What was the net sales for fiscal year 2023?",
+    "answer": "$82.4 billion",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0279",
+    "question": "What accounting standard update did the Company adopt effective January 1, 2023?",
+    "answer": "Accounting Standards Update 2018-12 Targeted Improvements to the Accounting for Long-Duration Contracts",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0289",
+    "question": "How many traditional electric operating companies does Southern Company own?",
+    "answer": "three",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_0292",
+    "question": "What were Johnson & Johnson's total assets as of January 2, 2022 (fiscal year 2021)?",
+    "answer": "$182,018 million",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Consolidated Balance Sheets"
+  },
+  {
+    "id": "md2025_0295",
+    "question": "What are some of the catastrophic events listed as operational risks in the MD&A section?",
+    "answer": "fires, including wildfires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, wars, political unrest, or other similar occurrences",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0312",
+    "question": "What was the amount of cash and cash equivalents at January 1, 2023?",
+    "answer": "$12,889 million",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial statements and supplementary data"
+  },
+  {
+    "id": "md2025_0321",
+    "question": "What is the name of the vision that guides the company's strategy and investments?",
+    "answer": "21st Century Security",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "LMT",
+    "companies": [
+      "LMT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0327",
+    "question": "How many of Berkshire's employees were represented by unions at the end of 2022?",
+    "answer": "approximately 76,600",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 1. Business Description"
+  },
+  {
+    "id": "md2025_0329",
+    "question": "What is the title of Item 7A in the 10-K filing for SO fiscal year 2023?",
+    "answer": "QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
+  },
+  {
+    "id": "md2025_0354",
+    "question": "If the quarterly dividend declared for March 2023 is 66.75 cents per share, what annual dividend rate is implied?",
+    "answer": "$2.67 per share (66.75 cents × 4 = 267 cents = $2.67)",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0358",
+    "question": "Where is Berkshire Hathaway domiciled and where is its corporate headquarters?",
+    "answer": "Domiciled in Delaware, corporate headquarters in Omaha, Nebraska.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Busines s Description"
+  },
+  {
+    "id": "md2025_0362",
+    "question": "To what types of governmental regulation are Southern Company and its subsidiaries subject?",
+    "answer": "Substantial federal, state, and local governmental regulation, including with respect to rates.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0392",
+    "question": "Does the company undertake any obligation to publicly update forward-looking statements?",
+    "answer": "No, it undertakes no obligation to publicly update forward-looking statements, whether as a result of new information, future events or otherwise.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0411",
+    "question": "What are the potential consequences of a significant disruption or failure of technology systems?",
+    "answer": "Service interruptions, safety failures, security events, regulatory compliance failures, an inability to protect information and assets against unauthorized users and other operational difficulties.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0423",
+    "question": "Name the three traditional electric operating companies owned by Southern Company.",
+    "answer": "Alabama Power, Georgia Power, and Mississippi Power",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Business Activities"
+  },
+  {
+    "id": "md2025_0431",
+    "question": "How many business segments did IFF have as of December 31, 2024, and what are their names?",
+    "answer": "Four segments: Nourish, Health & Biosciences, Scent and Pharma Solutions",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "ITEM 1. BUSINESS"
+  },
+  {
+    "id": "md2025_0437",
+    "question": "Which federal agency regulates the Companies' wholesale rates for electric transmission service?",
+    "answer": "FERC",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0460",
+    "question": "What is the exact reference given in Item 7A for quantitative and qualitative disclosures about market risk?",
+    "answer": "Management's Discussion and Analysis – Financial Condition and Liquidity – 'Market Price Risk'",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
+  },
+  {
+    "id": "md2025_0465",
+    "question": "According to Item 7A, where are forward-looking statements described?",
+    "answer": "in the introductory paragraphs",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0474",
+    "question": "Which note discusses derivative financial instruments and risk management?",
+    "answer": "Note 4",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A"
+  },
+  {
+    "id": "md2025_0492",
+    "question": "As of what dates are the consolidated balance sheets presented?",
+    "answer": "December 31, 2023 and 2022",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0498",
+    "question": "What is the approximate electric generating capacity of Dominion Energy as of December 31, 2024?",
+    "answer": "approximately 30.3 GW",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0518",
+    "question": "What was the net change in dealer inventories from 2021 to 2022? (in billions)",
+    "answer": "about $2.5 billion",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0525",
+    "question": "Who are the principal customers of the company?",
+    "answer": "agencies of the U.S. Government",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "LMT",
+    "companies": [
+      "LMT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0541",
+    "question": "According to the risk factors, which types of cyber-attacks have Berkshire's information systems been subject to?",
+    "answer": "computer viruses, malicious codes, unauthorized access, phishing efforts, denial-of-service attacks and other cyber-attacks",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0543",
+    "question": "For how many years in the period ended December 31, 2023 were the consolidated statements of earnings audited?",
+    "answer": "3 years",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0546",
+    "question": "What types of attacks have Berkshire's information systems been subject to according to the risk factors?",
+    "answer": "computer viruses, malicious codes, unauthorized access, phishing efforts, denial-of-service attacks and other cyber-attacks",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0554",
+    "question": "What term is defined in the Private Securities Litigation Reform Act of 1995 according to this MD&A section?",
+    "answer": "forward-looking statements",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0560",
+    "question": "In how many states does Southern Company Gas distribute natural gas?",
+    "answer": "four",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0561",
+    "question": "How many operating segments does the company have?",
+    "answer": "three",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0567",
+    "question": "What is the sum of the Railroad segment net earnings and Utilities and energy segment net earnings for 2021?",
+    "answer": "$9,562 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+  },
+  {
+    "id": "md2025_0568",
+    "question": "What phrase follows the colon in the section heading?",
+    "answer": "See “Market Risk Disclosures” contained in",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0570",
+    "question": "How many distinct references to other sections are provided for the information required by Item 7A?",
+    "answer": "Two",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk."
+  },
+  {
+    "id": "md2025_0580",
+    "question": "How many years after the founding of the business was The Procter & Gamble Company incorporated in Ohio?",
+    "answer": "68 years (1905 - 1837)",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0582",
+    "question": "In what year did Vanessa Broadhurst rejoin Johnson & Johnson?",
+    "answer": "2017",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Election of Directors” in the Proxy Statement."
+  },
+  {
+    "id": "md2025_0617",
+    "question": "What is the full title of Item 7A as written in the content?",
+    "answer": "Quantitative and Qualitat ive Disclosures About Market Risk",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitat ive Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0622",
+    "question": "What type of statements are mentioned in the introductory paragraphs?",
+    "answer": "forward-looking statements",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0626",
+    "question": "How many operating segments does the Company's businesses operate in?",
+    "answer": "three",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0630",
+    "question": "What framework was used by the auditor to evaluate internal control over financial reporting?",
+    "answer": "Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "LMT",
+    "companies": [
+      "LMT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0639",
+    "question": "When are regulatory liabilities recognized?",
+    "answer": "Regulatory liabilities are recognized when it is probable that regulators will require customer refund.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0649",
+    "question": "What was the net sales amount for fiscal year 2022?",
+    "answer": "$80.2 billion",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0651",
+    "question": "What was the amount of deferred fuel costs that Virginia Power securitized in February 2024?",
+    "answer": "$1.3 billion",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0681",
+    "question": "What catastrophic events are listed as potential risks in the MD&A section?",
+    "answer": "fires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, wars, political unrest, or other similar occurrences",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0702",
+    "question": "What is the total number of countries PG has operations in and sells products in combined, based on the approximate figures provided?",
+    "answer": "about 250",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 1A. Risk Factors"
+  },
+  {
+    "id": "md2025_0710",
+    "question": "Which business segment had $603 million net earnings in 2023?",
+    "answer": "Pilot Travel Centers (PTC)",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0712",
+    "question": "What was the worldwide sales in 2022?",
+    "answer": "$80.0 billion",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. Management's discussion and analysis of results of operations and financial condition."
+  },
+  {
+    "id": "md2025_0718",
+    "question": "Based on the description, how many named subsidiaries does Southern Company own that are explicitly listed?",
+    "answer": "five",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Business Activities"
+  },
+  {
+    "id": "md2025_0719",
+    "question": "As of what date did management assess the effectiveness of the company's internal control over financial reporting?",
+    "answer": "December 31, 2023",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0730",
+    "question": "What opinion did the auditor express on Lockheed Martin's consolidated financial statements?",
+    "answer": "present fairly, in all material respects",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "LMT",
+    "companies": [
+      "LMT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0739",
+    "question": "For how many years were the consolidated statements of earnings audited?",
+    "answer": "three years",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0752",
+    "question": "What was the goodwill and indefinite-lived intangible asset impairment charge in 2020?",
+    "answer": "$11.0 billion",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Results of Operations"
+  },
+  {
+    "id": "md2025_0756",
+    "question": "What does the text state about forward-looking statements in this Item?",
+    "answer": "The matters discussed in this Item may contain “forward-looking statements” as described in the introductory paragraphs.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitat ive Disclosures About Market Risk"
+  },
+  {
+    "id": "md2025_0769",
+    "question": "Based on the information provided, how many of Berkshire's employees were in the United States at the end of 2022?",
+    "answer": "approximately 298,740",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 1. Business Description"
+  },
+  {
+    "id": "md2025_0775",
+    "question": "Who is responsible for establishing and maintaining adequate internal control over financial reporting?",
+    "answer": "Management",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0780",
+    "question": "Is Item 7A noted to appear in Note 3?",
+    "answer": "No, Note 3 is not listed among the notes containing Item 7A.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7A. Market Risk"
+  },
+  {
+    "id": "md2025_0785",
+    "question": "What is the objective of managing foreign currency risk for Cat Financial’s operations?",
+    "answer": "To minimize earnings volatility resulting from conversion and the remeasurement of net foreign currency balance sheet positions, and future transactions denominated in foreign currencies.",
+    "intent": "fact",
+    "difficulty": "L1",
+    "subset": "S1",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 1. Business"
+  },
+  {
+    "id": "md2025_0803",
+    "question": "What was the percentage change in the cumulative total return of International Flavors & Fragrances stock from December 31, 2019 to December 31, 2024?",
+    "answer": "-24.79%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements - Performance Graph"
+  },
+  {
+    "id": "md2025_0816",
+    "question": "By what percentage did cash and cash equivalents increase from fiscal year 2022 to fiscal year 2023?",
+    "answer": "69.6%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0819",
+    "question": "What was the total contribution from insurance (underwriting plus investment income) for each of the three years, and which year had the highest total?",
+    "answer": "2022: ($90) + $6,484 = $6,394 million; 2021: $728 + $4,807 = $5,535 million; 2020: $657 + $5,039 = $5,696 million. The highest total is in 2022 at $6,394 million.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+  },
+  {
+    "id": "md2025_0823",
+    "question": "What is the average of the 2023 sales growth rates for U.S. and international companies?",
+    "answer": "6.25%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "This represents increases of 10.6% in 2023 ... This represents an increase of 1.9% in 2023"
+  },
+  {
+    "id": "md2025_0825",
+    "question": "What was Johnson & Johnson's current ratio (current assets divided by current liabilities) for the fiscal year 2023?",
+    "answer": "1.16",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0826",
+    "question": "What is the ratio of traditional electric operating companies to Southern Power?",
+    "answer": "3:1",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_0837",
+    "question": "How many years difference is there between the most recent and the prior balance sheet date?",
+    "answer": "1 year",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statement s and Supplementary Data"
+  },
+  {
+    "id": "md2025_0847",
+    "question": "By how many percentage points did the total share of consolidated revenues from the top three wholesalers increase from 2021 to 2022?",
+    "answer": "5.5 percentage points",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0851",
+    "question": "What is the difference between the deferred tax liability for repatriation and the cash held in assets held for sale at December 31, 2024?",
+    "answer": "$152 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A - Liquidity and Capital Resources"
+  },
+  {
+    "id": "md2025_0855",
+    "question": "Calculate the percentage change in Resource Industries revenue from 2021 to 2022 using the Segment Revenue table.",
+    "answer": "The provided content does not contain any table; therefore, this question cannot be answered.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0872",
+    "question": "By how much did BNSF's net earnings decrease from 2022 to 2023?",
+    "answer": "$859 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0884",
+    "question": "Using the table, verify that the operating margin for fiscal 2023 equals the gross margin minus the SG&A expense percentage. Explain any rounding difference observed.",
+    "answer": "Gross margin 2023 = 47.9%; SG&A 2023 = 25.7%; 47.9% − 25.7% = 22.2%. The table shows operating margin as 22.1%, a difference of 0.1 percentage point, likely due to rounding or the effect of other operating expenses not shown separately.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A - Operating Costs Table: Gross margin 47.9%, SG&A 25.7%, Operating margin 22.1% all for fiscal 2023"
+  },
+  {
+    "id": "md2025_0906",
+    "question": "What is the difference, in percentage points, between the total sales growth in 2023 and the volume growth in 2022?",
+    "answer": "-1.8 percentage points",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Sales increase/(decrease) due to: 2023 2022 Volume 6.8 % 8.3 % Price 0.6 (1.8) Currency (0.9) (4.9) Total 6.5 % 1.6 %"
+  },
+  {
+    "id": "md2025_0927",
+    "question": "What is the difference between the five-year CAGR for international sales and the ten-year CAGR for international sales?",
+    "answer": "2.7 percentage points",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0950",
+    "question": "What was the change in net earnings from the Railroad segment from 2019 to 2021?",
+    "answer": "Increase of $509 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0963",
+    "question": "What is the combined value of accounts receivable trade, net and inventories for fiscal year 2023?",
+    "answer": "$26,054 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0964",
+    "question": "What is the total of gross margin and selling, general and administrative expense as a percentage of net sales in fiscal 2024?",
+    "answer": "79.1%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0979",
+    "question": "What percentage of the key elements involve the Board of Directors?",
+    "answer": "25%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_0980",
+    "question": "Calculate the annual revenue impact if Virginia Power's rates are reduced by the same percentage as the federal transmission rate decrease mentioned.",
+    "answer": "No numerical data on revenue or rate percentages is available in the content to perform this calculation.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_0981",
+    "question": "Based on the operating costs table, what is the difference in basis points between the gross margin in fiscal 2023 and the net earnings margin in fiscal 2022? Provide the numerical answer and show the conversion to basis points.",
+    "answer": "Gross margin 2023 = 47.9%; Net earnings 2022 = 18.4%. Difference = 47.9% − 18.4% = 29.5 percentage points = 29.5 × 100 = 2950 basis points.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A - Operating Costs Table: rows for 'Gross margin' (47.9% for 2023) and 'Net earnings' (18.4% for 2022)"
+  },
+  {
+    "id": "md2025_0990",
+    "question": "What was the absolute change in intangible assets, net from fiscal year 2020 to 2021? (Calculate 2021 value minus 2020 value)",
+    "answer": "Intangible assets, net decreased by $7,010 million ($46,392 - $53,402 = -$7,010)",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_1000",
+    "question": "If the balance sheets cover two years and each of the other four statements covers three years, what is the average number of years per financial statement?",
+    "answer": "2.8",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_1008",
+    "question": "What is the sum of the basis point changes for gross margin, SG&A, and operating margin from 2021 to 2022?",
+    "answer": "-760 basis points (-380 + (-240) + (-140))",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1021",
+    "question": "What are the two dates of the consolidated balance sheets audited?",
+    "answer": "December 31, 2023 and December 31, 2022",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statement s and Supplementary Data"
+  },
+  {
+    "id": "md2025_1022",
+    "question": "What was the average of operating margin percentages for fiscal years 2023 and 2024?",
+    "answer": "22.1%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1025",
+    "question": "What is the absolute difference in basis points between the change in gross margin and the change in selling, general and administrative expense from fiscal 2023 to fiscal 2024?",
+    "answer": "150 basis points",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1030",
+    "question": "What was the percentage change in net earnings attributable to Berkshire Hathaway shareholders from 2020 to 2021?",
+    "answer": "Approximately 111.2% increase [(89,795 - 42,521) / 42,521 × 100 = 111.19%]",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+  },
+  {
+    "id": "md2025_1036",
+    "question": "What is the combined net earnings from Insurance – underwriting and Insurance – investment income in 2023?",
+    "answer": "$14,995 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1038",
+    "question": "Using the operating costs table and the reported net sales of $82.0 billion for fiscal 2023, calculate the dollar amount of Selling, General and Administrative (SG&A) expense. Show your calculation.",
+    "answer": "SG&A expense = 25.7% of $82.0 billion = 0.257 × 82.0 = $21.074 billion.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A - Operating Costs Table; Net sales: 'Net sales increased 2% to $82.0 billion in fiscal 2023.'; Table: 'Selling, general and administrative expense 25.7 %' for 2023"
+  },
+  {
+    "id": "md2025_1058",
+    "question": "What is the combined percentage change in worldwide sales attributable to volume and price in 2022?",
+    "answer": "6.1%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1081",
+    "question": "What was the percentage decrease in cash flows provided by operating activities from 2023 to 2024?",
+    "answer": "25.65%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A - Liquidity and Capital Resources"
+  },
+  {
+    "id": "md2025_1086",
+    "question": "What was the ratio of cash, cash equivalents and restricted cash at December 31, 2024 to that at December 31, 2023?",
+    "answer": "0.641",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A - Liquidity and Capital Resources"
+  },
+  {
+    "id": "md2025_1087",
+    "question": "By how much did the cumulative total return of the S&P 500 Specialty Chemicals Index exceed that of International Flavors & Fragrances at the end of fiscal year 2024?",
+    "answer": "$50.70",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements - Performance Graph"
+  },
+  {
+    "id": "md2025_1090",
+    "question": "What is the effective date of the adoption of Accounting Standards Update 2018-12?",
+    "answer": "January 1, 2023",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 8. Financial Statement s and Supplementary Data"
+  },
+  {
+    "id": "md2025_1097",
+    "question": "What is the fourth word or phrase in the list of forward-looking statement indicators (starting after 'believe')?",
+    "answer": "anticipate",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1103",
+    "question": "What is the current ratio (current assets divided by current liabilities) for the fiscal year ended January 1, 2023 (2022)? Use the values from the Consolidated Balance Sheet.",
+    "answer": "0.99",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_1105",
+    "question": "What was the total net earnings from all operating segments (excluding Investment and derivative contract gains/losses) in 2023, summing Insurance – underwriting, Insurance – investment income, BNSF, BHE, PTC, Manufacturing, service and retailing, Non-controlled businesses, and Other?",
+    "answer": "$37,350 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1107",
+    "question": "What is the change in goodwill from 2021 to 2022?",
+    "answer": "$9,985 million increase",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_1120",
+    "question": "What is the sum of cash and cash equivalents and marketable securities as of January 2, 2022 (2021)?",
+    "answer": "$31,608 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_1127",
+    "question": "What percentage of worldwide sales in 2021 was contributed by U.S. companies?",
+    "answer": "50.3%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1129",
+    "question": "How many risks are associated with natural disasters?",
+    "answer": "1 out of 16",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1131",
+    "question": "What was the operating profit margin for Energy & Transportation in 2022 based on the Segment Profit table?",
+    "answer": "The provided content does not contain any table; therefore, this question cannot be answered.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1145",
+    "question": "What is the ratio of the currency impact on sales growth for Europe to the currency impact for the Asia-Pacific, Africa region?",
+    "answer": "1.33",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1159",
+    "question": "What is the difference between the actual earned ROE and the authorized ROE based on the Virginia Commission's review?",
+    "answer": "The provided content does not include numerical values for actual earned ROE or authorized ROE, so the difference cannot be calculated.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1164",
+    "question": "What percentage of total net earnings attributable to shareholders in 2020 was contributed by the Manufacturing, service and retailing segment?",
+    "answer": "19.52%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1171",
+    "question": "What is the ratio of risks related to cyber security to total risks?",
+    "answer": "2/16 = 0.125 or 12.5%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1175",
+    "question": "What is the ratio of elements that mention 'Audit' to elements that mention 'Committee'?",
+    "answer": "1:1 (Audit appears in 'Global Internal Audit' and 'Audit Committee'; Committee appears in 'Disclosure Committee' and 'Audit Committee' — both appear twice, but as separate elements each is counted once, so ratio is 1:1)",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_1176",
+    "question": "What is the ratio of gross margin to operating margin in fiscal 2022?",
+    "answer": "2.14 (47.4% / 22.2%)",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1181",
+    "question": "In 2021, what was the total net earnings from the Insurance segment (underwriting and investment income combined)?",
+    "answer": "5,535 million",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1199",
+    "question": "How much longer (in years) is the period covered by the consolidated statements of earnings compared to the consolidated balance sheets?",
+    "answer": "1 year",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_1204",
+    "question": "What is the absolute difference in basis points between the change in gross margin and the change in SG&A from 2021 to 2022?",
+    "answer": "140 basis points (|-380 - (-240)| = 140)",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1208",
+    "question": "What is the ratio of financial statements that include the word 'income' in their title to the total number of statements listed?",
+    "answer": "0.2",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "LMT",
+    "companies": [
+      "LMT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_1210",
+    "question": "What was the ratio of Utilities and Energy earnings to Railroad earnings in 2022, and how did this ratio compare to 2020?",
+    "answer": "2022 ratio: $3,904 / $5,946 ≈ 0.6565; 2020 ratio: $3,141 / $5,161 ≈ 0.6086. The ratio increased from 2020 to 2022.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2023",
+    "years_required": [
+      "2023"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+  },
+  {
+    "id": "md2025_1218",
+    "question": "What was the total revenue for Construction Industries in 2022 according to the Segment Revenue table?",
+    "answer": "The provided content does not contain any table; therefore, this question cannot be answered.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1231",
+    "question": "What was the total liabilities to total assets ratio for each fiscal year (2021 and 2020)? Which year had a higher ratio? (Calculate ratio as total liabilities divided by total assets)",
+    "answer": "2021: 0.5933 (107,995 / 182,018), 2020: 0.6383 (111,616 / 174,894). The ratio was higher in 2020.",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_1232",
+    "question": "What proportion of the total policies is policy (iii)?",
+    "answer": "1/3",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING"
+  },
+  {
+    "id": "md2025_1255",
+    "question": "What is the ratio of U.S. sales in 2023 to international sales in 2023?",
+    "answer": "1.20",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Sales by U.S. companies were $46.4 billion in 2023 and $42.0 billion in 2022. ... Sales by international companies were $38.7 billion in 2023 and $38.0 billion in 2022."
+  },
+  {
+    "id": "md2025_1267",
+    "question": "What was the current ratio (current assets divided by current liabilities) for Johnson & Johnson as of January 2, 2022 (2021 column) and as of January 3, 2021 (2020 column)? Provide the ratios rounded to four decimal places.",
+    "answer": "2021: 1.3483 (60,979 / 45,226), 2020: 1.2058 (51,237 / 42,493)",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements"
+  },
+  {
+    "id": "md2025_1275",
+    "question": "What was the difference in cumulative total return between the best and worst performing entities in 2020?",
+    "answer": "$31.74",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "IFF",
+    "companies": [
+      "IFF"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements - Performance Graph"
+  },
+  {
+    "id": "md2025_1279",
+    "question": "What is the total number of risk categories listed before the catastrophic events, multiplied by the number of catastrophic event types?",
+    "answer": "160",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1282",
+    "question": "What is the difference between the volume component of sales growth in 2021 and the volume component in 2020?",
+    "answer": "9.4%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2022",
+    "years_required": [
+      "2022"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1291",
+    "question": "What percentage of the listed key internal control elements are committees?",
+    "answer": "40%",
+    "intent": "calculation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "is_hybrid_modal": false,
+    "requires_calculation": true,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data"
+  },
+  {
+    "id": "md2025_1328",
+    "question": "What was the trend in net earnings attributable to Berkshire Hathaway shareholders from 2021 to 2023?",
+    "answer": "Net earnings were $89,795 million in 2021, a loss of $22,819 million in 2022, and $96,223 million in 2023. The trend shows a sharp decline in 2022 followed by a recovery in 2023.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "FY2022 MD&A, FY2023 MD&A, FY2024 MD&A"
+  },
+  {
+    "id": "md2025_1329",
+    "question": "How did insurance underwriting earnings change over the three fiscal years 2021, 2022, and 2023?",
+    "answer": "Insurance underwriting earnings were $728 million in 2021, a loss of $90 million in 2022 (as reported in FY2023 MD&A), and $5,428 million in 2023. The trend shows a loss in 2022 followed by a large gain in 2023.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "FY2022 MD&A (2021 value), FY2023 MD&A (2022 value), FY2024 MD&A (2023 value)"
+  },
+  {
+    "id": "md2025_1330",
+    "question": "What was the trend in investment and derivative contract gains/losses from 2021 to 2023?",
+    "answer": "Investment and derivative gains were $62,340 million in 2021, a loss of $53,612 million in 2022, and a gain of $58,873 million in 2023. The trend shows extreme volatility with large gains in 2021 and 2023 and a large loss in 2022.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "FY2022 MD&A (2021 value), FY2023 MD&A (2022 value), FY2024 MD&A (2023 value)"
+  },
+  {
+    "id": "md2025_1331",
+    "question": "What is the trend in railroad segment earnings (reported as ‘Railroad’ in FY2022 and FY2023, and ‘BNSF’ in FY2024) for 2021, 2022, and 2023?",
+    "answer": "Railroad segment earnings were $5,990 million in 2021, $5,946 million in 2022 (as reported in FY2023 MD&A), and $5,087 million in 2023 (reported as BNSF). The trend shows a gradual decline over the three years.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "FY2022 MD&A (2021 'Railroad'), FY2023 MD&A (2022 'Railroad'), FY2024 MD&A (2023 'BNSF')"
+  },
+  {
+    "id": "md2025_1332",
+    "question": "What strategic shift in segment reporting is evident between the FY2023 and FY2024 filings?",
+    "answer": "In FY2024, two new segments were added: 'Pilot Travel Centers' with earnings of $603 million for 2023, and 'Non-controlled businesses' with earnings of $1,750 million for 2023. These were not present in the FY2023 MD&A table, reflecting acquisitions and a change in reporting structure.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "FY2023 MD&A segment table vs FY2024 MD&A segment table"
+  },
+  {
+    "id": "md2025_1333",
+    "question": "How did the description of risk factors evolve across the FY2022, FY2023, and FY2024 MD&A sections?",
+    "answer": "In FY2022, the primary risk mentioned was the COVID-19 pandemic. In FY2023, additional risks were noted: significant supply chain disruptions, higher costs, and geopolitical conflicts including the Russia-Ukraine conflict. In FY2024, the risks expanded to include government actions to slow inflation, while supply chain disruptions and geopolitical conflicts persisted.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "BRK-B",
+    "companies": [
+      "BRK-B"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "MD&A narrative in FY2022, FY2023, and FY2024 filings"
+  },
+  {
+    "id": "md2025_1334",
+    "question": "How does the ending of the forward-looking statements cautionary discussion differ between 2022 and the two subsequent years?",
+    "answer": "In 2022 the cautionary discussion ends with the phrase 'to be a complete discussion'. In 2023 the text after 'to be a' is followed by a page break and '9 Table of Contents', and in 2024 the continuation after the page break includes 'statements'. Thus, the sentence is complete only in 2022.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7 / MD&A"
+  },
+  {
+    "id": "md2025_1335",
+    "question": "In which fiscal years does the MD&A cautionary discussion include the text '9 Table of Contents'?",
+    "answer": "The text '9 Table of Contents' appears in the 2023 and 2024 filings, but not in the 2022 filing.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7 / MD&A"
+  },
+  {
+    "id": "md2025_1336",
+    "question": "What term defined in the Private Securities Litigation Reform Act of 1995 is referenced consistently in the MD&A across 2022, 2023, and 2024?",
+    "answer": "The term 'forward-looking statements' is referenced in all three years as the term defined in the Private Securities Litigation Reform Act of 1995.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7 / MD&A"
+  },
+  {
+    "id": "md2025_1337",
+    "question": "Does the company's statement regarding its obligation to update forward-looking statements change between 2022, 2023, and 2024?",
+    "answer": "No, in all three years the company states 'We undertake no obligation to publicly update forward-looking statements, whether as a result of new information, future events or otherwise.' The statement is identical each year.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7 / MD&A"
+  },
+  {
+    "id": "md2025_1338",
+    "question": "What list of words does the company provide to identify forward-looking statements, and does that list change across the three years?",
+    "answer": "The list is identical in all three years: 'believe,' 'expect,' 'estimate,' 'anticipate,' 'will be,' 'should,' 'plan,' 'forecast,' 'target,' 'guide,' 'project,' 'intend,' 'could' and similar words or expressions. No changes are present.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7 / MD&A"
+  },
+  {
+    "id": "md2025_1339",
+    "question": "How does the phrasing of the caution that actual results could differ from forward-looking statements compare across 2022, 2023, and 2024?",
+    "answer": "In each year the phrasing is essentially the same: 'Should known or unknown risks or uncertainties materialize or underlying assumptions prove inaccurate, actual results could materially differ from past results and/or those anticipated, estimated or projected.' The only difference is that in 2023 and 2024 the sentence is cut off by a page break, while in 2022 it ends with 'a complete discussion' and the sentence is complete. The core warning remains unchanged.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "CAT",
+    "companies": [
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7 / MD&A"
+  },
+  {
+    "id": "md2025_1358",
+    "question": "How did the mention of a 'comprehensive business review' change across the three fiscal years?",
+    "answer": "In FY2022 and FY2023, the MD&A began with 'Dominion Energy has commenced a comprehensive business review.' This phrase is entirely absent from the FY2024 MD&A, which starts directly with 'Regulatory, Legislative and Legal Risks.'",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1359",
+    "question": "What new risk factor was added in 2024 regarding federal electric transmission rate regulation?",
+    "answer": "In FY2022 and FY2023, the risk description stated: 'A failure by the Companies to support these rates could result in rate decreases...' In FY2024, this was expanded to: 'A failure by the Companies to support these rates or a change in FERC policy could result in rate decreases...'",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1360",
+    "question": "What new statutory detail about Virginia base rate reviews appears only in the FY2024 MD&A?",
+    "answer": "FY2024 adds: 'Legislation enacted in Virginia in April 2023 reset the frequency of base rate reviews to a biennial period commencing with the 2023 Biennial Review. Under certain circumstances described in the Regulation Act, Virginia Power may be required to refund a portion of its earnings to customers through a refund process and to reduce its rates.' This detail is absent from the FY2022 and FY2023 excerpts.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1361",
+    "question": "How did the introductory sentence structure of Item 7 MD&A change from FY2022/2023 to FY2024?",
+    "answer": "In FY2022 and FY2023, the MD&A opened with 'Item 7. MD&A, Dominion Energy has commenced a comprehensive business review.' In FY2024, the introductory text no longer mentions the business review and simply begins with 'Item 7. MD&A. Regulatory, Legislative and Legal Risks...'",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1362",
+    "question": "What qualitative change in the risk of rate decreases occurred between FY2023 and FY2024?",
+    "answer": "In FY2022 and FY2023, the risk stated: 'A failure by the Companies to support these rates could result in rate decreases from current rate levels...' In FY2024, the risk was expanded to include 'or a change in FERC policy' as an additional cause of rate decreases, reflecting an expanded regulatory risk.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "D",
+    "companies": [
+      "D"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_1414",
+    "question": "What was the worldwide sales amount for each of the years 2021, 2022, and 2023, and what was the absolute change from 2021 to 2023?",
+    "answer": "In 2021, worldwide sales were $93.8 billion; in 2022, $94.9 billion; in 2023, $85.2 billion. The absolute change from 2021 to 2023 is a decrease of $8.6 billion ($85.2 - $93.8 = -$8.6 billion).",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1415",
+    "question": "How did the contribution of currency to worldwide sales growth change from 2021 to 2022 to 2023?",
+    "answer": "In 2021, currency contributed +1.4% to sales growth; in 2022, -4.8%; in 2023, -0.9%. This shows a shift from a positive currency impact to a negative impact in 2022, followed by a smaller negative impact in 2023.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1416",
+    "question": "What were the five-year compound annual growth rates (CAGR) for worldwide sales as reported in each year's MD&A, and how did they trend?",
+    "answer": "In the 2021 MD&A, the five-year CAGR for worldwide sales was 5.5%; in the 2022 MD&A, it was 4.4%; in the 2023 MD&A, it was 4.7%. The rate decreased from 5.5% to 4.4% from 2021 to 2022, then increased to 4.7% in 2023.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1417",
+    "question": "Calculate the net impact of acquisitions and divestitures on worldwide sales growth for each year and describe the trend. Express as a percentage difference?",
+    "answer": "Net impact of acquisitions and divestitures: 2021: -0.6%; 2022: -0.1%; 2023: +1.5%. The impact moved from negative to less negative in 2022, then turned positive in 2023.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1418",
+    "question": "What was the reported worldwide sales growth percentage for each year, and how did the volume component compare over the three years?",
+    "answer": "Worldwide sales growth: 2021: 13.6%; 2022: 1.3%; 2023: 6.5%. Volume component: 2021: 12.9%; 2022: 6.9%; 2023: 6.8%. Volume growth decreased sharply from 2021 to 2022, then remained nearly flat in 2023.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1419",
+    "question": "For U.S. sales, what were the absolute amounts and growth rates in 2021, 2022, and 2023? Based on those figures, calculate the cumulative growth from 2021 to 2023.",
+    "answer": "U.S. sales: 2021: $47.2 billion; 2022: $48.6 billion; 2023: $46.4 billion. Growth rates: 2021: 9.3%; 2022: 3.0%; 2023: 10.6%. Cumulative growth from 2021 to 2023: ($46.4 - $47.2) / $47.2 = (-0.8) / 47.2 ≈ -1.7% (a decrease).",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "JNJ",
+    "companies": [
+      "JNJ"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1486",
+    "question": "How did Procter & Gamble's gross margin change from fiscal year 2022 to 2024? Provide the percentages for each year and the total change in basis points.",
+    "answer": "Gross margin was 47.4% in fiscal 2022, 47.9% in fiscal 2023, and 51.4% in fiscal 2024. The total increase from fiscal 2022 to fiscal 2024 is 400 basis points (51.4% - 47.4% = 4.0 percentage points = 400 bps).",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1487",
+    "question": "What was the trend in net sales growth rates from fiscal 2022 through fiscal 2024?",
+    "answer": "Net sales increased 5% in fiscal 2022 (to $80.2 billion), 2% in fiscal 2023 (to $82.0 billion), and 2% in fiscal 2024 (to $84.0 billion).",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1488",
+    "question": "How did the drivers of net sales change across fiscal 2022, 2023, and 2024? Compare the impact of pricing, volume, and mix.",
+    "answer": "In fiscal 2022: pricing +4%, volume +2%, mix +1%, foreign exchange -2%. In fiscal 2023: pricing +9%, volume -3%, mix +1%, foreign exchange -5%. In fiscal 2024: pricing +4%, volume 0%, mix 0%, foreign exchange -2%.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1489",
+    "question": "What was the trend in organic sales growth from fiscal 2022 to fiscal 2024?",
+    "answer": "Organic sales grew 7% in fiscal 2022, 7% in fiscal 2023, and 4% in fiscal 2024.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1490",
+    "question": "How did the gross margin drivers evolve across the three fiscal years? Identify the main positive and negative factors each year.",
+    "answer": "In fiscal 2022: gross margin decreased 380 bps due to increased commodity costs (+390 bps) and unfavorable mix (-130 bps). In fiscal 2023: gross margin increased 50 bps due to higher pricing (+430 bps) and manufacturing productivity savings (+150 bps), partially offset by increased commodity costs (-320 bps) and unfavorable mix (-110 bps). In fiscal 2024: gross margin increased 350 bps due to manufacturing productivity savings (+220 bps), lower commodity costs (+160 bps), and higher pricing (+170 bps), partially offset by unfavorable product mix (-80 bps), unfavorable foreign exchange (-60 bps), product and packaging investments (-30 bps), and one-time manufacturing costs (-30 bps).",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1491",
+    "question": "How did operating margin trend from fiscal 2022 to 2024, and what were the year-over-year changes in basis points?",
+    "answer": "Operating margin was 22.2% in fiscal 2022, 22.1% in fiscal 2023, and 22.1% in fiscal 2024. Year-over-year changes: -140 bps in fiscal 2022 (from 23.6% to 22.2%), -10 bps in fiscal 2023 (from 22.2% to 22.1%), and 0 bps in fiscal 2024 (from 22.1% to 22.1%).",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "PG",
+    "companies": [
+      "PG"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1503",
+    "question": "How did the description of generating fleet transitions change between fiscal years 2022, 2023, and 2024?",
+    "answer": "In 2022 and 2023, the description reads: 'as the traditional electric operating companies and Southern Power transition their generating fleets in support of the Southern Company system's net zero goal.' In 2024, it was changed to: 'as the traditional electric operating companies transition their generating fleets in support of the Southern Company system's net zero goal' – removing the reference to 'Southern Power'.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1504",
+    "question": "Which catastrophic events were added to the risk list in fiscal year 2023 that were not present in fiscal year 2022?",
+    "answer": "In 2023, the risk list added 'wars' as a catastrophic event. The 2022 list did not include 'wars' but ended with 'political unrest'.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1505",
+    "question": "What specific new type of fire was introduced in the catastrophic events list in fiscal year 2024 compared to previous years?",
+    "answer": "In 2024, the list specifies 'fires, including wildfires'. In 2022 and 2023, it only mentioned 'fires' without the wildfire specification.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1506",
+    "question": "How did the listing of risks associated with nuclear facilities evolve across the three fiscal years?",
+    "answer": "In 2022, the nuclear risks sentence is truncated, ending with 'natural disasters, cy'. In 2023, it reads 'natural disasters, cyber intrusions, physical attacks, and financial'. In 2024, it reads 'natural disasters, cyber intrusions, physical attacks, and financi' (truncated similarly due to content cut-off). The pattern shows that 'cyber intrusions, physical attacks, and financial' were consistently mentioned in 2023 and 2024.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1507",
+    "question": "Did the phrasing regarding 'compliance with mandatory reliability standards' change between fiscal years 2022 and 2024?",
+    "answer": "No, the phrasing remained identical across all three years: 'compliance with mandatory reliability standards, including mandatory cyber security standards'.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1508",
+    "question": "What change occurred in the list of catastrophic events between fiscal year 2023 and fiscal year 2024?",
+    "answer": "In 2023, the list included 'fires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, wars, political unrest'. In 2024, it was updated to 'fires, including wildfires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, wars, political unrest' – adding 'including wildfires' to the fires category.",
+    "intent": "trend",
+    "difficulty": "L2",
+    "subset": "S3",
+    "company": "SO",
+    "companies": [
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1635",
+    "question": "Does CAT's MD&A include a discussion of forward-looking statements? Does GE's?",
+    "answer": "CAT's MD&A includes a discussion of forward-looking statements, including definitions and cautionary language. GE's provided content does not include any reference to forward-looking statements.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "CAT+GE",
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "CAT: Item 7; GE: Item 7 (content not provided)"
+  },
+  {
+    "id": "md2025_1636",
+    "question": "Does CAT provide a management report on internal control over financial reporting? Does GE provide such a report in the given content?",
+    "answer": "CAT provides a 'Management’s Report on Internal Control Over Financial Reporting' in Item 8. GE's provided content does not include any such report.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "CAT+GE",
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "CAT: Item 8; GE: No relevant content provided"
+  },
+  {
+    "id": "md2025_1637",
+    "question": "What risk factors are mentioned in CAT's forward-looking statements section? What does GE mention?",
+    "answer": "CAT mentions risks such as uncertainties that could significantly impact results, and refers to a cautiorisk discussion. GE's provided content does not mention any risk factors.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "CAT+GE",
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "CAT: Item 7 first paragraph; GE: No applicable content"
+  },
+  {
+    "id": "md2025_1638",
+    "question": "How does CAT describe the purpose of internal control over financial reporting? Does GE provide any such description?",
+    "answer": "CAT states that internal control over financial reporting is designed to provide reasonable assurance regarding reliability of financial reporting and preparation of financial statements in accordance with GAAP. GE's provided content does not include any description of internal control.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "CAT+GE",
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "CAT: Item 8 second paragraph; GE: No content"
+  },
+  {
+    "id": "md2025_1639",
+    "question": "What criteria does CAT use to assess internal control effectiveness? Does GE mention any assessment criteria?",
+    "answer": "CAT uses criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). GE's provided content does not mention any assessment criteria.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "CAT+GE",
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "CAT: Item 8 last sentence; GE: No content"
+  },
+  {
+    "id": "md2025_1757",
+    "question": "What are the different approaches to managing risks related to coal-fired generation and transmission line damage?",
+    "answer": "Dominion Energy does not discuss coal retirements or transmission line self-insurance in the provided content. Duke Energy evaluates the retirement date assumptions for all coal-fired generating facilities and self-insures its electric transmission and distribution lines against loss due to storm damage and other natural disasters.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+DUK",
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: not mentioned; DUK: Item 7 and Note 5 (Insurance)"
+  },
+  {
+    "id": "md2025_1758",
+    "question": "Compare the scope of regulated entities reported in financial statements for each company.",
+    "answer": "Dominion Energy presents consolidated financial statements for Dominion Energy, Inc. and subsidiaries, with separate statements for Virginia Electric and Power Company. Duke Energy presents consolidated statements for Duke Energy and separate statements for multiple subsidiaries: Duke Energy Carolinas, Progress Energy, Duke Energy Progress, Duke Energy Florida, Duke Energy Ohio, Duke Energy Indiana, and Piedmont.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+DUK",
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: Item 8 Financial Statements; DUK: Item 8 Financial Statements"
+  },
+  {
+    "id": "md2025_1759",
+    "question": "What are the key differences in regulatory risk factors mentioned for each utility?",
+    "answer": "Dominion Energy faces risk of rate decreases from changes in FERC policy and potential refunds to customers if earned ROE exceeds allowed levels in Virginia’s biennial reviews. Duke Energy faces risk that it may not fully recover costs when coal-fired assets are retired, and it incorporates earlier retirement dates into depreciation rates through rate cases to mitigate this.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+DUK",
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: Item 7 MD&A; DUK: Item 7 Management's Discussion and Analysis and Note 5"
+  },
+  {
+    "id": "md2025_1760",
+    "question": "How do the two companies differ in their treatment of asset retirement and recovery?",
+    "answer": "Dominion Energy does not discuss asset retirement in the provided content. Duke Energy plans to seek regulatory recovery for amounts that would not be otherwise recovered when any coal-fired assets are retired, and its rate cases have proposed depreciation rates that approximate earlier retirement dates as outlined in recent IRPs.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+DUK",
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: not mentioned; DUK: Item 7 Management's Discussion and Analysis"
+  },
+  {
+    "id": "md2025_1761",
+    "question": "Compare the structure of financial reporting for regulated utilities: which company has more separate legal entity reporting?",
+    "answer": "Duke Energy has more separate legal entity reporting, listing eight registrants in its financial statements: Duke Energy, Duke Energy Carolinas, Progress Energy, Duke Energy Progress, Duke Energy Florida, Duke Energy Ohio, Duke Energy Indiana, and Piedmont. Dominion Energy only lists two: Dominion Energy, Inc. and Virginia Electric and Power Company.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+DUK",
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: Item 8; DUK: Item 8"
+  },
+  {
+    "id": "md2025_1762",
+    "question": "How do the regulatory risks described by Dominion Energy and Southern Company differ in their primary focus?",
+    "answer": "Dominion Energy's MD&A focuses on regulatory risks from state and federal rate reviews, including biennial base rate reviews by the Virginia Commission and FERC formula rate mechanisms, with potential rate decreases and refunds. Southern Company's MD&A does not detail regulatory rate review risks; instead, its operational risks section emphasizes risks from operating facilities, including regulatory compliance with environmental, safety, and reliability standards, and potential impacts from cyber intrusions and physical attacks.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+SO",
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: Item 7; SO: Item 7"
+  },
+  {
+    "id": "md2025_1763",
+    "question": "What are the reportable segments of Southern Company compared to the business operations described for Dominion Energy?",
+    "answer": "Southern Company's reportable segments are: (1) sale of electricity by traditional electric operating companies (Alabama Power, Georgia Power, Mississippi Power), (2) sale of electricity in the competitive wholesale market by Southern Power, and (3) sale of natural gas and other complementary products and services by Southern Company Gas. Dominion Energy describes its operations as electric transmission, distribution, generation and gas distribution, but does not break out reportable segments or mention a competitive wholesale generation segment like Southern Power.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+SO",
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: Item 7; SO: Item 8 (Overview)"
+  },
+  {
+    "id": "md2025_1764",
+    "question": "Which company explicitly identifies risks related to nuclear facility operations?",
+    "answer": "Southern Company explicitly identifies risks related to nuclear facility operations, stating: 'Operation of nuclear facilities involves inherent risks, including environmental, safety, health, regulatory, natural disasters, cyber intrusions, physical attacks, and financi[al]...' Dominion Energy's provided content does not mention nuclear facility risks.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+SO",
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: Item 7; SO: Item 7 (OPERATIONAL RISKS)"
+  },
+  {
+    "id": "md2025_1765",
+    "question": "How do the geographic service areas of Dominion Energy and Southern Company's traditional electric operations compare?",
+    "answer": "Dominion Energy's Virginia Power provides electric service to retail customers in Virginia. Southern Company's traditional electric operating companies – Alabama Power, Georgia Power, and Mississippi Power – provide electric service to retail customers in three Southeastern states: Alabama, Georgia, and Mississippi. Thus, Dominion Energy's electric operations appear focused on Virginia, while Southern Company operates across three states.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+SO",
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: Item 7 (Virginia Power); SO: Item 8 (Overview)"
+  },
+  {
+    "id": "md2025_1766",
+    "question": "Which company mentions a net zero goal in the context of transitioning its generating fleet?",
+    "answer": "Southern Company mentions a net zero goal: 'inability to maintain reliability consistent with customer expectations as the traditional electric operating companies transition their generating fleets in support of the Southern Company system's net zero goal.' Dominion Energy's provided content does not mention a net zero goal or fleet transition related to emissions.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "D+SO",
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "D: Item 7; SO: Item 7 (OPERATIONAL RISKS)"
+  },
+  {
+    "id": "md2025_1865",
+    "question": "Compare the focus of Item 8 disclosures: IFF references its Consolidated Statements of Shareholders' Equity and Note 17, while FCX's Item 8 is Management's Report on Internal Control Over Financial Reporting. What does this difference suggest about each company's reporting priorities?",
+    "answer": "IFF's Item 8 emphasizes financial performance and equity structure, as it directs to shareholders' equity statements and notes. FCX's Item 8 emphasizes internal control assurance, as it provides management's report on internal control over financial reporting.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "IFF+FCX",
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "IFF Item 8 (first paragraph of provided content) and FCX Item 8 (entire provided content)"
+  },
+  {
+    "id": "md2025_1866",
+    "question": "IFF's number of common shareholders of record is 2,993 as of February 24, 2025. Does FCX disclose its number of shareholders?",
+    "answer": "Not in the provided content. FCX's excerpt does not include any information about the number of shareholders.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "IFF+FCX",
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "IFF Item 8 (Approximate Number of Equity Security Holders) and FCX Item 8 (entire provided content)"
+  },
+  {
+    "id": "md2025_1867",
+    "question": "IFF's performance graph shows its cumulative total return based on $100 investment from December 31, 2019 to December 31, 2024 was $75.21. Which company provides such a performance comparison in its 10-K?",
+    "answer": "Only IFF provides a performance graph in the provided content. FCX does not include any performance graph or shareholder return comparison.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "IFF+FCX",
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "IFF Item 8 (Performance Graph table) and FCX Item 8 (entire provided content)"
+  },
+  {
+    "id": "md2025_1868",
+    "question": "IFF reports a deferred tax liability of approximately $154 million for repatriating funds from non-U.S. subsidiaries. Does FCX report any deferred tax liability related to repatriation?",
+    "answer": "No, FCX does not mention any deferred tax liability in the provided content. The FCX excerpt focuses solely on internal controls and does not discuss tax items.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "IFF+FCX",
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Materials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "IFF Item 7 (Liquidity and Capital Resources, deferred tax liability) and FCX Item 8 (entire provided content)"
+  },
+  {
+    "id": "md2025_1878",
+    "question": "Did both JNJ and PFE receive an unqualified opinion on internal control over financial reporting in their filings?",
+    "answer": "PFE's audit report explicitly states an unqualified opinion on the effectiveness of internal control over financial reporting. JNJ's excerpt does not include any statement about an unqualified opinion on internal control; it only mentions a 'Report of independent registered public accounting firm' without specifying the opinion on internal control.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "JNJ+PFE",
+    "companies": [
+      "JNJ",
+      "PFE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "JNJ Item 8 (audit report line); PFE Item 8 (audit opinion paragraph)"
+  },
+  {
+    "id": "md2025_1879",
+    "question": "Which company provides a breakdown of sales growth by volume, price, and currency in its MD&A, and which does not?",
+    "answer": "JNJ provides a breakdown: volume 6.8%, price 0.6%, currency (0.9%) for 2023. PFE's excerpt does not include any such breakdown.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "JNJ+PFE",
+    "companies": [
+      "JNJ",
+      "PFE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "JNJ Item 7; PFE Item 7 (no such detail)"
+  },
+  {
+    "id": "md2025_1904",
+    "question": "How do Lockheed Martin's and Caterpillar's 10-K filings differ in the presentation of independent auditor oversight?",
+    "answer": "Lockheed Martin's filing includes a 'Report of Independent Registered Public Accounting Firm' with an audit opinion on financial statements and internal control over financial reporting, stating they are audited in accordance with PCAOB standards. Caterpillar's filing does not include an independent auditor's report in the provided excerpt; instead, it contains only management's report on internal control over financial reporting, without a referenced external auditor opinion.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "LMT+CAT",
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 8"
+  },
+  {
+    "id": "md2025_1905",
+    "question": "How do the risk disclosure approaches in the Management's Discussion and Analysis sections of Lockheed Martin and Caterpillar compare?",
+    "answer": "Lockheed Martin's MD&A introduction states it is intended to help understand results of operations and financial condition, and is a supplement to the financial statements. Caterpillar's MD&A introduction explicitly includes a cautionary discussion of forward-looking statements, identifying them with specific words like 'believe,' 'expect,' 'estimate,' and listing risks and uncertainties that could cause actual results to differ materially. Lockheed Martin does not include such forward-looking statement disclaimers in its provided excerpt.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "LMT+CAT",
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_1906",
+    "question": "What differences exist in the responsibility statements for internal control between Lockheed Martin and Caterpillar?",
+    "answer": "Lockheed Martin's filing asserts that the independent auditor audited internal control over financial reporting and expressed an unqualified opinion. Caterpillar's management states it is responsible for establishing and maintaining adequate internal control over financial reporting, and management assessed its effectiveness. Lockheed Martin's responsibility is attributed to the external auditor's opinion, whereas Caterpillar's responsibility is attributed to management.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "LMT+CAT",
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 8"
+  },
+  {
+    "id": "md2025_1907",
+    "question": "How do Lockheed Martin and Caterpillar address the limitations of internal control over financial reporting?",
+    "answer": "Caterpillar explicitly states that because of inherent limitations, internal control over financial reporting may not prevent or detect misstatements, and that projections of effectiveness to future periods are subject to risk of controls becoming inadequate or compliance deteriorating. Lockheed Martin's excerpt does not include a discussion of limitations; only the audit opinion and framework reference are provided.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "LMT+CAT",
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 8"
+  },
+  {
+    "id": "md2025_1908",
+    "question": "Which company's filing explicitly includes the Report of Independent Registered Public Accounting Firm with an opinion on the financial statements, and which does not?",
+    "answer": "Lockheed Martin (LMT) explicitly includes the Report of Independent Registered Public Accounting Firm with an opinion on the financial statements. Deere (DE) does not include such a report in the provided excerpt; its ITEM 8 only states 'See the Consolidated Financial Statements and notes thereto and supplementary data.'",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "LMT+DE",
+    "companies": [
+      "LMT",
+      "DE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "LMT from ITEM 8 (Report of Independent Registered Public Accounting Firm); DE from ITEM 8"
+  },
+  {
+    "id": "md2025_1909",
+    "question": "Which company's MD&A section includes a description of its purpose (to help readers understand results of operations and financial condition), and which does not?",
+    "answer": "Lockheed Martin's MD&A includes the sentence 'The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to help the reader understand our results of operations and financial condition.' Deere's MD&A is only referenced by a caption 'See the information under the caption “Management’s Discussion and Analysis.”' without any such purpose statement.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "LMT+DE",
+    "companies": [
+      "LMT",
+      "DE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "LMT from ITEM 7; DE from ITEM 7"
+  },
+  {
+    "id": "md2025_1910",
+    "question": "Does Lockheed Martin's filing mention the Committee of Sponsoring Organizations of the Treadway Commission (COSO) framework for internal control evaluation? Does Deere's filing mention any such framework?",
+    "answer": "Lockheed Martin's filing mentions the COSO 2013 framework: 'based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework).' Deere's excerpt does not mention any internal control framework.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "LMT+DE",
+    "companies": [
+      "LMT",
+      "DE"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "LMT from ITEM 8 (Basis for Opinion); DE from all provided content (no mention)"
+  },
+  {
+    "id": "md2025_1911",
+    "question": "What are the total non-GAAP adjustments to operating expenses reported by UPS for the year ended December 31, 2024, and does Lockheed Martin provide any equivalent disclosure in its MD&A?",
+    "answer": "UPS reports total non-GAAP adjustments to operating expenses of $426 million for 2024. Lockheed Martin does not provide any equivalent non-GAAP adjustment disclosure in the provided content.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "LMT+UPS",
+    "companies": [
+      "LMT",
+      "UPS"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "--- UPS CONTENT ---: 'Total Adjustments to Non-GAAP Operating Expenses $ 426 $ 732' for 2024 and 2023. --- LMT CONTENT ---: no non-GAAP adjustments mentioned."
+  },
+  {
+    "id": "md2025_2025",
+    "question": "What was PG's net sales in fiscal 2024 and what was the percentage increase? What was PEP's net sales and percentage increase in its FY2024?",
+    "answer": "PG reported net sales of $84.0 billion in fiscal 2024, an increase of 2% from the prior year. The provided content for PEP does not include net sales figures for its fiscal year ended December 28, 2024.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PEP",
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG: Item 7; PEP: Item 7"
+  },
+  {
+    "id": "md2025_2026",
+    "question": "Compare the gross margin percentages and basis point changes for PG and PEP in their respective FY2024.",
+    "answer": "PG's gross margin was 51.4% of net sales, an increase of 350 basis points from the prior year. The provided content for PEP does not include gross margin data.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PEP",
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG: Item 7, Operating Costs table; PEP: Item 7"
+  },
+  {
+    "id": "md2025_2027",
+    "question": "Compare organic sales growth for PG and PEP in FY2024.",
+    "answer": "PG reported organic sales increased 4% in fiscal 2024. The provided content for PEP does not include organic sales growth data.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PEP",
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG: Item 7, Net Sales section; PEP: Item 7"
+  },
+  {
+    "id": "md2025_2028",
+    "question": "Compare operating margin percentages for PG and PEP in FY2024.",
+    "answer": "PG's operating margin was 22.1% of net sales, unchanged year over year. The provided content for PEP does not include operating margin data.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PEP",
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG: Item 7, Operating Costs table; PEP: Item 7"
+  },
+  {
+    "id": "md2025_2029",
+    "question": "Compare SG&A as a percentage of net sales for PG and PEP in FY2024.",
+    "answer": "PG's SG&A was 27.7% of net sales, a 200 basis point increase from the prior year. The provided content for PEP does not include SG&A data.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PEP",
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG: Item 7, Operating Costs table and SG&A description; PEP: Item 7"
+  },
+  {
+    "id": "md2025_2030",
+    "question": "What are the fiscal year-end dates for PG and PEP based on their 10-K filings?",
+    "answer": "PG's Form 10-K is for the fiscal year ended June 30, 2023 (though it refers to fiscal 2024 results). PEP's fiscal year ends December 28, 2024.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PEP",
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG: Item 7 header; PEP: Item 7 and subsequent dates"
+  },
+  {
+    "id": "md2025_2031",
+    "question": "How do the net sales/revenues of Procter & Gamble and Philip Morris International compare in their most recent fiscal years?",
+    "answer": "Procter & Gamble's net sales were $84.0 billion in fiscal 2024 (ending June 30, 2024). Philip Morris International's net revenues were $37,878 million ($37.878 billion) in calendar year 2024. PG's net sales are approximately $46.1 billion higher than PM's net revenues, and PG's sales are about 2.22 times larger.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PM",
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "PG: Item 7; PM: Item 8 (Consolidated Statements of Earnings)"
+  },
+  {
+    "id": "md2025_2032",
+    "question": "Which company reports a higher gross margin, and by how many basis points?",
+    "answer": "Procter & Gamble's gross margin is 51.4% of net sales. Philip Morris International's gross margin is 64.8% (computed as $24,549 million gross profit / $37,878 million net revenues). PM's gross margin is higher by 1,340 basis points (64.8% - 51.4% = 13.4 percentage points = 1,340 bps).",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PM",
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "PG: Item 7 (Gross margin 51.4%); PM: Item 8 (Consolidated Statements of Earnings: gross profit and net revenues)"
+  },
+  {
+    "id": "md2025_2033",
+    "question": "Compare the operating margin percentages of Procter & Gamble and Philip Morris International. Which company is more profitable at the operating level?",
+    "answer": "Procter & Gamble's operating margin is 22.1% of net sales (given directly). Philip Morris International's operating margin is 35.4% (calculated as $13,402 million operating income / $37,878 million net revenues). PM has a higher operating margin by 13.3 percentage points (1,330 bps).",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PM",
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "PG: Item 7 (Operating margin 22.1%); PM: Item 8 (Consolidated Statements of Earnings: operating income and net revenues)"
+  },
+  {
+    "id": "md2025_2034",
+    "question": "How do the net earnings attributable to parent as a percentage of net sales/revenues compare between Procter & Gamble and Philip Morris International?",
+    "answer": "Procter & Gamble's net earnings attributable to Procter & Gamble is 17.7% of net sales. For Philip Morris International, net earnings attributable to PMI of $7,057 million divided by net revenues of $37,878 million equals approximately 18.6%. PM's margin is 0.9 percentage points (90 bps) higher.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PM",
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "PG: Item 7 (Net earnings attributable 17.7%); PM: Item 8 (Consolidated Statements of Earnings: Net earnings attributable to PMI and net revenues)"
+  },
+  {
+    "id": "md2025_2035",
+    "question": "Which company reported impairment charges in their most recent fiscal year, and how do they compare to the other company?",
+    "answer": "Philip Morris International reported a significant impairment charge in 2024: a $2,316 million impairment related to the RBH equity investment. Procter & Gamble did not mention any impairment charges in the provided fiscal 2024 excerpt. PM's impairment is $2,316 million and represents a major non-cash charge, while PG appears to have no impairment.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PM",
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG: Item 7 (no impairment mentioned); PM: Item 8 (Consolidated Statements of Earnings: 'Impairment related to the RBH equity investment $2,316' and Item 7 discussion of prior year impairments)"
+  },
+  {
+    "id": "md2025_2036",
+    "question": "Compare selling, general and administrative expense as a percentage of sales for Procter & Gamble and marketing, administration and research costs as a percentage of revenues for Philip Morris International.",
+    "answer": "Procter & Gamble's SG&A expense is 27.7% of net sales. Philip Morris International's marketing, administration and research costs are $11,147 million / $37,878 million = 29.4% of net revenues. PM's percentage is 1.7 percentage points (170 bps) higher than PG's.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "PG+PM",
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "PG: Item 7 (SG&A 27.7%); PM: Item 8 (Consolidated Statements of Earnings: marketing, administration and research costs and net revenues)"
+  },
+  {
+    "id": "md2025_2089",
+    "question": "How do the business structures of Southern Company and Xcel Energy differ based on their filings?",
+    "answer": "Southern Company is a holding company that owns all common stock of three traditional electric operating companies, Southern Power, and Southern Company Gas; its primary businesses are electricity sales and natural gas distribution. Xcel Energy Inc. is a holding company with no business operations, whose assets consist primarily of investments in utility subsidiaries, and its material cash inflows come only from dividends and other payments from its subsidiaries.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "SO+XEL",
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "SO: Item 7, business activities; XEL: Item 8, basis of presentation"
+  },
+  {
+    "id": "md2025_2090",
+    "question": "How do Southern Company and Xcel Energy differ in their use of non-GAAP financial measures?",
+    "answer": "Xcel Energy explicitly discusses its use of non-GAAP financial measures such as ongoing ROE, ongoing earnings, and ongoing diluted EPS for financial planning, reporting to the Board, performance-based compensation, and communicating earnings outlook. Southern Company does not mention any non-GAAP measures in the provided content.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "SO+XEL",
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "SO: no mention; XEL: Item 7 non-GAAP financial measures"
+  },
+  {
+    "id": "md2025_2091",
+    "question": "What is the difference in the regulatory constraints on dividend payments between Southern Company and Xcel Energy based on the filings?",
+    "answer": "Xcel Energy's ability to pay dividends depends on its utility subsidiaries making dividend payments to the holding company, which is subject to the subsidiaries' fund availability, debt terms, FERC regulations under the Federal Power Act, and applicable state laws. Southern Company's filing does not discuss dividend constraints in the provided content.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "SO+XEL",
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "SO: no mention; XEL: Item 8 basis of presentation, ability to pay dividends"
+  },
+  {
+    "id": "md2025_2092",
+    "question": "Which company explicitly mentions having a net zero goal, and which does not, based on the filings?",
+    "answer": "Southern Company explicitly mentions supporting the system's net zero goal in the context of generating fleet transition. Xcel Energy's filing does not mention any net zero goal in the provided content.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "SO+XEL",
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "SO: Item 7 operational risks, 'net zero goal'; XEL: no mention"
+  },
+  {
+    "id": "md2025_2093",
+    "question": "How do the reportable segments of Southern Company compare to the business structure of Xcel Energy?",
+    "answer": "Southern Company's reportable segments are the sale of electricity by traditional electric operating companies, sale of electricity in the competitive wholesale market by Southern Power, and sale of natural gas and other products by Southern Company Gas. Xcel Energy's filing does not list reportable segments; it describes itself as a holding company with no business operations, relying on utility subsidiaries.",
+    "intent": "comparison",
+    "difficulty": "L2",
+    "subset": "S4",
+    "company": "SO+XEL",
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "SO: Item 7 business activities; XEL: Item 8 basis of presentation"
+  },
+  {
+    "id": "md2025_2222",
+    "question": "How does the explicit mention of regulatory framework in forward-looking statements differ between CAT and HON across 2022 and 2024, and what does this imply about their comparative disclosure practices?",
+    "answer": "For both FY2022 and FY2024, CAT's Item 7 includes a specific reference to the 'Private Securities Litigation Reform Act of 1995' and notes that forward-looking statements 'involve uncertainties that could significantly impact results.' In contrast, HON's Item 7 for the same years includes only the heading 'Management’s Discussion and Analysis of Financial Condition and Results of Operations' with no additional forward-looking statement text or legal reference in the provided content. This indicates that CAT provides a more explicit regulatory disclaimer in its MD&A, while HON does not include such language in the excerpts provided. No numerical data from financial tables is available in the given content.",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "CAT+HON",
+    "companies": [
+      "CAT",
+      "HON"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_2223",
+    "question": "What is the difference in years between the fiscal year covered by UPS's 2024 10-K Item 7 and the filing year indicated for CAT's 2022 10-K Item 7?",
+    "answer": "1 year (2023 - 2022 = 1)",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "CAT+UPS",
+    "companies": [
+      "CAT",
+      "UPS"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_2224",
+    "question": "Calculate the difference in revenue growth rates (percentage change) for Caterpillar Inc. (CAT) and United Parcel Service, Inc. (UPS) from fiscal year 2022 to fiscal year 2024. What is the absolute difference in growth rates between the two companies?",
+    "answer": "CAT revenue grew from $59.4 billion in 2022 to $68.0 billion in 2024, a growth rate of approximately 14.5%. UPS revenue decreased from $100.3 billion in 2022 to $91.0 billion in 2024, a decline of approximately 9.3%. The absolute difference in growth rates is 14.5% - (-9.3%) = 23.8 percentage points.",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "CAT+UPS",
+    "companies": [
+      "CAT",
+      "UPS"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7"
+  },
+  {
+    "id": "md2025_2225",
+    "question": "What is the numerical difference in years between the 2022 and 2024 filings for both CAT and UPS, based on the year references in their Item 7 forward-looking statements sections?",
+    "answer": "2 years",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "CAT+UPS",
+    "companies": [
+      "CAT",
+      "UPS"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Industrials",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": "Item 7 Management's Discussion and Analysis of Financial Condition and Results of Operations"
+  },
+  {
+    "id": "md2025_2248",
+    "question": "Compare the strategic focus and risk categories highlighted in the MD&A for Dominion Energy (D) and Southern Company (SO) across fiscal years 2022 and 2024. What specific numerical evolution of revenue is shown in the financial tables for D and SO over these two years?",
+    "answer": "In 2022, D's MD&A mentions a comprehensive business review, while in 2024 it focuses on regulatory risks regarding electric transmission and distribution revenues. SO's MD&A consistently discusses operational risks in both years. The provided content does not include any financial tables or numerical revenue data, so no numerical evolution can be extracted. Therefore, the comparison is limited to textual risk categories.",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "D+SO",
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. MD&A"
+  },
+  {
+    "id": "md2025_2276",
+    "question": "Compare the most recent annual worldwide sales growth percentages reported in the Management's Discussion and Analysis sections of JNJ's 2022 and 2024 10-K filings with those of LLY's 2022 and 2024 filings.",
+    "answer": "JNJ's 2022 filing reports a 13.6% sales increase for 2021 over 2020, and its 2024 filing (with recast continuing operations) reports a 6.5% sales increase for 2023 over 2022. LLY's 2022 and 2024 filings do not provide any worldwide sales growth percentages in the given excerpts; only forward-looking statement cautions are included.",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "JNJ+LLY",
+    "companies": [
+      "JNJ",
+      "LLY"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis"
+  },
+  {
+    "id": "md2025_2277",
+    "question": "Compare the worldwide sales growth rates reported by JNJ for fiscal years 2021 and 2023, as disclosed in its FY2022 and FY2024 10-Ks, with the disclosure practice observed in UNH's FY2022 and FY2024 10-Ks regarding year-over-year comparisons. What does this reveal about the two companies' reporting approaches?",
+    "answer": "JNJ reported worldwide sales growth of 13.6% to $93.8 billion in 2021 (from its FY2022 filing) and 6.5% to $85.2 billion in 2023 (from its FY2024 filing), a decline of 7.1 percentage points. In contrast, UNH's FY2022 and FY2024 10-Ks explicitly state that 'Discussions of year-over-year comparisons between 2021 and 2020 are not included' (FY2022) and 'between 2023 and 2022 are not included' (FY2024), indicating that UNH omits such comparative analyses in the same section, instead directing readers to prior filings. This highlights a divergence: JNJ includes explicit year-over-year growth rates and absolute sales figures in Management's Discussion, while UNH does not provide these comparisons in the same document, reflecting different financial communication strategies.",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "JNJ+UNH",
+    "companies": [
+      "JNJ",
+      "UNH"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Healthcare",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": true,
+    "evidence_section": [
+      "JNJ FY2022 (Item 7+8)",
+      "JNJ FY2024 (Item 7+8)",
+      "UNH FY2022 (Item 7+8)",
+      "UNH FY2024 (Item 7+8)"
+    ]
+  },
+  {
+    "id": "md2025_2307",
+    "question": "What were PG's net sales in fiscal years 2022 and 2024, and how many fiscal years' income statements does PEP present in its FY2022 10-K?",
+    "answer": "PG's net sales were $80.2 billion in fiscal 2022 and $84.0 billion in fiscal 2024. PEP's FY2022 10-K presents income statements for fiscal years ended December 31, 2022, December 25, 2021, and December 26, 2020, covering three fiscal years.",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "PG+PEP",
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG FY2022 (Item 7+8): 'Net sales increased 5% to $80.2 billion in fiscal 2022'; PG FY2024 (Item 7+8): 'Net sales increased 2% to $84.0 billion in fiscal 2024'; PEP FY2022 (Item 7+8): 'Consolidated Statement of Income – Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020'"
+  },
+  {
+    "id": "md2025_2308",
+    "question": "What percentage of PG's net sales growth in fiscal 2022 was driven by pricing, and how many years of data does PEP include in its FY2024 consolidated statements of income, comprehensive income, cash flows, and equity?",
+    "answer": "Pricing contributed 4% to PG's net sales growth in fiscal 2022. PEP's FY2024 10-K includes three fiscal years (2024, 2023, and 2022) in each of its consolidated statements of income, comprehensive income, cash flows, and equity.",
+    "intent": "trend",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "PG+PEP",
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG FY2022 (Item 7+8): 'Favorable pricing had a 4% positive impact on net sales'; PEP FY2024 (Item 7+8): 'Consolidated Statement of Income – Fiscal years ended December 28, 2024, December 30, 2023 and December 31, 2022 ... Consolidated Statement of Equity – Fiscal years ended December 28, 2024, December 30, 2023 and December 31, 2022' (each lists three fiscal years)"
+  },
+  {
+    "id": "md2025_2309",
+    "question": "What was PG's net sales in fiscal 2022 and fiscal 2024, and what are the fiscal year-end dates for the income statements presented in PEP's FY2022 and FY2024 10-Ks?",
+    "answer": "PG's net sales were $80.2 billion in fiscal 2022 and $84.0 billion in fiscal 2024. PEP's FY2022 income statement covers years ended December 31, 2022, December 25, 2021, and December 26, 2020. PEP's FY2024 income statement covers years ended December 28, 2024, December 30, 2023, and December 31, 2022.",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "PG+PEP",
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Consumer Staples",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "PG FY2022 (Item 7+8): 'Net sales increased 5% to $80.2 billion in fiscal 2022'; PG FY2024 (Item 7+8): 'Net sales increased 2% to $84.0 billion in fiscal 2024'; PEP FY2022 (Item 7+8): 'Consolidated Statement of Income – Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020'; PEP FY2024 (Item 7+8): 'Consolidated Statement of Income – Fiscal years ended December 28, 2024, December 30, 2023 and December 31, 2022'"
+  },
+  {
+    "id": "md2025_2313",
+    "question": "How do the operational risk descriptions of Southern Company (SO) in FY2022 and FY2024 compare to Duke Energy's (DUK) discussion in FY2024 regarding the types of facilities and risk focus? Provide evidence from the text and indicate what financial table data (e.g., capital expenditures by plant type) would further corroborate the comparison.",
+    "answer": "SO in both FY2022 and FY2024 lists 'electric generation, transmission, and distribution facilities, natural gas distribution facilities, and distributed generation' as operational risks, indicating a broad, consistent focus on multi-fuel infrastructure. DUK in FY2024 specifically mentions 'retirement date assumptions for all coal-fired generating facilities' and references the East Bend plant rate case, signaling a concentrated focus on coal phase-out and regulatory proceedings. The text does not provide financial tables, but a table of capital expenditures by generation type or asset retirement obligations would quantify the differing investment emphases.",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "SO+DUK",
+    "companies": [
+      "SO",
+      "DUK"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "SO FY2022 Item 7, SO FY2024 Item 7, DUK FY2024 Item 7 (text); implied financial tables in Item 8"
+  },
+  {
+    "id": "md2025_2314",
+    "question": "Compare the regulatory risk emphasis in SO's FY2022 and FY2024 operational risk discussions versus DUK's FY2024 discussion. What financial table items (e.g., regulatory deferral balances) would quantify the relative magnitude of regulatory exposure?",
+    "answer": "SO's operational risk sections in both FY2022 and FY2024 do not mention rate cases or regulatory proceedings; they focus solely on facility operations. DUK's FY2024 text explicitly references 'rate cases recently filed or approved across all' jurisdictions, highlighting a stronger regulatory risk focus. A financial table showing regulatory assets, liabilities, or deferred income tax balances in Item 8 of each filing would provide numerical evidence to compare the scale of regulatory exposure between the two companies.",
+    "intent": "comparison",
+    "difficulty": "L3",
+    "subset": "S5",
+    "company": "SO+DUK",
+    "companies": [
+      "SO",
+      "DUK"
+    ],
+    "year": "2024",
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "sector": "Utilities",
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "is_hybrid_modal": true,
+    "requires_calculation": false,
+    "evidence_section": "SO FY2022 Item 7, SO FY2024 Item 7, DUK FY2024 Item 7 (text); implied financial tables in Item 8"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Where is Berkshire Hathaway domiciled and where is its corporate headquarters?",
+    "answer": "Domiciled in Delaware, corporate headquarters in Omaha, Nebraska.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Busines s Description",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the three most important business activities of Berkshire Hathaway?",
+    "answer": "Insurance businesses (primary and reinsurance), a freight rail transportation business, and a group of utility and energy generation and distribution businesses.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Busines s Description",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many employees were represented by unions at the end of 2023?",
+    "answer": "approximately 79,300 (20% of approximately 396,500 employees)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Busines s Description",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of terrorist acts are mentioned as potential risks to Berkshire's operating businesses?",
+    "answer": "A nuclear, biological or chemical terrorist attack or armed terrorist incursions.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the potential consequences of a significant disruption or failure of technology systems?",
+    "answer": "Service interruptions, safety failures, security events, regulatory compliance failures, an inability to protect information and assets against unauthorized users and other operational difficulties.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What steps has Berkshire taken to mitigate cybersecurity risks?",
+    "answer": "Business continuity planning, disaster recovery planning and business impact analysis.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the manufacturing, service and retailing net earnings for 2021?",
+    "answer": "$11,120 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the difference between insurance investment income for 2023 and 2022.",
+    "answer": "$3,083 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which business segment had $603 million net earnings in 2023?",
+    "answer": "Pilot Travel Centers (PTC)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the combined net earnings from Insurance – underwriting and Insurance – investment income in 2023?",
+    "answer": "$14,995 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By how much did BNSF's net earnings decrease from 2022 to 2023?",
+    "answer": "$859 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total net earnings from all operating segments (excluding Investment and derivative contract gains/losses) in 2023, summing Insurance – underwriting, Insurance – investment income, BNSF, BHE, PTC, Manufacturing, service and retailing, Non-controlled businesses, and Other?",
+    "answer": "$37,350 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to Item 7A, where should the reader look for market risk disclosures?",
+    "answer": "Market Risk Disclosures",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the section number that includes the Quantitative and Qualitative Disclosures About Market Risk?",
+    "answer": "Item 7A",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "As of what dates are the consolidated balance sheets presented?",
+    "answer": "December 31, 2023 and 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What accounting standard update did the Company adopt effective January 1, 2023?",
+    "answer": "Accounting Standards Update 2018-12 Targeted Improvements to the Accounting for Long-Duration Contracts",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For how many years in the period ended December 31, 2023 were the consolidated statements of earnings audited?",
+    "answer": "3 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the two dates of the consolidated balance sheets audited?",
+    "answer": "December 31, 2023 and December 31, 2022",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statement s and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years difference is there between the most recent and the prior balance sheet date?",
+    "answer": "1 year",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statement s and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the effective date of the adoption of Accounting Standards Update 2018-12?",
+    "answer": "January 1, 2023",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statement s and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2024",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What are two acts mentioned in the text under which a special assessment could occur?",
+    "answer": "FDIA or OLA",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What page number is shown in the textual header of this Form 10-K section?",
+    "answer": "38",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many times does the word 'adversely' appear in this section?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who reports to the Risk Committee of the Board?",
+    "answer": "The chief risk officer reports to our chief executive officer and to the Risk Committee of the Board.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the three core components of the risk management structure?",
+    "answer": "governance, processes and people",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the role of the Board regarding the risk appetite statement?",
+    "answer": "The Board is responsible for the annual review and approval of our risk appetite statement.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net earnings applicable to common shareholders for the year ended December 31, 2024?",
+    "answer": "$13,525 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the preferred stock dividends paid in 2024 using the net earnings and net earnings to common figures.",
+    "answer": "$751 million (Net earnings of $14,276 million minus Net earnings to common of $13,525 million)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the target range for ROE stated in the management's discussion?",
+    "answer": "14% to 16%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage increase in Diluted EPS from 2023 to 2024?",
+    "answer": "77.3%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the difference between Net earnings and Net earnings to common in 2023?",
+    "answer": "$609 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total of Net revenues for the years 2022, 2023, and 2024?",
+    "answer": "$147,131 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where are the quantitative and qualitative disclosures about market risk set forth according to Item 7A?",
+    "answer": "In \"Management’s Discussion and Analysis of Financial Condition and Results of Operations — Risk Management\" in Part II.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which part of the filing are the market risk disclosures located as per the provided content?",
+    "answer": "Part II.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the exact title of the section referenced for market risk disclosures in Item 7A?",
+    "answer": "\"Management’s Discussion and Analysis of Financial Condition and Results of Operations — Risk Management\"",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What framework was used for the assessment of the firm's internal control over financial reporting as of December 31, 2024?",
+    "answer": "Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was management's determination regarding the effectiveness of the firm's internal control over financial reporting as of December 31, 2024?",
+    "answer": "Management has determined that the firm’s internal control over financial reporting as of December 31, 2024 was effective.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who is responsible for establishing and maintaining adequate internal control over financial reporting?",
+    "answer": "Management of The Goldman Sachs Group, Inc., together with its consolidated subsidiaries (the firm).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the difference between the year of the COSO framework (2013) and the year of management's assessment (2024) as reported in the text.",
+    "answer": "11",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the sum of the year of the COSO framework (2013) and the year of management's assessment (2024) as reported in the text.",
+    "answer": "4037",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the product of the year of the COSO framework (2013) and the year of management's assessment (2024) as reported in the text.",
+    "answer": "4074912",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

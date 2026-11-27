@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare the focus of Item 8 disclosures: IFF references its Consolidated Statements of Shareholders' Equity and Note 17, while FCX's Item 8 is Management's Report on Internal Control Over Financial Reporting. What does this difference suggest about each company's reporting priorities?",
+    "answer": "IFF's Item 8 emphasizes financial performance and equity structure, as it directs to shareholders' equity statements and notes. FCX's Item 8 emphasizes internal control assurance, as it provides management's report on internal control over financial reporting.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "evidence_section": "IFF Item 8 (first paragraph of provided content) and FCX Item 8 (entire provided content)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "IFF+FCX",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "IFF reports approximately $471 million in cash, cash equivalents and restricted cash at December 31, 2024. Does FCX report any similar liquidity figure in the provided content?",
+    "answer": "No, FCX does not provide any cash or liquidity data in the excerpt. The only FCX content is the Management's Report on Internal Control Over Financial Reporting, which contains no financial figures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "evidence_section": "IFF Item 7 (Liquidity and Capital Resources) and FCX Item 8 (entire provided content)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "IFF+FCX",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "IFF's number of common shareholders of record is 2,993 as of February 24, 2025. Does FCX disclose its number of shareholders?",
+    "answer": "Not in the provided content. FCX's excerpt does not include any information about the number of shareholders.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "evidence_section": "IFF Item 8 (Approximate Number of Equity Security Holders) and FCX Item 8 (entire provided content)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "IFF+FCX",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "IFF's performance graph shows its cumulative total return based on $100 investment from December 31, 2019 to December 31, 2024 was $75.21. Which company provides such a performance comparison in its 10-K?",
+    "answer": "Only IFF provides a performance graph in the provided content. FCX does not include any performance graph or shareholder return comparison.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "evidence_section": "IFF Item 8 (Performance Graph table) and FCX Item 8 (entire provided content)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "IFF+FCX",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "IFF reports a deferred tax liability of approximately $154 million for repatriating funds from non-U.S. subsidiaries. Does FCX report any deferred tax liability related to repatriation?",
+    "answer": "No, FCX does not mention any deferred tax liability in the provided content. The FCX excerpt focuses solely on internal controls and does not discuss tax items.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "evidence_section": "IFF Item 7 (Liquidity and Capital Resources, deferred tax liability) and FCX Item 8 (entire provided content)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "IFF+FCX",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "IFF's cash flows provided by operating activities were $1.070 billion in 2024, or 9.3% of sales. Based on the provided content, can we compare this to FCX's operating cash flow?",
+    "answer": "No, FCX does not provide any operating cash flow or sales data in the excerpt. The FCX content is limited to the management report on internal control and contains no financial performance metrics.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "IFF",
+      "FCX"
+    ],
+    "evidence_section": "IFF Item 7 (Cash Flows Provided By Operating Activities) and FCX Item 8 (entire provided content)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "IFF+FCX",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the revenue growth percentages reported by XOM and SLB for fiscal year 2022. What specific numerical evidence is available from each company's 10-K excerpt?",
+    "answer": "SLB reported full-year 2022 revenue of $28.1 billion, a 23% increase year-on-year. XOM's provided excerpt for 2022 does not contain any revenue growth percentage or absolute revenue figure; it only cross-references Item 7 and Item 8 without including numerical data.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "XOM",
+      "SLB"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SLB FY2022 Executive Overview: 'Full-year 2022 revenue of $28.1 billion increased 23% year on year.' XOM FY2022: No numerical data provided; only reference to Item 7 and Item 8.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "XOM+SLB",
+    "sector": "Energy"
+  },
+  {
+    "question": "Based on the provided excerpts, which company offers more complete financial data for a multi-year comparison (2022 vs. 2024)? Provide specific numerical evidence from each.",
+    "answer": "SLB provides numerical data for both years: 2022 revenue of $28.1 billion and 2024 cash flow from operations of $6.6 billion and free cash flow of $4.0 billion. XOM's excerpts for both 2022 and 2024 contain no numerical financial data; they only refer to Item 7 and Item 8 without including figures. Therefore, only SLB enables a multi-year comparison.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "XOM",
+      "SLB"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SLB FY2022: 'Full-year 2022 revenue of $28.1 billion increased 23% year on year.' SLB FY2024: 'generated $6.6 billion in cash flow from operations and $4.0 billion in free cash flow.' XOM FY2022 and FY2024: Only cross-references to Item 7 and Item 8; no numerical data provided.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "XOM+SLB",
+    "sector": "Energy"
+  },
+  {
+    "question": "Compare the free cash flow figures reported by XOM and SLB for fiscal year 2024. What does each excerpt reveal about capital returns, and how do the available data points support a cross-company analysis?",
+    "answer": "SLB reports free cash flow of $4.0 billion for 2024 and states that this enabled the company to return $3.3 billion to shareholders. XOM's 2024 excerpt contains no free cash flow, capital returns, or any numerical financial data; it only references Item 7 and Item 8. Thus, a numerical comparison is impossible; only SLB provides evidence for free cash flow and shareholder returns.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "XOM",
+      "SLB"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SLB FY2024 Executive Overview: 'generated ... $4.0 billion in free cash flow, enabling us to return $3.3 billion to shareholders.' XOM FY2024: No numerical financial data provided; only cross-reference to Item 7 and Item 8.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "XOM+SLB",
+    "sector": "Energy"
+  }
+]

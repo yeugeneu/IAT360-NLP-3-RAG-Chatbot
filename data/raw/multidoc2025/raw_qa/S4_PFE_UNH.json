@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the business structures described in the 10-K filings differ between Pfizer and UnitedHealth Group?",
+    "answer": "Pfizer is described as 'Pfizer Inc. and Subsidiary Companies' without further segmentation in the provided text. UnitedHealth Group explicitly describes two distinct businesses, Optum and UnitedHealthcare, with four reportable segments: Optum Health, Optum Insight, Optum Rx, and UnitedHealthcare (including Employer & Individual, Medicare & Retirement, and Community & State).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PFE",
+      "UNH"
+    ],
+    "evidence_section": "PFE: ITEM 8 audit report identifies 'Pfizer Inc. and Subsidiary Companies'; UNH: ITEM 7 Executive Overview lists businesses and segments.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PFE+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What mission statement, if any, does each company include in the provided 10-K excerpts?",
+    "answer": "UnitedHealth Group explicitly states its mission: 'to help people live healthier lives and help make the health system work better for everyone.' Pfizer does not include a mission statement in the provided excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PFE",
+      "UNH"
+    ],
+    "evidence_section": "UNH: ITEM 7 Executive Overview states the mission; PFE: provided text contains no mission statement.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PFE+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What opinions did the independent auditors express on the financial statements and internal controls for each company?",
+    "answer": "For Pfizer, the auditor expressed an unqualified opinion on the consolidated financial statements and an unqualified opinion on the effectiveness of internal control over financial reporting. For UnitedHealth Group, the auditor stated the financial statements present fairly in conformity with GAAP and also audited internal control over financial reporting as of December 31, 2024 (standard unqualified opinion by implication).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PFE",
+      "UNH"
+    ],
+    "evidence_section": "PFE: ITEM 8 audit report 'expressed an unqualified opinion on the effectiveness of internal control over financial reporting' and 'present fairly, in all material respects'; UNH: ITEM 8 audit report 'present fairly... in conformity with accounting principles generally accepted' and 'have also audited... internal control over financial reporting as of December 31, 2024'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PFE+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company reported a significant cyberattack and what financial assistance did it provide?",
+    "answer": "UnitedHealth Group reported a cyberattack on February 21, 2024, affecting Change Healthcare, and provided interest-free loans of more than $9 billion to care providers through December 31, 2024. Pfizer did not report any cyberattack or similar financial assistance in the provided excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PFE",
+      "UNH"
+    ],
+    "evidence_section": "UNH: ITEM 7 Executive Overview details the cyberattack and loans; PFE: no mention of cyberattack or loans in the provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PFE+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the reporting periods covered by the financial statements in each company's filing?",
+    "answer": "Both Pfizer and UnitedHealth Group's consolidated financial statements cover each of the three years in the period ended December 31, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PFE",
+      "UNH"
+    ],
+    "evidence_section": "PFE: ITEM 8 audit report 'for each of the years in the three-year period ended December 31, 2024'; UNH: ITEM 8 audit report 'for each of the three years in the period ended December 31, 2024'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PFE+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies disclose their auditors' PCAOB registration in the provided excerpts?",
+    "answer": "Pfizer's auditor states 'We are a public accounting firm registered with the PCAOB' in the basis for opinion. UnitedHealth Group's auditor identifies itself with 'PCAOB ID No 34' in the report header.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PFE",
+      "UNH"
+    ],
+    "evidence_section": "PFE: ITEM 8 audit report Basis for Opinion; UNH: ITEM 8 report header includes PCAOB ID.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PFE+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

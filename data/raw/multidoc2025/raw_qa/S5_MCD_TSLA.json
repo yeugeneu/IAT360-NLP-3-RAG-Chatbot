@@ -1,0 +1,68 @@
+[
+  {
+    "question": "In its FY2024 filing, TSLA reported delivering 1,845,985 consumer vehicles in 2023, while in its FY2022 filing it reported delivering 936,222 vehicles in 2021. How does this growth compare to the change in the number of pages MCD devoted to its Item 7 MD&A between FY2022 (pages 8-35) and FY2024 (page 7)?",
+    "answer": "TSLA's vehicle deliveries increased by 97.1% from 936,222 in 2021 to 1,845,985 in 2023. In contrast, MCD's MD&A section shrank from 28 pages (pages 8-35) in FY2022 to just 1 page (page 7) in FY2024, indicating a significant reduction in discussion length.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "TSLA"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "TSLA FY2022 Item 7 overview paragraph (2021 deliveries); TSLA FY2024 Item 7 overview paragraph (2023 deliveries); MCD FY2022 Item 7 page range (8-35); MCD FY2024 Item 7 page reference (page 7)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "MCD+TSLA",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "Based on TSLA's filings, what was the percentage increase in vehicle production from 2021 to 2023? Considering MCD's FY2022 MD&A spans 28 pages while its FY2024 MD&A is only 1 page, what does this contrast suggest about the relative change in reporting detail?",
+    "answer": "TSLA's vehicle production increased from 930,422 in 2021 to 1,845,985 in 2023, a 98.4% increase. MCD's MD&A section drastically decreased from 28 pages to 1 page, suggesting MCD's reporting became significantly more concise while TSLA's operational scale expanded rapidly.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "TSLA"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "TSLA FY2022 Item 7 overview paragraph (2021 production); TSLA FY2024 Item 7 overview paragraph (2023 production); MCD FY2022 Item 7 page range (8-35); MCD FY2024 Item 7 page reference (page 7)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "MCD+TSLA",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "If MCD's MD&A for FY2022 covered pages 8-35 (28 pages) and for FY2024 covered only page 7 (1 page), what is the ratio of TSLA's 2023 deliveries to 2021 deliveries? How does this ratio compare to the ratio of MD&A page lengths (FY2022/FY2024) for MCD?",
+    "answer": "TSLA's deliveries ratio (2023/2021) = 1,845,985 / 936,222 ≈ 1.97. MCD's MD&A page ratio (FY2022/FY2024) = 28 / 1 = 28. The two ratios are in opposite directions, highlighting TSLA's growth in deliveries contrasted with MCD's contraction in reporting length.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "TSLA"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "TSLA FY2022 Item 7 overview paragraph (2021 deliveries); TSLA FY2024 Item 7 overview paragraph (2023 deliveries); MCD FY2022 Item 7 page range (8-35); MCD FY2024 Item 7 page reference (page 7)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "MCD+TSLA",
+    "sector": "Consumer Discretionary"
+  }
+]

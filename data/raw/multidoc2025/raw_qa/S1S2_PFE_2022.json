@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What are some of the reasons product candidates can fail according to the section?",
+    "answer": "Unfavorable pre-clinical and clinical trial results, or unfavorable new pre-clinical or clinical data and further analyses of existing pre-clinical or clinical data.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many bullet points are listed in the paragraph discussing factors that contribute to the high degree of risk in drug discovery and development?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which U.S. entitlement programs are mentioned as possibly affecting payment for products?",
+    "answer": "Medicare and Medicaid",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the expected annual rate of return on plan assets for U.S. Pension Plans in 2022?",
+    "answer": "7.5%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the actual annual rate of return on plan assets for International Pension Plans in 2021?",
+    "answer": "11.4%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many percentage points did the actual annual rate of return for International Pension Plans in 2022 differ from the expected rate?",
+    "answer": "30.5 percentage points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the purpose of the MD&A according to Item 7?",
+    "answer": "To assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the consolidated financial statements and related notes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS GENERAL",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "With what documents should the MD&A be read in conjunction?",
+    "answer": "The consolidated financial statements and related notes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS GENERAL",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does the MD&A provide an evaluation of?",
+    "answer": "The amounts and certainty of cash flows from operations and from outside sources.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS GENERAL",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where is the information required by Item 7A incorporated by reference?",
+    "answer": "to the discussion in the Analysis of Financial Condition, Liquidity, Capital Resources and Market Risk section within MD&A",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A in the 2022 Form 10-K?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What page of the 2022 Form 10-K is referenced in Item 7A?",
+    "answer": "44",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "As of which dates are the consolidated balance sheets presented?",
+    "answer": "December 31, 2022 and 2021",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On what date is the report on internal control over financial reporting dated?",
+    "answer": "February 23, 2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the first calendar year included in the three-year period ended December 31, 2022?",
+    "answer": "2020",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many years are covered by the consolidated statements of income, and how many balance sheet dates are provided? What is the sum?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the number of years in the three-year period and the number of balance sheet dates?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the product of the number of years in the three-year period and the number of balance sheet dates?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PFE",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PFE"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

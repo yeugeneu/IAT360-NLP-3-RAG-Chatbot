@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What U.S. regulation requires chemicals to be assessed against a risk-based safety standard and calls for the elimination of unreasonable risks?",
+    "answer": "The U.S. Toxic Substances Control Act (TSCA).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the text, what could happen to the company if a product fails to perform consistently with quality specifications?",
+    "answer": "We could be subject to damages based on claims brought against us by our customers or lose customers.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What potential effects on demand are mentioned as a result of increases in the costs of products?",
+    "answer": "A decrease in their overall demand; additionally, customers may seek products with lower regulatory compliance requirements, which could also result in a decrease in the demand of certain products subject to the REACH regulations.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was Albemarle's attributable lithium metal production from Wodgina in 2023?",
+    "answer": "7",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ownership percentage of the Wodgina site as of December 31, 2024, and what was its attributable lithium metal production for that year?",
+    "answer": "50% ownership; 6 thousand metric tonnes",
+    "intent": "fact",
+    "is_hybrid_modal": true,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total attributable lithium metal production from all listed sites in 2024?",
+    "answer": "38",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which credit rating agencies' actions affected the applicable margin under the 2022 Credit Agreement during 2024?",
+    "answer": "Two of the three main credit ratings agencies.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the resulting applicable margin for borrowings under the 2022 Credit Agreement after the downgrades?",
+    "answer": "1.20%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many credit rating agencies did not downgrade the Company during 2024?",
+    "answer": "one",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What fraction of the main credit rating agencies downgraded Albemarle in 2024?",
+    "answer": "2/3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the decimal representation of the fraction of agencies that downgraded Albemarle in 2024?",
+    "answer": "0.6667",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of the main credit rating agencies did not downgrade Albemarle in 2024?",
+    "answer": "33.33%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the primary currencies to which ALB has foreign currency exchange rate exposure?",
+    "answer": "The Chinese Renminbi, Euro and Australian Dollar.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the primary method ALB uses to reduce foreign currency exposure?",
+    "answer": "Identifying natural hedges.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which quarter of 2019 did Albemarle enter into a foreign currency forward contract to hedge cash flow exposure for the Kemerton plant?",
+    "answer": "The fourth quarter of 2019.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What date was used for the evaluation of internal control over financial reporting?",
+    "answer": "December 31, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which framework did management use to assess the effectiveness of internal control over financial reporting?",
+    "answer": "Internal Control—Integrated Framework 2013 set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who conducted the evaluation of internal control over financial reporting?",
+    "answer": "Our management, including our principal executive officer and principal financial officer",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct purposes for providing reasonable assurance are listed in the management's report?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of Exchange Act rules referenced in the report?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many times does the phrase 'reasonable assurance' appear in the provided text?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ALB"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

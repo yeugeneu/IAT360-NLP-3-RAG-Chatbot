@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What was the total revenue of UPS in 2023?",
+    "answer": "$91.0 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Based on the data, what was the average revenue per package delivered by UPS in 2023?",
+    "answer": "$15.96 per package (calculated as $91.0 billion / 5.7 billion packages)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many shipping customers does UPS serve each business day?",
+    "answer": "approximately 1.6 million shipping customers",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Under what terms does UPS contribute to multiemployer benefit plans?",
+    "answer": "Under the terms of collective bargaining agreements that cover our union-represented employees.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What do the collective bargaining agreements set forth regarding the multiemployer plans?",
+    "answer": "The annual contribution rate increases for the plans that we participate in.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which critical accounting estimate is described as involving a higher degree of judgment and complexity in this section?",
+    "answer": "Contingencies",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the amount of the One-Time Compensation Payment in 2023?",
+    "answer": "$61 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total of all Non-GAAP adjustments to operating expenses for 2022?",
+    "answer": "$759 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How much did the total adjustments to operating expenses change from 2022 to 2023?",
+    "answer": "$27 million decrease (from $759 million in 2022 to $732 million in 2023)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the transformation strategy costs and goodwill and asset impairment charges included in operating expenses for the year ended December 31, 2023?",
+    "answer": "$671 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Calculate the difference between the total adjustments to operating expenses and total adjustments to other income and (expense) for the year ended December 31, 2022.",
+    "answer": "$1,820 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total income tax benefit from all non-GAAP adjustments for the year ended December 31, 2023?",
+    "answer": "($245) million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What types of exposures does UPS monitor and manage using derivative instruments?",
+    "answer": "Foreign currency exchange rate and interest rate exposures.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are two significant expenses mentioned that could materially affect UPS if costs increase?",
+    "answer": "Employee health and retiree health and pension benefit costs.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the potential consequences if UPS does not accurately forecast its future capital investment needs?",
+    "answer": "UPS could under- or over-invest, or have excess capacity or insufficient capacity, any of which could negatively affect revenues and profitability.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the registered public accounting firm that audited UPS's financial statements?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many years of financial statements are covered by the audit opinion?",
+    "answer": "three years",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On which page does the Statements of Consolidated Income begin?",
+    "answer": "64",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference in starting page numbers between the Report of Independent Registered Public Accounting Firm and the Consolidated Balance Sheets?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many financial statement items are listed as starting on page 64?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many Notes to Consolidated Financial Statements have a starting page number greater than 100?",
+    "answer": "10",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2023",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

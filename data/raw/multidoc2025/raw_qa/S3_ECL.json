@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Is the Purolite acquisition mentioned in the MD&A of all three fiscal years, and are the details consistent?",
+    "answer": "The Purolite acquisition is mentioned in FY2022 and FY2023, both stating it was acquired in December 2021 for $3.7 billion in cash, net of cash acquired. In FY2024, the MD&A no longer repeats the Purolite acquisition details; instead, the section is titled 'Impact of Acquisitions and Divestitures' and focuses on non-GAAP measures.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "ECL",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "ECL"
+    ]
+  },
+  {
+    "question": "How does the heading under 'Comparability of Results' change from FY2022/FY2023 to FY2024?",
+    "answer": "In FY2022 and FY2023, the heading is 'Purolite acquisition'. In FY2024, it changes to 'Impact of Acquisitions and Divestitures'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "ECL",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "ECL"
+    ]
+  },
+  {
+    "question": "Which specific non-GAAP financial measures are explicitly defined in the FY2024 MD&A that are absent from FY2022 and FY2023?",
+    "answer": "FY2024 MD&A explicitly mentions 'organic sales, organic operating income and organic operating income margin' at fixed currency, and states that these exclude special (gains) and charges and the results of acquired businesses from the first twelve months post acquisition. FY2022 and FY2023 only refer to 'Non-GAAP Financial Measures' in a general sense without specifying these organic measures.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "ECL",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "ECL"
+    ]
+  },
+  {
+    "question": "Is the phrase 'special (gains) and charges' used consistently across all three fiscal years in the MD&A introductions?",
+    "answer": "Yes, all three years (FY2022, FY2023, FY2024) include the exact phrase 'special (gains) and charges' in the first paragraph of the MD&A as one of the quantitative factors provided.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "ECL",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "ECL"
+    ]
+  },
+  {
+    "question": "Does the total consideration for the Purolite acquisition remain the same in the FY2022 and FY2023 MD&A?",
+    "answer": "Yes, both FY2022 and FY2023 state 'total consideration of $3.7 billion in cash, net of cash acquired' for the Purolite acquisition.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "ECL",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "ECL"
+    ]
+  },
+  {
+    "question": "Is the reference to forward-looking statements and risk factors identical in structure across FY2022, FY2023, and FY2024?",
+    "answer": "Yes, all three years contain the identical sentence: 'This discussion contains various Non-GAAP Financial Measures and also contains various forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. We refer readers to the statements and information set forth in the sections entitled \"Non-GAAP Financial Measures\" at the end of this MD&A, and \"Forward-Looking Statements\" and \"Risk Factors\" within Items 1 and 1A of this Form 10-K.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "ECL",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "ECL"
+    ]
+  }
+]

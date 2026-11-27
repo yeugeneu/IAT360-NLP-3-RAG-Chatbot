@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does XEL's business structure as a holding company differ from DUK's structure based on the provided descriptions?",
+    "answer": "XEL is a holding company with no business operations, its assets consist primarily of investments in its utility subsidiaries, and material cash inflows are only from dividends and other payments from subsidiaries. DUK has multiple registered public accounting firm reports for various subsidiaries (Duke Energy Carolinas, Progress Energy, etc.) indicating it has direct operating subsidiaries with their own consolidated financial statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "DUK"
+    ],
+    "evidence_section": "XEL: Item 8 Basis of Presentation; DUK: Item 8 Financial Statements list",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in how XEL and DUK handle guarantees and insurance for their subsidiaries and operations?",
+    "answer": "XEL provides guarantees and bond indemnities for its subsidiaries with exposure limited to a maximum stated amount and had no assets held as collateral. DUK's registrants obtain insurance/reinsurance through a captive insurance company (Bison) and affiliates, and self-insure their electric transmission and distribution lines against storm damage and natural disasters.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "DUK"
+    ],
+    "evidence_section": "XEL: Item 8 Guarantees and Indemnifications; DUK: Item 7 Insurance section",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do XEL and DUK differ in their presentation of financial information?",
+    "answer": "XEL presents condensed financial information under the equity method, where subsidiary assets and liabilities are not consolidated and income is reported as equity in income of subsidiaries. DUK presents consolidated financial statements for the parent and separate consolidated statements for multiple subsidiaries (e.g., Duke Energy Carolinas, Progress Energy) with their own balance sheets and income statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "DUK"
+    ],
+    "evidence_section": "XEL: Item 8 Basis of Presentation; DUK: Item 8 listing of consolidated statements for multiple entities",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the use of non-GAAP financial measures between XEL and DUK based on the provided content?",
+    "answer": "XEL explicitly discusses non-GAAP financial measures including ongoing ROE, ongoing earnings, and ongoing diluted EPS, which are used for financial planning, analysis, and performance-based compensation. DUK does not mention any non-GAAP financial measures in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "DUK"
+    ],
+    "evidence_section": "XEL: Item 7 Non-GAAP Financial Measures; DUK: no mention in provided text",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do XEL and DUK address potential risks related to asset retirements and regulatory recovery?",
+    "answer": "XEL does not discuss asset retirements or regulatory recovery in the provided content. DUK discusses retirement of coal-fired generating facilities, including rate cases with proposed depreciation rates that approximate earlier retirement dates as outlined in IRPs, and plans to seek regulatory recovery for amounts not otherwise recovered when assets are retired.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "DUK"
+    ],
+    "evidence_section": "XEL: no relevant section; DUK: Item 7 MD&A discussion on coal-fired generating facilities",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in the scope of entities reported for XEL versus DUK?",
+    "answer": "XEL Inc. reports only condensed financial information for itself as a holding company with investments in subsidiaries. DUK reports consolidated statements for the parent company and separate consolidated financial statements for multiple subsidiaries including Duke Energy Carolinas, Progress Energy, Duke Energy Progress, Duke Energy Florida, Duke Energy Ohio, Duke Energy Indiana, and Piedmont.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "DUK"
+    ],
+    "evidence_section": "XEL: Item 8 Basis of Presentation; DUK: Item 8 list of subsidiary reports",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

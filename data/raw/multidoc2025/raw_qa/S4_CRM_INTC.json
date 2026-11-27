@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company explicitly describes its business as 'global leader in customer relationship management' and introduces an AI agent platform called Agentforce in its 10-K overview?",
+    "answer": "CRM (Salesforce) describes itself as 'a global leader in customer relationship management (“CRM”) technology' and introduces Agentforce during the third quarter of fiscal 2025. INTC does not provide any business description or product introduction in its excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "INTC"
+    ],
+    "evidence_section": "CRM: Item 7 Overview; INTC: no equivalent description provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's 10-K includes an audit report that covers internal control over financial reporting as of a specific date?",
+    "answer": "CRM's 10-K includes an audit report stating that the auditor has audited the Company's internal control over financial reporting as of January 31, 2025, and issued an unqualified opinion. INTC's excerpt does not include any audit report or mention of internal control.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "INTC"
+    ],
+    "evidence_section": "CRM: Report of Independent Registered Public Accounting Firm; INTC: not provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company mentions investing in 'generative and agentic AI' and having a 'deeply unified platform'?",
+    "answer": "CRM (Salesforce) states it 'continues to invest for growth, including investing in generative and agentic AI across all products' and describes its platform as 'one deeply unified platform'. INTC's excerpt contains no such strategic details.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "INTC"
+    ],
+    "evidence_section": "CRM: Item 7 Overview; INTC: not provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's financial statements were audited by a firm with PCAOB ID 42?",
+    "answer": "CRM's financial statements were audited by a firm with PCAOB ID 42, as noted in the Report of Independent Registered Public Accounting Firm. INTC's excerpt does not provide any PCAOB ID for its auditor.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "INTC"
+    ],
+    "evidence_section": "CRM: Report of Independent Registered Public Accounting Firm; INTC: not provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's 10-K excerpt includes a discussion of 'vertical software solutions' and 'industry-specific reach'?",
+    "answer": "CRM discusses expanding its 'industry-specific reach with more vertical software solutions' in its Item 7 overview. INTC's excerpt does not contain any reference to vertical software or industry-specific solutions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "INTC"
+    ],
+    "evidence_section": "CRM: Item 7 Overview; INTC: not provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a fiscal year-end date for its financial statements (January 31) and which does not specify its fiscal year-end?",
+    "answer": "CRM's financial statements are for the fiscal year ended January 31, 2025 (and 2024). INTC's excerpt does not state its fiscal year-end or provide any balance sheet date.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "INTC"
+    ],
+    "evidence_section": "CRM: Consolidated Balance Sheets dates; INTC: no date provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

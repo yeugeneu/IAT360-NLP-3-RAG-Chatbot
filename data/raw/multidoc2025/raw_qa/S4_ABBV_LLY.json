@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company reported higher total net revenues in FY2024?",
+    "answer": "AbbVie reported net revenues of $56,334 million, while Eli Lilly reported revenue of $45,042.7 million. Therefore, AbbVie had higher total net revenues.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "LLY"
+    ],
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the net income (attributable to parent for AbbVie) of the two companies in FY2024.",
+    "answer": "AbbVie's net earnings attributable to AbbVie Inc. were $4,278 million, while Eli Lilly's net income was $10,590.0 million. Eli Lilly's net income was significantly higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "LLY"
+    ],
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company had higher research and development expenses in FY2024?",
+    "answer": "AbbVie reported research and development expenses of $12,791 million, while Eli Lilly reported $10,990.6 million. AbbVie spent more on R&D.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "LLY"
+    ],
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate and compare the gross profit margins of AbbVie and Eli Lilly in FY2024.",
+    "answer": "AbbVie's gross profit is net revenues ($56,334 million) minus cost of products sold ($16,904 million) = $39,430 million, yielding a gross margin of approximately 70.0% (39,430/56,334). Eli Lilly's gross profit is revenue ($45,042.7 million) minus cost of sales ($8,418.3 million) = $36,624.4 million, yielding a gross margin of approximately 81.3% (36,624.4/45,042.7). Eli Lilly had a higher gross profit margin.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "LLY"
+    ],
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "ABBV+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Describe a key strategic difference between AbbVie and Eli Lilly in FY2024 regarding acquisitions and related charges.",
+    "answer": "AbbVie completed acquisitions of Cerevel Therapeutics (neuroscience) and ImmunoGen (oncology) in 2024, reflecting a focus on in-organic growth. Eli Lilly reported $3,280.4 million in acquired in-process research and development expenses and $860.6 million in asset impairment, restructuring, and other special charges, indicating a different approach to portfolio management and potential write-downs.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "LLY"
+    ],
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the income tax expense differ between AbbVie and Eli Lilly in FY2024?",
+    "answer": "AbbVie reported an income tax benefit of $570 million (negative expense), while Eli Lilly reported income tax expense of $2,090.4 million. The two companies had opposite tax positions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "LLY"
+    ],
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

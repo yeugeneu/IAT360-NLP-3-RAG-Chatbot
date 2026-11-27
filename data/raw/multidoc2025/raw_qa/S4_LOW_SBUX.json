@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What employer of choice awards does LOW mention receiving in fiscal 2024, and does SBUX mention any such awards in its provided content?",
+    "answer": "LOW mentions being named on the Disability:IN National Best Places to Work for Disability Inclusion, Fortune’s World’s Most Admired Companies Specialty Retailer, and 2024 Great Plac (truncated). SBUX does not mention any employer of choice awards in its provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "SBUX"
+    ],
+    "evidence_section": "LOW: Item 7; SBUX: Item 7 (no mention)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the reportable operating segments differ between LOW and SBUX according to their provided content?",
+    "answer": "LOW does not specify its operating segments in the provided content, though its table of contents lists Note 17: Segment Information. SBUX explicitly identifies three reportable operating segments: North America, International, and Channel Development.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "SBUX"
+    ],
+    "evidence_section": "LOW: Item 8 table of contents (Note 17); SBUX: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What significant business divestiture does LOW report, and does SBUX report any similar divestiture?",
+    "answer": "LOW reports a 'Divestiture of the Canadian Retail Business' in Note 6 of its financial statements. SBUX does not mention any divestiture in its provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "SBUX"
+    ],
+    "evidence_section": "LOW: Item 8 table of contents (Note 6); SBUX: Item 8 (no mention)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do LOW and SBUX compare in their reporting of restructuring and impairments expenses?",
+    "answer": "SBUX reports restructuring and impairments of $0 in fiscal 2024, $21.8 million in fiscal 2023, and $46.0 million in fiscal 2022. LOW does not mention restructuring and impairments in its provided content; its table of contents does not include a specific note for such expenses.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "SBUX"
+    ],
+    "evidence_section": "LOW: Item 8 table of contents; SBUX: Item 8 - Consolidated Statements of Earnings",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is SBUX's total net revenues for fiscal 2024, and what is the equivalent figure for LOW based on the provided content?",
+    "answer": "SBUX's total net revenues for fiscal 2024 are $36,176.2 million. The provided content for LOW does not include any financial figures, so the equivalent figure for LOW cannot be determined from the given text.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "SBUX"
+    ],
+    "evidence_section": "SBUX: Item 8 - Consolidated Statements of Earnings; LOW: Item 7 and Item 8 (no financial data provided)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the Management's Discussion and Analysis sections of LOW and SBUX differ in their focus topics?",
+    "answer": "LOW's MD&A discusses intellectual property, government regulation, and human capital. SBUX's MD&A discusses reportable operating segments, key operating metrics (new store openings, comparable store sales, operating margin), and a challenging operating environment with reduced customer traffic.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "SBUX"
+    ],
+    "evidence_section": "LOW: Item 7; SBUX: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

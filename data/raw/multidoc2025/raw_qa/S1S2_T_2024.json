@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What specific Form 8-K item is referenced in relation to the copying of mobile customer call data?",
+    "answer": "Item 1.05 of Form 8-K",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What unit is used for dollar amounts in the document?",
+    "answer": "Dollars in millions except per share amounts",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Has AT&T been subject to a cyberattack that had a material adverse effect on its operations according to this section?",
+    "answer": "No, we have not been subject to a cyberattack that has had a material adverse effect on our operations or results of operations.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the two reportable segments of AT&T?",
+    "answer": "Communications and Latin America",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the operating revenue for Latin America in 2024?",
+    "answer": "$4,232 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between Communications and Latin America operating revenue in 2024?",
+    "answer": "$113,420 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the operating income margin of the Communications segment in 2024? Provide as a percentage rounded to one decimal place.",
+    "answer": "23.0%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of AT&T's total operating revenues in 2024 came from the Communications segment? Round to one decimal place.",
+    "answer": "96.2%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the ratio of Communications segment operating revenues to Latin America segment operating revenues in 2024? Round to one decimal place.",
+    "answer": "27.8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the primary market risks the company is exposed to according to Item 7A?",
+    "answer": "changes in interest rates and foreign currency exchange rates",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the company's policy regarding the use of derivatives?",
+    "answer": "to manage our debt structure and foreign exchange exposure in order to manage capital costs, control financial risks and maintain financial flexibility over the long term; and they do not use derivatives for trading or speculative purposes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is one of the most significant assumptions used in estimating postretirement benefit obligations?",
+    "answer": "the assumed weighted-average discount rate",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total operating revenues for 2024?",
+    "answer": "122,336",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of cost of revenues equipment and other cost of revenues for 2024?",
+    "answer": "49,221",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the diluted earnings per share from continuing operations for 2023?",
+    "answer": "$ 1.97",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total cost of revenues (equipment plus other cost of revenues) for 2023?",
+    "answer": "$50,123",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage change in operating income from 2023 to 2024?",
+    "answer": "-18.81%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the ratio of net income attributable to common stock to total operating revenues in 2022?",
+    "answer": "-0.0723",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "T"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

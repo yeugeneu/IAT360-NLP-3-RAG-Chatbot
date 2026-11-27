@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do NEM and IFF differ in their approach to deferred taxes based on the provided excerpts?",
+    "answer": "NEM discusses deferred tax assets and the need for a valuation allowance if future taxable income is not more likely than not to be realized, while IFF reports a deferred tax liability of approximately $154 million for the effect of repatriating funds from non-U.S. subsidiaries to the U.S., with no liability for subsidiaries where earnings are indefinitely reinvested.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "IFF"
+    ],
+    "evidence_section": "NEM: Critical Accounting Estimates – Carrying value of long-lived assets and deferred tax assets; IFF: Item 7 – Liquidity and Capital Resources",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is IFF's cumulative total shareholder return from December 31, 2019 to December 31, 2024, and does NEM provide any comparable stock performance data in the given content?",
+    "answer": "IFF's cumulative total return was $75.21 per $100 invested on December 31, 2019, representing a decline. NEM does not provide any stock performance or cumulative total return data in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "IFF"
+    ],
+    "evidence_section": "IFF: Performance Graph (table); NEM: no comparable section",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the cash and cash equivalents position of IFF at December 31, 2024 compare to any cash information available for NEM in the excerpts?",
+    "answer": "IFF had cash, cash equivalents and restricted cash of approximately $471 million (including $2 million in assets held for sale) at December 31, 2024. NEM's content does not disclose any cash or cash equivalents balance.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "IFF"
+    ],
+    "evidence_section": "IFF: Item 7 – Liquidity and Capital Resources; NEM: no cash data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is IFF's operating cash flow as a percentage of sales in 2024, and does NEM's excerpt provide any similar cash flow metric?",
+    "answer": "IFF's cash flows provided by operating activities in 2024 were $1.070 billion, representing 9.3% of sales. NEM does not provide any operating cash flow or sales figures in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "IFF"
+    ],
+    "evidence_section": "IFF: Item 7 – Cash Flows Provided By Operating Activities; NEM: no cash flow data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic difference is highlighted between NEM's impairment charge policy and IFF's foreign cash repatriation strategy?",
+    "answer": "NEM states that impairment charges on long-lived assets are not reversible even if conditions improve, reflecting a conservative accounting policy. IFF actively repatriates cash from non-U.S. subsidiaries to the U.S. and recognizes a deferred tax liability of $154 million for expected taxes on repatriation, indicating a strategy to optimize global cash use.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "IFF"
+    ],
+    "evidence_section": "NEM: Item 7 – Critical Accounting Estimates; IFF: Item 7 – Liquidity and Capital Resources",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the number of equity security holders for IFF compare to any shareholder information provided for NEM?",
+    "answer": "IFF reports 2,993 shareholders of record of common stock as of February 24, 2025. NEM does not disclose any number of shareholders or equity security holders in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "IFF"
+    ],
+    "evidence_section": "IFF: Item 8 – Approximate Number of Equity Security Holders; NEM: no similar disclosure",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

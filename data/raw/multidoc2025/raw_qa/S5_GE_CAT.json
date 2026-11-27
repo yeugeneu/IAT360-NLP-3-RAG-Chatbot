@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Calculate the change in page count of GE's Item 7 from FY2022 to FY2024. Then, compare the length (in words) of CAT's forward-looking statement definition in FY2022 with that in FY2024. Are the page counts and word lengths consistent across years?",
+    "answer": "GE FY2022 Item 7 spans pages 6-29, which is 24 pages (29 - 6 + 1 = 24). GE FY2024 Item 7 spans pages 8-24, which is 17 pages (24 - 8 + 1 = 17). The page count decreased by 7 pages. For CAT, the provided forward-looking statement definition is identical in FY2022 and FY2024 (both start with 'Item 7 “Management\\'s Discussion and Analysis…' and end with '…uncertainties. Altho'). The word count of the provided snippet is approximately 113 words in both years. Thus, GE’s page count changed while CAT’s text length remained the same.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GE",
+      "CAT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 Management’s Discussion and Analysis",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GE+CAT",
+    "sector": "Industrials"
+  },
+  {
+    "question": "Based on the provided content, determine the number of fiscal years (2022 and 2024) in which GE's Item 7 page range ends on a page number higher than 25. Then compare this with CAT's disclosure pattern: does CAT's forward-looking statement text appear on the same page number in both years? Note that page numbers for CAT are not given, so infer from the fact that the text provided is exactly the same snippet.",
+    "answer": "GE FY2022 Item 7 ends on page 29 (which is >25), while FY2024 ends on page 24 (which is ≤25). So only one fiscal year (2022) qualifies. For CAT, the forward-looking statement text is identical in both years, suggesting it appears on the same page (or at least the same relative location) in both filings. However, no page numbers are given for CAT, so no numerical comparison can be made.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GE",
+      "CAT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 Management’s Discussion and Analysis",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GE+CAT",
+    "sector": "Industrials"
+  },
+  {
+    "question": "From the provided content, identify the exact phrase that defines forward-looking statements in CAT's FY2022 and FY2024 filings. Then, verify whether GE's Item 7 in either year contains a similar definition or a reference to the Private Securities Litigation Reform Act of 1995. Compare the lengths (in characters) of the CAT definition snippet with the GE Item 7 page ranges (converted to an approximate character count assuming 2500 characters per page).",
+    "answer": "CAT FY2022 and FY2024 both contain: 'Item 7 “Management\\'s Discussion and Analysis of Financial Condition and Results of Operations,” include “forward-looking statements” as that term is defined in the Private Securities Litigation Reform Act of 1995 and involve uncertainties that could significantly impact results. Forward-looking statements give current expectations or forecasts of future events about the company or our outlook. You can identify forward-looking statements by the fact they do not relate to historical or current facts and by the use of words such as “believe,” “expect,” “estimate,” “anticipate,” “will be,” “should,” “plan,” “forecast,” “target,” “guide,” “project,” “intend,” “could” and similar words or expressions. Forward-looking statements are based on assumptions and on known risks and uncertainties. Altho'. This snippet contains approximately 650 characters. GE's provided text does not include any such definition. For GE, FY2022 Item 7 spans 24 pages ≈ 60,000 characters; FY2024 spans 17 pages ≈ 42,500 characters. The CAT definition is far shorter than a single page of GE's Item 7.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GE",
+      "CAT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 Management’s Discussion and Analysis",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GE+CAT",
+    "sector": "Industrials"
+  }
+]

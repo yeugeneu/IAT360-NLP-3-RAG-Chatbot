@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was the trend in total revenue from fiscal year 2022 to 2024?",
+    "answer": "Total revenue was $73.8 billion in 2022, increased to $82.6 billion in 2023, and then decreased to $80.1 billion in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WFC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "WFC"
+    ]
+  },
+  {
+    "question": "How did net income change from 2022 to 2023, and what was the percentage change?",
+    "answer": "Net income increased from $13.2 billion in 2022 to $19.1 billion in 2023, representing an increase of approximately 44.7%.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "WFC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "WFC"
+    ]
+  },
+  {
+    "question": "Describe the trend in the efficiency ratio over the three fiscal years.",
+    "answer": "The efficiency ratio was 64% in 2022, improved to 59% in 2023, and then slightly increased to 61% in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WFC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "WFC"
+    ]
+  },
+  {
+    "question": "What was the trend in provision for credit losses from 2022 to 2024?",
+    "answer": "Provision for credit losses increased from $1.1 billion in 2022 to $3.8 billion in 2023, and further to $4.2 billion in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WFC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "WFC"
+    ]
+  },
+  {
+    "question": "How did common stock repurchases change over the three years?",
+    "answer": "Common stock repurchases increased from $4.5 billion in 2022 to $7.2 billion in 2023, and further to $10.1 billion in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WFC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "WFC"
+    ]
+  },
+  {
+    "question": "What was the trend in nonperforming assets from 2022 to 2024?",
+    "answer": "Nonperforming assets decreased from $3.0 billion in 2022 to $2.8 billion in 2023, then increased to $3.5 billion in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WFC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "WFC"
+    ]
+  }
+]

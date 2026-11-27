@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was PM's net earnings attributable to PMI for FY2024 and what was the total stockholders' equity (deficit) of Altria (MO) as of December 31, 2024?",
+    "answer": "PM's net earnings attributable to PMI for FY2024 were $7,057 million. Altria's total stockholders' equity (deficit) as of December 31, 2024, was ($2,188) million, calculated as total assets of $35,177 million minus total liabilities of $37,365 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "MO"
+    ],
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. Consolidated Statements of Earnings (PM) and Consolidated Balance Sheets (MO)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PM+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the goodwill balances of PM and MO change from FY2023 to FY2024?",
+    "answer": "PM does not disclose its goodwill balance in the provided content, but recorded a goodwill impairment charge of $665 million in FY2023 and no goodwill impairment in FY2024. MO's goodwill increased from $6,791 million in 2023 to $6,945 million in 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "MO"
+    ],
+    "evidence_section": "Item 7. Impairment of goodwill and other intangibles (PM) and Item 8. Consolidated Balance Sheets (MO)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PM+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the financial statement impact of the IQOS commercialization rights reacquisition on both PM and MO in FY2024?",
+    "answer": "PM recorded amortization of intangibles of $835 million in FY2024, which included the reacquired IQOS commercialization rights from Altria, resulting in a $0.40 per share decrease in diluted EPS. MO's deferred gain from the sale of IQOS System commercialization rights was $2,700 million at December 31, 2023, and decreased to $0 at December 31, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "MO"
+    ],
+    "evidence_section": "Item 7. Amortization of intangibles (PM) and Item 8. Consolidated Balance Sheets (MO)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PM+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the total revenues of PM in FY2024 with the total assets of MO at the end of FY2024.",
+    "answer": "PM's net revenues for FY2024 were $37,878 million. MO's total assets as of December 31, 2024, were $35,177 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "MO"
+    ],
+    "evidence_section": "Item 8. Consolidated Statements of Earnings (PM) and Consolidated Balance Sheets (MO)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PM+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the impairment charges recorded by PM in FY2024 with the change in MO's investments in equity securities from FY2023 to FY2024.",
+    "answer": "PM recorded an impairment related to the RBH equity investment of $2,316 million in FY2024. MO's investments in equity securities decreased from $10,011 million in 2023 to $8,195 million in 2024, a decrease of $1,816 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "MO"
+    ],
+    "evidence_section": "Item 8. Consolidated Statements of Earnings (PM) and Consolidated Balance Sheets (MO)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PM+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the diluted earnings per share for PM in FY2024 and what was the retained earnings (earnings reinvested in the business) for MO as of December 31, 2024?",
+    "answer": "PM's diluted earnings per share for FY2024 was $4.52. MO's retained earnings (earnings reinvested in the business) as of December 31, 2024, was $35,516 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "MO"
+    ],
+    "evidence_section": "Item 8. Consolidated Statements of Earnings (PM) and Consolidated Balance Sheets (MO)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PM+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

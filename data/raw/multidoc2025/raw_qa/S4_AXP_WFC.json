@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Based solely on the provided content, which company includes a detailed table showing total revenues net of interest expense for fiscal years 2024, 2023, and 2022?",
+    "answer": "AXP includes Table 2 with total revenues net of interest expense for 2024, 2023, and 2022. WFC's provided content does not include any such table; it only states that Item 7 is incorporated by reference.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AXP",
+      "WFC"
+    ],
+    "evidence_section": "AXP: Item 7, Table 2; WFC: Item 7 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AXP+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's excerpt explicitly contains a management’s report on internal control over financial reporting as of December 31, 2024?",
+    "answer": "AXP includes a Management’s Report on Internal Control Over Financial Reporting. WFC's excerpt does not include such a report; it only references Item 8 as incorporated by reference.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AXP",
+      "WFC"
+    ],
+    "evidence_section": "AXP: Item 8 - Management’s Report on Internal Control; WFC: Item 8 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AXP+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In the provided content, which company discusses specific revenue components such as discount revenue, net card fees, and processed revenue?",
+    "answer": "AXP discusses discount revenue, net card fees, service fees and other revenue, processed revenue, interest income, and interest expense in its MD&A. WFC's provided content does not discuss any revenue components; it only mentions that financial review is incorporated by reference.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AXP",
+      "WFC"
+    ],
+    "evidence_section": "AXP: Item 7 - Table 2 and narrative; WFC: Item 7 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AXP+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's provided content references the COSO Internal Control —Integrated Framework (2013) as the criteria for assessing internal control effectiveness?",
+    "answer": "AXP explicitly references the COSO Internal Control —Integrated Framework (2013). WFC's excerpt does not mention COSO or any internal control framework.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AXP",
+      "WFC"
+    ],
+    "evidence_section": "AXP: Item 8 - Management’s Report on Internal Control; WFC: No corresponding section in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AXP+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided excerpts, which company's Item 7 (MD&A) content is directly included in the filing, and which company's Item 7 is incorporated by reference to another document?",
+    "answer": "AXP's Item 7 content is directly provided in the filing, including detailed tables and narrative. WFC's Item 7 is incorporated by reference to the 2024 Annual Report to Shareholders under 'Financial Review'.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AXP",
+      "WFC"
+    ],
+    "evidence_section": "AXP: Item 7 (full text included); WFC: Item 7 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AXP+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's provided content includes a footnote indicating a variance of 100 percent or more with the symbol '#'?",
+    "answer": "AXP includes a footnote '#' in Table 2 denoting a variance of 100 percent or more for the 2023 vs. 2022 change in total interest expense. WFC's provided content does not include any such footnotes.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AXP",
+      "WFC"
+    ],
+    "evidence_section": "AXP: Item 7 - Table 2 footnote; WFC: No comparable table or footnote in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AXP+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

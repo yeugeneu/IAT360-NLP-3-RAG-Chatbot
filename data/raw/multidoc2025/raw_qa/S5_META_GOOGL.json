@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Based on the provided excerpts from META and GOOGL 10-K filings for fiscal years 2022 and 2024, which company's Item 7 text includes a risk factor discussion about intellectual property, and do any of the excerpts contain financial tables from Item 8?",
+    "answer": "Only GOOGL's Item 7 excerpts (for both 2022 and 2024) include risk factor language about intellectual property, which reads: 'Our intellectual property rights are valuable, and any inability to protect them could reduce the value of our products, services, and brands as well as affect our ability to compete.' META's Item 7 excerpts for both years contain only the introductory instruction 'You should read the following discussion...' and no risk factor discussion. None of the provided snippets from either company in either year include any financial tables from Item 8; all text ends before such tables appear.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "META",
+      "GOOGL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 for both companies across both years (META FY2022, META FY2024, GOOGL FY2022, GOOGL FY2024). The GOOGL text is identical in both years; META text is identical in both years. No Item 8 financial tables are present in any excerpt.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "META+GOOGL",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Based on the provided excerpts from Item 7 of META and GOOGL for fiscal years 2022 and 2024, what is the primary focus of the first sentence for each company? Does this focus change between 2022 and 2024? Additionally, calculate the number of times the word 'financial' appears in META's Item 7 excerpt versus GOOGL's Item 7 excerpt across both years. What does this suggest about the emphasis on financial disclosure?",
+    "answer": "In both 2022 and 2024, META's Item 7 first sentence focuses on Management's Discussion and Analysis of Financial Condition and Results of Operations, explicitly mentioning 'consolidated financial statements.' In both years, GOOGL's Item 7 first sentence focuses on intellectual property rights, stating 'Our intellectual property rights are valuable...' The focus does not change for either company across the two years. The word 'financial' appears twice in META's excerpt (in both years the same text) and zero times in GOOGL's excerpt. This suggests META places greater emphasis on financial disclosure in its MD&A, while GOOGL leads with risk factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "META",
+      "GOOGL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "META+GOOGL",
+    "sector": "Communication Services"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "How many home improvement stores and outlets did Lowe's operate as of January 31, 2025?",
+    "answer": "1,748",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business General Information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In what year was Lowe's founded?",
+    "answer": "1921",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business General Information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the approximate average square feet of retail selling space per store?",
+    "answer": "Approximately 111,557 square feet (195,000,000 square feet / 1,748 stores)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business General Information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many Lowe's-branded home improvement stores and outlet stores are there?",
+    "answer": "1,748",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total average square footage per Lowe's store including both retail selling space and outdoor garden center selling space?",
+    "answer": "144,000 square feet (112,000 + 32,000)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What three options are available for customers to pick up purchases made on Lowes.com?",
+    "answer": "Customer service desk, curbside, or from touchless lockers",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is one of the private brand product names mentioned under Intellectual Property?",
+    "answer": "Kobalt, STAINMASTER, and allen+roth.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What notable employer of choice awards did Lowe's receive in fiscal 2024?",
+    "answer": "Being named on the Disability:IN National Best Places to Work for Disability Inclusion and Fortune's World's Most Admired Companies Specialty Retailer.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the registered service mark mentioned as owned by a wholly-owned subsidiary?",
+    "answer": "Lowe's",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the intellectual property information, how many private brand product names are specifically named?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Intellectual Property",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the intellectual property details, how many categories of IP are listed that the subsidiary owns and maintains?",
+    "answer": "6 (trademarks, service marks, trade names, internet domain names, copyrights, patents)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Intellectual Property",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many registered service marks are explicitly named in the intellectual property section?",
+    "answer": "1 (Lowe's)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Intellectual Property",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the fair value of derivative financial instruments as of January 31, 2025?",
+    "answer": "not material",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A - Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of hedging are interest rate swap agreements used for?",
+    "answer": "fair value hedges on certain debt",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A - Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the company, what mitigates the price volatility of commodity products?",
+    "answer": "our ability to adjust selling prices",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A - Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many consolidated financial statements are listed in the table of contents?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which page does Note 1: Summary of Significant Accounting Policies begin?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of notes listed in the Notes to Consolidated Financial Statements section of the table of contents?",
+    "answer": "17",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in starting page numbers between Note 1 and Note 17?",
+    "answer": "23",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average starting page number for Notes 4, 5, and 6?",
+    "answer": "52.33",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LOW"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

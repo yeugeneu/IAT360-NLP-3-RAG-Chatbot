@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What are the two operating segments of The Walt Disney Company as described in Item 1. Business?",
+    "answer": "Disney Media and Entertainment Distribution (DMED) and Disney Parks, Experiences and Products (DPEP).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "When did certain theme park and resort operations and film and television productions resume according to the filing?",
+    "answer": "by the end of fiscal 2020 and throughout fiscal 2021.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What specific impacts did COVID-19 have on the DMED segment as mentioned in Item 1. Business?",
+    "answer": "delayed, or in some cases, shortened or cancelled theatrical releases and experienced disruptions in the production and availability of content.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the diluted earnings per share from continuing operations attributable to Disney for fiscal 2022?",
+    "answer": "$1.75",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net income attributable to Disney for fiscal 2021?",
+    "answer": "$1.9 billion (since net income increased $1.2 billion to $3.1 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the product revenue for fiscal 2021?",
+    "answer": "$5.6 billion (since product revenues increased $2.9 billion to $8.5 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "When did Robert A. Iger return to Disney as CEO?",
+    "answer": "November 20, 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "SIGNIFICANT DEVELOPMENTS Leadership Change and Pending Restructuring",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What impact did COVID-19 have on DPEP according to the filing?",
+    "answer": "theme parks and resorts were closed and cruise ship sailings and guided tours were suspended",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "SIGNIFICANT DEVELOPMENTS COVID-19 Pandemic",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many more years did Robert A. Iger serve as CEO previously compared to his new two-year term?",
+    "answer": "13 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "SIGNIFICANT DEVELOPMENTS Leadership Change and Pending Restructuring",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many total years will Robert A. Iger have served as CEO if he completes his current two-year term, given that he previously served 15 years as CEO?",
+    "answer": "17 years (15 + 2 = 17)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Based on the announcement that Mr. Iger agreed to serve as CEO for two years starting November 20, 2022, what year will his term end?",
+    "answer": "2024",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Assuming the COVID-19 pandemic began in January 2020, how many months passed before operations resumed in May 2020?",
+    "answer": "4 months",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the objective of the Company in managing exposure to interest rate changes?",
+    "answer": "to limit the impact of interest rate volatility on earnings and cash flows and to lower overall borrowing costs",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many principal foreign currencies are hedged by the Company?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What types of contracts does the Company use to hedge foreign currency assets and liabilities?",
+    "answer": "forward and option contracts",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the page number where the Index to Financial Statements and Supplemental Data can be found according to Item 8?",
+    "answer": "page 63",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which Item contains the financial statements and supplementary data?",
+    "answer": "ITEM 8",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of Item 8 in the 10-K filing?",
+    "answer": "Financial Statements and Supplementary Data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the page number of the Index to Financial Statements plus 10?",
+    "answer": "73",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "If the Index is on page 63, what is 63 divided by 3?",
+    "answer": "21",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the product of the page number 63 and 2?",
+    "answer": "126",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

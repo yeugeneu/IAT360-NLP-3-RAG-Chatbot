@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What was Duke Energy's date of incorporation?",
+    "answer": "May 3, 2005",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the two reportable business segments of Duke Energy?",
+    "answer": "Electric Utilities and Infrastructure (EU&I) and Gas Utilities and Infrastructure (GU&I)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many Subsidiary Registrants are explicitly named in the list provided?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the number that appears before the heading 'RISK FACTORS' in this section?",
+    "answer": "22",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are two examples of fuels or generation technologies that could be affected by federal or state policies according to this risk factor?",
+    "answer": "natural gas or nuclear power",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many times does the phrase 'Duke Energy' appear in the provided content?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does Duke Energy plan to do when assets are retired and amounts would not be otherwise recovered?",
+    "answer": "Duke Energy plans to seek regulatory recovery for amounts that would not be otherwise recovered when any of these assets are retired.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which type of lines does Duke Energy self-insure against loss due to storm damage and other natural disasters?",
+    "answer": "Duke Energy self-insures their electric transmission and distribution lines against loss due to storm damage and other natural disasters.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "5. Commitments and Contingencies Insurance General Insurance",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "From whom do the Duke Energy Registrants have insurance coverage either directly or through indemnification?",
+    "answer": "The Duke Energy Registrants have insurance and reinsurance coverage either directly or through indemnification from Duke Energy’s captive insurance company, Bison, and its affiliates.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "5. Commitments and Contingencies Insurance General Insurance",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct types of coverage are specifically enumerated in the list of Duke Energy Registrants' coverage?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "5. COMMITMENTS AND CONTINGENCIES INSURANCE General Insurance",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of damage types explicitly covered under property coverage (excluding any exclusions)?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "5. COMMITMENTS AND CONTINGENCIES INSURANCE General Insurance",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many separate exclusions or limitations are mentioned in the property coverage description?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "5. COMMITMENTS AND CONTINGENCIES INSURANCE General Insurance",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where should one refer to for quantitative and qualitative disclosures about market risk according to Item 7A?",
+    "answer": "Management’s Discussion and Analysis of Results of Operations and Financial Condition – Quantitative and Qualitative Disclosures About Market Risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which page are the Financial Statements located as per the reference in Item 7A?",
+    "answer": "69",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many words are in the first sentence of Item 7A as presented?",
+    "answer": "29",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the starting page number for the Duke Energy Carolinas Report of Independent Registered Public Accounting Firm?",
+    "answer": "79",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many separate 'Report of Independent Registered Public Accounting Firm' entries are listed in Item 8?",
+    "answer": "8",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in starting page numbers between Progress Energy and Duke Energy Progress Reports of Independent Registered Public Accounting Firm?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many subsidiary entities (registrants other than Duke Energy corporate) are listed in the table of contents?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the number of financial statement categories (excluding the Report of Independent Registered Public Accounting Firm) between Duke Energy parent and Duke Energy Carolinas?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of the number of separate financial statement categories (excluding the Report) for Duke Energy parent (5) to that for Duke Energy Progress (4)?",
+    "answer": "1.25",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

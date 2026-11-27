@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the top-line revenues of PM and PG compare for their most recent fiscal years?",
+    "answer": "PM's net revenues were $37,878 million for the year ended December 31, 2024. PG's net sales were $84.0 billion for the fiscal year ended June 30, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "PG"
+    ],
+    "evidence_section": "PM: Item 8 - Consolidated Statements of Earnings (2024 net revenues); PG: Item 7 - Net Sales (fiscal 2024)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PM+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the gross profitability of PM and PG for their most recent fiscal years.",
+    "answer": "PM's gross profit was $24,549 million on net revenues of $37,878 million, implying a gross margin of approximately 64.8%. PG's gross margin was 51.4% of net sales.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "PG"
+    ],
+    "evidence_section": "PM: Item 8 - Consolidated Statements of Earnings (gross profit and net revenues); PG: Item 7 - Gross margin (51.4%)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PM+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the net earnings attributable to the parent company for PM and PG in their most recent fiscal years.",
+    "answer": "PM's net earnings attributable to PMI were $7,057 million for the year ended December 31, 2024. PG's net earnings attributable to Procter & Gamble were 17.7% of net sales for the fiscal year ended June 30, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "PG"
+    ],
+    "evidence_section": "PM: Item 8 - Consolidated Statements of Earnings (net earnings attributable to PMI); PG: Item 7 - Net earnings attributable to Procter & Gamble (17.7%)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PM+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What impairment charges were recorded by PM and PG in the periods covered?",
+    "answer": "PM recorded a goodwill impairment of $665 million in 2023 and an impairment related to the RBH equity investment of $2,316 million in 2024. The provided PG content does not mention any impairment charges.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "PG"
+    ],
+    "evidence_section": "PM: Item 7 - Impairment of goodwill and other intangibles (2023) and Item 8 - Consolidated Statements of Earnings (Impairment related to RBH equity investment); PG: No impairment charges in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PM+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the impact of foreign exchange on each company's financial results in the periods covered.",
+    "answer": "PM reported unrealized losses on currency translation adjustments of $122 million after tax in 2024 (and a $1,643 million loss in 2023). PG reported a 2% unfavorable foreign exchange impact on net sales and a 60 basis-point decline in gross margin due to foreign exchange in fiscal 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "PG"
+    ],
+    "evidence_section": "PM: Item 8 - Consolidated Statements of Comprehensive Earnings (currency translation adjustments); PG: Item 7 - Net sales (unfavorable foreign exchange 2%) and Operating Costs Comparisons (60 bps decline from FX)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PM+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the operating income or operating margin of PM and PG for their most recent fiscal years.",
+    "answer": "PM's operating income was $13,402 million on net revenues of $37,878 million, an operating margin of approximately 35.4%. PG's operating margin was 22.1% of net sales.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PM",
+      "PG"
+    ],
+    "evidence_section": "PM: Item 8 - Consolidated Statements of Earnings (operating income $13,402 million and net revenues $37,878 million); PG: Item 7 - Operating margin 22.1%",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PM+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

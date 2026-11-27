@@ -1,0 +1,134 @@
+[
+  {
+    "question": "In FY2024, which company had higher total revenue and which had stronger revenue growth compared to 2023?",
+    "answer": "SLB had higher total revenue of $36,289 million and stronger growth of 10% (from $33,135 million). EOG had lower operating revenues of $23,698 million and a decline of 2% (from $24,186 million).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "EOG"
+    ],
+    "evidence_section": "SLB Item 8 Income Statement and Item 7 Executive Overview; EOG Item 7 Operating Revenues",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "SLB+EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the primary revenue streams of SLB and EOG differ? Provide the revenue breakdowns as reported.",
+    "answer": "SLB splits revenue into Services ($23,297M) and Product sales ($12,992M). EOG’s revenue comes from sales of crude oil/NGL/natural gas ($17,578M), gathering/processing/marketing ($5,800M), net derivative gains ($204M), and net gains on asset dispositions ($16M).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "EOG"
+    ],
+    "evidence_section": "SLB Item 8 Income Statement lines; EOG Item 7 Operating Revenues",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SLB+EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the geographic revenue focus of SLB and EOG in FY2024.",
+    "answer": "SLB emphasizes international revenue, which grew 12% year-over-year, led by Middle East & Asia (+18%) and Europe & Africa (+13%). EOG is overwhelmingly U.S.-focused: crude oil volumes 490.6 MBbld in U.S. vs. 0.8 MBbld Trinidad; natural gas 1,728 MMcfd U.S. vs. 220 MMcfd Trinidad.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "EOG"
+    ],
+    "evidence_section": "SLB Item 7 Executive Overview; EOG Item 7 Volume and Price Statistics",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SLB+EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the two companies perform in terms of crude oil activity and pricing? EOG directly reports volumes and prices; SLB benefits from industry activity levels. Compare their FY2024 results.",
+    "answer": "EOG’s crude oil and condensate volumes increased to 491.4 MBbld (from 475.8 MBbld), but composite price fell to $77.40/Bbl (from $79.17/Bbl). SLB, as an oilfield services provider, does not produce crude; its revenue grew 10% despite moderating upstream investment, driven by international growth and digital adoption.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "EOG"
+    ],
+    "evidence_section": "EOG Volume and Price Statistics table; SLB Item 7 Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "SLB+EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the strategic emphasis on digital technology between SLB and EOG in FY2024.",
+    "answer": "SLB reported Digital & Integration revenue of $2.44 billion, up 20% year-over-year, highlighting a strong digital strategy. EOG’s provided content does not mention any digital technology initiatives or revenue from digital offerings.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "EOG"
+    ],
+    "evidence_section": "SLB Item 7 Executive Overview; EOG entire provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SLB+EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the two companies’ reported derivative gains or losses compare in FY2024, and what does this imply about their business models?",
+    "answer": "EOG recognized net gains on financial commodity and other derivative contracts of $204 million (down from $818 million in 2023), reflecting a producer’s use of hedging. SLB’s income statement does not report any material derivative gains or losses, consistent with a services company less exposed to commodity price volatility.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "EOG"
+    ],
+    "evidence_section": "EOG Item 7 Operating Revenues; SLB Item 8 Income Statement",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SLB+EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

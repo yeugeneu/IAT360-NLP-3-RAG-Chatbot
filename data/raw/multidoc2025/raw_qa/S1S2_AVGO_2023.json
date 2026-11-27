@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What types of semiconductor devices does AVGO develop?",
+    "answer": "complex digital and mixed signal complementary metal oxide semiconductor (“CMOS”) based devices and analog III-V based products",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many major geographic regions are listed for the company's design engineering resources?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What former companies are listed as part of AVGO's diverse origins?",
+    "answer": "Hewlett-Packard Company, AT&T, LSI Corporation, Broadcom Corporation, Brocade Communications Systems LLC, CA, Inc., Symantec Enterprise Security, and VMware, Inc. (“VMware”)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is one risk factor listed in the Risk Factors Summary that relates to the VMware Merger?",
+    "answer": "The failure to realize the expected benefits from the VMware Merger may adversely affect our business and the value of our common stock.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What risk factor mentions the potential impairment of IT systems?",
+    "answer": "An impairment of the confidentiality, integrity, or availability of our IT systems, or those of",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many risk factors are listed in the Risk Factors Summary within the provided text?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the two reportable segments of the company?",
+    "answer": "semiconductor solutions and infrastructure software",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What does the infrastructure software segment include?",
+    "answer": "our mainframe, distributed and cyber security solutions, and our FC SAN business",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What products does the company offer in the form of modules, switches and subsystems?",
+    "answer": "mission critical fibre channel storage area networking (\"FC SAN\") products and related software",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the principal amount of debt outstanding as of October 29, 2023?",
+    "answer": "$40.8 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the estimated aggregate fair value of debt as of October 30, 2022?",
+    "answer": "$33.0 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the change in estimated aggregate fair value of debt from October 30, 2022 to October 29, 2023?",
+    "answer": "Increase of $0.2 billion (from $33.0 billion to $33.2 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the Exhibit Number for the 'Form of Common Stock Certificate'?",
+    "answer": "4.1",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the filing date of the Agreement and Plan of Merger (Exhibit 2.1)?",
+    "answer": "05-26-2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many exhibits listed in the incorporated by reference table have a filing date in the year 2018?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many exhibits listed in the table were filed on Current Reports on Form 8-K (including Form 8-K12B)?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8: Exhibits",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference in days between the filing dates of Exhibit 2.1 (05-26-2022) and Exhibit 3.2 (09-30-2019)?",
+    "answer": "969",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8: Exhibits",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many days after Exhibit 4.3 (01-20-2017) was Exhibit 4.4 (04-09-2018) filed?",
+    "answer": "444",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8: Exhibits",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What non-GAAP financial measures are disclosed by Meta Platforms in its Item 7, and does Comcast disclose any non-GAAP measures in its provided content?",
+    "answer": "Meta's Item 7 states that it presents 'revenue on a constant currency basis and free cash flow, which are non-GAAP financial measures.' Comcast's provided content includes only the line 'Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations 30' and does not mention any non-GAAP measures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "META"
+    ],
+    "evidence_section": "Meta: Item 7 paragraph starting 'To supplement our consolidated financial statements...'; CMCSA: single line from Item 7.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+META",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does the provided content from Comcast include an audit report or opinion from an independent registered public accounting firm? How does that compare to Meta's filing?",
+    "answer": "Comcast's provided content does not include any audit report. Meta's content includes a 'Report of Independent Registered Public Accounting Firm' (PCAOB ID No. 42) with an unqualified opinion on the consolidated financial statements, stating they 'present fairly, in all material respects, the financial position of the Company at December 31, 2024 and 2023.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "META"
+    ],
+    "evidence_section": "Meta: Item 8, pages 82-86; CMCSA: no audit report present.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+META",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies reference risk factors in their Management’s Discussion and Analysis?",
+    "answer": "Meta's Item 7 explicitly references 'Part I, Item 1A, \"Risk Factors\"' as a source of factors that could cause actual results to differ. Comcast's provided content does not mention risk factors or cross-reference any risk factor section.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "META"
+    ],
+    "evidence_section": "Meta: Item 7 paragraph starting 'Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Annual Report on Form 10-K, particularly in Part I, Item 1A, \"Risk Factors.\"'; CMCSA: no such mention.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+META",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Do either Comcast or Meta disclose forward-looking statements in their provided MD&A content?",
+    "answer": "Meta's Item 7 explicitly contains a forward-looking statements caution: 'In addition to our historical consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs.' Comcast's provided content contains no mention of forward-looking statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "META"
+    ],
+    "evidence_section": "Meta: second sentence of Item 7; CMCSA: only the heading and page number.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+META",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What financial statements are listed in Meta's filing index, and does Comcast's provided content include any financial statements or an index to them?",
+    "answer": "Meta's content includes an 'INDEX TO CONSOLIDATED FINANCIAL STATEMENTS' listing 'Consolidated Balance Sheets', 'Consolidated Statements of Income', 'Consolidated Statements of Comprehensive Income', 'Consolidated Statements of Stockholders' Equity', and 'Consolidated Statements of Cash Flows'. Comcast's provided content does not include any financial statements or an index to them; only Item 7 is present.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "META"
+    ],
+    "evidence_section": "Meta: Item 8, page 81-82; CMCSA: no such index or statements.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+META",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based solely on the provided excerpts, which company's MD&A includes a discussion of foreign exchange impact on revenue?",
+    "answer": "Meta's Item 7 includes a section titled '— Revenue — Foreign Exchange Impact on Revenue' and explains that it calculates constant currency revenue using '2023 monthly exchange rates for our settlement or billing currencies other than the U.S. dollar.' Comcast's provided content does not mention foreign exchange or constant currency.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "META"
+    ],
+    "evidence_section": "Meta: Item 7 paragraph starting 'To supplement our consolidated financial statements...'; CMCSA: no such discussion.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+META",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

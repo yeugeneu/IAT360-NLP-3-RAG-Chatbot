@@ -1,0 +1,68 @@
+[
+  {
+    "question": "How did the strategic focus disclosed in MD&A differ between CCI's FY2022 and FY2024 filings, and what does this imply about competitive dynamics compared to EQIX's consistent business description across the same years?",
+    "answer": "In CCI's FY2022 MD&A, the discussion centered on accounting for acquisitions and lease classification for towers acquired from AT&T and T-Mobile (including Sprint merger), indicating a post-merger integration phase. In FY2024, CCI's MD&A highlighted a 2023 Restructuring Plan that discontinued installation services as a Towers product offering and emphasized challenges from competition affecting contract negotiations and margins. In contrast, EQIX's overview text is identical for both FY2022 and FY2024, stating its platform enables customers to 'reach everywhere, interconnect everyone and integrate everything.' This consistency suggests EQIX faced no major strategic pivot, while CCI's shift from integration to restructuring reflects sector-level pressure on tower operators to adapt to competitive and operational challenges.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "EQIX",
+      "CCI"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 for both companies (EQIX FY2022 and FY2024 overview; CCI FY2022 MD&A—Accounting and Reporting Matters; CCI FY2024 MD&A—General Overview)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "EQIX+CCI",
+    "sector": "Real Estate"
+  },
+  {
+    "question": "Based on the MD&A excerpts, what specific change in CCI's tower-related services occurred between its FY2022 and FY2024 filings, and how does the absence of a similar change in EQIX's disclosure reflect divergent sector strategies?",
+    "answer": "CCI's FY2024 MD&A references a '2023 Restructuring Plan' that included discontinuing installation services as a Towers product offering, indicating a narrowing of service scope. Its FY2022 MD&A, however, discusses accounting for acquired towers and leases, with no mention of service discontinuation. EQIX's FY2022 and FY2024 overviews are identical, describing a 'global, vendor-neutral data center, interconnection and edge solutions platform' with no mention of product discontinuation. This contrast suggests CCI retreated from installation services to focus on core tower leasing, while EQIX maintained a stable, broad service suite across the period.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "EQIX",
+      "CCI"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 (CCI FY2022: 'Accounting for Acquisitions—Leases' and 'AT&T and T-Mobile leased and subleased towers'; CCI FY2024: '2023 Restructuring Plan, which included discontinuing installation services as a Towers product offering'; EQIX FY2022 and FY2024: identical overview text)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "EQIX+CCI",
+    "sector": "Real Estate"
+  },
+  {
+    "question": "How did the competitive risk language evolve for CCI from FY2022 to FY2024, and what does EQIX's static description imply about relative growth stability in the real estate data center vs. tower subsectors? (Use numerical evidence from filing dates to show timeline consistency.)",
+    "answer": "CCI's FY2022 MD&A contains no explicit competitive risk language in the provided excerpt, focusing instead on acquisition accounting. Its FY2024 MD&A explicitly states: 'As a result of competition in our industry, we may find it more difficult to negotiate favorable rates on our new or renewing tenant contracts' and 'competition in our industry may make it more difficult for us to attract new tenants, maintain or increase our gross margins, or maintain or increase our market share.' EQIX's overview remains unchanged across FY2022 (filed Feb 18, 2022) and FY2024 (filed Feb 16, 2024), with no added risk language. Numerically, the filing dates show EQIX's annual report submission drifted earlier by 2 days (Feb 18 to Feb 16), while CCI's FY2024 filing (date not given in excerpt) presumably followed the same cadence. The stability in EQIX's text and minimal filing-date shift contrasts with CCI's explicit risk escalation, suggesting EQIX's data center platform may have faced less competitive pressure than CCI's tower business during this period.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "EQIX",
+      "CCI"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 (EQIX FY2022: 'filed on February 18, 2022'; EQIX FY2024: 'filed on February 16, 2024'; CCI FY2022: MD&A—Accounting for Acquisitions—Leases; CCI FY2024: 'competition in our industry...may make it more difficult...to attract new tenants, maintain or increase our gross margins')",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "EQIX+CCI",
+    "sector": "Real Estate"
+  }
+]

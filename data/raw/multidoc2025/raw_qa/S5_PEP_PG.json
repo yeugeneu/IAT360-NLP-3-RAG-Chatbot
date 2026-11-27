@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What were PG's net sales for fiscal 2022 and fiscal 2024, and what were PEP's fiscal year end dates for fiscal 2022 and fiscal 2024?",
+    "answer": "PG's net sales were $80.2 billion in fiscal 2022 and $84.0 billion in fiscal 2024. PEP's fiscal year ended on December 31, 2022 for fiscal 2022 and on December 28, 2024 for fiscal 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PEP",
+      "PG"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PG: \"Item 7 of the Company's Form 10-K for the fiscal year ended June 30, 2021 . Net Sales Net sales increased 5% to $80.2 billion in fiscal 2022\" and \"Item 7 of the Company's Form 10-K for the fiscal year ended June 30, 2023 . Net Sales Net sales increased 2% to $84.0 billion in fiscal 2024\". PEP: \"Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations: Consolidated Statement of Income – Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020\" and \"Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations: Consolidated Statement of Income – Fiscal years ended December 28, 2024, December 30, 2023 and December 31, 2022\".",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PEP+PG",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "What were the net sales of Procter & Gamble in fiscal years 2022 and 2024, and what were the net sales of PepsiCo in those same fiscal years based on the provided excerpts?",
+    "answer": "According to the provided excerpts, Procter & Gamble's net sales were $80.2 billion in fiscal 2022 and $84.0 billion in fiscal 2024. For PepsiCo, the provided excerpts only list the titles of the Consolidated Statements of Income and Comprehensive Income for fiscal years 2022 and 2024, but no net sales figures are provided in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PEP",
+      "PG"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PEP 2022: Consolidated Statement of Income – Fiscal years ended December 31, 2022...; PEP 2024: Consolidated Statement of Income – Fiscal years ended December 28, 2024...; PG 2022: Net sales increased 5% to $80.2 billion in fiscal 2022; PG 2024: Net sales increased 2% to $84.0 billion in fiscal 2024.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PEP+PG",
+    "sector": "Consumer Staples"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "How many electric utility customers does Dominion Energy serve?",
+    "answer": "approximately 4.1 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total miles of electric transmission and distribution lines owned by Dominion Energy as of December 31, 2024?",
+    "answer": "90,300 miles (10,600 transmission + 79,700 distribution)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the approximate electric generating capacity of Dominion Energy as of December 31, 2024?",
+    "answer": "approximately 30.3 GW",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the purpose of deferring costs for regulated businesses according to Dominion Energy?",
+    "answer": "When it is probable that regulators will permit the recovery of current costs through future rates charged to customers, these costs that otherwise would be expensed by nonregulated companies are deferred as regulatory assets.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "When are regulatory liabilities recognized?",
+    "answer": "Regulatory liabilities are recognized when it is probable that regulators will require customer refund.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many times does the word 'regulatory' appear in the provided text?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which federal agency regulates the Companies' wholesale rates for electric transmission service?",
+    "answer": "FERC",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the frequency of base rate reviews for Virginia Power as set by legislation enacted in April 2023?",
+    "answer": "biennial, commencing with the 2023 Biennial Review",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If the biennial review period commenced with the 2023 Biennial Review, what is the next year the biennial review would occur?",
+    "answer": "2025",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If federal electric transmission rate reviews are conducted annually and Virginia state base rate reviews are biennial starting in 2023, how many federal reviews occur between two consecutive state reviews?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many Virginia state biennial base rate reviews will take place between 2023 and 2031 (inclusive)?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If federal rate reviews are annual and state reviews are biennial, what is the difference in the number of federal rate reviews compared to state rate reviews over a 10-year period?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the full title of Item 7A as written in the content?",
+    "answer": "Quantitative and Qualitat ive Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitat ive Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the text state about forward-looking statements in this Item?",
+    "answer": "The matters discussed in this Item may contain “forward-looking statements” as described in the introductory paragraphs.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitat ive Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many words are in the title 'Quantitative and Qualitat ive Disclosures About Market Risk'?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitat ive Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm that audited Dominion Energy's financial statements?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which page do the Consolidated Balance Sheets of Dominion Energy begin?",
+    "answer": "92",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years of Consolidated Statements of Income are included for Virginia Electric and Power Company?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the Consolidated Statements of Income for Dominion Energy and the Consolidated Balance Sheets for Dominion Energy?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Statements of Cash Flows for Dominion Energy and for Virginia Electric and Power Company?",
+    "answer": "199",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of page numbers for the Consolidated Statements of Comprehensive Income for Dominion Energy and for Virginia Electric and Power Company?",
+    "answer": "191",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

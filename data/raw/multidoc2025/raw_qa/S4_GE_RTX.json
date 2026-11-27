@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company's 10-K includes a Management's Report on Internal Control over Financial Reporting?",
+    "answer": "RTX includes a Management's Report on Internal Control over Financial Reporting; no such report is included in the provided GE content (only Item 7 MD&A is referenced).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "RTX"
+    ],
+    "evidence_section": "RTX: ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; GE: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 8-24",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many business segments does each company report in the provided content?",
+    "answer": "RTX reports three business segments: Collins Aerospace, Pratt & Whitney, and Raytheon; GE does not report any business segments in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "RTX"
+    ],
+    "evidence_section": "RTX: Business Segments description; GE: no segment data in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's internal control over financial reporting was audited by an independent registered public accounting firm, and by which firm?",
+    "answer": "RTX's internal control over financial reporting was audited by PricewaterhouseCoopers LLP; no such information is provided for GE.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "RTX"
+    ],
+    "evidence_section": "RTX: REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM; GE: no corresponding section",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does the provided content include signatures of top management for each company?",
+    "answer": "The RTX content includes signatures from Christopher T. Calio (President and CEO), Neil G. Mitchill, Jr. (EVP and CFO), and Amy L. Johnson (Corporate Vice President and Controller); the GE content does not include any management signatures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "RTX"
+    ],
+    "evidence_section": "RTX: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING (signatures); GE: no signature section",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company describes its operations in multiple segments with detailed product lines?",
+    "answer": "RTX provides a detailed description of Collins Aerospace's product lines, including electric power systems, flight control systems, and cabin interiors; GE does not provide any operational or product description in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "RTX"
+    ],
+    "evidence_section": "RTX: Business Segments – Collins Aerospace description; GE: no operational description",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, which company reports having effective internal control over financial reporting as of December 31, 2024?",
+    "answer": "RTX reports that its internal control over financial reporting was effective as of December 31, 2024; no such conclusion is stated for GE in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "RTX"
+    ],
+    "evidence_section": "RTX: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; GE: no equivalent statement",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

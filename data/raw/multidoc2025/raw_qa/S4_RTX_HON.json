@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company provides a breakdown of business segments in the provided 10-K content?",
+    "answer": "RTX provides a breakdown of three business segments: Collins Aerospace, Pratt & Whitney, and Raytheon. HON does not provide any segment breakdown in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "HON"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+HON",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes a Management's Report on Internal Control over Financial Reporting in its provided content?",
+    "answer": "RTX includes a Management’s Report on Internal Control over Financial Reporting (in Item 8). HON does not include such a report; its content only shows Item 7.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "HON"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+HON",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many business segments does RTX report, and does HON report any segments in the provided content?",
+    "answer": "RTX reports three business segments (Collins Aerospace, Pratt & Whitney, Raytheon). HON does not report any business segments in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "HON"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+HON",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which independent registered public accounting firm audited RTX's internal control over financial reporting, and does HON mention any such firm?",
+    "answer": "RTX's internal control over financial reporting was audited by PricewaterhouseCoopers LLP. HON does not mention any independent registered public accounting firm in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "HON"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+HON",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who signed RTX's Management's Report on Internal Control over Financial Reporting, and does HON have any signatories listed?",
+    "answer": "RTX's report is signed by Christopher T. Calio (President and CEO), Neil G. Mitchill, Jr. (EVP and CFO), and Amy L. Johnson (Corporate VP and Controller). HON does not list any signatories in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "HON"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+HON",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company describes aftermarket services, spare parts, and overhaul/repair offerings in its segment description?",
+    "answer": "RTX describes these offerings within the Collins Aerospace segment (e.g., aftermarket services including spare parts, overhaul and repair). HON does not provide any segment description in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "HON"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+HON",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

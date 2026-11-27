@@ -1,0 +1,443 @@
+[
+  {
+    "question": "In what year was The Procter & Gamble Company incorporated in Ohio?",
+    "answer": "1905",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In how many countries and territories are P&G's products sold?",
+    "answer": "approximately 180 countries and territories",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many years after being established as a New Jersey corporation in 1890 was P&G incorporated in Ohio in 1905?",
+    "answer": "15 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many countries does PG have operations in?",
+    "answer": "approximately 70 countries",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In how many countries and territories does PG sell products?",
+    "answer": "approximately 180 countries and territories",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many more countries and territories does PG sell products in compared to its operations?",
+    "answer": "approximately 110 (180 - 70)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net sales amount for fiscal year 2022?",
+    "answer": "$80.2 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total basis point impact on gross margin from increased commodity costs and unfavorable product mix?",
+    "answer": "520 basis points (390 + 130)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the organic sales growth percentage for fiscal year 2022?",
+    "answer": "7%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of gross margin to operating margin in fiscal 2022?",
+    "answer": "2.14 (47.4% / 22.2%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the absolute difference in basis points between the change in gross margin and the change in SG&A from 2021 to 2022?",
+    "answer": "140 basis points (|-380 - (-240)| = 140)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the basis point changes for gross margin, SG&A, and operating margin from 2021 to 2022?",
+    "answer": "-760 basis points (-380 + (-240) + (-140))",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the exact title of the section to which the market risk information is incorporated by reference?",
+    "answer": "Other Information under Management's Disclosure and Analysis and Note 9 to the Consolidated Financial Statements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What page number appears at the end of Item 7A?",
+    "answer": "33",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many specific sections are referenced for the market risk disclosures in Item 7A?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Who is responsible for establishing and maintaining adequate internal control over financial reporting according to this section?",
+    "answer": "Management",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many key elements of the internal control system are explicitly listed in this section?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many times does the phrase 'internal control' (including its plural form 'internal controls') appear in this section?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many key elements of the internal control structure are explicitly listed after 'Additional key elements of our internal control structure include'?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of the key elements involve the Board of Directors?",
+    "answer": "25%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of elements that mention 'Audit' to elements that mention 'Committee'?",
+    "answer": "1:1 (Audit appears in 'Global Internal Audit' and 'Audit Committee'; Committee appears in 'Disclosure Committee' and 'Audit Committee' — both appear twice, but as separate elements each is counted once, so ratio is 1:1)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

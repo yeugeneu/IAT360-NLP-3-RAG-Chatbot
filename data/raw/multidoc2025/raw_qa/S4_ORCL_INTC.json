@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What specific types of risks does ORCL discuss in Item 7 that are not mentioned in the INTC content?",
+    "answer": "ORCL discusses business and operational risks including rapid technological advances, intense competition, changing delivery models, evolving standards, and risks related to developing new products and services, integrating acquisitions, supply chain costs, and energy costs. The INTC content does not discuss any specific risks; it only lists page references for liquidity, results of operations, and critical accounting estimates.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "INTC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's MD&A explicitly mentions competition and supply chain costs as factors that could adversely affect the business?",
+    "answer": "ORCL explicitly mentions 'intense competition' and 'supply chain costs' as risks in Item 7. INTC's provided content does not mention competition or supply chain costs; it only lists topics like liquidity, results of operations, and critical accounting estimates.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "INTC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the content provided, which company discusses cloud products and services in its MD&A?",
+    "answer": "ORCL discusses 'cloud products and services' in Item 7, mentioning the need to develop, sell, and integrate these offerings. INTC's content does not mention cloud products or services; it focuses on liquidity, results of operations, and critical accounting estimates.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "INTC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What topics are covered in INTC's Item 7 that are absent from ORCL's Item 7 content?",
+    "answer": "INTC's Item 7 covers liquidity and capital resources, results of operations, and critical accounting estimates. ORCL's Item 7 content does not mention these topics; it focuses on business and operational risks related to technology, competition, product development, and costs.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "INTC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company mentions renewals of contracts as important to future success?",
+    "answer": "ORCL mentions that 'renewals of these contracts are important to our future success' in the context of license, hardware, and cloud subscriptions. INTC's content does not mention contract renewals as an important factor.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "INTC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What difference in strategic focus is evident from the MD&A sections of ORCL and INTC?",
+    "answer": "ORCL's MD&A emphasizes risks related to technological change, competition, and product development, especially in cloud and hardware offerings. INTC's MD&A focuses on liquidity and capital resources, results of operations, and critical accounting estimates, indicating a more operational and financial review focus rather than strategic risks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "INTC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was Equinix's total number of data centers (IBXs) in fiscal years 2022, 2023, and 2024?",
+    "answer": "FY2022: 248 data centers; FY2023: 260 data centers; FY2024: 268 IBXs.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "EQIX"
+    ]
+  },
+  {
+    "question": "By how many data centers did Equinix's total global footprint increase from FY2022 to FY2024?",
+    "answer": "20 data centers (268 in FY2024 minus 248 in FY2022).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "EQIX"
+    ]
+  },
+  {
+    "question": "What was the number of xScale data centers held in unconsolidated joint ventures in each of the three fiscal years?",
+    "answer": "FY2022: 11; FY2023: 17; FY2024: 20.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "EQIX"
+    ]
+  },
+  {
+    "question": "What percentage of total data centers were xScale data centers in FY2022, FY2023, and FY2024?",
+    "answer": "FY2022: 11/248 = 4.44%; FY2023: 17/260 = 6.54%; FY2024: 20/268 = 7.46%.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "EQIX"
+    ]
+  },
+  {
+    "question": "How did the number of markets Equinix operates in change from FY2022 to FY2024?",
+    "answer": "FY2022: 71 markets; FY2023: 71 markets; FY2024: 74 markets. The market count remained the same from FY2022 to FY2023 and increased by 3 in FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "EQIX"
+    ]
+  },
+  {
+    "question": "What is the trend in the number of non-xScale data centers (total minus xScale and MC1) from FY2022 to FY2024?",
+    "answer": "Non-xScale data centers: FY2022 = 248 - 11 - 1 = 236; FY2023 = 260 - 17 - 1 = 242; FY2024 = 268 - 20 - 1 = 247. The count increased each year.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "EQIX"
+    ]
+  }
+]

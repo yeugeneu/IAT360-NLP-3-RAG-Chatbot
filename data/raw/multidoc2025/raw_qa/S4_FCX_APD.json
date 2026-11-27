@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do FCX and APD differ in how they reference the regulatory definition of internal control over financial reporting in their Management's Reports?",
+    "answer": "FCX explicitly references Rule 13a-15(f) or 15d-15(f) under the Securities Exchange Act of 1934, while APD does not reference a specific rule but defines internal control over financial reporting in the following sentences.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "APD"
+    ],
+    "evidence_section": "FCX: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; APD: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+APD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the numbering format of the three policy and procedure bullets in the internal control definitions of FCX and APD?",
+    "answer": "FCX uses bullet points (•) without numbering, while APD uses Roman numerals (i), (ii), (iii).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "APD"
+    ],
+    "evidence_section": "FCX: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; APD: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+APD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's Management's Report on Internal Control Over Financial Reporting includes a reference to the principal executive officer and principal financial officer?",
+    "answer": "FCX's report states the process was designed by or under the supervision of the Company's principal executive and principal financial officers and that management including them is responsible. APD's report does not mention these officers.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "APD"
+    ],
+    "evidence_section": "FCX: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; APD: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+APD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the wording of the first bullet regarding maintenance of records differ between FCX and APD?",
+    "answer": "FCX states 'accurately and fairly reflect the transactions and dispositions of the Company’s assets' while APD states 'accurately and fairly reflect the transactions and dispositions of the assets of the Company' (FCX uses 'Company’s assets' and APD uses 'assets of the Company').",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "APD"
+    ],
+    "evidence_section": "FCX: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; APD: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+APD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes a separate 'Business Overview' section in its Management's Discussion and Analysis, and which does not?",
+    "answer": "APD includes a 'Business Overview' section in Item 7 of its Annual Report, while FCX's provided content does not include an MD&A section or a Business Overview.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "APD"
+    ],
+    "evidence_section": "APD: Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations - Business Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+APD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the opening statement of the Management's Report on Internal Control Over Financial Reporting between FCX and APD?",
+    "answer": "FCX begins with 'Freeport-McMoRan Inc.’s (the Company’s) management is responsible for establishing and maintaining adequate internal control over financial reporting.' APD begins with 'Air Products’ management is responsible for establishing and maintaining adequate internal control over financial reporting.' The company name is the key difference.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "APD"
+    ],
+    "evidence_section": "FCX: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; APD: MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+APD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

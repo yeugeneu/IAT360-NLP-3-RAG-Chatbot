@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What is the gross margin for Microsoft in fiscal year 2024, and what is the gross margin for Broadcom in fiscal year 2022?",
+    "answer": "Microsoft's gross margin for fiscal year 2024 is $171,008 million. For Broadcom fiscal year 2022, the provided excerpt does not include a numerical gross margin value; it states only that the company is a global technology leader.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AVGO",
+      "MSFT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AVGO 2022 Item 7 Overview; MSFT 2024 Item 7 non-GAAP reconciliation",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "AVGO+MSFT",
+    "sector": "Information Technology"
+  },
+  {
+    "question": "What is the sum of the fiscal years covered by AVGO's 2022 and 2024 10-K filings plus Microsoft's gross margin in fiscal year 2024?",
+    "answer": "AVGO's 2022 10-K covers fiscal year 2021, AVGO's 2024 10-K covers fiscal year 2023, and Microsoft's gross margin in fiscal year 2024 is $171,008 million. The sum is 2021 + 2023 + 171008 = 175052.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AVGO",
+      "MSFT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AVGO 2022 Item 7 Overview, AVGO 2024 Item 7 Overview, MSFT 2024 Item 7 table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "AVGO+MSFT",
+    "sector": "Information Technology"
+  },
+  {
+    "question": "Calculate the percentage change in gross margin for Microsoft from fiscal year 2023 to 2024 as reported in their 2024 filing, and determine whether Broadcom's business description in their 2022 filing (for fiscal year 2021) is identical to that in their 2024 filing (for fiscal year 2023).",
+    "answer": "Microsoft's gross margin percentage change: ((171,008 - 146,052) / 146,052) * 100 = 17.1% (rounded to 17% per filing). Broadcom's business description is identical in both filings: 'We are a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions.'",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AVGO",
+      "MSFT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "AVGO+MSFT",
+    "sector": "Information Technology"
+  }
+]

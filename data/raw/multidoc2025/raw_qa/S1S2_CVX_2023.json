@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What state is Chevron Corporation incorporated in?",
+    "answer": "Delaware",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "List three components of Chevron's upstream operations as described in the business summary.",
+    "answer": "Exploring for, developing, producing and transporting crude oil and natural gas; processing, liquefaction, transportation and regasification associated with liquefied natural gas; transporting crude oil by major international oil export pipelines.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What factors are mentioned as influencing demand for crude oil and natural gas?",
+    "answer": "Conditions of local, national and global economies, weather patterns, the pace of energy transition and taxation relative to other energy sources.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total revenues and other income for the first quarter of 2022?",
+    "answer": "$54,373 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What were the selling, general and administrative expenses for the fourth quarter of 2023?",
+    "answer": "$969 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total income before income tax expense for the full year 2023?",
+    "answer": "$29,584 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the item number for Management's Discussion and Analysis?",
+    "answer": "Item 7",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Where is the index to Management's Discussion and Analysis presented?",
+    "answer": "the Financial Table of Contents",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the full title of Item 7?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What types of market risk are discussed in Item 7A?",
+    "answer": "interest rate, foreign currency and commodity price",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Where is the company’s discussion of market risk contained according to Item 7A?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations — Financial and Derivative Instruments and in Note 10 Financial and Derivative Instruments",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which section of the 10-K contains the quantitative and qualitative disclosures about market risk?",
+    "answer": "Item 7A",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the section number and title of the section containing financial statements and supplementary data?",
+    "answer": "Item 8. Financial Statements and Supplementary Data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the text, where can the index to the Financial Statements and Supplementary Data be found?",
+    "answer": "in the Financial Table of Contents",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What does Item 8 cover according to the provided content?",
+    "answer": "Financial Statements and Supplementary Data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

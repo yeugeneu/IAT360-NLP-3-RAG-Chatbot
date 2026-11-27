@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What are the two reportable segments of TSLA?",
+    "answer": "automotive and energy generation and storage",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is TSLA's mission as stated in the business overview?",
+    "answer": "to accelerate the world’s transition to sustainable energy",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many components are listed under 'services and other' in the automotive segment description?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In which year did Tesla temporarily suspend operations at its manufacturing facilities worldwide?",
+    "answer": "2020",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What two temporary changes did Tesla institute while its U.S. operations were scaled back?",
+    "answer": "temporary employee furloughs and compensation reductions",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct operational issues are listed as being exacerbated by pandemic-related issues in the final example?",
+    "answer": "3 (port congestion, supplier shutdowns, and supplier delays)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total number of vehicles delivered in 2021?",
+    "answer": "936,222 vehicles",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Overview and 2021 Highlights",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the difference between vehicle deliveries and production in 2021?",
+    "answer": "5,800 more deliveries than production (936,222 - 930,422 = 5,800)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Overview and 2021 Highlights",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net income attributable to common stockholders in 2021?",
+    "answer": "$5.52 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Overview and 2021 Highlights",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the ratio of vehicles delivered to vehicles produced in 2021?",
+    "answer": "1.0062",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net income margin (net income as a percentage of total revenues) for 2021?",
+    "answer": "10.3%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How much did total revenues increase in dollar terms from the prior year?",
+    "answer": "$22.34 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the hypothetical gain or loss from a 10% adverse change in foreign currency exchange rates at December 31, 2021?",
+    "answer": "$277 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the hypothetical gain or loss from a 10% adverse change in foreign currency exchange rates at December 31, 2020?",
+    "answer": "$8 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the hypothetical gain or loss at December 31, 2021 and December 31, 2020?",
+    "answer": "$269 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the file number associated with the specimen common stock certificate?",
+    "answer": "001-34756",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the filing date of the amended and restated bylaws?",
+    "answer": "February 1, 2017",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many amendments to the Fifth Amended and Restated Investors’ Rights Agreement are listed in the exhibit index?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many exhibits listed in the Index to Exhibits have a filing date in the year 2017?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of exhibits filed in 2017 to the total number of exhibits shown in the table?",
+    "answer": "4/9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many more exhibits were filed in 2010 than in 2017?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

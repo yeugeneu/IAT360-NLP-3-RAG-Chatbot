@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What are the two factors mentioned that may raise the Companies' costs in excess of the costs reflected in the Utilities’ rate plans?",
+    "answer": "inflation and the imposition of tariffs",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. The Companies Face Risks Related To Supply Chain Disruptions, Inflation and the Imposition of Tariffs",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are some of the materials and equipment that have experienced increased prices and lead times due to supply chain disruptions?",
+    "answer": "certain raw materials, microprocessors, semiconductors, microchips, vehicles and transformers",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. The Companies Face Risks Related To Supply Chain Disruptions, Inflation and the Imposition of Tariffs",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many specific types of materials and equipment are explicitly listed as examples of items impacted by supply chain disruptions?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. The Companies Face Risks Related To Supply Chain Disruptions, Inflation and the Imposition of Tariffs",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the goal for offshore wind capacity by 2035 under the CLCPA?",
+    "answer": "9,000 MW",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By how much did the NYSPSC increase the energy storage target by 2030?",
+    "answer": "3,000 MW (from 3,000 MW to 6,000 MW)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the statewide GHG emissions limit for 2030 as a percentage of 1990 emissions levels?",
+    "answer": "60 percent",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does Con Edison seek to provide to its shareholders?",
+    "answer": "continued dividend growth, supported by earnings growth in regulated utilities and electric transmission projects",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What alternatives are available to the Utilities' gas delivery customers and CECONY's steam delivery customers?",
+    "answer": "electricity and oil",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many groups of customers are specifically mentioned as having alternatives to the gas and steam services?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct external business environment changes are listed in the content that could impact the Companies? (Count each distinct category such as competitive landscape, public policy, etc.)",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of the number of alternatives mentioned for gas delivery customers to the number of alternatives mentioned for steam delivery customers?",
+    "answer": "1:1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many times do the phrases 'distributed energy resources' and 'electric alternatives' appear in total in the content?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the dates of the consolidated financial statements?",
+    "answer": "December 31, 2024 and 2023.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What framework did the Company use to evaluate internal control over financial reporting?",
+    "answer": "Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in years between the two balance sheet dates presented?",
+    "answer": "1 year",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ED"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What page range does GE's Item 7 cover in its 10-K, and does CAT's Item 7 specify a page range in the provided excerpt?",
+    "answer": "GE's Item 7 covers pages 8-24. CAT's Item 7 does not specify a page range in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "CAT"
+    ],
+    "evidence_section": "GE: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 8-24; CAT: Item 7 forward-looking statements paragraph (no page range given)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes a cautionary discussion of forward-looking statements in its MD&A, and which company does not provide such discussion in the given content?",
+    "answer": "CAT includes a cautionary discussion of forward-looking statements in its MD&A; GE does not provide any such discussion in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "CAT"
+    ],
+    "evidence_section": "CAT: 'Item 7 “Management's Discussion and Analysis...' includes forward-looking statements paragraph; GE: only heading 'Item 7. Management’s Discussion and Analysis...' with no forward-looking statement content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a Management's Report on Internal Control over Financial Reporting in Item 8, and what is the stated purpose of this report?",
+    "answer": "CAT provides a Management's Report on Internal Control over Financial Reporting in Item 8, stating its purpose is 'to provide reasonable assurance regarding the reliability of our financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.' GE does not provide any such report in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "CAT"
+    ],
+    "evidence_section": "CAT: 'Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING...'; GE: no Item 8 content provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company references the Committee of Sponsoring Organizations (COSO) criteria for its internal control assessment, and which company does not mention COSO?",
+    "answer": "CAT references the COSO criteria ('we used the criteria set forth by the Committee of Sponsoring Organizatio...' [sic]) in its internal control assessment. GE does not mention COSO in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "CAT"
+    ],
+    "evidence_section": "CAT: 'Management assessed the effectiveness of the company’s internal control over financial reporting as of December 31, 2024. In making this assessment, we used the criteria set forth by the Committee of Sponsoring Organizatio...'; GE: no such reference.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What definitions or explanations of 'forward-looking statements' are provided by CAT, and does GE provide any similar definition in its excerpt?",
+    "answer": "CAT defines forward-looking statements as 'current expectations or forecasts of future events about the company or our outlook' and identifies them by words such as 'believe,' 'expect,' 'estimate,' etc. GE does not provide any definition or explanation of forward-looking statements in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "CAT"
+    ],
+    "evidence_section": "CAT: 'Forward-looking statements give current expectations or forecasts of future events... You can identify forward-looking statements by the fact they do not relate to historical or current facts and by the use of words such as “believe,” “expect,” “estimate,” “anticipate,” “will be,” “should,” “plan,” “forecast,” “target,” “guide,” “project,” “intend,” “could” and similar words or expressions.'; GE: no similar text.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes a discussion of inherent limitations of internal control over financial reporting, and what limitation is mentioned?",
+    "answer": "CAT includes a discussion of inherent limitations, stating 'internal control over financial reporting may not prevent or detect misstatements' and that 'projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.' GE does not mention any limitations in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "CAT"
+    ],
+    "evidence_section": "CAT: 'Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.'; GE: no such discussion.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

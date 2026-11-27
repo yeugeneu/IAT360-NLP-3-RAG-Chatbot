@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What acquisitions did BlackRock complete or announce in FY2024, and does JPMorgan Chase's filing mention any similar transactions?",
+    "answer": "In FY2024, BlackRock completed the acquisition of SpiderRock Advisors and announced definitive agreements to acquire Preqin for £2.55 billion (approximately $3.2 billion) and HPS for 100% equity (SubCo Units and RSUs). JPMorgan Chase's filing does not mention any acquisitions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "JPM"
+    ],
+    "evidence_section": "BLK: Item 8; JPM: no evidence of acquisitions in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do BlackRock and JPMorgan Chase address non-GAAP financial measures in their FY2024 10-K filings?",
+    "answer": "BlackRock explicitly includes a section titled 'Non-GAAP Financial Measures' in Item 7 of its MD&A. JPMorgan Chase's filing does not mention non-GAAP financial measures in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "JPM"
+    ],
+    "evidence_section": "BLK: Item 7; JPM: no mention in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What technology platform does BlackRock highlight in its MD&A, and does JPMorgan Chase discuss any similar platform?",
+    "answer": "BlackRock highlights the Aladdin platform, noting it represents the majority of technology services revenue and is a multi-asset risk system. JPMorgan Chase's filing does not discuss any technology platform.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "JPM"
+    ],
+    "evidence_section": "BLK: Item 7; JPM: no evidence in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of Aladdin's revenue was denominated in non-US currencies for BlackRock, and does JPMorgan Chase provide any similar currency exposure data?",
+    "answer": "BlackRock states approximately 25% of Aladdin's revenue was denominated in non-US currencies. JPMorgan Chase's filing does not provide any currency exposure data.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "JPM"
+    ],
+    "evidence_section": "BLK: Item 7; JPM: no evidence in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does BlackRock pay for its acquisition of HPS, and does JPMorgan Chase's filing describe any acquisition consideration?",
+    "answer": "BlackRock pays for HPS with 100% equity, delivering approximately 9.2 million SubCo Units and RSUs at closing and up to 2.9 million SubCo Units later, with potential additional consideration of up to 1.6 million SubCo Units. JPMorgan Chase's filing does not describe any acquisition consideration.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "JPM"
+    ],
+    "evidence_section": "BLK: Item 8; JPM: no evidence in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where are the financial statements located in JPMorgan Chase's filing, and does BlackRock's filing provide a similar location reference?",
+    "answer": "JPMorgan Chase states that the financial statements are set forth commencing on page 169. BlackRock's filing does not specify a page number for its financial statements in the provided content; instead, Item 8 discusses acquisitions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "JPM"
+    ],
+    "evidence_section": "BLK: Item 8; JPM: Item 8 reference to page 169",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the size of BlackRock's acquisition of Preqin (£2.55 billion, approximately $3.2 billion) compare to Goldman Sachs' net earnings for fiscal year 2024 ($14,276 million)?",
+    "answer": "BlackRock's Preqin acquisition price of approximately $3.2 billion represents about 22.4% of Goldman Sachs' net earnings of $14,276 million for fiscal year 2024 ($3,200 / $14,276 ≈ 0.224).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "GS"
+    ],
+    "evidence_section": "BLK Item 8; GS Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "BLK+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both BlackRock and Goldman Sachs discuss non-GAAP financial measures in their filings. How do the two companies differ in their explanation and use of these measures?",
+    "answer": "BlackRock mentions non-GAAP financial measures in the context of Aladdin revenue, noting that approximately 25% of its revenue was denominated in non-US currencies, implying a currency impact adjustment. Goldman Sachs defines Return on Tangible Equity (ROTE) as a non-GAAP measure, explaining that tangible common shareholders’ equity excludes preferred stock, goodwill and identifiable intangible assets, and states that ROTE is used to measure business performance consistently across acquired and internally developed businesses.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "GS"
+    ],
+    "evidence_section": "BLK Item 7; GS Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Goldman Sachs reports a 2024 ROE of 12.7% and a target through-the-cycle ROE range of 14% to 16%. BlackRock does not provide a comparable ROE metric but describes an aggressive acquisition strategy including the purchase of HPS and Preqin. What does this contrast imply about each company's strategic emphasis?",
+    "answer": "Goldman Sachs' actual ROE falling below its target range (12.7% vs. target 14%-16%) suggests a focus on improving shareholder returns through internal performance, while BlackRock's strategy emphasizes external growth via acquisitions (e.g., HPS for private credit and Preqin for private markets data) to expand its platform and revenue base, even if near-term ROE impact is not highlighted.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "GS"
+    ],
+    "evidence_section": "BLK Item 7 & Item 8; GS Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, how do the business models of BlackRock and Goldman Sachs differ in terms of asset mix and leverage?",
+    "answer": "BlackRock's Aladdin platform manages a majority of fixed income positions, indicating a focus on asset management and technology services with fee-based revenue. Goldman Sachs reports an average equity to average assets ratio of 7.1%, reflecting a balance-sheet-intensive investment banking and trading model that uses higher leverage relative to a pure asset manager.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "GS"
+    ],
+    "evidence_section": "BLK Item 7; GS Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "BlackRock completed the acquisition of SpiderRock Advisors in May 2024 and announced agreements to acquire Preqin and HPS. Goldman Sachs' filing does not mention any acquisitions in the provided excerpts. What does this contrast indicate about their corporate development strategies?",
+    "answer": "BlackRock's multiple acquisitions (SpiderRock for portfolio overlay, Preqin for private markets data, HPS for credit management) demonstrate a strategy of inorganic expansion to enhance its platform and capabilities. Goldman Sachs' absence of acquisition announcements in the same period suggests a greater emphasis on organic performance and returning capital to shareholders, as evidenced by its dividend payout ratio discussion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "GS"
+    ],
+    "evidence_section": "BLK Item 8; GS Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Goldman Sachs reports a dividend payout ratio of 28.4% for 2024. BlackRock's provided content does not discuss dividends but focuses on reinvesting in technology and acquisitions. How do these capital allocation priorities differ?",
+    "answer": "Goldman Sachs' dividend payout ratio of 28.4% indicates a policy of returning a significant portion of earnings to shareholders. BlackRock's narrative emphasizes reinvestment into its Aladdin platform, connectivity with ecosystem providers, and minority investments in fintech companies (e.g., Securitize, Circle) as well as larger acquisitions, reflecting a priority on growth reinvestment rather than direct shareholder payouts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BLK",
+      "GS"
+    ],
+    "evidence_section": "BLK Item 7; GS Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BLK+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

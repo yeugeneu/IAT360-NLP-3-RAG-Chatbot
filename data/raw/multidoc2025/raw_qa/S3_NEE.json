@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were the annual net income attributable to NEE for fiscal years 2022, 2023, and 2024?",
+    "answer": "$4,147 million in 2022, $7,310 million in 2023, and $6,946 million in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NEE",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "NEE"
+    ]
+  },
+  {
+    "question": "Describe the trend in FPL's diluted earnings per share from 2022 to 2024.",
+    "answer": "FPL's diluted EPS was $1.87 in 2022, $2.24 in 2023, and $2.21 in 2024. It increased from 2022 to 2023 and then decreased slightly in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NEE",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "NEE"
+    ]
+  },
+  {
+    "question": "What was the trend in NEER's net income over the three years 2022, 2023, and 2024?",
+    "answer": "NEER's net income was $285 million in 2022, $3,558 million in 2023, and $2,299 million in 2024, showing a significant increase in 2023 followed by a decrease in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NEE",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "NEE"
+    ]
+  },
+  {
+    "question": "How did the number of FPL customer accounts change from fiscal year 2022 to 2024?",
+    "answer": "FPL served approximately 5.8 million customer accounts in 2022, approximately 5.9 million in 2023, and more than six million in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NEE",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "NEE"
+    ]
+  },
+  {
+    "question": "Compare NextEra Energy's five-year total shareholder return for the periods ended December 31, 2023, and December 31, 2024.",
+    "answer": "For the five years ended December 31, 2023, NEE delivered a total shareholder return of approximately 56.4%; for the five years ended December 31, 2024, it was approximately 33.2%. This represents a decrease of approximately 23.2 percentage points.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "NEE",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "NEE"
+    ]
+  },
+  {
+    "question": "What was the trend in Corporate and Other segment net income from 2022 to 2024?",
+    "answer": "Corporate and Other net income was $161 million in 2022, -$800 million in 2023, and $104 million in 2024, showing significant volatility with a large loss in 2023.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NEE",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "NEE"
+    ]
+  }
+]

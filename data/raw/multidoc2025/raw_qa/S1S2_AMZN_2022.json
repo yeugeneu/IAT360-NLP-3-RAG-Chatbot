@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What does this Annual Report on Form 10-K contain, according to the Item 1. Business section?",
+    "answer": "forward-looking statements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the forward-looking statements in this report based on?",
+    "answer": "expectations, estimates, and projections as of the date of this filing",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "As of what date are the forward-looking statements expressed?",
+    "answer": "as of the date of this filing",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "When do cash, cash equivalents, and marketable securities balances typically reach their highest level?",
+    "answer": "as of December 31 of each year",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What happens to the accounts payable balance during the first three months of the year?",
+    "answer": "It generally declines",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many months does the decline in accounts payable last?",
+    "answer": "first three months of the year",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are some of the advantages that current and potential competitors may have over Amazon according to the MD&A?",
+    "answer": "Some of our current and potential competitors have greater resources, longer histories, more customers, and/or greater brand recognition, particularly with our newly-launched products and services and in our newer geographic regions.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does the MD&A say about how competition affects Amazon's product and service offerings?",
+    "answer": "As a result of competition, our product and service offerings may not be successful, we may fail to gain or may lose business, and we may be required to increase our spending or lower prices.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the MD&A, what factor facilitates competitive entry and comparison shopping, benefiting new or smaller businesses?",
+    "answer": "The Internet facilitates competitive entry and comparison shopping, which enhances the ability of new, smaller, or lesser known businesses to compete against us.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total revenue for fiscal year 2022?",
+    "answer": "No table data provided in content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Calculate the year-over-year growth rate for net sales from 2021 to 2022.",
+    "answer": "No table data provided in content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the percentage change in operating income from 2021 to 2022?",
+    "answer": "No table data provided in content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the market risks to which Amazon is exposed according to Item 7A?",
+    "answer": "interest rate changes, foreign currency fluctuations, and changes in the market values of our investments",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the heading of the section that contains these market risk disclosures?",
+    "answer": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How does the company describe its exposure to market risk?",
+    "answer": "We are exposed to market risk for the effect of interest rate changes, foreign currency fluctuations, and changes in the market values of our investments",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of Ernst & Young LLP as mentioned in the Report of Independent Registered Public Accounting Firm?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What date did Ernst & Young LLP issue its report on the consolidated financial statements?",
+    "answer": "February 3, 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the page number difference between the Consolidated Statements of Operations and the Consolidated Balance Sheets according to the Index?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

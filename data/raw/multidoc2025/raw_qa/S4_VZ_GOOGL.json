@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary strategic focuses of Verizon and Alphabet (Google) as described in their FY2024 filings?",
+    "answer": "Verizon focuses on enhancing and monetizing its networks, platforms, and solutions, particularly 5G and 4G wireless networks, and investing in C-Band spectrum, millimeter wave, fiber infrastructure, and advanced IT systems. Alphabet focuses on protecting its intellectual property rights, including patents, trademarks, trade secrets, and copyrights, as well as addressing risks such as trademark genericide (e.g., the word 'Google' becoming synonymous with 'search').",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "GOOGL"
+    ],
+    "evidence_section": "VZ: Item 7 (Overview, Highlights of Our 2024 Financial Results); GOOGL: Item 7 (Intellectual property rights discussion)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Verizon and Alphabet generate their revenues according to their FY2024 filings?",
+    "answer": "Verizon generates revenues primarily from communications, technology, information, and streaming products and services, including data, video, and voice services for consumers, businesses, and government entities. Alphabet generates revenues from Google Services: Google advertising (Google Search & other, YouTube ads, Google Network) and Google subscriptions, platforms, and devices; Google Cloud; and Other Bets. Additionally, fluctuations in Alphabet's revenues are affected by factors such as foreign currency exchange rates, pricing changes, general economic conditions, and new product launches.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "GOOGL"
+    ],
+    "evidence_section": "VZ: Item 7 (Overview, first paragraph); GOOGL: Item 8 (Revenue components and fluctuation factors)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What risks do Verizon and Alphabet face regarding their competitive positioning in the Communication Services sector?",
+    "answer": "Verizon faces risks from the need for significant capital investments in spectrum, network infrastructure, and IT systems to maintain network quality and competitive advantage. Alphabet faces risks related to intellectual property protection, including potential loss of trademark protection for 'Google' if it becomes generic, and the inability to protect innovations or trade secrets, which could reduce the value of its products and brands and affect its ability to compete.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "GOOGL"
+    ],
+    "evidence_section": "VZ: Item 7 (Strategy, capital investments); GOOGL: Item 7 (Intellectual property risks)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Verizon and Alphabet describe the role of network quality vs. intellectual property in their competitive advantage?",
+    "answer": "Verizon states that its network quality is the hallmark of its brand and the foundation for the connectivity, platforms, and solutions upon which it builds its competitive advantage. Alphabet states that its intellectual property rights, including patents, trademarks, trade secrets, and copyrights, are important assets and that any inability to protect them could reduce the value of its products, services, and brands and affect its ability to compete.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "GOOGL"
+    ],
+    "evidence_section": "VZ: Item 7 (Overview, 'Our network quality is the hallmark...'); GOOGL: Item 7 ('Our intellectual property rights are valuable...')",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What metrics does Alphabet use to track monetization of traffic, and how does Verizon measure its performance?",
+    "answer": "Alphabet uses paid clicks and cost-per-click metrics for Google Search & other properties to track how well traffic is monetized. Verizon focuses on financial results such as revenues and capital investments, and highlights its performance in high-performing networks, 5G and 4G wireless networks, and fiber infrastructure, but does not specify equivalent traffic monetization metrics in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "GOOGL"
+    ],
+    "evidence_section": "VZ: Item 7 (Highlights of 2024 Financial Results, capital investments); GOOGL: Item 8 (Revenue description, 'paid clicks and cost-per-click')",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the audit opinions on internal control over financial reporting differ between Verizon and Alphabet?",
+    "answer": "The provided content for Verizon includes an unqualified opinion on internal control over financial reporting as of December 31, 2024, based on COSO criteria. The provided content for Alphabet does not include any audit opinion or internal control assessment; it only discusses revenue fluctuation factors and intellectual property risks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "GOOGL"
+    ],
+    "evidence_section": "VZ: Item 8 (Report of Independent Registered Public Accounting Firm, Opinion on Internal Control); GOOGL: Item 8 (revenue discussion, no internal control opinion)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

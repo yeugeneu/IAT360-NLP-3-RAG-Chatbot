@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What does PSCo stand for according to Xcel Energy's 2024 10-K definitions?",
+    "answer": "Public Service Company of Colorado",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the definition of the NSP System as provided in Xcel Energy's 2024 10-K definitions?",
+    "answer": "The electric production and transmission system of NSP-Minnesota and NSP-Wisconsin operated on an integrated basis and managed by NSP-Minnesota",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many utility subsidiaries are listed under the definition of 'Utility subsidiaries' in Xcel Energy's 2024 10-K?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who is responsible for the oversight of material risk and maintaining an effective risk monitoring process?",
+    "answer": "The Board of Directors.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does Xcel Energy's risk mitigation process include adherence to?",
+    "answer": "Our Code of Conduct and compliance policies.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What attributes does management identify and analyze risks to determine?",
+    "answer": "Materiality and other attributes such as timing, probability and controllability.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does Xcel Energy calculate ongoing ROE?",
+    "answer": "by dividing the net income or loss of Xcel Energy or each subsidiary, adjusted for certain nonrecurring items, by each entity’s average stockholder’s equity.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What method does Xcel Energy use to calculate the weighted average number of potentially dilutive shares outstanding for diluted EPS?",
+    "answer": "the treasury stock method.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are ongoing earnings adjusted from?",
+    "answer": "GAAP earnings (net income) for certain items.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the two non-GAAP financial measures defined in this table?",
+    "answer": "Ongoing ROE and ongoing diluted EPS.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How is Ongoing ROE calculated according to the table?",
+    "answer": "By dividing the net income or loss of Xcel Energy or each subsidiary, adjusted for certain nonrecurring items, by each entity’s average stockholder’s equity.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How is ongoing diluted EPS calculated per the table?",
+    "answer": "By dividing the net income or loss of each subsidiary, adjusted for certain nonrecurring items, by the weighted average number of potentially dilutive shares outstanding using the treasury stock method.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What section is incorporated by reference in Item 7A for quantitative and qualitative disclosures about market risk?",
+    "answer": "The 'Derivatives, Risk Management and Market Risk' section in Item 7, incorporated by reference.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Under which Item is the market risk disclosure incorporated by reference from Item 7A?",
+    "answer": "Item 7.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of the section in Item 7 that contains the market risk information referenced in Item 7A?",
+    "answer": "Derivatives, Risk Management and Market Risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What accounting method does Xcel Energy Inc. use for its investments in subsidiaries?",
+    "answer": "Equity method",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Basis of Presentation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does Xcel Energy Inc. hold any assets as collateral as of December 31, 2024?",
+    "answer": "No, Xcel Energy Inc. had no assets held as collateral as of Dec. 31, 2024 and 2023.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Guarantees and Indemnifications",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct types of material cash inflows are mentioned for Xcel Energy Inc.?",
+    "answer": "Three: (1) dividends and other payments from utility subsidiaries, (2) proceeds from sale of debt securities, (3) proceeds from sale of equity securities.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Basis of Presentation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many types of financial instruments does Xcel Energy Inc. provide guarantees and indemnities for?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Basis of Presentation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "As of Dec. 31, 2024, what was the amount of assets held as collateral?",
+    "answer": "$0",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Basis of Presentation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the difference in the amount of assets held as collateral between Dec. 31, 2023 and Dec. 31, 2024?",
+    "answer": "$0",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Basis of Presentation",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XEL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

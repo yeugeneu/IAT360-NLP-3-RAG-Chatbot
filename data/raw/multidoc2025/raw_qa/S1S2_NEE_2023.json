@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What was the net decrease in under-recovery of cost recovery clauses impacting FPL's operating cash flows in 2023?",
+    "answer": "approximately $1,104 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business – FPL – FPL Regulation – FPL Electric Rate Regulation – Cost Recovery Clauses",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the difference between the cost recovery clause contributions to FPL's net income in 2023 and 2022?",
+    "answer": "$108 million ($369 million minus $261 million)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business – FPL – FPL Regulation – FPL Electric Rate Regulation – Cost Recovery Clauses",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the net impact on FPL's operating revenues in 2023 from the increase in storm cost recovery revenues and the decrease in fuel cost recovery revenues?",
+    "answer": "$403 million ($1,117 million increase minus $714 million decrease)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business – FPL – FPL Regulation – FPL Electric Rate Regulation – Cost Recovery Clauses",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to Item 1A, what are the business, financial condition, results of operations and prospects of NEE and FPL subject to?",
+    "answer": "a variety of risks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the first risk factor category mentioned in the provided section?",
+    "answer": "Regulatory, Legislative and Legal Risks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many specific regulatory areas are listed after the word 'including' in the description of the extensive regulatory framework?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was NEE's total shareholder return for the five years ended December 31, 2023?",
+    "answer": "approximately 56.4%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the net income attributable to NEE for the year ended December 31, 2023?",
+    "answer": "$ 7,310",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between NEE's net income attributable to NEE for the years ended December 31, 2023 and 2022?",
+    "answer": "$ 3,163",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the percentage change in NEER's net income from 2022 to 2023?",
+    "answer": "NEER's net income changed from $285 million in 2022 to $3,558 million in 2023. The percentage change is (3,558 - 285) / 285 = 3,273 / 285 ≈ 1148.4%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Calculate the total net income attributable to NEE from its two principal businesses (FPL and NEER) for 2023 and express it as a percentage of NEE's total net income.",
+    "answer": "FPL and NEER combined net income in 2023 = $4,552 + $3,558 = $8,110 million. NEE total net income = $7,310 million. The percentage is (8,110 / 7,310) × 100% ≈ 110.9%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the difference in diluted earnings per share attributable to NEE between 2023 and 2021 for the FPL segment?",
+    "answer": "FPL diluted EPS in 2023: $2.24; in 2021: $1.63. Difference = $2.24 - $1.63 = $0.61.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Where does Item 7A refer for additional details?",
+    "answer": "Management’s Discussion – Energy Marketing and Trading and Market Risk Sensitivity",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is half of the page number referenced in the table of contents?",
+    "answer": "27.5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to management, what does the overall system of internal accounting control provide reasonable assurance of?",
+    "answer": "the assets of NEE and FPL and their subsidiaries are safeguarded and that transactions are executed in accordance with management's authorization and are properly recorded for the preparation of financial statements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What does management acknowledge about any system of internal accounting control?",
+    "answer": "any system of internal accounting control, no matter how well designed, has inherent limitations, including the possibility that controls can be circumvented or overridden and misstatements due to error or fraud may occur and not be detected",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Who is responsible for establishing and maintaining adequate internal control over financial reporting according to the report?",
+    "answer": "NextEra Energy, Inc.'s (NEE) and Florida Power & Light Company's (FPL) management",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NEE",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NEE"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

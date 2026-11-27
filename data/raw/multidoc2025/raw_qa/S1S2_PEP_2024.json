@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What do certain members of the Board not participate in according to the 'Other Relationships' section?",
+    "answer": "vendor selection and negotiations nor in our customer negotiations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of instruments are used to manage commodity price risk?",
+    "answer": "fixed-price contracts and purchase orders, pricing agreements and derivative instruments, including swaps and futures",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many external factors are specifically listed that have impacted transportation and labor costs?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was PEP's annual effective tax rate in fiscal year 2024?",
+    "answer": "19.4%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in PEP's annual effective tax rate between fiscal year 2023 and fiscal year 2024?",
+    "answer": "0.4 percentage points (19.8% in 2023 to 19.4% in 2024)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the content, what do deferred tax assets generally represent?",
+    "answer": "items that can be used as a tax deduction or credit in our tax returns in future years for which we have already recorded the tax benefit on our consolidated financial statements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the registered independent public accounting firm?",
+    "answer": "185",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the effective date of the amended and restated By-laws of PepsiCo, Inc.?",
+    "answer": "September 20, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in years between the fiscal year ends of 2024 and 2022?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many more fiscal year end dates are listed for the Consolidated Statement of Income than for the Consolidated Balance Sheet?",
+    "answer": "The Consolidated Statement of Income has three dates (December 28, 2024, December 30, 2023, and December 31, 2022), while the Consolidated Balance Sheet has two dates (December 28, 2024 and December 30, 2023). Therefore, the Income Statement has one more date than the Balance Sheet.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of times the fiscal year end date December 30, 2023 appears across all financial statements listed in Item 7?",
+    "answer": "The date December 30, 2023 appears in the Consolidated Statement of Income, Consolidated Statement of Comprehensive Income, Consolidated Statement of Cash Flows, Consolidated Balance Sheet, and Consolidated Statement of Equity. That is 5 appearances.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the number of fiscal year end dates provided for the Consolidated Statement of Cash Flows compared to the Consolidated Statement of Equity?",
+    "answer": "Both the Consolidated Statement of Cash Flows and the Consolidated Statement of Equity list three fiscal year end dates (December 28, 2024, December 30, 2023, and December 31, 2022). The difference is 0.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A as provided in the content?",
+    "answer": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What phrase appears immediately after the section title in the provided content?",
+    "answer": "Included in “",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many words are in the section title of Item 7A?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

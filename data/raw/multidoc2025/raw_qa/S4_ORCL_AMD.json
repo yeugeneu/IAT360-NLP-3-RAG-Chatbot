@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the provided text describe the primary growth drivers for AMD in 2024, and what risk does ORCL identify regarding its ability to generate revenue from product offerings?",
+    "answer": "AMD's growth is driven by the Data Center and Client segments: Data Center net revenue increased 94% to $12.6 billion due to higher sales of AMD Instinct GPUs and AMD EPYC CPUs, and Client segment net revenue increased 52% to $7.1 billion due to higher sales of AMD Ryzen mobile and desktop processors. ORCL warns that if it is 'unable to develop new or sufficiently differentiated products, enhance and improve our product offerings and support services in a timely manner or position and price our products and services to meet demand, customers may not purchase or subscribe to our license, hardware or cloud offerings or renew license support, hardware support or cloud subscriptions contracts.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "AMD"
+    ],
+    "evidence_section": "ORCL: Item 7 Management’s Discussion and Analysis; AMD: Item 7 Overview and Item 8 Consolidated Statements of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific product launches are mentioned for AMD, and how does ORCL characterize its own product development efforts?",
+    "answer": "AMD mentions the launch of AMD Instinct MI300X GPU accelerators, 5th Gen AMD EPYC processors (codenamed 'Turin'), and AMD Ryzen AI 300 Series processors. ORCL states it has 'continued to refresh and release new offerings of our cloud products and services' but does not name specific products.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "AMD"
+    ],
+    "evidence_section": "ORCL: Item 7 MD&A; AMD: Item 7 Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the customer segments emphasized by each company differ based on the provided text?",
+    "answer": "ORCL focuses on customers of its license, hardware, and cloud offerings, highlighting the importance of renewal of contracts for these offerings. AMD emphasizes 'large hyperscale cloud customers' for its Data Center AI accelerators and mentions the 'AI PC roadmap' targeting PC customers with its Ryzen AI processors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "AMD"
+    ],
+    "evidence_section": "ORCL: Item 7 MD&A; AMD: Item 7 Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the tone and focus of the provided excerpts for each company regarding their financial outlook?",
+    "answer": "ORCL's text is cautionary and risk-focused, discussing potential adverse effects from development delays, cost overruns, and competitive pressures. AMD's text is achievement-oriented, reporting strong revenue growth, segment performance, and progress in executing its AI strategy, with specific financial results such as net revenue of $25.8 billion and gross profit of $12.7 billion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "AMD"
+    ],
+    "evidence_section": "ORCL: Item 7 MD&A; AMD: Item 7 Overview and Item 8 Consolidated Statements of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does each company address the role of innovation and technology standards in their strategy or risks?",
+    "answer": "ORCL identifies a risk that 'the standards on which we choose to develop new products will allow us to compete effectively for business opportunities in emerging areas' and emphasizes the need to keep up with 'rapid technological advances' and 'evolving standards.' AMD highlights its 'leadership products' and 'annual cadence of leadership AI solutions,' and mentions building processors with its latest 'Zen 5' core architecture to deliver 'leadership performance and efficiency.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "AMD"
+    ],
+    "evidence_section": "ORCL: Item 7 MD&A; AMD: Item 7 Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific financial figures related to segment performance does AMD report, and does ORCL provide any comparable segment data in the excerpt?",
+    "answer": "AMD reports segment net revenues: Data Center $12.6 billion (up 94%), Client $7.1 billion (up 52%), Gaming $2.6 billion (down 58%), and Embedded $3.6 billion (down 33%). ORCL provides no segment or financial figures in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ORCL",
+      "AMD"
+    ],
+    "evidence_section": "ORCL: Item 7 MD&A (no segment data); AMD: Item 7 Overview and Item 8 Consolidated Statements of Operations (segment data in Overview)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ORCL+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

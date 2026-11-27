@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company's Item 7 discussion includes specific references to CERCLA and PFAS regulations?",
+    "answer": "MPC's Item 7 includes specific references to CERCLA, PFAS, and RCRA regulations, while CVX's Item 7 only contains a heading referencing a Financial Table of Contents without substantive discussion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "MPC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What unique numerical identifier appears in MPC's Item 8 index that is absent from CVX's Item 8 index?",
+    "answer": "MPC's Item 8 index includes the PCAOB ID 238 in the Report of Independent Registered Public Accounting Firm, whereas CVX's Item 8 index does not provide such a number in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "MPC"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the level of detail in the MD&A section differ between CVX and MPC based on the provided content?",
+    "answer": "CVX's MD&A (Item 7) is a single heading referencing a Financial Table of Contents, while MPC's MD&A contains multiple paragraphs on environmental matters, including discussion of CERCLA, RCRA, and PFAS, and includes a page reference '12'.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "MPC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a comprehensive list of notes to consolidated financial statements in Item 8, and how many notes are listed?",
+    "answer": "MPC provides a comprehensive list of notes numbered 1 through 28 in its Item 8 index. CVX's Item 8 only references a Financial Table of Contents without listing individual notes.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "MPC"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic difference is evident from the environmental disclosures in the MD&A of the two companies?",
+    "answer": "MPC discusses potential liabilities under CERCLA and RCRA, including PFAS regulations, indicating a focus on environmental compliance costs. CVX's MD&A contains no such discussion, suggesting either a different approach to environmental risk disclosure or omission in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "MPC"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the page references provided in the financial statement indexes of CVX and MPC. Which company gives more specific page numbers for its financial statements?",
+    "answer": "MPC's index lists specific page numbers for its financial statements (e.g., 76, 77, 79, 80, 81, 82, 84, 85, 128) and includes a page reference '75' at the end. CVX's index only states 'Financial Table of Contents' without any page numbers.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "MPC"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

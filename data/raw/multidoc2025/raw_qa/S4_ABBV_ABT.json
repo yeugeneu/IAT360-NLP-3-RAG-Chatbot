@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare operating earnings as a percentage of net revenues (operating margin) for AbbVie (ABBV) and Abbott (ABT) in fiscal year 2024. Which company had a higher operating margin?",
+    "answer": "ABBV operating margin = $9,137 million / $56,334 million ≈ 16.2%. ABT operating margin = $6,825 million / $41,950 million ≈ 16.3%. Abbott had a slightly higher operating margin of 16.3% compared to AbbVie's 16.2%.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "ABT"
+    ],
+    "evidence_section": "ABBV: Item 8 - Consolidated Statements of Earnings (2024 net revenues $56,334, operating earnings $9,137). ABT: Item 8 - Consolidated Statement of Earnings (2024 net sales $41,950, operating earnings $6,825).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "ABBV+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare research and development (R&D) spending as a percentage of revenue for AbbVie and Abbott in 2024. Which company invests proportionally more in R&D?",
+    "answer": "ABBV R&D = $12,791 million / $56,334 million ≈ 22.7%. ABT R&D = $2,844 million / $41,950 million ≈ 6.8%. AbbVie invests significantly more proportionally in R&D, at 22.7% of revenue versus Abbott's 6.8%.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "ABT"
+    ],
+    "evidence_section": "ABBV: Item 8 - Consolidated Statements of Earnings (2024 R&D $12,791). ABT: Item 8 - Consolidated Statement of Earnings (2024 R&D $2,844).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "ABBV+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare net earnings attributable to the parent for AbbVie and Abbott in 2024. How did income taxes affect each company's net earnings?",
+    "answer": "ABBV net earnings attributable to AbbVie: $4,278 million, with an income tax benefit (negative expense) of $(570) million. ABT net earnings: $13,402 million, with an income tax benefit (negative expense) of $(6,389) million. Both companies recorded tax benefits, but Abbott's was much larger, boosting its net earnings significantly relative to pre-tax earnings.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "ABT"
+    ],
+    "evidence_section": "ABBV: Item 8 - Consolidated Statements of Earnings (2024 net earnings $4,278, income tax benefit $(570)). ABT: Item 8 - Consolidated Statement of Earnings (2024 net earnings $13,402, taxes on earnings $(6,389)).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the impact of foreign exchange on earnings for AbbVie and Abbott in 2024. Which company reported a foreign exchange loss and which reported a gain?",
+    "answer": "ABBV reported a net foreign exchange loss of $21 million. ABT reported a net foreign exchange gain of $27 million. Thus, AbbVie was negatively impacted by currency movements while Abbott benefited.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "ABT"
+    ],
+    "evidence_section": "ABBV: Item 8 - Consolidated Statements of Earnings (2024 Net foreign exchange loss $21). ABT: Item 8 - Consolidated Statement of Earnings (2024 Net foreign exchange (gain) loss $(27)).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the strategic focus on acquisitions in 2024. What major acquisitions did AbbVie complete in 2024, and did Abbott mention any comparable acquisitions?",
+    "answer": "AbbVie completed the acquisition of Cerevel Therapeutics Holdings on August 1, 2024, and the acquisition of ImmunoGen on February 12, 2024. Abbott's MD&A for 2024 does not mention any material acquisitions; instead, it highlights organic growth from its medical devices, established pharmaceuticals, and nutritional businesses.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "ABT"
+    ],
+    "evidence_section": "ABBV: Item 7 - Executive Overview (acquisitions of Cerevel and ImmunoGen). ABT: Item 7 - Financial Review (no acquisition mention; focus on pipeline and new products).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the sales exposure to COVID-19 testing for AbbVie and Abbott in 2024. How did Abbott's COVID-19 testing-related sales change from 2023 to 2024, and did AbbVie report any similar sales?",
+    "answer": "Abbott reported COVID-19 testing-related sales of $747 million in 2024, down from $1.6 billion in 2023. AbbVie's provided content does not mention any COVID-19 testing sales or a comparable business line.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "ABT"
+    ],
+    "evidence_section": "ABT: Item 7 - Financial Review (COVID-19 testing related sales $747 million in 2024, $1.6 billion in 2023). ABBV: No mention of COVID-19 testing in provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+ABT",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the fiscal year end dates for PEP FY2024 and WMT FY2024?",
+    "answer": "PEP FY2024 ended December 28, 2024; WMT FY2024 ended January 31, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "WMT"
+    ],
+    "evidence_section": "PEP: \"Fiscal years ended December 28, 2024, December 30, 2023 and December 31, 2022\"\nWMT: \"fiscal years ended January 31, 2024 (\"fiscal 2024\"), January 31, 2023 (\"fiscal 2023\") and January 31, 2022 (\"fiscal 2022\")\"",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+WMT",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's independent auditor has the higher PCAOB ID number?",
+    "answer": "PEP's auditor has PCAOB ID 185; WMT's auditor has PCAOB ID 42. Thus, PEP's auditor has the higher PCAOB ID number.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "WMT"
+    ],
+    "evidence_section": "PEP: \"Report of Independent Registered Public Accounting Firm (PCAOB ID: 185 )\"\nWMT: \"Report of Independent Registered Public Accounting Firm (PCAOB ID: 42 )\"",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+WMT",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the audit opinion on internal control over financial reporting differ between PEP and WMT?",
+    "answer": "WMT explicitly states an unqualified opinion on internal control over financial reporting. PEP's provided content does not include any mention of an audit opinion on internal control.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "WMT"
+    ],
+    "evidence_section": "WMT: \"we also have audited... the Company's internal control over financial reporting as of January 31, 2024... and our report dated March 15, 2024 expressed an unqualified opinion thereon.\"\nPEP: no equivalent statement in provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+WMT",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's MD&A mentions discussing three business segments?",
+    "answer": "WMT's MD&A mentions \"the financial results of each of the three segments\" (Walmart U.S., Walmart International, Sam's Club). PEP's provided MD&A excerpt does not mention any segment discussion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "WMT"
+    ],
+    "evidence_section": "WMT: \"the discussion provides information about the financial results of each of the three segments to provide a better understanding...\"\nPEP: no such reference.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+WMT",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the exact effective dates of the governance documents provided in the exhibits for each company?",
+    "answer": "PEP's Amended and Restated Articles of Incorporation effective May 1, 2019, and its By-laws effective September 20, 2024. WMT's provided content does not include any governance document exhibits.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "WMT"
+    ],
+    "evidence_section": "PEP: \"Amended and Restated Articles of Incorporation of PepsiCo, Inc., effective as of May 1, 2019\" and \"By-laws... effective as of September 20, 2024\"\nWMT: no mention.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+WMT",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which fiscal years do both companies report three years of financial data?",
+    "answer": "PEP reports for fiscal years ended December 28, 2024, December 30, 2023, and December 31, 2022. WMT reports for fiscal years ended January 31, 2024, January 31, 2023, and January 31, 2022. Both present three years.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "WMT"
+    ],
+    "evidence_section": "PEP: \"Consolidated Statement of Income – Fiscal years ended December 28, 2024, December 30, 2023 and December 31, 2022\"\nWMT: \"we present our results for the fiscal years ended January 31, 2024... January 31, 2023... January 31, 2022\"",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+WMT",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "In how many countries and territories are P&G's products sold?",
+    "answer": "about 180 countries and territories",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the address of EQ Shareowner Services for obtaining copies of reports?",
+    "answer": "1100 Centre Pointe Curve, Suite 101, Mendota, MN 55120-4100",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years after the founding of the business was The Procter & Gamble Company incorporated in Ohio?",
+    "answer": "68 years (1905 - 1837)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to Item 1A, in how many countries does PG have operations?",
+    "answer": "about 70",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to Item 1A, in how many countries and territories are PG products sold?",
+    "answer": "about 180",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of countries PG has operations in and sells products in combined, based on the approximate figures provided?",
+    "answer": "about 250",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net sales for fiscal year 2024?",
+    "answer": "$84.0 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the gross margin as a percentage of net sales for fiscal year 2023?",
+    "answer": "47.9%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net sales for fiscal year 2023?",
+    "answer": "$82.4 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total of gross margin and selling, general and administrative expense as a percentage of net sales in fiscal 2024?",
+    "answer": "79.1%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the absolute difference in basis points between the change in gross margin and the change in selling, general and administrative expense from fiscal 2023 to fiscal 2024?",
+    "answer": "150 basis points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the average of operating margin percentages for fiscal years 2023 and 2024?",
+    "answer": "22.1%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What page does Item 7A begin on?",
+    "answer": "32",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct references to other sections are provided for the information required by Item 7A?",
+    "answer": "Two",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the management's report, what is management responsible for establishing and maintaining?",
+    "answer": "adequate internal control over financial reporting of The Procter & Gamble Company",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the Worldwide Business Conduct Manual set forth?",
+    "answer": "our commitment to conduct business with integrity, and within both the letter and the spirit of the law.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who performs audits of internal controls over financial reporting as well as broader financial, operational and compliance audits?",
+    "answer": "Global Internal Audit",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many key elements of internal control structure are explicitly listed in the management's report?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of the listed key internal control elements are committees?",
+    "answer": "40%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of Audit Committee mentions to total board-related mentions in the list of key elements?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

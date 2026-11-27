@@ -1,0 +1,68 @@
+[
+  {
+    "question": "How did NVDA's gross profit margin change from fiscal 2022 to fiscal 2024, and what does the addition of 'artificial intelligence (AI) networking and connectivity' in AVGO's fiscal 2024 Overview indicate about a sector trend that may be driving such improvements?",
+    "answer": "NVDA's gross profit margin increased from 64.9% in fiscal 2022 (ended Jan 30, 2022) to 72.7% in fiscal 2024 (ended Jan 28, 2024). AVGO's fiscal 2024 Overview includes 'artificial intelligence (AI) networking and connectivity' in its list of end applications, a phrase absent from its fiscal 2022 text. This addition signals that AI-related networking is becoming a significant growth area, which is consistent with the expanding profit margins observed at NVDA as higher-margin AI products gain share.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NVDA",
+      "AVGO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "NVDA: Item 7 – Consolidated Statements of Income as percentage of revenue table (Gross profit 64.9% for FY2022, 72.7% for FY2024). AVGO: Item 7 – Overview text (fiscal 2024 adds 'including artificial intelligence (AI) networking and connectivity'; fiscal 2022 text does not contain this phrase).",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "NVDA+AVGO",
+    "sector": "Information Technology"
+  },
+  {
+    "question": "Compare the trajectory of NVDA's total operating expenses as a percentage of revenue between fiscal 2022 and fiscal 2024 with the change in AVGO's business description. What does this reveal about relative competitive strategies?",
+    "answer": "NVDA's total operating expenses fell from 27.6% of revenue in fiscal 2022 to 18.6% in fiscal 2024, while R&D spending dropped from 19.6% to 14.2%. In contrast, AVGO's fiscal 2024 Overview explicitly adds 'AI networking and connectivity' to its product focus. The data suggests NVDA is achieving operating leverage through scale in its core markets, whereas AVGO's expanded description implies a strategic investment in an adjacent high-growth segment, possibly constraining near-term expense reduction.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NVDA",
+      "AVGO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "NVDA: Item 7 – table: Total operating expenses 27.6% (FY2022), 18.6% (FY2024); R&D 19.6% (FY2022), 14.2% (FY2024). AVGO: Item 7 – Overview: fiscal 2024 includes 'AI networking and connectivity'; fiscal 2022 does not.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "NVDA+AVGO",
+    "sector": "Information Technology"
+  },
+  {
+    "question": "Using NVDA's operating income margin figures from fiscal 2022 and 2024, and AVGO's expanded product scope in its fiscal 2024 Overview, assess the sector-level trend of profitability improvement in semiconductors. Provide the exact numerical evidence.",
+    "answer": "NVDA's operating income margin rose from 37.3% in fiscal 2022 to 54.1% in fiscal 2024, an increase of 16.8 percentage points. Concurrently, AVGO's fiscal 2024 Overview adds 'AI networking and connectivity' to its list of end applications, expanding beyond its fiscal 2022 description. This sector trend indicates that leading semiconductor companies are both improving profitability through efficient scaling and pivoting toward AI-driven, higher-margin product segments.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NVDA",
+      "AVGO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "NVDA: Item 7 – table: Operating income 37.3% (FY2022), 54.1% (FY2024). AVGO: Item 7 – Overview: fiscal 2024 text includes 'AI networking and connectivity'; fiscal 2022 text does not.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "NVDA+AVGO",
+    "sector": "Information Technology"
+  }
+]

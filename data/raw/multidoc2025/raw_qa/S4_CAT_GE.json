@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What topics are covered in Item 7 for CAT and GE based on the provided content?",
+    "answer": "For CAT, Item 7 includes a discussion of forward-looking statements, risks, uncertainties, and a cautionary note. For GE, Item 7 only mentions 'Management’s Discussion and Analysis of Financial Condition and Results of Operations 8-24' without any further content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "evidence_section": "Item 7 for both companies",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CAT+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does CAT's MD&A include a discussion of forward-looking statements? Does GE's?",
+    "answer": "CAT's MD&A includes a discussion of forward-looking statements, including definitions and cautionary language. GE's provided content does not include any reference to forward-looking statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "evidence_section": "CAT: Item 7; GE: Item 7 (content not provided)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CAT+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does CAT provide a management report on internal control over financial reporting? Does GE provide such a report in the given content?",
+    "answer": "CAT provides a 'Management’s Report on Internal Control Over Financial Reporting' in Item 8. GE's provided content does not include any such report.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "evidence_section": "CAT: Item 8; GE: No relevant content provided",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CAT+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What risk factors are mentioned in CAT's forward-looking statements section? What does GE mention?",
+    "answer": "CAT mentions risks such as uncertainties that could significantly impact results, and refers to a cautiorisk discussion. GE's provided content does not mention any risk factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "evidence_section": "CAT: Item 7 first paragraph; GE: No applicable content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CAT+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does CAT describe the purpose of internal control over financial reporting? Does GE provide any such description?",
+    "answer": "CAT states that internal control over financial reporting is designed to provide reasonable assurance regarding reliability of financial reporting and preparation of financial statements in accordance with GAAP. GE's provided content does not include any description of internal control.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "evidence_section": "CAT: Item 8 second paragraph; GE: No content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CAT+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What criteria does CAT use to assess internal control effectiveness? Does GE mention any assessment criteria?",
+    "answer": "CAT uses criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). GE's provided content does not mention any assessment criteria.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CAT",
+      "GE"
+    ],
+    "evidence_section": "CAT: Item 8 last sentence; GE: No content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CAT+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

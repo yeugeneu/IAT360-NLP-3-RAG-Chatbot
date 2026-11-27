@@ -1,0 +1,443 @@
+[
+  {
+    "question": "How many Divisions is SLB organized under?",
+    "answer": "four",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the names of the four Divisions?",
+    "answer": "Digital & Integration, Reservoir Performance, Well Construction, Production Systems",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In which month and year did SLB change its brand name?",
+    "answer": "October 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What years does the Item 1A section discuss?",
+    "answer": "2023 and 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Where can discussions of 2021 items and the year-to-year comparison between 2022 and 2021 be found?",
+    "answer": "Part II, Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many year-to-year comparisons are explicitly mentioned in the Item 1A excerpt?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was SLB's cash flow from operations in fiscal year 2023?",
+    "answer": "$6.6 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total amount SLB used for net debt reduction and shareholder returns in fiscal year 2023?",
+    "answer": "$3.4 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "By how many basis points did SLB's pretax segment operating margin increase year-on-year?",
+    "answer": "185 bps",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the free cash flow as a percentage of cash flow from operations in 2023?",
+    "answer": "60.6%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the pretax segment operating margin for the prior year (2022) based on the reported increase?",
+    "answer": "18.15%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of free cash flow was allocated to net debt reduction and shareholder returns combined?",
+    "answer": "85%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of SLB's 2023 revenue was denominated in US dollars?",
+    "answer": "72%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What would be the impact on the unrealized value of SLB's forward contracts if the US dollar depreciated by 10% from December 31, 2023 market rates?",
+    "answer": "increase the unrealized value by $113 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total notional amount of foreign currency forward contracts outstanding at December 31, 2023 that are not related to hedges of debt balances?",
+    "answer": "$5.3 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What were the revenue services for the year ended December 31, 2023?",
+    "answer": "$22,439 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statement of Income",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the comprehensive income for the year ended December 31, 2023?",
+    "answer": "$3,876 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statement of Comprehensive Income",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total of cost of services and cost of sales for the year ended December 31, 2023?",
+    "answer": "$26,572 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statement of Income",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the gross profit margin (gross profit as a percentage of total revenue) for the year ended December 31, 2023?",
+    "answer": "19.8%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Calculate the percentage change in net income attributable to SLB from 2022 to 2023.",
+    "answer": "22.14%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total other comprehensive income (loss) for the year ended December 31, 2023?",
+    "answer": "-399",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

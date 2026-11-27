@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is the mission of UnitedHealth Group?",
+    "answer": "to help people live healthier lives and help make the health system work better for everyone.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the two distinct businesses of UnitedHealth Group?",
+    "answer": "Optum and UnitedHealthcare",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the three businesses that comprise Optum?",
+    "answer": "Optum Health, Optum Insight and Optum Rx",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which specific words or phrases are listed as identifying forward-looking statements in the cautionary statement?",
+    "answer": "“believe,” “expect,” “intend,” “estimate,” “anticipate,” “forecast,” “outlook,” “plan,” “project,” “should”",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Under which act do the forward-looking statements intend to take advantage of the safe harbor provisions?",
+    "answer": "Private Securities Litigation Reform Act of 1995 (PSLRA)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many specific words or phrases are listed as examples of forward-looking language in the first paragraph?",
+    "answer": "10",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of U.S. gross domestic product does health care spending comprise?",
+    "answer": "18%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Executive Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "UnitedHealth Group has four reportable segments across two businesses. On average, how many reportable segments correspond to each business?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Executive Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the two complementary businesses of UnitedHealth Group?",
+    "answer": "Optum and UnitedHealthcare",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Executive Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of the total reportable segments does the UnitedHealthcare segment represent?",
+    "answer": "25%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of the number of Optum segments to the number of UnitedHealthcare subsegments?",
+    "answer": "1:1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total number of distinct operating units obtained by adding the number of Optum segments (3) and the number of UnitedHealthcare subsegments (3)?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "As of December 31, 2023, what was the amount of financial assets with interest rates that vary with market interest rates?",
+    "answer": "$34 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How much of UnitedHealth Group's debt was at interest rates that vary with market rates as of December 31, 2023?",
+    "answer": "$20 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Calculate the net variable-rate exposure (variable-rate financial assets minus variable-rate financial liabilities) as of December 31, 2023.",
+    "answer": "$14 billion ($34 billion - $20 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm that audited UnitedHealth Group's financial statements?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "As of which two fiscal year ends did the auditor audit the consolidated balance sheets?",
+    "answer": "December 31, 2023 and 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many notes to the consolidated financial statements are listed in the table of contents of the financial statements section?",
+    "answer": "14",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Notes to the Consolidated Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Statements of Operations and the Consolidated Statements of Comprehensive Income?",
+    "answer": "79",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many pairs of notes to the consolidated financial statements start on the same page?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference in starting page numbers between Note 14 and Note 1?",
+    "answer": "21",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

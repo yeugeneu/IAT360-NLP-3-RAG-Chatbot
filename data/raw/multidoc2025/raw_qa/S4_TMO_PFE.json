@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the GAAP operating income margins for TMO and PFE in FY2024?",
+    "answer": "TMO's GAAP operating income margin is 17.1%. PFE's GAAP operating income margin is not provided in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "PFE"
+    ],
+    "evidence_section": "TMO: 'Consolidated Results' (Item 7), 'GAAP operating income margin 17.1%'; PFE: No financial data in provided excerpt.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company presents non-GAAP adjusted financial measures in its MD&A?",
+    "answer": "TMO presents non-GAAP adjusted financial measures (e.g., adjusted operating income and adjusted EPS) and states they are described and reconciled under 'Non-GAAP Measures'. PFE's MD&A excerpt does not mention any non-GAAP measures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "PFE"
+    ],
+    "evidence_section": "TMO: Item 7 'Non-GAAP Measures' and 'Adjusted operating income (non-GAAP measure)'; PFE: Item 7 MD&A general section, no mention of non-GAAP.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the dates of the auditor's reports for TMO and PFE?",
+    "answer": "TMO's auditor's report does not include a date in the excerpt. PFE's auditor's report is dated February 27, 2025.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "PFE"
+    ],
+    "evidence_section": "TMO: 'Report of Independent Registered Public Accounting Firm' with no date visible; PFE: 'our report dated February 27, 2025' (Item 8).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total revenue for TMO and PFE in FY2024?",
+    "answer": "TMO's total revenue is $42,879 million. PFE's total revenue is not provided in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "PFE"
+    ],
+    "evidence_section": "TMO: 'Consolidated Results', 'Revenues $ 42,879 $ 42,857 0 %'; PFE: No financial data in provided excerpt.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do TMO and PFE describe their business overview in the MD&A?",
+    "answer": "TMO describes its business: 'enables customers to make the world healthier, cleaner and safer by helping them accelerate life sciences research...' and lists four segments. PFE's MD&A excerpt only contains a general introductory sentence stating that the MD&A is intended to assist in understanding financial condition and results, and does not provide a business overview.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "PFE"
+    ],
+    "evidence_section": "TMO: 'Overview' in Item 7; PFE: 'GENERAL' in Item 7.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly states that it provides a reconciliation of non-GAAP measures to the most comparable GAAP measures?",
+    "answer": "TMO explicitly states: 'These non-GAAP measures are further described and reconciled to their most directly comparable amount or measure under the section “Non-GAAP Measures” later in this “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”' PFE's excerpt does not mention any such reconciliation.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "PFE"
+    ],
+    "evidence_section": "TMO: Item 7 first paragraph; PFE: No equivalent statement in provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

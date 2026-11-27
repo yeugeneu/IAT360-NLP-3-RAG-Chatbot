@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Based solely on the provided text from LLY's and PFE's 10-K filings for FY2022 and FY2024, how many distinct financial statement items are mentioned in the description of Item 7 for each company across both years? Provide the counts and list the items.",
+    "answer": "LLY (both years): 'actual results', 'financial position', 'cash generated from operations' — 3 distinct items. PFE (both years): 'financial condition', 'results of operations', 'cash flows from operations' — 3 distinct items. Total distinct terms across all documents: 'actual results', 'financial position', 'cash generated from operations', 'financial condition', 'results of operations', 'cash flows from operations' — 6 terms.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "LLY",
+      "PFE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 (provided text)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "LLY+PFE",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "Based on the provided text excerpts from LLY and PFE for fiscal years 2022 and 2024, how do the companies' forward-looking statements and MD&A purposes differ, and what does this imply about their respective reporting emphasis?",
+    "answer": "LLY's Item 7 for both 2022 and 2024 consists solely of a forward-looking statement cautioning that actual results, financial position, and cash generated from operations may differ materially from projections. PFE's Item 7 for both years introduces its MD&A as intended to help the reader understand financial condition and results of operations, including an evaluation of the amounts and certainty of cash flows from operations (though the text is truncated). The key difference is that LLY directly couples its forward-looking caution with risk factors, while PFE explicitly structures its MD&A around cash flow evaluation. Neither company changed this language between 2022 and 2024. No numerical data from financial tables was provided in the excerpts, so any trend analysis would require additional tables beyond the given text.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "LLY",
+      "PFE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 text only; no financial tables available in provided content",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "LLY+PFE",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "Compare the forward-looking statement language in Item 7 of LLY and PFE for fiscal years 2022 and 2024. What specific wording change occurs for LLY between the two years, and how does PFE's language remain consistent? Additionally, based on the common structure of MD&A, which financial statement line item (commonly found in the financial tables) would an analyst use to quantify the risk associated with the forward-looking statements about 'cash generated from operations'?",
+    "answer": "LLY's 2022 Item 7 text includes the phrase 'differ materially from these forward-looking statements', while the 2024 text omits 'materially' and states 'differ from these forward-looking statements'. PFE's Item 7 text is identical in both 2022 and 2024, using the standard 'MANAGEMENT’S DISCUSSION AND ANALYSIS...' opening without any variation. To quantify the risk for 'cash generated from operations', an analyst would refer to the Statement of Cash Flows in the financial tables, specifically the line 'Net cash provided by operating activities'.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "LLY",
+      "PFE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 for both companies both years",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "LLY+PFE",
+    "sector": "Healthcare"
+  }
+]

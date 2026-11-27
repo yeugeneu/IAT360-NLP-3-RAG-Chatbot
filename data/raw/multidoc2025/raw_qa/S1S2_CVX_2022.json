@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What type of corporation is Chevron?",
+    "answer": "a Delaware corporation",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which entities are the major factors in determining worldwide supply of crude oil?",
+    "answer": "Production levels from OPEC, Russia and the United States",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where is the list of Chevron's significant subsidiaries presented?",
+    "answer": "Exhibit 21.1",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What confidence level and holding period does Chevron use for its Value-at-Risk (VaR) model?",
+    "answer": "95 percent confidence level with a one-day holding period.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What method does Chevron use as its Value-at-Risk (VaR) model?",
+    "answer": "Monte Carlo simulation method.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many types of commodities are listed as exposures that Chevron manages with derivative commodity instruments?",
+    "answer": "6 (crude oil, refined products, natural gas liquids, natural gas, liquefied natural gas, and refinery feedstocks).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7 in the MD&A section?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where is the index to Management’s Discussion and Analysis presented?",
+    "answer": "in the Financial Table of Contents",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many words are in the title of Item 7?",
+    "answer": "11",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where is the company's discussion of interest rate, foreign currency and commodity price market risk contained?",
+    "answer": "The discussion is contained in Management’s Discussion and Analysis of Financial Condition and Results of Operations — Financial and Derivative Instruments and in Note 10 Financial and Derivative Instruments.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which specific types of market risk are mentioned in Item 7A?",
+    "answer": "Interest rate, foreign currency and commodity price market risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the two sections referenced for the discussion of market risk?",
+    "answer": "Management’s Discussion and Analysis — Financial and Derivative Instruments and Note 10 Financial and Derivative Instruments.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of Item 8?",
+    "answer": "Financial Statements and Supplementary Data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where is the index to Financial Statements and Supplementary Data presented?",
+    "answer": "In the Financial Table of Contents.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does the index in Item 8 refer to?",
+    "answer": "Financial Statements and Supplementary Data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CVX",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CVX"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

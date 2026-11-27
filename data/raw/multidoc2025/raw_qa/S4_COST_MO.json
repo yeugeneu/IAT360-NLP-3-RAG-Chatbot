@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare how COST and MO address input cost risks in their operations.",
+    "answer": "COST manages commodity price risk through fixed-price contracts for warehouses and variable-priced index-based contracts for electricity, natural gas, and fuel, and uses derivative contracts to hedge foreign currency risk. MO does not discuss commodity price hedging in the provided content; instead, it focuses on risks from inflation and changes in adult tobacco consumer preferences affecting premium brand sales.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COST",
+      "MO"
+    ],
+    "evidence_section": "Item 7 for both companies",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COST+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the currency risk exposure disclosed by COST and MO.",
+    "answer": "COST explicitly discusses foreign currency risk from its international operations, quantifying that a hypothetical 10% strengthening of functional currencies would decrease the fair value of its derivative contracts by approximately $120, resulting in an unrealized loss. MO's provided content does not mention any currency risk or related hedging activities.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COST",
+      "MO"
+    ],
+    "evidence_section": "COST: Item 7; MO: no mention in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COST+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the primary risk factors identified by each company in their Item 7 discussions.",
+    "answer": "COST identifies currency fluctuations and commodity price volatility as key risks, mitigated through hedging and fixed-price contracts. MO identifies changes in adult tobacco consumer preferences, inflation driving consumers to discount brands, and illicit flavored e-vapor products as primary risks, with a focus on premium brand vulnerability.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COST",
+      "MO"
+    ],
+    "evidence_section": "Item 7 for both companies",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COST+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the disclosures regarding the use of derivative instruments by COST and MO.",
+    "answer": "COST uses derivative contracts to hedge foreign currency risk and enters into fixed-price and variable-price contracts for commodities that may qualify as derivatives but are exempt from mark-to-market due to the 'normal purchases and normal sales' exception. MO's provided content does not mention any use of derivative instruments.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COST",
+      "MO"
+    ],
+    "evidence_section": "COST: Item 7; MO: not mentioned",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COST+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare how each company describes the impact of macroeconomic conditions on their business.",
+    "answer": "COST discusses macroeconomic impact in terms of input cost volatility, specifically energy and commodity prices, and its use of hedging. MO discusses that in periods of economic uncertainty and high inflation, adult tobacco consumers reduce consumption, purchase more discount brands, and shift to illicit flavored e-vapor products, negatively impacting premium brand sales and industry volume.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COST",
+      "MO"
+    ],
+    "evidence_section": "COST: Item 7 (commodity price risk); MO: Item 7 ('Risks Relating to Our Business')",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COST+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the companies' approach to forward-looking statements and risk factor disclosure.",
+    "answer": "COST's MD&A includes quantitative sensitivity analysis for currency risk (hypothetical 10% change impact of $120), while MO's MD&A provides qualitative discussion of risks and explicitly states that it does not undertake to update forward-looking statements except as required by law. Both include cautionary statements about uncertainties.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COST",
+      "MO"
+    ],
+    "evidence_section": "COST: Item 7; MO: Item 7 (forward-looking statements caution)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COST+MO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

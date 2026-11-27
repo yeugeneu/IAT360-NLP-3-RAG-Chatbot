@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the fiscal year end dates for APD and DD as reported in their 10-K filings?",
+    "answer": "APD's fiscal year ends on 30 September, as indicated by 'Fiscal Years Ended 30 September 2024' in its Consolidated Income Statements. DD's fiscal year ends on 31 December, as indicated by 'As of December 31, 2024' in its MD&A.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "evidence_section": "APD: Item 8 - Consolidated Income Statements header; DD: ITEM 7 - Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the net working capital for DD as of December 31, 2024, and what is the net working capital for APD as of September 30, 2024?",
+    "answer": "DD reports $1.6 billion of net working capital as of December 31, 2024. The provided APD content does not include a net working capital figure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "evidence_section": "APD: No relevant data in provided content; DD: ITEM 7 - Overview: 'As of December 31, 2024, the Company has $1.6 billion of net working capital'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the cash and cash equivalents balance for DD as of December 31, 2024, and for APD as of September 30, 2024?",
+    "answer": "DD reports $1.9 billion in cash and cash equivalents as of December 31, 2024. The provided APD content does not include a cash and cash equivalents figure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "evidence_section": "APD: No relevant data in provided content; DD: ITEM 7 - Overview: 'As of December 31, 2024, the Company has ... $1.9 billion in cash and cash equivalents'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Describe the strategic restructuring plans mentioned for each company in the provided content.",
+    "answer": "DD announced an intended separation of its Electronics business, targeting November 1, 2025, and will retain the Water business. APD does not mention any restructuring plan in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "evidence_section": "APD: No relevant data; DD: ITEM 7 - Overview: 'Intended Electronics Separation' paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do APD and DD each address the use of non-GAAP financial measures in their MD&A?",
+    "answer": "APD explicitly states that it presents certain financial measures on an 'adjusted' or 'non-GAAP' basis to provide a more complete understanding. DD does not mention non-GAAP measures in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "evidence_section": "APD: Item 7 - 'We present certain financial measures on an \"adjusted,\" or \"non-GAAP,\" basis'; DD: No mention in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly includes a forward-looking statements disclaimer in its MD&A, and which company includes statements about expectations that imply forward-looking information?",
+    "answer": "APD explicitly includes a forward-looking statements disclaimer: 'This Management’s Discussion and Analysis contains “forward-looking statements” within the safe harbor provisions...'. DD does not have a similar explicit disclaimer in the provided excerpt, but its MD&A includes forward-looking statements of expectation (e.g., 'The Company expects its cash and cash equivalents... to provide sufficient liquidity').",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "DD"
+    ],
+    "evidence_section": "APD: Item 7 - first paragraph; DD: ITEM 7 - Overview: 'The Company expects its cash and cash equivalents...'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What are the main areas of focus for the company?",
+    "answer": "defense, space, intelligence, homeland security and information technology, including cybersecurity",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who are the principal customers of the company?",
+    "answer": "agencies of the U.S. Government",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the name of the vision that guides the company's strategy and investments?",
+    "answer": "21st Century Security",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of MFC's net sales in 2024 came from international customers?",
+    "answer": "29%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A - Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of international partner countries and FMS customers involved in the F-35 program?",
+    "answer": "19",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A - Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which business segment had the lowest international sales percentage in 2024?",
+    "answer": "MFC at 29%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A - Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the item number of the Management's Discussion and Analysis section?",
+    "answer": "7",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the stated purpose of the MD&A according to the provided content?",
+    "answer": "To help the reader understand our results of operations and financial condition.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is twice the item number of the MD&A section?",
+    "answer": "14",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the estimated fair value of LMT's outstanding debt at December 31, 2024?",
+    "answer": "$20.2 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the outstanding principal amount of LMT's debt (excluding unamortized discounts and issuance costs) at December 31, 2024?",
+    "answer": "$21.6 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between the outstanding principal amount of LMT's debt and its estimated fair value as of December 31, 2024?",
+    "answer": "$1.4 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What opinion did the auditor express on Lockheed Martin's consolidated financial statements?",
+    "answer": "present fairly, in all material respects",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What framework was used by the auditor to evaluate internal control over financial reporting?",
+    "answer": "Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many days after December 31, 2024 was the audit report issued?",
+    "answer": "28 days",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of distinct financial statements listed in the audit scope paragraph?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of financial statements that include the word 'income' in their title to the total number of statements listed?",
+    "answer": "0.2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years of data are covered for the consolidated statements of cash flows as described in the auditor's report?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LMT",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LMT"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

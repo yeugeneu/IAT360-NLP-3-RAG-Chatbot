@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is the fiscal year end date for Starbucks Corporation in this report?",
+    "answer": "September 29, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which stock exchange does Starbucks Corporation's common stock trade?",
+    "answer": "Nasdaq Global Select Market (Nasdaq)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "List the brands under which Starbucks sells goods and services, as mentioned in this section, excluding the flagship Starbucks Coffee brand.",
+    "answer": "Teavana, Ethos, and Starbucks Reserve",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is one of the risks listed under 'Risks Related to Brand Relevance and Brand Execution'?",
+    "answer": "Our success depends substantially on the value of our brands, and failure to preserve their value could have a negative impact on our financial results.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Risks Related to Brand Relevance and Brand Execution",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What risk is mentioned regarding food- or beverage-borne illnesses?",
+    "answer": "Reported incidents involving food- or beverage-borne illnesses, tampering, adulteration, contamination, or mislabeling, whether or not accurate, could harm our business.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Risks Related to Our Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many risk factors are listed under the 'Risks Related to Our Business' category?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Risks Related to Our Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many reportable operating segments does Starbucks have and what are they?",
+    "answer": "Three: North America, International, and Channel Development.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage increase in consolidated net revenues in fiscal 2024 compared to fiscal 2023?",
+    "answer": "1%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the dollar increase in consolidated net revenues from fiscal 2023 to fiscal 2024?",
+    "answer": "$0.2 billion (from $36.0 billion to $36.2 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the dollar increase in consolidated net revenues from fiscal 2023 to fiscal 2024?",
+    "answer": "$0.2 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of the percentage increase in consolidated net revenues to the percentage increase in North America revenues?",
+    "answer": "0.5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the percentage change in North America revenue and the percentage change in comparable store sales?",
+    "answer": "0%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the titles of the sections referenced in Item 7A for the required information?",
+    "answer": "“Management’s Discussion and Analysis of Financial Condition and Results of Operations — Commodity Prices, Availability, and General Risk Conditions” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Financial Risk Management”",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many specific subsections under Management’s Discussion and Analysis are referenced in Item 7A?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total net revenues for Starbucks in fiscal year 2024?",
+    "answer": "$36,176.2 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Earnings",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the operating income as a percentage of total net revenues for fiscal year 2024?",
+    "answer": "14.95%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Earnings",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net earnings attributable to Starbucks for fiscal year 2023?",
+    "answer": "$4,124.5 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Earnings",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the percentage change in net earnings attributable to Starbucks from fiscal year 2022 to fiscal year 2024?",
+    "answer": "14.61%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the operating margin (operating income as a percentage of total net revenues) for fiscal year 2024?",
+    "answer": "14.95%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the effective tax rate (income tax expense divided by earnings before income taxes) for fiscal year 2023?",
+    "answer": "23.65%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

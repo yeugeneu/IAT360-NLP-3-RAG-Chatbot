@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the total number of properties owned by Realty Income (O) as of December 31, 2024, and does Welltower (WELL) disclose a similar property count in the provided excerpt?",
+    "answer": "Realty Income owns 15,621 properties as of December 31, 2024. Welltower does not disclose a property count in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "O"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly states that it is a member of the S&P 500 Dividend Aristocrats index, and does Welltower make any similar claim in the provided text?",
+    "answer": "Realty Income states it is a member of the S&P 500 Dividend Aristocrats index. Welltower does not mention any index membership in the provided text.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "O"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the weighted average remaining lease term (excluding renewal options) for Realty Income's portfolio, and does Welltower provide a comparable lease term metric in the given excerpt?",
+    "answer": "Realty Income's weighted average remaining lease term is approximately 9.3 years. Welltower does not provide any lease term metric in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "O"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided text, which company reports the percentage of annualized contractual rent from investment grade clients, and what is that percentage? Does Welltower report a similar metric?",
+    "answer": "Realty Income reports that 32.4% of its total portfolio annualized contractual rent comes from investment grade clients. Welltower does not report a similar metric in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "O"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company describes itself as investing in diversified commercial real estate, and what specific risks does Welltower mention in its risk factors that are not explicitly tied to a sector?",
+    "answer": "Realty Income explicitly states it invests in diversified commercial real estate. Welltower's risk factors mention supply chain disruptions, labor market constraints, public health crises, and escalating global conflicts, but do not explicitly tie these risks to a specific real estate sector.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "O"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many consecutive monthly dividends has Realty Income declared since its founding, and does Welltower mention any dividend history in the provided text?",
+    "answer": "Realty Income has declared 656 consecutive monthly dividends since its founding. Welltower does not mention any dividend history in the provided text.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "O"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

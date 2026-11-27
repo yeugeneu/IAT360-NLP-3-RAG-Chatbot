@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Based on the FY2024 filings, compare the primary strategic objectives of AEP and ED.",
+    "answer": "AEP's filing does not explicitly state a strategic objective in the provided excerpts; it lists risk factors. ED's filing states: 'Con Edison seeks to provide shareholder value through continued dividend growth, supported by earnings growth in regulated utilities and electric transmission projects.' Thus, ED has a clear shareholder-focused strategy, while AEP's excerpt concentrates on forward-looking statements and risks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "ED"
+    ],
+    "evidence_section": "AEP: Item 7; ED: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do AEP and ED address the impact of climate change and environmental regulations in their FY2024 10-K excerpts?",
+    "answer": "AEP mentions 'New legislation adopted in the states in which we operate that alters the regulatory framework' as a risk factor. ED specifically references the CLCPA and Climate Mobilization Act, stating: 'The Companies expect distributed energy resources and electric alternatives to gas and steam to increase, and for gas and steam usage to decrease, as the CLCPA and the Climate Mobilization Act continue to be implemented.' Thus, ED provides more specific details about environmental policy impacts, while AEP's mention is more general.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "ED"
+    ],
+    "evidence_section": "AEP: Item 7; ED: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist between AEP and ED regarding their forward-looking statement disclaimers?",
+    "answer": "AEP's disclaimer includes an explicit list of factors that could cause actual results to differ, such as 'Changes in economic conditions, electric market demand and demographic patterns,' 'Inflationary or deflationary interest rate trends,' and 'New legislation.' ED's disclaimer is less enumerated; it states that strategies may not be effective to address changes in the external business environment and lists factors like 'Changes to the competitive landscape, public policy, laws or regulations (or interpretations thereof), customer behavior or technology.' Thus, AEP provides a more detailed enumerated list of risk factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "ED"
+    ],
+    "evidence_section": "AEP: Item 7; ED: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the audit opinions for AEP and ED as presented in their FY2024 filings.",
+    "answer": "Both audit opinions are virtually identical: they state the consolidated financial statements present fairly in conformity with GAAP and that the company maintained effective internal control over financial reporting based on COSO criteria. Both are audited in accordance with PCAOB standards. There is no substantive difference in the audit opinions between AEP and ED based on the provided excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "ED"
+    ],
+    "evidence_section": "AEP: Item 8; ED: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do AEP and ED describe the responsibility of management regarding internal control over financial reporting in their FY2024 filings?",
+    "answer": "Both filings include auditor reports that state management is responsible for the consolidated financial statements and for maintaining effective internal control over financial reporting. AEP's auditor report says: 'Our responsibility is to express opinions on the Company’s consolidated financial statements and on the Company's internal control over financial reporting based on our audits.' ED's auditor report says: 'The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting.' Both descriptions are consistent.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "ED"
+    ],
+    "evidence_section": "AEP: Item 8; ED: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key differences in how AEP and ED address the competitive landscape in their FY2024 filings?",
+    "answer": "AEP's filing does not directly address competition; it mentions risks from 'Changes in economic conditions, electric market demand and demographic patterns.' ED specifically discusses competition: 'The Utilities' gas delivery customers and CECONY's steam delivery customers have alternatives, such as electricity and oil. Distributed energy resources, and demand reduction and energy efficiency investments, provide ways for the energy consumers within the Utilities’ service areas to manage their energy usage.' Thus, ED provides explicit competitive analysis, while AEP does not.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AEP",
+      "ED"
+    ],
+    "evidence_section": "AEP: Item 7; ED: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AEP+ED",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

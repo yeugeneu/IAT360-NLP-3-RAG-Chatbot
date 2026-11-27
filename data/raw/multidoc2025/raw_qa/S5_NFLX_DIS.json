@@ -1,0 +1,46 @@
+[
+  {
+    "question": "From DIS FY2024, net income for fiscal 2024 is $5.0 billion, an increase of $2.6 billion from the prior year. What was the net income for fiscal 2023? Additionally, based on the NFLX FY2022 header, the table includes years 2022, 2021, and 2020. How many fiscal years are covered in that Netflix table?",
+    "answer": "$2.4 billion; three years (2022, 2021, 2020).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NFLX",
+      "DIS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 text (revenue and net income) and NFLX FY2022 header (table years)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "NFLX+DIS",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Using the financial data provided in the DIS FY2024 text, calculate the percentage revenue growth from fiscal 2023 to fiscal 2024. Then, referring to the NFLX FY2022 and FY2024 table headers, determine if a similar growth rate can be computed for Netflix for the corresponding periods. Support your answer with direct quotes.",
+    "answer": "From DIS FY2024: 'Revenues for fiscal 2024 increased 3%, or $2.5 billion, to $91.4 billion'. Therefore, prior-year revenue = $91.4B - $2.5B = $88.9B, and the percentage growth is given as 3%. For NFLX, the table headers in both FY2022 (Item 7) and FY2024 (Item 7) list columns for fiscal years (e.g., 2022, 2021, 2020 in FY2022; 2024, 2023, 2022 in FY2024) but include no actual numerical values for revenue per membership or other metrics in the provided excerpt. Consequently, a comparable growth rate cannot be calculated for Netflix from the given content.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NFLX",
+      "DIS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 Item 7 (text) and NFLX FY2022 & FY2024 Item 7 (table headers)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "NFLX+DIS",
+    "sector": "Communication Services"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the total net income attributable to common shareholders from continuing operations for EXC in 2024, and what does AEP report for the same metric in its MD&A?",
+    "answer": "EXC reports net income of $2,460 million for the year ended December 31, 2024. AEP's MD&A excerpt does not provide any net income figure; it only contains forward-looking statements and risk factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EXC",
+      "AEP"
+    ],
+    "evidence_section": "EXC: Item 7 (table); AEP: Item 7 (no financial data)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EXC+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a segment-level breakdown of net income in its MD&A?",
+    "answer": "EXC provides a segment-level breakdown with specific numbers for ComEd, PECO, BGE, PHI, Pepco, DPL, ACE, and Other. AEP does not provide any segment data in its MD&A excerpt; it only discusses forward-looking statements and risks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EXC",
+      "AEP"
+    ],
+    "evidence_section": "EXC: Item 7 (table); AEP: Item 7 (no segment data)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EXC+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What similarities exist in the audit report language of EXC and AEP in Item 8?",
+    "answer": "Both EXC and AEP include identical audit report text that begins with 'Our responsibility is to express opinions on the Company’s consolidated financial statements' and describes the scope of the audit performed by a public accounting firm registered with the PCAOB. Neither report names the specific accounting firm.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EXC",
+      "AEP"
+    ],
+    "evidence_section": "EXC: Item 8; AEP: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EXC+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the MD&A content, which company discusses specific factors that favorably impacted its 2024 net income?",
+    "answer": "EXC discusses specific favorable factors including rate increases at BGE and PHI, less unfavorable weather at PECO, higher return on regulatory assets at ComEd, lower contracting costs at PHI, a tax repairs deduction at PECO, favorable multi-year plan reconciliations at Pepco, absence of realized losses from hedging, higher transmission peak load at ComEd, and lower storm costs at PHI. AEP's MD&A excerpt does not discuss net income drivers; it only lists risk factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EXC",
+      "AEP"
+    ],
+    "evidence_section": "EXC: Item 7 (narrative); AEP: Item 7 (risk factors)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EXC+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies differ in their inclusion of forward-looking statements in the MD&A?",
+    "answer": "EXC's MD&A excerpt focuses on historical results and does not contain explicit forward-looking statement disclaimers, whereas AEP's MD&A begins with a detailed forward-looking statement disclaimer identifying words such as 'expect,' 'anticipate,' 'intend,' 'plan,' 'believe,' and others, and includes a list of factors that could cause actual results to differ.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EXC",
+      "AEP"
+    ],
+    "evidence_section": "EXC: Item 7 (no forward-looking disclaimer); AEP: Item 7 (forward-looking statements paragraph)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EXC+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What risk factors are explicitly listed in AEP's MD&A that are absent from EXC's MD&A excerpt?",
+    "answer": "AEP's MD&A lists specific risk factors including changes in economic conditions, electric market demand, demographic patterns, impacts of global conflicts and trade tensions, inflation or deflationary interest rate trends, new state legislation altering regulatory frameworks, and volatility in financial markets. EXC's MD&A excerpt does not list any similar risk factors; it only discusses historical results and drivers.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EXC",
+      "AEP"
+    ],
+    "evidence_section": "EXC: Item 7 (no risk factors); AEP: Item 7 (risk factor bullet list)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EXC+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

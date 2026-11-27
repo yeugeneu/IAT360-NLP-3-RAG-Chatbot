@@ -1,0 +1,68 @@
+[
+  {
+    "question": "In the provided text, which company and year mention a 'comprehensive business review'? If the financial statements were included, what would be the total operating revenue for that company in that year according to Item 8? Quote any numerical evidence from the text.",
+    "answer": "Dominion Energy (D) in FY2022 mentions 'commenced a comprehensive business review' (from D FY2022 Item 7 text). No financial tables are provided, so the total operating revenue cannot be determined from the given content. The only numerical value present is the page reference 'I-16' in SO FY2022, which is not applicable to this question.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SO",
+      "D"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "D FY2022 Item 7; SO FY2022 Item 7 reference 'I-16'",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SO+D",
+    "sector": "Utilities"
+  },
+  {
+    "question": "The SO FY2022 filing includes the phrase 'I-16 Table of Contents Index to Financial Statements'. Using that page reference, and assuming the financial statements from Item 8 were available, what would be the net income for SO in FY2022? If the financial statements are not provided, state that the information is missing. Also compare this with any net income figures that might be inferred from the text for D in FY2022 or FY2024.",
+    "answer": "The text for SO FY2022 contains the numerical page reference 'I-16' indicating the index to financial statements. However, the actual financial statements (Item 8) are not included in the provided content, so net income for SO in FY2022 cannot be quoted. Similarly, no net income figures are provided for D in any year. Hence, this hybrid-modal question cannot be fully answered from the given material.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SO",
+      "D"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SO FY2022 Item 7 (I-16 reference); D FY2022 and FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SO+D",
+    "sector": "Utilities"
+  },
+  {
+    "question": "Compare the regulatory risk descriptions for D in FY2022 and FY2024. Based on the text, does the description change? Then, using the financial statements (Item 8) that would accompany these filings, calculate the percentage change in regulatory assets from FY2022 to FY2024 for D. If the financial statements are not provided, explain the limitation.",
+    "answer": "The text for D in both FY2022 and FY2024 states that rates are subject to regulatory review and that profitability depends on cost recovery through allowed rates. No substantive change is evident from the provided excerpts. The financial statements (Item 8) are not included in the given content, so the percentage change in regulatory assets cannot be calculated. No numerical values from tables are available to quote.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SO",
+      "D"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "D FY2022 Item 7; D FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "SO+D",
+    "sector": "Utilities"
+  }
+]

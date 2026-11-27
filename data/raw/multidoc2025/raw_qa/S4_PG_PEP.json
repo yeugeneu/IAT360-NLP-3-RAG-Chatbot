@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was PG's net sales in fiscal 2024 and what was the percentage increase? What was PEP's net sales and percentage increase in its FY2024?",
+    "answer": "PG reported net sales of $84.0 billion in fiscal 2024, an increase of 2% from the prior year. The provided content for PEP does not include net sales figures for its fiscal year ended December 28, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "evidence_section": "PG: Item 7; PEP: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PG+PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the gross margin percentages and basis point changes for PG and PEP in their respective FY2024.",
+    "answer": "PG's gross margin was 51.4% of net sales, an increase of 350 basis points from the prior year. The provided content for PEP does not include gross margin data.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "evidence_section": "PG: Item 7, Operating Costs table; PEP: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PG+PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare organic sales growth for PG and PEP in FY2024.",
+    "answer": "PG reported organic sales increased 4% in fiscal 2024. The provided content for PEP does not include organic sales growth data.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "evidence_section": "PG: Item 7, Net Sales section; PEP: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PG+PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare operating margin percentages for PG and PEP in FY2024.",
+    "answer": "PG's operating margin was 22.1% of net sales, unchanged year over year. The provided content for PEP does not include operating margin data.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "evidence_section": "PG: Item 7, Operating Costs table; PEP: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PG+PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare SG&A as a percentage of net sales for PG and PEP in FY2024.",
+    "answer": "PG's SG&A was 27.7% of net sales, a 200 basis point increase from the prior year. The provided content for PEP does not include SG&A data.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "evidence_section": "PG: Item 7, Operating Costs table and SG&A description; PEP: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PG+PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the fiscal year-end dates for PG and PEP based on their 10-K filings?",
+    "answer": "PG's Form 10-K is for the fiscal year ended June 30, 2023 (though it refers to fiscal 2024 results). PEP's fiscal year ends December 28, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "evidence_section": "PG: Item 7 header; PEP: Item 7 and subsequent dates",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PG+PEP",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "In AMT’s 2022 and 2024 filings, identify the coupon rates of the senior unsecured notes that were redeemed in each year. Then, based on CCI’s 2024 MD&A, what specific operational change did CCI implement to address competition, and how does this contrast with AMT’s financial strategy?",
+    "answer": "AMT’s 2022 filing states it redeemed its 2.250% senior unsecured notes due 2022. AMT’s 2024 filing states it redeemed its 0.600% senior unsecured notes due 2024, its 5.00% senior unsecured notes due 2024, and its 3.375% senior unsecured notes due 2024. CCI’s 2024 MD&A reports that the 2023 Restructuring Plan included discontinuing installation services as a Towers product offering to improve competitiveness. While AMT focused on managing debt costs and maturities through targeted redemptions, CCI chose to streamline operations by exiting a service line.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CCI",
+      "AMT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AMT FY2022 Item 7: 'Redemption of our 2.250% senior unsecured notes due 2022'; AMT FY2024 Item 7: 'Redemption of our 0.600% senior unsecured notes due 2024, our 5.00% senior unsecured notes due 2024 and our 3.375% senior unsecured notes due 2024'; CCI FY2024 Item 7: '2023 Restructuring Plan, which included discontinuing installation services as a Towers product offering'",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CCI+AMT",
+    "sector": "Real Estate"
+  },
+  {
+    "question": "Calculate the range (maximum minus minimum) of coupon rates among all senior unsecured notes redeemed by AMT across fiscal years 2022 and 2024. Then, based on CCI’s 2024 MD&A, describe the competitive challenge CCI identified in the industry and the strategic action taken.",
+    "answer": "From AMT’s 2022 redemption: coupon rate 2.250%. From AMT’s 2024 redemptions: 0.600%, 5.00%, and 3.375%. The maximum rate is 5.00% and the minimum is 0.600%, yielding a range of 4.400%. CCI’s 2024 MD&A states that due to competition in the industry, it may find it more difficult to negotiate favorable rates on new or renewing tenant contracts. In response, CCI implemented a restructuring plan that included discontinuing installation services as a Towers product offering. This operational shift is distinct from AMT’s debt-focused approach.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CCI",
+      "AMT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AMT FY2022 Item 7: 'Redemption of our 2.250% senior unsecured notes due 2022'; AMT FY2024 Item 7: 'Redemption of our 0.600% senior unsecured notes due 2024, our 5.00% senior unsecured notes due 2024 and our 3.375% senior unsecured notes due 2024'; CCI FY2024 Item 7: 'As a result of competition in our industry, we may find it more difficult to negotiate favorable rates...' and '2023 Restructuring Plan, which included discontinuing installation services as a Towers product offering'",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "CCI+AMT",
+    "sector": "Real Estate"
+  },
+  {
+    "question": "Compare the strategic responses of CCI and AMT to their respective business environments during 2022-2024. Using numerical evidence from AMT’s debt redemptions and qualitative evidence from CCI’s restructuring, how did each company aim to improve its financial or competitive position?",
+    "answer": "AMT improved financial flexibility by redeeming specific high-cost or maturing debt: in 2022 it redeemed 2.250% notes, and in 2024 it redeemed notes with coupons of 0.600%, 5.00%, and 3.375%. This active debt management maintains long-term financial policies. CCI, facing competition that makes rate negotiations harder, executed a restructuring plan in 2023 that discontinued installation services as a Towers product offering. While AMT focused on liability management to lower or control financing costs, CCI focused on simplifying its service portfolio to sharpen competitiveness. Both actions aim to strengthen the business, but through different levers: finance vs. operations.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CCI",
+      "AMT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AMT FY2022 Item 7: 'Redemption of our 2.250% senior unsecured notes due 2022'; AMT FY2024 Item 7: 'Redemption of our 0.600% senior unsecured notes due 2024, our 5.00% senior unsecured notes due 2024 and our 3.375% senior unsecured notes due 2024'; CCI FY2024 Item 7: 'As a result of competition in our industry, we may find it more difficult to negotiate favorable rates... our 2023 Restructuring Plan, which included discontinuing installation services as a Towers product offering'",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CCI+AMT",
+    "sector": "Real Estate"
+  }
+]

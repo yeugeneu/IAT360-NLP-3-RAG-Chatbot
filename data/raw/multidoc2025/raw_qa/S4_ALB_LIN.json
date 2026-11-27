@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare the credit rating events described by ALB and LIN in their FY2024 10-K. What specific downgrade did ALB experience and what is the resulting margin increase? Does LIN discuss any credit rating changes?",
+    "answer": "ALB states that during 2024 its ratings were downgraded by two of the three main credit ratings agencies, resulting in an increase of the applicable margin for borrowings under the 2022 Credit Agreement to 1.20%. LIN does not mention any credit rating changes or downgrades in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ALB",
+      "LIN"
+    ],
+    "evidence_section": "ALB: Item 7; LIN: No relevant section (no credit rating discussion)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ALB+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both companies have a Management’s Report on Internal Control Over Financial Reporting. What framework does ALB explicitly use for its assessment, and does LIN specify the same framework in its report?",
+    "answer": "ALB explicitly states it used the criteria in the Internal Control—Integrated Framework 2013 set forth by COSO. LIN's content references \"Management’s Report on Internal Control Over Financial Reporting\" but does not specify the framework used; it only states the financial statements are prepared in conformity with GAAP.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ALB",
+      "LIN"
+    ],
+    "evidence_section": "ALB: Item 8, Management's Report on Internal Control; LIN: Item 8, Management’s Statement of Responsibility and Management’s Report on Internal Control Over Financial Reporting (page references 42)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ALB+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Describe the primary products and technologies that LIN highlights in its industrial gases segment. How does ALB’s product focus differ based on the provided content?",
+    "answer": "LIN highlights atmospheric gases (oxygen, nitrogen, argon) produced via cryogenic air separation, rare gases (krypton, neon, xenon), and technologies such as VPSA and membrane separation. LIN also produces hydrogen via SMR/ATR and low-carbon/renewable hydrogen. ALB’s content does not describe its products; it focuses on credit ratings, debt, and internal controls, indicating a different strategic emphasis (lithium and specialty chemicals vs. industrial gases).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ALB",
+      "LIN"
+    ],
+    "evidence_section": "LIN: Item 7, Industrial Gases Products and Manufacturing Processes; ALB: Not specified (products not described in provided content)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ALB+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What impact does a credit rating downgrade have on ALB’s financing costs according to its MD&A? Does LIN disclose any similar impact?",
+    "answer": "ALB states that downgrades result in an increase of the applicable margin for borrowings; the margin increased to 1.20% after two downgrades. Further downgrades would likely increase cost of future financing and limit access to capital markets. LIN does not disclose any such impact in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ALB",
+      "LIN"
+    ],
+    "evidence_section": "ALB: Item 7, paragraph on credit rating downgrade; LIN: No relevant section",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ALB+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the market leadership claims made by LIN and any competitive positioning statements from ALB in the provided excerpts.",
+    "answer": "LIN claims it is \"the market leader in the field of non-cryogenic air separation technologies for the production of industrial gases.\" ALB does not make any explicit market leadership claims in the provided content; it focuses on risk factors related to credit ratings and internal controls.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ALB",
+      "LIN"
+    ],
+    "evidence_section": "LIN: Item 7, paragraph starting 'Linde is the market leader'; ALB: Item 7 (no market leadership statement)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ALB+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the different types of hydrogen production technologies described by LIN, and does ALB mention any hydrogen or similar production?",
+    "answer": "LIN describes production of conventional hydrogen from natural gas/methane using SMR or ATR technology, and low-carbon hydrogen from fossil feedstocks or renewable hydrogen from renewable energy. ALB does not mention hydrogen production or any specific production technologies in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ALB",
+      "LIN"
+    ],
+    "evidence_section": "LIN: Item 7, section on hydrogen; ALB: Item 7 & 8 (no hydrogen discussion)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ALB+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

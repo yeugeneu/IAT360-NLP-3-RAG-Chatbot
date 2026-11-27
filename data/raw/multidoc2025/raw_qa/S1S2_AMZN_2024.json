@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What does this Annual Report on Form 10-K contain according to the provided content?",
+    "answer": "forward-looking statements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the forward-looking statements in this Annual Report based on?",
+    "answer": "expectations, estimates, and projections",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What may differ materially from those expressed in the forward-looking statements?",
+    "answer": "actual results and outcomes",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "When do cash, cash equivalents, and marketable securities balances typically reach their highest level according to the text?",
+    "answer": "as of December 31 of each year",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Under what program does Amazon reimburse customers for payments up to certain limits in situations where sellers engage in fraudulent or unlawful activities?",
+    "answer": "Under our A-to-z Guarantee",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many months does the decline in accounts payable generally last during the year?",
+    "answer": "three months",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific types of retail competition does Amazon mention in the MD&A?",
+    "answer": "physical, e-commerce, and omnichannel retail",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many new and enhanced technologies are listed as increasing competition?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is one advantage that some competitors have over Amazon according to the MD&A?",
+    "answer": "greater resources",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the types of market risk to which AMZN is exposed?",
+    "answer": "interest rate changes, foreign currency fluctuations, and changes in the market values of investments",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the section number and title for this disclosure?",
+    "answer": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many different market risks are mentioned in Item 7A?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of Ernst & Young LLP as mentioned in the report?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total of the page numbers for the Consolidated Statements of Cash Flows and Consolidated Statements of Operations?",
+    "answer": "75",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what date did Ernst & Young issue their opinion on Amazon's internal control over financial reporting?",
+    "answer": "February 1, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Statements of Cash Flows and the Consolidated Statements of Operations?",
+    "answer": "75",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the absolute difference in page numbers between the Consolidated Balance Sheets and the Consolidated Statements of Stockholders’ Equity?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total of the page numbers for all financial statements listed in the index from Consolidated Statements of Cash Flows through Notes to Consolidated Financial Statements?",
+    "answer": "237",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

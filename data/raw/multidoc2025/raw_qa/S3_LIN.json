@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the age of Sanjiv Lamba change between FY2022 and FY2023, and is his age provided in FY2024?",
+    "answer": "In the FY2022 content, Sanjiv Lamba was 58 years old. In FY2023, he was 59 years old. The FY2024 content does not include his age.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "LIN",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "LIN"
+    ]
+  },
+  {
+    "question": "How did the age of Guillermo Bichara change from FY2022 to FY2023, and is his age given in FY2024?",
+    "answer": "In the FY2022 content, Guillermo Bichara was 48 years old. In FY2023, he was 49 years old. The FY2024 content does not include his age.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "LIN",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "LIN"
+    ]
+  },
+  {
+    "question": "Which fiscal years' Item 7 MD&A included a section titled 'Available Information' with details about accessing reports on the company's and SEC's websites?",
+    "answer": "The 'Available Information' section appeared in the FY2022 and FY2023 MD&A. The FY2024 MD&A excerpt does not contain that section.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "LIN",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "LIN"
+    ]
+  },
+  {
+    "question": "What is the trend in the main topic of the Item 7 MD&A across the three years?",
+    "answer": "For FY2022 and FY2023, the MD&A focused on 'Available Information' and 'Executive Officers'. For FY2024, the MD&A focused on 'Industrial Gases Products and Manufacturing Processes'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "LIN",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "LIN"
+    ]
+  },
+  {
+    "question": "Did the description of the company's website for investor information appear in all three years?",
+    "answer": "No. The description of the company's website for investor information appeared in FY2022 and FY2023, but not in FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "LIN",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "LIN"
+    ]
+  },
+  {
+    "question": "Did the executive officer listing remain consistent between FY2022 and FY2023, and is it present in FY2024?",
+    "answer": "In FY2022 and FY2023, the same two executive officers (Sanjiv Lamba and Guillermo Bichara) were listed, with ages increasing by one year. The FY2024 content does not include any executive officer listing.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "LIN",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "LIN"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the two companies' approaches to managing currency risk differ based on the provided content?",
+    "answer": "KO addresses currency risk in Note 5 'Hedging Transactions and Derivative Financial Instruments' (page 79 in Item 8). COST provides a specific sensitivity analysis, stating that a hypothetical 10% strengthening of functional currencies would have decreased the fair value of the contracts by approximately $120 and resulted in an unrealized loss in the consolidated statements of income for the same amount.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "COST"
+    ],
+    "evidence_section": "Note 5 for KO; Item 7 for COST",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "KO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the business models of KO and COST as described in the excerpts.",
+    "answer": "KO is a beverage manufacturer and brand owner, marketing numerous brands including sparkling soft drinks, water, sports, coffee, tea, juice, dairy, and plant-based beverages, and has expanded into alcohol ready-to-drink beverages. COST is Costco Wholesale Corporation, a membership warehouse retailer with operations that include retail and manufacturing operations, gas stations, and warehouses, as indicated by references to 'gas stations' and 'warehouses' in its risk discussion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "COST"
+    ],
+    "evidence_section": "Item 7 for both: KO brand list (sparkling soft drinks, etc.) and alcohol strategy; COST discussion of warehouses, gas stations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "KO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences in product diversification are evident between the two companies?",
+    "answer": "KO is focused exclusively on beverages, with a broad portfolio that includes sparkling soft drinks, water, sports drinks, coffee, tea, juice, value-added dairy, plant-based beverages, and alcohol (pre-mixed cocktails, flavored alcohol, hard seltzers). COST, as a wholesale retailer, is implied to sell a wide range of merchandise beyond a single category, as evidenced by mentions of 'retail and manufacturing operations' and 'gas stations'.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "COST"
+    ],
+    "evidence_section": "KO: Item 7 brand list (sparkling, water, sports, coffee, tea, juice, dairy, plant-based, alcohol). COST: Item 7 reference to 'gas stations', 'warehouses', and 'retail and manufacturing operations'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "KO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key risk factors mentioned for each company, and how do they compare?",
+    "answer": "KO's key risk factors are implied through its financial statements: it reports 'Other operating charges' (which can include restructuring costs) of $4,163 million in 2024, and it uses hedging transactions and derivative financial instruments (Note 5) to manage risks. COST explicitly discusses currency risk (hypothetical 10% strengthening decreases contract fair value by $120) and commodity price risk (exposure to electricity, natural gas, and fuel, partially mitigated through fixed-price contracts).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "COST"
+    ],
+    "evidence_section": "KO: Consolidated Statements of Income for Other operating charges; Note 5 for hedging. COST: Item 7 currency and commodity risk discussion",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "KO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies' available financial performance metrics compare based solely on the provided text?",
+    "answer": "KO provides specific financial figures: Net Operating Revenues of $47,061 million, Cost of goods sold $18,324 million, Gross Profit $28,737 million, Operating Income $9,992 million, and Income Before Income Taxes $13,086 million for FY2024. COST's provided content does not include any financial statement numbers; it only mentions a hypothetical $120 impact from currency risk and lists index items (page numbers) without disclosing revenue or profit figures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "COST"
+    ],
+    "evidence_section": "KO: Consolidated Statements of Income (Item 8). COST: Item 7 and Item 8 index (no numerical financials provided)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "KO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic growth initiatives are described for each company, and how do they differ?",
+    "answer": "KO details its alcohol strategy, having entered the alcohol beverage category directly in many markets outside the U.S., and in the U.S. via a firewalled subsidiary using third-party manufacturers and distributors, focusing on three segments: pre-mixed cocktails (e.g., Jack Daniel's & Coca-Cola), flavored alcohol beverages (e.g., Lemon-Dou), and hard seltzers (e.g., Topo Chico Hard Seltzer). It also has distribution coordination agreements for Monster Energy. COST's provided content does not describe any specific growth initiatives; it focuses on risk management (fixed-price contracts for warehouses and variable-priced index contracts for energy).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "COST"
+    ],
+    "evidence_section": "KO: Item 7 alcohol strategy description and mention of Monster distribution. COST: Item 7 commodity price risk and fixed-price contract discussion",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "KO+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

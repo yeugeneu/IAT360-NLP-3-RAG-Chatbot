@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the business segments of UNH and MRK differ in terms of healthcare focus?",
+    "answer": "UNH has four reportable segments across two businesses: Optum (Optum Health, Optum Insight, Optum Rx) and UnitedHealthcare (Employer & Individual, Medicare & Retirement, Community & State). MRK has two reportable segments: Pharmaceutical (human health pharmaceutical and vaccine products) and Animal Health (veterinary pharmaceutical, vaccine, and digital monitoring products). UNH focuses on health services and insurance, while MRK focuses on pharmaceutical and animal health product sales.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UNH",
+      "MRK"
+    ],
+    "evidence_section": "UNH: Executive Overview and segment list; MRK: Description of Merck’s Business – operating segments",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UNH+MRK",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the financial impact of UNH's Change Healthcare cyberattack and how does it compare to MRK's R&D expenditure in 2024?",
+    "answer": "UNH provided interest-free loans of more than $9 billion through December 31, 2024 in response to the cyberattack. MRK's research and development expense for 2024 was $17,938 million. MRK's R&D spend is nearly double the loan amount provided by UNH.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UNH",
+      "MRK"
+    ],
+    "evidence_section": "UNH: Change Healthcare Cyberattack paragraph; MRK: Consolidated Statement of Income – Research and development $17,938 for 2024",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UNH+MRK",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company describes a more diversified revenue base and how does that contrast with MRK's product-based segmentation?",
+    "answer": "UNH describes two distinct businesses (Optum and UnitedHealthcare) with four reportable segments covering health services, pharmacy, insurance, and government programs, indicating a diversified service-based model. MRK describes two operating segments (Pharmaceutical and Animal Health) which are product-based, with human health pharmaceutical and vaccine products sold through wholesalers, retailers, and government entities. UNH's model is more diversified across health system services, while MRK's is concentrated on drug and vaccine sales.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UNH",
+      "MRK"
+    ],
+    "evidence_section": "UNH: Executive Overview – four reportable segments; MRK: Description of Merck’s Business – two operating segments and sales channels",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UNH+MRK",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the corporate missions of UNH and MRK reflect their strategic differences within healthcare?",
+    "answer": "UNH's mission is 'to help people live healthier lives and help make the health system work better for everyone,' emphasizing system-wide improvement. MRK's mission is to 'deliver innovative health solutions through its prescription medicines, including biologic therapies, vaccines and animal health products,' emphasizing product innovation. UNH focuses on health system performance, while MRK focuses on developing and selling therapeutic and preventive products.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UNH",
+      "MRK"
+    ],
+    "evidence_section": "UNH: Executive Overview – 'mission to help people live healthier lives...'; MRK: Description of Merck’s Business – 'global health care company that delivers innovative health solutions...'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UNH+MRK",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the financial highlights of MRK for 2024, and how does UNH's response to the cyberattack contrast with MRK's net income?",
+    "answer": "MRK reported sales of $64,168 million and net income of $17,133 million for 2024. UNH responded to the Change Healthcare cyberattack by providing over $9 billion in interest-free loans to care providers. The $9 billion loan program is approximately 53% of MRK's net income, highlighting UNH's operational focus on provider support versus MRK's pharmaceutical profitability.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UNH",
+      "MRK"
+    ],
+    "evidence_section": "UNH: Change Healthcare Cyberattack paragraph – 'interest-free loans of more than $9 billion'; MRK: Consolidated Statement of Income – Sales $64,168, Net Income $17,133 for 2024",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UNH+MRK",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the technology-related offerings of UNH and MRK differ based on their segment descriptions?",
+    "answer": "UNH's Optum segment includes Optum Insight, which provides technology and data analytics services to healthcare systems. MRK's Animal Health segment offers 'an extensive suite of digitally connected identification, traceability and monitoring products.' UNH's technology is focused on health system data and analytics, while MRK's technology is focused on animal health digital tools.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UNH",
+      "MRK"
+    ],
+    "evidence_section": "UNH: Executive Overview – 'Optum Insight' as a reportable segment; MRK: Description of Merck’s Business – Animal Health 'extensive suite of digitally connected identification, traceability and monitoring products'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UNH+MRK",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

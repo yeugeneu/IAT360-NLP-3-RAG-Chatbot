@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What may the expansion or development of CCI's business cause?",
+    "answer": "disruptions in our business, which may have an adverse effect on our business, operations or financial results.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is one potential consequence of expansion and development activities listed in the section?",
+    "answer": "fail to achieve revenue or margin targets, operational synergies or other benefits contemplated",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In the ordinary course of business, what does the company review, analyze and evaluate?",
+    "answer": "various potential transactions or other activities in which we may engage",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the actual Total Net Leverage Ratio of CCI as of December 31, 2022?",
+    "answer": "4.9x",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the condition that must be met for the CCI Consolidated Interest Coverage Ratio covenant to become applicable?",
+    "answer": "It is applicable solely to the extent that the senior unsecured debt rating by any two of S&P, Moody's and Fitch is lower than BBB-, Baa3 or BBB-, respectively.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By how much did the actual Total Senior Secured Leverage Ratio of CCI as of December 31, 2022, fall below the maximum allowed covenant level?",
+    "answer": "3.2x (since 3.50x - 0.3x = 3.2x)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How were the tower leases classified for the AT&T and T-Mobile leased and subleased towers?",
+    "answer": "finance leases",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Accounting for Acquisitions—Leases",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the two fragmentation criteria that were met for the tower leases?",
+    "answer": "The fair value of the land was greater than 25% of the total fair value of the leased property at inception, and the tower lease expirations occur beyond 75% of the estimated economic life of the tower assets.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Accounting for Acquisitions—Leases",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the two percentage thresholds mentioned in the fragmentation criteria?",
+    "answer": "50% (75% minus 25%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Accounting for Acquisitions—Leases",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the two percentage thresholds used in the fragmentation criteria for lease classification? Calculate the sum of these two thresholds.",
+    "answer": "25% and 75%; sum = 100%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A—Accounting and Reporting Matters—Accounting for Acquisitions—Leases",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of the tower lease expiration threshold (75%) to the land fair value threshold (25%)?",
+    "answer": "75% / 25% = 3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A—Accounting and Reporting Matters—Accounting for Acquisitions—Leases",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in percentage points between the tower lease expiration threshold (75%) and the land fair value threshold (25%)?",
+    "answer": "50 percentage points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A—Accounting and Reporting Matters—Accounting for Acquisitions—Leases",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net cash provided by operating activities for 2022?",
+    "answer": "$2,878 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By how much did net cash provided by operating activities increase from 2021 to 2022?",
+    "answer": "$89 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total net cash used in investing and financing activities combined for 2022?",
+    "answer": "$(3,017) million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of the registered public accounting firm that audited Crown Castle Inc.'s financial statements?",
+    "answer": "238",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Based on what criteria did the auditor evaluate internal control over financial reporting as of December 31, 2022?",
+    "answer": "Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "For how many years does the consolidated statement of operations and comprehensive income (loss) cover in the period ended December 31, 2022?",
+    "answer": "each of the three years in the period ended December 31, 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the Consolidated Balance Sheet and the Consolidated Statement of Operations and Comprehensive Income (Loss)?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many individual financial statements and schedules are listed in the Index to Consolidated Financial Statements and Financial Statement Schedules?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of pages covered by the financial statements from the Consolidated Balance Sheet page 49 to Schedule III page 96?",
+    "answer": "48",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "According to the cautionary statement, what does the company say about forward-looking statements regarding future events?",
+    "answer": "These forward-looking statements speak only as of the date hereof or as of the dates indicated in the statements and should not be relied upon as predictions of future events, as we cannot assure you that the events or circumstances reflected in these statements will be achieved or will occur.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are some of the topics that the forward-looking statements relate to, as listed in the excerpt?",
+    "answer": "The forward-looking statements relate to, among other things: possible impact of future accounting rules on AMD’s consolidated financial statements; demand for AMD’s products; AMD’s strategy and expected benefits; the growth, change and competitive landscape of the markets in which AMD participates; international sales will continue to be a significant portion of total sales in the foreseeable future; that AMD’s cash, cash equivalents, and short-term investment balances together with the availability under that certain revolving credit facility (the Revolving Credit Agreement) made available to AMD and certain of its subsidiaries, our commercial paper program, and our cash flows from operations will be sufficient to fund AMD’s operations including capital expenditures and purchase commitments , and acquisitions over the next 12 months and beyond; AMD’s ability to obtain sufficient external financing on favorable terms, or at all; AMD’s expectation th",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What forward-looking terminology does the company mention in the cautionary statement?",
+    "answer": "The company identifies forward-looking terminology including 'believes,' 'expects,' 'may,' 'will,' 'should,' 'seeks,' 'intends,' 'plans,' 'pro forma,' 'estimates,' 'anticipates,' or the negative of these words and phrases, other variations of these words and phrases or comparable terminology.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which two companies are identified as having market dominance that could limit AMD's ability to compete?",
+    "answer": "Intel Corporation and Nvidia",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many specific risk factors are listed under the 'Economic and Strategic Risks' heading in the Risk Factors Summary?",
+    "answer": "11",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the fifth risk factor listed under 'Economic and Strategic Risks'?",
+    "answer": "The demand for our products depends in part on the market conditions in the industries into which they are sold.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was AMD's net revenue for the fiscal year ended December 30, 2024?",
+    "answer": "$25.8 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the absolute dollar increase in Data Center segment net revenue from 2023 to 2024?",
+    "answer": "$6.1 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total net revenue from the Gaming and Embedded segments in 2024?",
+    "answer": "$6.2 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage increase in Data Center net revenue from 2023 to 2024?",
+    "answer": "94%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the combined net revenue of the Gaming and Embedded segments in 2024?",
+    "answer": "$6.2 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By how many billions of dollars did total net revenue increase from 2023 to 2024?",
+    "answer": "$3.1 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "As of December 28, 2024, what type of interest rates did all of AMD's outstanding long-term debt have?",
+    "answer": "fixed interest rates",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosure About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the approximate impact on the fair value of AMD's cash equivalent and investment portfolio if interest rates change by 50 basis points?",
+    "answer": "approximately $6 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosure About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does AMD mitigate default risk in its investment portfolio?",
+    "answer": "by investing in only high credit quality securities and by constantly positioning our portfolio to respond to a significant reduction in a credit rating of any investment issuer or guarantor",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosure About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was AMD's net revenue for the fiscal year ended December 28, 2024?",
+    "answer": "25,785",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total of Research and Development and Marketing, General and Administrative expenses for fiscal year 2024?",
+    "answer": "9,239",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How much did AMD's net income change from fiscal year 2023 to fiscal year 2024?",
+    "answer": "787 increase",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate AMD's gross profit margin for the fiscal year ended December 28, 2024. Express as a percentage to two decimal places.",
+    "answer": "49.35%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the year-over-year percentage change in net revenue from fiscal year 2023 to 2024? Express as a percentage to two decimal places.",
+    "answer": "13.69%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate AMD's operating margin for the fiscal year ended December 28, 2024. Express as a percentage to two decimal places.",
+    "answer": "7.37%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

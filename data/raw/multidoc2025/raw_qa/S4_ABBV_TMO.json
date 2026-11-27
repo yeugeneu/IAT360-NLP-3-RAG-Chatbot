@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare the total net revenues of AbbVie and Thermo Fisher Scientific for fiscal year 2024. Which company reported higher revenue?",
+    "answer": "AbbVie reported net revenues of $56,334 million (from its Consolidated Statements of Earnings for 2024). Thermo Fisher Scientific reported revenues of $42,879 million (from its Consolidated Results in Item 7). Therefore, AbbVie had higher revenue.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "TMO"
+    ],
+    "evidence_section": "ABBV: Item 8 – Consolidated Statements of Earnings (line 'Net revenues $56,334'); TMO: Item 7 – Consolidated Results (line 'Revenues $42,879')",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the GAAP operating income margin for both AbbVie and Thermo Fisher for fiscal year 2024. Which company has a higher margin?",
+    "answer": "AbbVie's GAAP operating earnings were $9,137 million on net revenues of $56,334 million, yielding an operating margin of approximately 16.2% (9,137 ÷ 56,334). Thermo Fisher's GAAP operating income was $7,337 million on revenues of $42,879 million, yielding an operating margin of approximately 17.1% (7,337 ÷ 42,879). Thermo Fisher has a higher GAAP operating margin.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "TMO"
+    ],
+    "evidence_section": "ABBV: Item 8 – Consolidated Statements of Earnings (lines 'Net revenues $56,334' and 'Operating earnings $9,137'); TMO: Item 7 – Consolidated Results (lines 'Revenues $42,879' and 'GAAP operating income $7,337')",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "ABBV+TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the year-over-year revenue growth rate from fiscal year 2023 to fiscal year 2024 for both companies. Which company grew faster?",
+    "answer": "AbbVie's net revenues increased from $54,318 million in 2023 to $56,334 million in 2024, a growth of approximately 3.7% ((56,334 - 54,318) ÷ 54,318). Thermo Fisher's revenues increased from $42,857 million in 2023 to $42,879 million in 2024, a growth of approximately 0.05% ((42,879 - 42,857) ÷ 42,857). AbbVie grew significantly faster.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "TMO"
+    ],
+    "evidence_section": "ABBV: Item 8 – Consolidated Statements of Earnings (2024 revenue $56,334, 2023 revenue $54,318); TMO: Item 7 – Consolidated Results (2024 revenue $42,879, 2023 revenue $42,857)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "ABBV+TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the absolute GAAP operating income of AbbVie and Thermo Fisher for fiscal year 2024. Which company generated higher operating income?",
+    "answer": "AbbVie's GAAP operating earnings were $9,137 million. Thermo Fisher's GAAP operating income was $7,337 million. AbbVie generated higher absolute operating income.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "TMO"
+    ],
+    "evidence_section": "ABBV: Item 8 – Consolidated Statements of Earnings (line 'Operating earnings $9,137'); TMO: Item 7 – Consolidated Results (line 'GAAP operating income $7,337')",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the research and development intensity compare between AbbVie and Thermo Fisher based on the provided data?",
+    "answer": "AbbVie reports Research and development expense of $12,791 million for 2024, which represents 22.7% of its net revenues. Thermo Fisher does not disclose a separate research and development expense line item in the provided content; its cost structure is typical of a life sciences tools and services company. This highlights a strategic difference: AbbVie invests heavily in R&D as a biopharmaceutical company, while Thermo Fisher's business model relies more on providing instruments, consumables, and services.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "TMO"
+    ],
+    "evidence_section": "ABBV: Item 8 – Consolidated Statements of Earnings (line 'Research and development $12,791'); TMO: Item 7 – overview of segments and Item 8 – absence of R&D line in provided excerpts",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Identify and compare recent significant acquisitions by each company in fiscal year 2024, and discuss how they reflect their strategic focus.",
+    "answer": "AbbVie completed two major acquisitions in 2024: ImmunoGen (February 12, 2024) and Cerevel Therapeutics (August 1, 2024). Both complement AbbVie's neuroscience and oncology portfolios, indicating a strategy to strengthen its drug pipeline. For Thermo Fisher, the provided content does not mention any specific 2024 acquisitions. This difference suggests that AbbVie pursues large bolt-on acquisitions to expand its therapeutic areas, while Thermo Fisher's growth strategy, based on the given data, appears more organic or focused on its existing four business segments.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV",
+      "TMO"
+    ],
+    "evidence_section": "ABBV: Item 7 – Executive Overview (acquisition of Cerevel complete August 1, 2024; ImmunoGen complete February 12, 2024); TMO: absence of acquisition details in provided Item 7 and Item 8 content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ABBV+TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

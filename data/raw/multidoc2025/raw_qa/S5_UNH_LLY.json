@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Based on the financial tables for LLY and the executive overviews for UNH, what was the percentage change in LLY's revenue from FY2022 to FY2024, and how did UNH's description of its company mission change between those same fiscal years? Provide the exact numerical calculation and the textual quotations.",
+    "answer": "LLY's revenue increased from $28,541.4 million in FY2022 to $45,042.7 million in FY2024, a change of 57.8% (calculated as (45,042.7 / 28,541.4) - 1). In FY2022, UNH described itself as 'a diversified health care company'. In FY2024, UNH described itself as 'a health care and well-being company'.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UNH",
+      "LLY"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "UNH FY2022 Item 7 Executive Overview; UNH FY2024 Item 7 Executive Overview; LLY FY2022 Item 7 Financial Results table; LLY FY2024 Item 7 Financial Results table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "UNH+LLY",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "Using LLY's financial data for FY2022 and FY2024 and UNH's executive overviews, compute LLY's revenue compound annual growth rate (CAGR) over this two-year period. Then, compare the change in UNH's phrasing of its business relationship from 'two complementary businesses' in FY2022 to 'two distinct, yet complementary businesses' in FY2024. What do these changes suggest about the different growth and segmentation strategies of the two healthcare sectors?",
+    "answer": "LLY's revenue CAGR from FY2022 to FY2024 is 25.6% per annum (calculated as (45,042.7 / 28,541.4)^(1/2) - 1). UNH described its businesses as 'two complementary businesses' in FY2022 and as 'two distinct, yet complementary businesses' in FY2024, adding emphasis on distinctiveness. This contrast highlights LLY's rapid revenue growth from pharmaceutical innovation while UNH’s refined language signals a strategic focus on differentiating its service lines, reflecting sector-level differences in growth drivers.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UNH",
+      "LLY"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "UNH FY2022 Item 7 Executive Overview; UNH FY2024 Item 7 Executive Overview; LLY FY2022 Item 7 Financial Results table; LLY FY2024 Item 7 Financial Results table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "UNH+LLY",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "From LLY's FY2022 financial table, the gross margin as a percent of revenue was 76.8%, while the FY2024 filing reports net income of $10,590.0 million and a 102% increase in net income from FY2023. In UNH's FY2022 overview, the mission includes 'improved health care access, affordability, experiences and outcomes,' whereas FY2024 states 'improved access, affordability, outcomes and experiences.' How does LLY's high gross margin and rapid net income growth compare to UNH's emphasized focus on affordability and the reordering of its mission priorities? Provide the exact numerical values cited.",
+    "answer": "LLY's FY2022 gross margin was 76.8% of revenue. In FY2024, LLY reported net income of $10,590.0 million and a 102% increase from FY2023. UNH's FY2022 mission listed 'access, affordability, experiences and outcomes' while FY2024 listed 'access, affordability, outcomes and experiences'—moving 'outcomes' ahead of 'experiences'. LLY's high-margin, rapidly profitable pharmaceutical model contrasts with UNH's affordability-centric and reordered mission priorities, reflecting different sector dynamics.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UNH",
+      "LLY"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "UNH FY2022 Item 7 Executive Overview; UNH FY2024 Item 7 Executive Overview; LLY FY2022 Item 7 Financial Results table; LLY FY2024 Item 7 Financial Results table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "UNH+LLY",
+    "sector": "Healthcare"
+  }
+]

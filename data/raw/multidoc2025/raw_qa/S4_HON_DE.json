@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the exact title of ITEM 7 for HON and for DE?",
+    "answer": "For HON, ITEM 7 is titled 'Management’s Discussion and Analysis of Financial Condition and Results of Operations'. For DE, ITEM 7 is titled 'MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS'.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "DE"
+    ],
+    "evidence_section": "ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes ITEM 8 in its provided content?",
+    "answer": "DE includes ITEM 8 (Financial Statements and Supplementary Data) in its content, while HON does not include ITEM 8.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "DE"
+    ],
+    "evidence_section": "ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What page number is associated with HON's ITEM 7, and what page number for DE's ITEM 7?",
+    "answer": "For HON, ITEM 7 appears on page 37. For DE, no page number is provided in the content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "DE"
+    ],
+    "evidence_section": "ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does HON provide any reference to Consolidated Financial Statements in its content?",
+    "answer": "No. HON's content only references ITEM 7, not financial statements. DE references Consolidated Financial Statements and notes in its ITEM 8 description.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "DE"
+    ],
+    "evidence_section": "ITEM 7 and ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, which company has more extensive disclosure: HON or DE?",
+    "answer": "DE has more extensive disclosure because it includes both ITEM 7 (MD&A) and ITEM 8 (Financial Statements and Supplementary Data), while HON only includes ITEM 7.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "DE"
+    ],
+    "evidence_section": "ITEM 7 and ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the exact wording for DE's reference to financial statements in ITEM 8?",
+    "answer": "DE states: 'See the Consolidated Financial Statements and notes thereto and supplementary data.' HON has no comparable reference in its provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "DE"
+    ],
+    "evidence_section": "ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

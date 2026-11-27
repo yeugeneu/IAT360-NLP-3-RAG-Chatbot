@@ -67,7 +67,7 @@ frames = []
 
 for f in files:
     with open(f, encoding = "utf-8") as fh:
-        part = pd.DataFram(json.laod(fh))
+        part = pd.DataFrame(json.load(fh))
     print(f" {f.name}: {part.shape}")
     frames.append(part)
 
@@ -149,4 +149,35 @@ if KAGGLE_CLEAN.exists():
 else:
     print (f"(Skipping coverage check: {KAGGLE_CLEAN} not found - run Kaggle cleaning script first)")
 
-    
+
+#-----------------------------------------------
+# Report and save the cleaned test set
+#-----------------------------------------------
+
+print("Clean shape:", df.shape)
+print("Columns:", df.columns.tolist())
+print("Unique companies:", df["company"].nunique())
+print("Years:", df["year"].value_counts().to_dict())
+print("Subsets:", df["subset"].value_counts().to_dict())
+
+for c in bool_cols:
+    print(f"{c}:", df[c].value_counts().to_dict())
+
+assert (df["year"] == TARGET_YEAR).all()
+assert not any(c in df.columns for c in YEAR_CHECK_COLS)
+print(df.sample(min(5, len(df)), random_state=0)[["id", "question", "answer", "company", "year"]])
+
+os.makedirs(OUT_DIR, exist_ok = True)
+
+#JSON keeps 'companies; as a real list
+df.to_json(OUT_DIR / f"multidoc_test_{TARGET_YEAR}.json", orient = "records", indent = 2, force_ascii = False)
+
+#CSV cant hold lists, so store comapnies as a JSON string
+csv_df = df.copy()
+csv_df["companies"] = csv_df["companies"].map(json.dumps)
+csv_df["evidence_section"] = csv_df["evidence_section"].map(
+    lambda v: v if isinstance(v, str) else json.dumps(v)
+)
+
+csv_df.to_csv(OUT_DIR / f"multidoc_test_{TARGET_YEAR}.csv", index = False)
+print("Saved cleaned test set to:", OUT_DIR / f"multidoc_test_{TARGET_YEAR}.json and .csv")

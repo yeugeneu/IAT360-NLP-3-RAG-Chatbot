@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the structure of Item 8 (Financial Statements and Supplementary Data) differ between CVX and XOM across FY2022 and FY2024?",
+    "answer": "For CVX, Item 8 in both FY2022 and FY2024 states 'The index to Financial Statements and Supplementary Data is presented in the Financial Table of Contents.' For XOM, Item 8 in FY2022 references consolidated financial statements with a report dated February 22, 2023, through Note 20: Divestment Activities, plus supplemental information and frequently used terms; in FY2024 it references a report dated February 19, 2025, through Note 21, with the same supplemental sections. CVX provides only an index reference, while XOM explicitly lists the components and auditor report dates.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CVX",
+      "XOM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 8 for both companies, all years",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CVX+XOM",
+    "sector": "Energy"
+  },
+  {
+    "question": "What is the trend in the auditor report date for XOM from FY2022 to FY2024, and how does the absence of such specific dates in CVX filings highlight a difference in disclosure granularity?",
+    "answer": "XOM's auditor report date moved from February 22, 2023 (FY2022) to February 19, 2025 (FY2024). CVX does not provide auditor report dates in Item 8 for either year; it only references an index. This shows XOM provides more granular disclosure details, while CVX relies on a summary index.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CVX",
+      "XOM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "XOM FY2022 Item 8 (date Feb 22, 2023); XOM FY2024 Item 8 (date Feb 19, 2025); CVX FY2022 and FY2024 Item 8 (index reference only)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CVX+XOM",
+    "sector": "Energy"
+  },
+  {
+    "question": "Compare the extent of financial statement notes coverage for XOM between FY2022 and FY2024, and contrast this with CVX's approach to referencing notes.",
+    "answer": "XOM's FY2022 financial statements continue through 'Note 20: Divestment Activities,' while FY2024 continues through 'Note 21.' CVX does not mention specific note numbers in either year; it only refers to an index. This indicates XOM expanded its note disclosures by one note, while CVX provides no explicit note range.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CVX",
+      "XOM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "XOM FY2022 Item 8 ('through “Note 20: Divestment Activities”'); XOM FY2024 Item 8 ('through Note 21'); CVX FY2022 and FY2024 Item 8 (index reference)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CVX+XOM",
+    "sector": "Energy"
+  },
+  {
+    "question": "Across both companies and both fiscal years, which company consistently includes 'Supplemental Information on Oil and Gas Exploration and Production Activities' in its Item 8, and what is the audited status of that section?",
+    "answer": "XOM includes that supplemental information in both FY2022 and FY2024, and it is marked as 'unaudited' in both years. CVX does not list that section in Item 8 for either year; it only references an index.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CVX",
+      "XOM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "XOM FY2022 Item 8 ('Supplemental Information on Oil and Gas Exploration and Production Activities (unaudited)'); XOM FY2024 Item 8 ('“Supplemental Information on Oil and Gas Exploration and Production Activities” (unaudited)'); CVX FY2022 and FY2024 Item 8 (no such mention)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CVX+XOM",
+    "sector": "Energy"
+  },
+  {
+    "question": "How does the treatment of 'Frequently Used Terms' differ between XOM's FY2022 and FY2024 filings, and does CVX mention any equivalent section in its Item 7 or Item 8?",
+    "answer": "XOM includes 'Frequently Used Terms' as an unaudited section in both FY2022 and FY2024. CVX's Item 7 and Item 8 for both years only reference an index to the Financial Table of Contents; no mention of 'Frequently Used Terms' or equivalent appears in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CVX",
+      "XOM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "XOM FY2022 Item 8 ('“Frequently Used Terms” (unaudited)'); XOM FY2024 Item 8 ('“Frequently Used Terms” (unaudited)'); CVX FY2022 and FY2024 Items 7 and 8 (only index references)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CVX+XOM",
+    "sector": "Energy"
+  },
+  {
+    "question": "Compare the PCAOB ID of the auditor referenced in XOM's reports across FY2022 and FY2024, and identify if CVX provides any auditor identification in its corresponding sections.",
+    "answer": "XOM references PricewaterhouseCoopers LLP with PCAOB ID 238 in both FY2022 and FY2024. CVX does not mention any auditor, PCAOB ID, or report date in either Item 7 or Item 8; it only references an index.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CVX",
+      "XOM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "XOM FY2022 Item 8 ('PricewaterhouseCoopers LLP (PCAOB ID 238)'); XOM FY2024 Item 8 ('PricewaterhouseCoopers LLP (PCAOB ID 238)'); CVX FY2022 and FY2024 Items 7 and 8 (no such information)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CVX+XOM",
+    "sector": "Energy"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "In what year was UPS founded?",
+    "answer": "1907",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many countries and territories does UPS serve?",
+    "answer": "over 200",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the average revenue per package delivered in 2024?",
+    "answer": "$15.98",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does UPS contribute to under the terms of collective bargaining agreements?",
+    "answer": "multiemployer pension and health and welfare plans",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Multiemployer Benefit Plans",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where should one look for a discussion of accounting standards issued but not yet effective?",
+    "answer": "note 1 to the audited, consolidated financial statements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Accounting Standards Issued But Not Yet Effective",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many times does the word 'estimates' appear in the 'Critical Accounting Estimates' section of the provided text?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Critical Accounting Estimates",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the total Transformation Strategy Costs for the year ended December 31, 2024?",
+    "answer": "322",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By how much did total non-GAAP adjustments to operating expenses decrease from 2023 to 2024?",
+    "answer": "306",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the amount of Goodwill and Asset Impairment Charges in 2024?",
+    "answer": "108",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the percentage change in 'Total Transformation Strategy Costs' from 2023 to 2024?",
+    "answer": "-25.98% (calculated as (322 - 435) / 435 * 100)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of 'Transformation 2.0 Total' and 'Fit to Serve' for the year 2023?",
+    "answer": "$422 million (210 + 212)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For 2024, what is the ratio of 'Goodwill and Asset Impairment Charges' to 'Total Adjustments to Non-GAAP Operating Expenses'?",
+    "answer": "0.2535 or 25.35% (108 / 426)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of exposures does UPS monitor and manage using derivative instruments?",
+    "answer": "foreign currency exchange rate and interest rate exposures",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the examples of significant capital investments mentioned in the text?",
+    "answer": "aircraft, vehicles, technology, facilities and sortation and other equipment",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What significant expense is mentioned that could materially adversely affect UPS if costs increase?",
+    "answer": "employee health, retiree health and pension benefit expenses",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm that audited UPS's financial statements?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "As of what dates are the consolidated balance sheets presented in UPS's 2024 financial statements?",
+    "answer": "December 31, 2024 and 2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many notes to the consolidated financial statements are listed in the Table of Contents (from Note 1 to Note 18)?",
+    "answer": "18",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Balance Sheets and the Statements of Consolidated Income?",
+    "answer": "131",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the start of Note 18 and Note 1?",
+    "answer": "68",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for Note 5 and Note 6?",
+    "answer": "179",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

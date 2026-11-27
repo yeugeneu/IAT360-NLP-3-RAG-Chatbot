@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What types of risks does ECL face from its sustainability commitments according to Item 1?",
+    "answer": "operational, reputational, financial, legal, and other risks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the filing, what factors outside of ECL's control affect its ability to achieve sustainability commitments?",
+    "answer": "the pace of changes in technology, the availability of requisite financing, and the availability of suppliers that can meet our sustainability and other standards",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many types of risks are mentioned that ECL faces from its sustainability efforts?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the two countries explicitly mentioned as having experienced economic upheaval?",
+    "answer": "Argentina and Turkey",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What factors have resulted in economic and demand uncertainty according to the risk factors?",
+    "answer": "Global interest rates aimed at curbing inflation, as well as implications of geopolitical situations in Europe, the Middle East and China",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many countries are explicitly named as having experienced economic upheaval in this section?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total consideration paid for the Purolite acquisition, net of cash acquired?",
+    "answer": "$3.7 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many millions is $3.7 billion?",
+    "answer": "3,700 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In which month and year was Purolite acquired?",
+    "answer": "December 2021",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures about Market Risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "From which part of the filing is the discussion under 'Market Risk' and 'Global Economic and Political Environment' incorporated by reference?",
+    "answer": "Part II.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Under which headings is the discussion incorporated by reference?",
+    "answer": "Market Risk and Global Economic and Political Environment.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Who is responsible for the integrity and objectivity of the consolidated financial statements?",
+    "answer": "Management",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the role of the Board of Directors, acting through its Audit Committee?",
+    "answer": "determining that management fulfills its responsibilities in the preparation of financial statements and maintains internal control over financial reporting",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What framework was used for the evaluation of the design and operating effectiveness of internal control over financial reporting?",
+    "answer": "the 2013 framework in Internal Control — Integrated Framework",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

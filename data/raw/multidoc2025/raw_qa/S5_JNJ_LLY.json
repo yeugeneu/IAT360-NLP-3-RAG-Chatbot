@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Compare the worldwide sales growth trends for JNJ and LLY for the years 2022 and 2024 based on the provided 10-K excerpts.",
+    "answer": "JNJ reported a 13.6% worldwide sales increase in 2021 (from the 2022 filing) and a 6.5% increase in 2023 (from the 2024 filing). LLY's excerpts contain only forward-looking statements and no numerical sales growth data for either filing year; therefore, no numerical comparison can be made for LLY.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JNJ",
+      "LLY"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "JNJ 2022: Item 7; JNJ 2024: Item 7; LLY 2022: Item 7; LLY 2024: Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "JNJ+LLY",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "Compare the most recent annual worldwide sales growth percentages reported in the Management's Discussion and Analysis sections of JNJ's 2022 and 2024 10-K filings with those of LLY's 2022 and 2024 filings.",
+    "answer": "JNJ's 2022 filing reports a 13.6% sales increase for 2021 over 2020, and its 2024 filing (with recast continuing operations) reports a 6.5% sales increase for 2023 over 2022. LLY's 2022 and 2024 filings do not provide any worldwide sales growth percentages in the given excerpts; only forward-looking statement cautions are included.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JNJ",
+      "LLY"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "JNJ+LLY",
+    "sector": "Healthcare"
+  }
+]

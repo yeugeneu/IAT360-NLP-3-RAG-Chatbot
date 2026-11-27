@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did EOG's 2024 operating revenues compare to PSX's total assets at year-end 2024?",
+    "answer": "EOG's operating revenues for 2024 were $23,698 million, while PSX's total assets at December 31, 2024 were $72.6 billion. PSX's assets are about 3.1 times EOG's revenues.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "PSX"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "EOG+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the year-over-year change in EOG's operating revenues, and how did that absolute change compare to PSX's 2024 earnings?",
+    "answer": "EOG's operating revenues decreased $488 million to $23,698 million in 2024 from $24,186 million in 2023. PSX reported earnings of $2.1 billion for 2024. The $488 million decline in EOG's revenues was approximately 23% of PSX's $2.1 billion earnings.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "PSX"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "EOG+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare EOG's net gains on derivative contracts in 2024 to PSX's cash consideration paid for acquisitions in 2024.",
+    "answer": "EOG recognized net gains of $204 million on mark-to-market of financial commodity and other derivative contracts in 2024. PSX completed acquisitions for cash consideration of $625 million in 2024. PSX's acquisition spending was approximately 3.1 times EOG's derivative gains.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "PSX"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "EOG+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of EOG's total revenues from sales of crude oil, NGLs, and natural gas came from crude oil and NGLs, and how did that compare to the percentage of PSX's cash from operating activities used to fund dividends?",
+    "answer": "EOG's revenues from sales of crude oil and condensate and NGLs constituted 91% of its total revenues from sales of crude oil, NGLs, and natural gas. PSX paid $1.9 billion in dividends on common stock from cash from operating activities of $4.2 billion, representing approximately 45.2% of operating cash flow. EOG's liquid revenue concentration is about double PSX's dividend payout ratio.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "PSX"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "EOG+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did EOG's average crude oil and condensate composite price in 2024 compare to PSX's earnings per dollar of assets? (Calculate PSX's earnings-to-assets ratio.)",
+    "answer": "EOG's composite average crude oil and condensate price was $77.40 per barrel in 2024. PSX's earnings were $2.1 billion on total assets of $72.6 billion, yielding an earnings-to-assets ratio of approximately 2.89%. The comparison shows EOG's unit price vs PSX's overall asset efficiency.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "PSX"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "EOG+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was EOG's net gain on asset dispositions in 2024, and how did it compare to PSX's proceeds from asset dispositions in 2024?",
+    "answer": "EOG recognized net gains on asset dispositions of $16 million in 2024. PSX received proceeds from asset dispositions of $1.1 billion in 2024. PSX's asset disposition proceeds were about 68.75 times larger than EOG's net gains.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "PSX"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "EOG+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

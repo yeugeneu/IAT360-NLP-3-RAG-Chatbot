@@ -1,0 +1,254 @@
+[
+  {
+    "question": "What are the page numbers for the 'General development of business' section?",
+    "answer": "Pages 3 - 4 , 13",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "General development of business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which pages can 'Available information' be found?",
+    "answer": "Page 2",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Available information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many total pages are covered by the 'Description of business' section based on the listed page ranges?",
+    "answer": "27",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Description of business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the page numbers for the Results of operations section?",
+    "answer": "Pages 13 - 27",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Results of operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the page numbers for the Critical accounting estimates section?",
+    "answer": "Pages 30, 62 - 68",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Critical accounting estimates",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many pages are covered by the Results of operations section?",
+    "answer": "15 pages (calculated from pages 13 to 27)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Results of operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Using the 'Cash Flows' table from Liquidity and Capital Resources (pages 28-30), calculate the free cash flow for FY2024. Net cash from operations is $12.4 billion and capital expenditures are $8.2 billion. What is the result?",
+    "answer": "Free cash flow is $4.2 billion.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "From the 'Selected Financial Data' table (page 28), compute the current ratio for FY2023 and FY2024. Current assets: FY2023 $45.6B, FY2024 $48.1B; current liabilities: FY2023 $22.3B, FY2024 $24.5B. What is the current ratio for each year rounded to two decimal places?",
+    "answer": "FY2023 current ratio: 2.04; FY2024 current ratio: 1.96.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In the 'Results of Operations' table (pages 13-27), calculate the operating margin for FY2024 given operating income of $2.5 billion and revenue of $55.8 billion. Express as a percentage to one decimal place.",
+    "answer": "Operating margin is 4.5%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the page range for Item 7A?",
+    "answer": "Pages 47 - 48",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many pages does Item 7A cover?",
+    "answer": "2 pages",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "INTC",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "INTC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

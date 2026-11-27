@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Calculate the percentage increase in Disney's diluted EPS from continuing operations between the prior year and fiscal year 2024. Compare this growth to the consistent risk disclosure from Google in both fiscal years regarding intellectual property, and infer the relative growth trajectory of Disney versus the stable risk environment for Google.",
+    "answer": "Disney's diluted EPS increased from $1.29 to $2.72, a percentage increase of ((2.72 - 1.29) / 1.29) * 100 = 110.85%. Google's filings for both FY2022 and FY2024 contain identical text about intellectual property rights being valuable and vulnerable to threats, indicating no change in that risk factor. Disney shows strong earnings growth (over 110% increase), while Google's disclosed risk profile remains static, but no financial metrics are available for Google to compare growth trajectories.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DIS",
+      "GOOGL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 Item 7 (EPS figures); DIS FY2022 Item 7 (leadership change context); GOOGL FY2022 and FY2024 Item 7 (identical IP risk text)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "DIS+GOOGL",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Based on the text provided, what was the revenue change for Disney from the prior year to fiscal year 2024? How does the availability of this numeric data compare to the lack of such data for Google in the provided filings, and what does this imply for cross-company trend analysis in the communication services sector?",
+    "answer": "Disney's revenues for fiscal 2024 increased 3% to $91.4 billion, implying prior year revenue of $91.4 billion / 1.03 ≈ $88.74 billion. Google's filings for both fiscal years 2022 and 2024 provide no revenue or financial figures, only discussing intellectual property risks. This disparity in disclosed quantitative information makes direct cross-company trend analysis difficult; Disney offers specific growth metrics, while Google's filing focuses on qualitative risk factors, preventing a simple numerical comparison of sector performance.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DIS",
+      "GOOGL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 Item 7 (revenue increase and total revenue); GOOGL FY2022 and FY2024 Item 7 (no financial data, only IP text)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "DIS+GOOGL",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Compare the change in net income for Disney between fiscal year 2024 and the prior year, and discuss how this financial improvement aligns with the leadership change announced in the Disney 2022 filing. Additionally, evaluate how Google's consistent emphasis on intellectual property risks in both fiscal years contrasts with Disney's apparent turnaround strategy.",
+    "answer": "Disney's net income increased from $2.4 billion to $5.0 billion, a $2.6 billion increase (approximately 108% growth). The Disney FY2022 filing notes the return of Robert A. Iger as CEO and a pending restructuring. The significant net income improvement suggests the restructuring under new leadership may have positively impacted profitability. In contrast, Google's filings for both FY2022 and FY2024 contain identical text on intellectual property risks, highlighting a stable but vulnerable risk environment without any indication of a parallel strategic shift or financial rebound. Thus, Disney shows a dynamic turnaround while Google's disclosed focus remains on protecting existing assets.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DIS",
+      "GOOGL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 Item 7 (net income figures); DIS FY2022 Item 7 (leadership change announcement); GOOGL FY2022 and FY2024 Item 7 (identical IP risk text)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "DIS+GOOGL",
+    "sector": "Communication Services"
+  }
+]

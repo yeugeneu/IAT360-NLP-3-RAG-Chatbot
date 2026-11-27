@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What are the names of the three traditional electric operating companies owned by Southern Company?",
+    "answer": "Alabama Power, Georgia Power, and Mississippi Power",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In how many states does Southern Company Gas distribute natural gas?",
+    "answer": "four",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many more states does Southern Company Gas serve compared to the number of traditional electric operating companies?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What catastrophic events are mentioned as potential risks to the financial performance of Southern Company and its subsidiaries?",
+    "answer": "fires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, political unrest, or other similar occurrences",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What inherent risks are involved in the operation of nuclear facilities according to the text?",
+    "answer": "environmental, safety, health, regulatory, natural disasters, cy",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are some of the risks that could affect the successful operation of electric generation, transmission, and distribution facilities?",
+    "answer": "operator error or failure of equipment or processes, accidents, operating limitations that may be imposed by environmental or other regulatory requirements or in connection with joint owner arrangements, labor disputes, physical attacks, fuel or material supply interruptions and/or shortages, transmission disruption or capacity constraints",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of risk categories listed before the catastrophic events, multiplied by the number of catastrophic event types?",
+    "answer": "160",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Calculate the sum of the number of risk categories listed before catastrophic events and the number of catastrophic event types.",
+    "answer": "26",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the number of risk categories listed before catastrophic events and the number of catastrophic event types?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the full title of Item 7A as stated in the provided content?",
+    "answer": "QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which section and subsection does the content reference for further discussion of market risk?",
+    "answer": "MANAGEMENT'S DISCUSSION AND ANALYSIS – FINANCIAL CONDITION AND LIQUIDITY – 'Market Price Risk'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the exact phrase after 'See' in the provided content?",
+    "answer": "MANAGEMENT'S DISCUSSION AND ANALYSIS – FINANCIAL CONDITION AND LIQUIDITY – 'Market Price Risk'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many traditional electric operating companies does Southern Company own?",
+    "answer": "three",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Business Activities",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Name the three traditional electric operating companies owned by Southern Company.",
+    "answer": "Alabama Power, Georgia Power, and Mississippi Power",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Business Activities",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Based on the description, how many named subsidiaries does Southern Company own that are explicitly listed?",
+    "answer": "five",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Business Activities",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

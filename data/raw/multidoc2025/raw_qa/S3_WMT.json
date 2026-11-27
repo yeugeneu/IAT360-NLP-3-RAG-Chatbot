@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the fiscal years covered in the MD&A change from the FY2022 filing to the FY2024 filing?",
+    "answer": "In the FY2022 filing, the MD&A covers fiscal 2023, fiscal 2022, and fiscal 2021. In the FY2023 filing, it covers fiscal 2023, fiscal 2022, and fiscal 2021 (same). In the FY2024 filing, it covers fiscal 2024, fiscal 2023, and fiscal 2022. Thus, the most recent year shifts forward each time.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WMT",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "WMT"
+    ]
+  },
+  {
+    "question": "Is the definition of comparable sales identical across the FY2022, FY2023, and FY2024 MD&A sections?",
+    "answer": "Yes, the definition is identical in all three filings: 'Walmart's definition of comparable sales includes sales from stores and clubs open for the previous 12 months, including remodels, relocations, expansions and conversions, as well a' (the text is cut off but consistent).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WMT",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "WMT"
+    ]
+  },
+  {
+    "question": "How does the number of segments mentioned in the MD&A compare across the three fiscal years?",
+    "answer": "All three filings mention 'each of the three segments', indicating that the number of segments (three) remains constant from FY2022 through FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WMT",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "WMT"
+    ]
+  },
+  {
+    "question": "Does the MD&A in each year state that it should be read in conjunction with the Consolidated Financial Statements?",
+    "answer": "Yes, every filing (FY2022, FY2023, FY2024) includes the sentence: 'should be read in conjunction with our Consolidated Financial Statements and the accompanying notes.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WMT",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "WMT"
+    ]
+  },
+  {
+    "question": "Are the performance metrics (segment operating income, comparable store and club sales) consistently referenced across the three MD&A sections?",
+    "answer": "Yes, all three filings mention 'segment operating income, comparable store and club sales and other measures' as metrics management uses.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WMT",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "WMT"
+    ]
+  },
+  {
+    "question": "Does the phrase 'chief operating decision maker' appear in each of the three annual MD&A sections?",
+    "answer": "Yes, it appears in all three: 'information regularly reviewed by our chief operating decision maker' is present in the FY2022, FY2023, and FY2024 filings.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "WMT",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "WMT"
+    ]
+  }
+]

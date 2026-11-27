@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How many consumer vehicles did TSLA deliver in 2023 and how many owned brands did TGT report as exceeding $1 billion in annual sales in 2024?",
+    "answer": "TSLA delivered 1,808,581 consumer vehicles in 2023. TGT reported 11 of its owned brands exceeding $1 billion in annual sales in 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "TSLA"
+    ],
+    "evidence_section": "TGT: Item 7 - Executive Overview; TSLA: Item 7 - Overview and 2023 Highlights",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In 2023, how many consumer vehicles did TSLA produce, and how many new wellness products did TGT introduce in January 2025 that were exclusive to Target?",
+    "answer": "TSLA produced 1,845,985 consumer vehicles in 2023. TGT introduced 600 new wellness products that were exclusive to Target in January 2025.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "TSLA"
+    ],
+    "evidence_section": "TGT: Item 7 - Executive Overview; TSLA: Item 7 - Overview and 2023 Highlights",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the percentage increase in TSLA's total revenues from 2022 to 2023. Based on the provided TGT content, how does the reported number of new wellness products introduced by TGT in January 2025 compare to TSLA's total vehicle deliveries in 2023?",
+    "answer": "TSLA's total revenues increased from $81.46 billion in 2022 to $96.77 billion in 2023, a growth of 18.8% ($15.31 billion increase). TGT introduced 2,000 new wellness products overall (including 600 exclusive) in January 2025, compared to TSLA's 1,808,581 vehicle deliveries in 2023.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "TSLA"
+    ],
+    "evidence_section": "TGT: Item 7 - Executive Overview; TSLA: Item 7 - Overview and 2023 Highlights",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "TGT+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was TSLA's energy storage deployment in GWh in 2023, and how many owned brands did TGT report as exceeding $1 billion in annual sales in 2024?",
+    "answer": "TSLA deployed 14.72 GWh of energy storage products in 2023. TGT reported that 11 of its owned brands exceeded $1 billion in annual sales in 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "TSLA"
+    ],
+    "evidence_section": "TGT: Item 7 - Executive Overview; TSLA: Item 7 - Overview and 2023 Highlights",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Describe two strategic differences between TGT and TSLA based on the provided content: one regarding customer loyalty programs and one regarding product innovation focus.",
+    "answer": "TGT launched a reimagined Target Circle loyalty program (free and paid membership options), while TSLA focuses on improving and deploying FSD capabilities and expanding service and charging infrastructure. For product innovation, TGT emphasizes exclusive products and designer collaborations (e.g., Taylor Swift Eras Tour Book, Wicked products), whereas TSLA focuses on increasing vehicle production, battery technology, and energy storage/solar systems.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "TSLA"
+    ],
+    "evidence_section": "TGT: Item 7 - Executive Overview; TSLA: Item 7 - Overview and 2023 Highlights",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many megawatts of solar energy systems did TSLA deploy in 2023, and how many new wellness products did TGT introduce overall in January 2025?",
+    "answer": "TSLA deployed 223 megawatts of solar energy systems in 2023. TGT introduced 2,000 new wellness products overall in January 2025 (600 of which were exclusive to Target).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "TSLA"
+    ],
+    "evidence_section": "TGT: Item 7 - Executive Overview; TSLA: Item 7 - Overview and 2023 Highlights",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

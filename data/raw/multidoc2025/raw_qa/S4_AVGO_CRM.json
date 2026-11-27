@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary reportable segments for Broadcom Inc. (AVGO) and how do they compare to Salesforce's (CRM) business focus?",
+    "answer": "AVGO has two reportable segments: semiconductor solutions and infrastructure software. CRM, as a global leader in CRM technology, does not report segments; its business focus is on a unified platform connecting sales, service, marketing, commerce, and IT teams.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "CRM"
+    ],
+    "evidence_section": "AVGO Item 7: 'We have two reportable segments: semiconductor solutions and infrastructure software.' CRM Item 7: 'Salesforce is a global leader in customer relationship management (“CRM”) technology... Our platform unites sales, service, marketing, commerce and IT teams.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do AVGO and CRM describe their use of artificial intelligence (AI) in their products?",
+    "answer": "AVGO focuses on AI in the context of 'enterprise and data center networking, including artificial intelligence (“AI”) networking and connectivity.' CRM emphasizes AI through 'Agentforce, a new layer of our trusted platform that enables companies to build and deploy AI agents' and 'investing in generative and agentic AI across all products.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "CRM"
+    ],
+    "evidence_section": "AVGO Item 7: 'including artificial intelligence (“AI”) networking and connectivity' CRM Item 7: 'During the third quarter of fiscal 2025, we introduced Agentforce... investing in generative and agentic AI across all products'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of customers does each company primarily target according to their 10-K descriptions?",
+    "answer": "AVGO targets customers using 'end products such as enterprise and data center networking... smartphones and base stations, data center servers and storage systems, factory automation, power generation and alternative energy systems, and electronic displays.' CRM targets 'companies of every size and industry' and focuses on 'enterprise and international customers' with more vertical software solutions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "CRM"
+    ],
+    "evidence_section": "AVGO Item 7: 'products that are used in end products such as enterprise and data center networking...' CRM Item 7: 'enabling companies of every size and industry' and 'increasing our penetration with enterprise and international customers and expanding our industry-specific reach'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What software-related offerings does AVGO provide compared to CRM's core software platform?",
+    "answer": "AVGO offers 'infrastructure software solutions' that help enterprises 'plan, develop, deliver, automate, manage and secure applications across mainframe, distributed, edge, mobile, and private and hybrid cloud platforms,' and 'mission-critical fibre channel storage area networking (“FC SAN”) products and related software.' CRM's core is its 'CRM technology' platform that 'unites sales, service, marketing, commerce and IT teams by connecting customer data.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "CRM"
+    ],
+    "evidence_section": "AVGO Item 7: 'Our infrastructure software solutions help enterprises simplify their information technology environments...' and 'We also offer mission-critical fibre channel storage area networking (“FC SAN”) products and related software.' CRM Item 7: 'Salesforce is a global leader in customer relationship management (“CRM”) technology... Our platform unites sales, service, marketing, commerce and IT teams.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies position themselves in terms of market leadership within the Information Technology sector?",
+    "answer": "AVGO describes itself as 'a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions.' CRM describes itself as 'a global leader in customer relationship management (“CRM”) technology.' Both claim leadership but in different sub-sectors: semiconductors and infrastructure software for AVGO, and CRM software for CRM.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "CRM"
+    ],
+    "evidence_section": "AVGO Item 7: 'We are a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions.' CRM Item 7: 'Salesforce is a global leader in customer relationship management (“CRM”) technology.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific new product or initiative does CRM highlight in its fiscal 2024 10-K that AVGO does not mention?",
+    "answer": "CRM highlights the introduction of 'Agentforce, a new layer of our trusted platform that enables companies to build and deploy AI agents that can respond to inputs, make decisions and take action autonomously across business functions' during the third quarter of fiscal 2025. AVGO's content does not mention a similar AI agent platform; its AI focus is on networking and connectivity.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "CRM"
+    ],
+    "evidence_section": "CRM Item 7: 'During the third quarter of fiscal 2025, we introduced Agentforce, a new layer of our trusted platform...' AVGO Item 7: mentions AI only in 'including artificial intelligence (“AI”) networking and connectivity.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

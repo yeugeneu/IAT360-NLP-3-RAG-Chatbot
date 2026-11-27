@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare the net sales growth of Colgate-Palmolive in 2024 with the volume trend described by Altria for its domestic cigarette market.",
+    "answer": "Colgate-Palmolive's net sales increased 3.3% in 2024, driven by volume growth of 3.1%. Altria states that it has experienced 'higher than expected domestic cigarette industry volume declines,' indicating a negative volume trend. Thus, Colgate-Palmolive achieved positive volume growth while Altria's industry faced volume declines.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "CL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+CL",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the pricing strategies: Colgate-Palmolive achieved net selling price increases of 4.4% in 2024. How does this contrast with Altria's ability to raise prices to mitigate inflation?",
+    "answer": "Colgate-Palmolive successfully implemented net selling price increases of 4.4% in 2024. Altria, however, notes that in periods of economic uncertainty and high inflation, adult tobacco consumers reduce consumption and purchase more discount brands, and if its operating companies are unable to take actions to mitigate the effects of inflationary pressures, it could negatively impact business. This suggests Altria faces constraints on raising prices premium brands, whereas Colgate-Palmolive demonstrated pricing power.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "CL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+CL",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare market share performance: Colgate-Palmolive's global toothpaste market share increased 0.3 points to 41.4% in 2024. How does this compare with the competitive risk Altria faces from discount brands?",
+    "answer": "Colgate-Palmolive's global toothpaste market share rose 0.3 points to 41.4% in 2024, indicating share gains. Altria faces the risk that 'adult tobacco consumers purchase more discount brands, increasing the market share of competitive discount products,' which could negatively impact its premium brand portfolio. Thus, Colgate-Palmolive is gaining share while Altria faces potential share loss to discount brands.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "CL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+CL",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare segment growth: Colgate-Palmolive's Oral, Personal and Home Care segment organic sales grew 8.1% in 2024. How does that growth contrast with the performance of Altria's tobacco product categories?",
+    "answer": "Colgate-Palmolive's Oral, Personal and Home Care segment organic sales increased 8.1% in 2024, driven by organic sales growth in toothpaste and toothbrush categories. Altria, on the other hand, reports 'higher than expected domestic cigarette industry volume declines' and 'declines in pod-based product volume within the e-vapor category,' indicating negative volume trends in its tobacco product categories. This contrast shows positive growth in Colgate-Palmolive's core segments versus declines in Altria's core categories.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "CL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+CL",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the geographic exposure: Colgate-Palmolive reports market share changes in Latin America, Europe, Africa/Eurasia, Asia Pacific, and North America. What does Altria's Item 7 disclosure suggest about its geographic focus?",
+    "answer": "Colgate-Palmolive provides detailed regional market share data for toothpaste and manual toothbrush, indicating a global footprint with significant international operations. Altria's Item 7 focuses on 'domestic cigarette industry volume declines' and mentions adult tobacco consumer preferences in the U.S. The disclosure does not reference international markets, suggesting Altria's primary geographic focus is the United States, whereas Colgate-Palmolive has a broad global presence.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "CL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+CL",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare strategic moves: Altria reported a deferred gain from the sale of IQOS commercialization rights of $2,700 million in 2023, which was zero in 2024. Colgate-Palmolive does not mention any such transaction. What does this indicate about their strategic directions?",
+    "answer": "Altria's deferred gain from the sale of IQOS commercialization rights indicates a significant divestiture or licensing arrangement related to heated tobacco, suggesting a strategic shift or restructuring to address changing consumer preferences. Colgate-Palmolive's Item 7 does not mention any comparable transaction, focusing instead on organic sales growth and market share gains in its core categories. This highlights different strategic approaches: Altria is adjusting its portfolio via divestiture, while Colgate-Palmolive is investing in organic growth of its established brands.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MO",
+      "CL"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MO+CL",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

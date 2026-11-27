@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is the objective of managing foreign currency risk for Cat Financial’s operations?",
+    "answer": "To minimize earnings volatility resulting from conversion and the remeasurement of net foreign currency balance sheet positions, and future transactions denominated in foreign currencies.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In how many states is Caterpillar Insurance Company licensed to conduct property and casualty insurance business?",
+    "answer": "50",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of jurisdictions (states, district, and territory) where Caterpillar Insurance Company is licensed to conduct property and casualty insurance business?",
+    "answer": "52",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What were total sales and revenues for 2022?",
+    "answer": "$59.427 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By what percentage did North America sales increase in 2022 compared to 2021?",
+    "answer": "29 percent",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net change in dealer inventories from 2021 to 2022? (in billions)",
+    "answer": "about $2.5 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the name of the act that defines 'forward-looking statements' as per the MD&A?",
+    "answer": "Private Securities Litigation Reform Act of 1995",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many words or phrases are listed as examples of words that identify forward-looking statements?",
+    "answer": "13",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does the company state about its obligation to update forward-looking statements?",
+    "answer": "We undertake no obligation to publicly update forward-looking statements, whether as a result of new information, future events or otherwise.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total revenue for Construction Industries in 2022 according to the Segment Revenue table?",
+    "answer": "The provided content does not contain any table; therefore, this question cannot be answered.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Calculate the percentage change in Resource Industries revenue from 2021 to 2022 using the Segment Revenue table.",
+    "answer": "The provided content does not contain any table; therefore, this question cannot be answered.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the operating profit margin for Energy & Transportation in 2022 based on the Segment Profit table?",
+    "answer": "The provided content does not contain any table; therefore, this question cannot be answered.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In which notes does Item 7A appear?",
+    "answer": "Note 1, Note 4, Note 18, and Note 19 of Part II.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which note discusses Derivative financial instruments and risk management as part of Item 7A?",
+    "answer": "Note 4.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which note discusses Operations and summary of significant accounting policies as part of Item 7A?",
+    "answer": "Note 1.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "As of what date did management assess the effectiveness of internal control over financial reporting?",
+    "answer": "December 31, 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What criteria did management use for the assessment of internal control over financial reporting?",
+    "answer": "the criteria set forth by the Committee of Sponsoring Organizatio",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many times does the phrase 'provide reasonable assurance' appear in this section?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct bullet points (i, ii, iii) are listed in the description of internal control over financial reporting?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of characters in the date 'December 31, 2022' as it appears in the text?",
+    "answer": "16",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of the number of occurrences of 'internal control' to the number of occurrences of 'financial reporting' in the provided text?",
+    "answer": "3:2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CAT",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CAT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

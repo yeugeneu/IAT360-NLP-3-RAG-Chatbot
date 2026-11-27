@@ -1,0 +1,443 @@
+[
+  {
+    "question": "In what month and year did SLB announce its new brand?",
+    "answer": "October 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many countries does SLB have a global presence in?",
+    "answer": "more than 100",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of Divisions and Basins that SLB is organized under?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the text, which fiscal years does Item 1A of this Form 10-K generally discuss?",
+    "answer": "2022 and 2021",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where can discussions of 2021 and 2020 year-to-year comparisons be found according to this section?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many year-to-year comparison pairs are referenced in this section?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was SLB's full-year 2022 revenue?",
+    "answer": "$28.1 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the international revenue growth percentage for 2022?",
+    "answer": "20%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in percentage points between the total year-on-year revenue growth and the international revenue growth?",
+    "answer": "3% (23% - 20%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the implied full-year revenue for 2021 given that 2022 revenue was $28.1 billion and increased 23% year-on-year?",
+    "answer": "$22.85 billion (calculated as $28.1 billion / 1.23)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7 of SLB’s Annual Report on Form 10-K for the fiscal year ended December 31, 2021. 2022 Executive Overview ... Full-year 2022 revenue of $28.1 billion increased 23% year on year.",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By how many basis points did pretax operating margins increase in North America in 2022?",
+    "answer": "600 basis points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7 of SLB’s Annual Report on Form 10-K for the fiscal year ended December 31, 2021. 2022 Executive Overview ... increased our pretax operating margins close to 600 basis points (“bps”)",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the full-year revenue growth percentage for international markets in 2022?",
+    "answer": "20%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7 of SLB’s Annual Report on Form 10-K for the fiscal year ended December 31, 2021. 2022 Executive Overview ... full year revenue growth of 20%",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of SLB's 2022 revenue was denominated in US dollars?",
+    "answer": "72%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the unrealized value change of SLB's forward contracts if the US dollar depreciates by 10% from December 31, 2022 market rates?",
+    "answer": "decrease the unrealized value of SLB’s forward contracts by $36 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in unrealized value change between a 10% appreciation and a 10% depreciation of the US dollar from December 31, 2022 market rates?",
+    "answer": "$64 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total revenue for 2022?",
+    "answer": "$28,091 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statement of Income (Loss)",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of Cost of services and Cost of sales for 2021?",
+    "answer": "$19,271 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statement of Income (Loss)",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the comprehensive income (loss) for 2022?",
+    "answer": "$3,207 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statement of Comprehensive Income (Loss)",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total gross profit for the year 2022? (Calculate as Services revenue minus Cost of services plus Product sales minus Cost of sales.)",
+    "answer": "$5,161 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the percentage increase in total revenue from 2021 to 2022?",
+    "answer": "22.51%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the net profit margin (net income attributable to SLB divided by total revenue) for the year 2021?",
+    "answer": "8.20%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SLB",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SLB"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is Google's mission as stated in this section?",
+    "answer": "to organize the world’s information and make it universally accessible and useful",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In what year was Google founded according to this section?",
+    "answer": "1998",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many reportable segments does Alphabet have based on the description in this section?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of total revenues came from online advertising in 2022?",
+    "answer": "more than 80%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what ability do many advertisers have regarding their contracts?",
+    "answer": "They can terminate their contracts with us at any time.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Based on the statement that online advertising accounted for more than 80% of total revenues in 2022, what is the maximum possible percentage of total revenues that could have come from non-online advertising sources?",
+    "answer": "less than 20%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What risk does the passage describe regarding the trademark 'Google'?",
+    "answer": "There is a risk that the word 'Google' could become so commonly used that it becomes synonymous with the word 'search'.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the passage, what are the types of intellectual property rights that are important assets for the company?",
+    "answer": "Our patents, trademarks, trade secrets, copyrights, and other intellectual property rights are important assets for us.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What does the passage say about the possibility of protecting certain innovations?",
+    "answer": "Although we seek to obtain patent protection for our innovations, it is possible we may not be able to protect some of these innovations.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many rows in the table mention the word \"patent\"?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of rows that mention \"trademark\" to rows that mention \"patent\"?",
+    "answer": "1:1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of rows mention the phrase \"intellectual property\"?",
+    "answer": "21.4%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the principal currencies hedged by Alphabet as described in Item 7A?",
+    "answer": "Australian dollar, British pound, Canadian dollar, Euro, and Japanese yen",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the approximate adverse effect on income before income taxes if a 10% adverse foreign currency exchange rate change was applied as of December 31, 2021?",
+    "answer": "$285 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference in the approximate adverse effect on income before income taxes between December 31, 2021 and December 31, 2022, assuming a 10% adverse foreign currency exchange rate change?",
+    "answer": "$149 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the two non-GAAP metrics defined in this section?",
+    "answer": "constant currency revenues and percentage change in constant currency revenues",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Use of Non-GAAP Constant Currency Information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How are constant currency revenues calculated according to this section?",
+    "answer": "Constant currency revenues are calculated by translating current period revenues using prior year comparable period exchange rates, as well as excluding any hedging effects realized in the current period.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Use of Non-GAAP Constant Currency Information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the stated purpose of presenting results on a constant currency basis?",
+    "answer": "It helps improve the ability to understand performance, because it excludes the effects of foreign currency volatility that are not indicative of core operating results.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Use of Non-GAAP Constant Currency Information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "If actual revenues in 2023 are $250 million, the FX effect is $10 million, and hedging effects are $5 million, what are the constant currency revenues?",
+    "answer": "$235 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "If constant currency revenues for 2023 are $235 million and prior year revenues were $200 million, what is the constant currency revenue percentage change?",
+    "answer": "17.5%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "If current period revenues translated using prior year exchange rates are $220 million and hedging effects are $5 million, what is the constant currency revenue percentage change given prior year revenues of $200 million?",
+    "answer": "7.5%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

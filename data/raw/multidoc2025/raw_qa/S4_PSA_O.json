@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How many properties does O report as of December 31, 2024, and does PSA provide a similar count in its MD&A?",
+    "answer": "O reports 15,621 properties. PSA does not provide a property count in the provided MD&A excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "O"
+    ],
+    "evidence_section": "PSA ITEM 7, O Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSA+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is O's average annualized contractual rent per property, and does PSA disclose a comparable metric?",
+    "answer": "O's average annualized contractual rent per property is approximately $318,300 (calculated as $4.97 billion / 15,621 properties). PSA does not disclose annualized contractual rent or a similar per-property metric in the provided MD&A.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "O"
+    ],
+    "evidence_section": "PSA ITEM 7, O Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PSA+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is O's weighted average remaining lease term, and does PSA provide a lease term metric?",
+    "answer": "O reports a weighted average remaining lease term of approximately 9.3 years. PSA does not provide any lease term or duration metric in the provided MD&A.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "O"
+    ],
+    "evidence_section": "PSA ITEM 7, O Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSA+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of O's properties are single-client properties, and does PSA disclose a similar occupancy or property-type breakdown?",
+    "answer": "O reports that 98.0% of its properties are single-client properties. PSA does not provide any occupancy or property-type breakdown in the provided MD&A.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "O"
+    ],
+    "evidence_section": "PSA ITEM 7, O Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSA+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do PSA and O differ in the risk factors they highlight in their MD&A based on the provided excerpts?",
+    "answer": "PSA identifies impairment of long-lived assets as a critical accounting estimate, emphasizing judgments about rental rates, occupancy, and fair values. O does not mention impairment or any specific critical accounting estimates in its MD&A excerpt; instead, it focuses on portfolio diversification and dividend history.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "O"
+    ],
+    "evidence_section": "PSA ITEM 7, O Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSA+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What dividend-related information does O disclose that PSA does not in the provided MD&A sections?",
+    "answer": "O discloses that it has declared 656 consecutive monthly dividends and increased its dividend for 30 consecutive years, and is known as 'The Monthly Dividend Company'. PSA does not mention any dividend policy or history in the provided MD&A excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSA",
+      "O"
+    ],
+    "evidence_section": "PSA ITEM 7, O Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSA+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

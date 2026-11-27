@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the description of the company change from FY2022 to FY2023 and FY2024?",
+    "answer": "In FY2022, the company is described as 'a diversified health care company', while in FY2023 and FY2024 it is described as 'a health care and well-being company'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "UNH",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "UNH"
+    ]
+  },
+  {
+    "question": "Did the company's characterization of its two businesses change across the three fiscal years?",
+    "answer": "In FY2022, the businesses are described as 'two complementary businesses', whereas in FY2023 and FY2024 they are described as 'two distinct, yet complementary businesses'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "UNH",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "UNH"
+    ]
+  },
+  {
+    "question": "What new significant event was reported in the FY2024 Executive Overview that was absent in FY2022 and FY2023?",
+    "answer": "The FY2024 Executive Overview includes a section titled 'Change Healthcare Cyberattack', describing a cyberattack on Change Healthcare that was identified on February 21, 2024. This event is not mentioned in the FY2022 or FY2023 filings.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "UNH",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "UNH"
+    ]
+  },
+  {
+    "question": "What financial support did the company provide in FY2024 in response to the cyberattack, and was this mentioned in prior years?",
+    "answer": "In FY2024, the company 'provided interest-free loans of more than $9 billion through December 31, 2024' to support care providers. This support was not mentioned in the FY2022 or FY2023 filings.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "UNH",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "UNH"
+    ]
+  },
+  {
+    "question": "Did the company's statement about health care spending as a percentage of GDP change from FY2022 to FY2024?",
+    "answer": "No, all three filings state that 'health care spending has grown consistently for many years and comprises 18% of gross domestic product (GDP).' The percentage is unchanged across FY2022, FY2023, and FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Business Trends",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "UNH",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "UNH"
+    ]
+  },
+  {
+    "question": "How did the stated factors driving expected health care spending growth evolve across the three years?",
+    "answer": "In all three years, the filings list the same factors: 'inflation, medical technology and pharmaceutical advancement, regulatory requirements, demographic trends in the population and national interest in health and well-being.' No change is present.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Business Trends",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "UNH",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "UNH"
+    ]
+  }
+]

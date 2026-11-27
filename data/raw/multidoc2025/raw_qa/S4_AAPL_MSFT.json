@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was Apple's net income for fiscal year 2024 and how did it compare to Microsoft's net income for fiscal year 2024?",
+    "answer": "Apple's net income for FY2024 was $93,736 million (calculated as Income before provision for income taxes of $123,485 million minus Provision for income taxes of $29,749 million). Microsoft's net income for FY2024 was $88,136 million. Apple's net income was higher by $5,600 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL",
+      "MSFT"
+    ],
+    "evidence_section": "AAPL: Item 8 – Consolidated Statements of Operations for FY2024, income before taxes and provision; MSFT: Item 7 – Non-GAAP reconciliation table showing net income $88,136 million",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "AAPL+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the operating incomes of Apple and Microsoft differ in fiscal year 2024?",
+    "answer": "Apple reported operating income of $123,216 million for FY2024. Microsoft reported operating income of $109,433 million for FY2024. Apple's operating income was $13,783 million higher than Microsoft's.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL",
+      "MSFT"
+    ],
+    "evidence_section": "AAPL: Item 8 – Consolidated Statements of Operations, Operating Income $123,216 million; MSFT: Item 7 – Reconciliation table, Operating Income $109,433 million",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AAPL+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company had a larger gross margin in fiscal year 2024, and by what amount?",
+    "answer": "Apple's gross margin was $180,683 million, while Microsoft's gross margin was $171,008 million. Apple's gross margin was $9,675 million larger.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL",
+      "MSFT"
+    ],
+    "evidence_section": "AAPL: Item 8 – Consolidated Statements of Operations, Gross margin $180,683 million; MSFT: Item 7 – Reconciliation table, Gross margin $171,008 million",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AAPL+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the year-over-year net income changes for Apple and Microsoft compare in fiscal year 2024?",
+    "answer": "Apple's net income decreased from $96,995 million in FY2023 (calculated as $113,736 million pretax income minus $16,741 million provision) to $93,736 million in FY2024, a decrease of approximately 3.4%. Microsoft's net income increased from $72,361 million in FY2023 to $88,136 million in FY2024, an increase of 22%.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL",
+      "MSFT"
+    ],
+    "evidence_section": "AAPL: Item 8 – Consolidated Statements of Operations for FY2023 and FY2024 (income before taxes and provisions); MSFT: Item 7 – Reconciliation table showing net income for FY2023 ($72,361 million) and FY2024 ($88,136 million)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "AAPL+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the total net sales for Apple in fiscal year 2024, and how does Microsoft's gross margin (the closest revenue-related figure available) compare?",
+    "answer": "Apple's total net sales were $391,035 million. Microsoft's gross margin was $171,008 million; note that Microsoft's total net sales are not provided in the excerpt, but its gross margin represents the revenue after cost of sales. Apple's net sales are over twice Microsoft's gross margin.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL",
+      "MSFT"
+    ],
+    "evidence_section": "AAPL: Item 8 – Consolidated Statements of Operations, Total net sales $391,035 million; MSFT: Item 7 – Reconciliation, Gross margin $171,008 million",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AAPL+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, what strategic differences in product focus are evident between Apple and Microsoft?",
+    "answer": "Apple announced a broad range of new hardware products (MacBook Pro, iMac, iPad Air/Pro, iPhone 16 series, Apple Watch Series 10, AirPods 4) and software updates (iOS 18, macOS Sequoia, Apple Intelligence) across all four quarters of FY2024, indicating a strong emphasis on consumer hardware and integrated software. Microsoft's content does not mention product announcements but notes hardware-related impairment costs in FY2023, suggesting a less consumer hardware-centric strategy and a focus on enterprise software and cloud services.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL",
+      "MSFT"
+    ],
+    "evidence_section": "AAPL: Item 7 – Product, Service and Software Announcements for each quarter; MSFT: Item 7 – Non-GAAP reconciliation note on 'Severance, hardware-related impairment, and lease consolidation costs'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AAPL+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

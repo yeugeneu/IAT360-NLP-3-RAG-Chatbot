@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare Disney’s fiscal 2024 net income of $5.0 billion as stated in Item 7 with Meta’s net income for fiscal 2024 per its audited financial statements in Item 8. What is the approximate ratio of Disney’s net income to Meta’s net income?",
+    "answer": "Disney’s net income for fiscal 2024 is $5.0 billion. Meta’s net income for fiscal 2024 is not explicitly provided in the given content, only that its financial statements for 2024 and 2023 were audited. Therefore, the ratio cannot be computed.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DIS",
+      "META"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 Item 7; META FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "DIS+META",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "In fiscal 2024, Disney’s revenue increased 3% to $91.4 billion. Using Meta’s revenue figures from its fiscal 2024 and 2022 audited financial statements (Item 8), what was the compound annual growth rate (CAGR) of Meta’s revenue from 2022 to 2024?",
+    "answer": "Disney’s fiscal 2024 revenue is $91.4 billion. Meta’s revenue for fiscal 2022 and 2024 are not provided in the given content, only that the financial statements for those years were audited. Thus, the CAGR cannot be calculated.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DIS",
+      "META"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 Item 7; META FY2022 Item 8; META FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "DIS+META",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Disney’s fiscal 2024 diluted EPS from continuing operations was $2.72 per Item 7. Extract Meta’s diluted EPS for fiscal 2024 and 2022 from its consolidated statements of income (Item 8) and calculate the percentage change in Meta’s EPS from 2022 to 2024.",
+    "answer": "Disney’s fiscal 2024 diluted EPS is $2.72. Meta’s diluted EPS for fiscal 2024 and 2022 are not given in the provided content – only that the financial statements contain such figures. Hence, the percentage change cannot be determined.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DIS",
+      "META"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 Item 7; META FY2022 Item 8; META FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "DIS+META",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Disney’s fiscal 2024 service revenues were $81.8 billion, with an unfavorable foreign exchange impact of approximately 1 percentage point as per Item 7. Meta also discusses foreign exchange impact on revenue in its Item 7 for both FY2022 and FY2024. Compare the approaches: does Meta quantify the FX impact in the provided text?",
+    "answer": "Disney’s fiscal 2024 service revenues are $81.8 billion and the FX impact is described as an approximate 1 percentage point decrease. Meta’s Item 7 for FY2022 and FY2024 mentions presenting revenue on a constant currency basis but does not provide a specific numerical FX impact in the given excerpts. Therefore, Meta does not quantify the FX impact in the provided text.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DIS",
+      "META"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 Item 7; META FY2022 Item 7; META FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "DIS+META",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Disney’s cost of services for fiscal 2024 was $52.5 billion per Item 7. Using Meta’s cost of revenue figures from its fiscal 2024 and 2022 consolidated financial statements (Item 8), what was the percentage of cost of revenue to total revenue for Meta in each year?",
+    "answer": "Disney’s fiscal 2024 cost of services is $52.5 billion. Meta’s cost of revenue for fiscal 2024 and 2022 are not provided in the given content – only that the financial statements are audited. Thus, the percentages cannot be computed.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DIS",
+      "META"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2024 Item 7; META FY2022 Item 8; META FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "DIS+META",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Disney underwent a leadership change in fiscal 2022 with Robert Iger returning as CEO, as described in Item 7. Meta’s Item 7 for fiscal 2022 and 2024 discusses non-GAAP measures like constant currency revenue. Based on the provided text, does Meta mention any leadership changes in its Item 7 for either year?",
+    "answer": "Disney’s fiscal 2022 Item 7 details the return of Robert Iger as CEO. Meta’s Item 7 for fiscal 2022 and fiscal 2024 does not mention any leadership changes; it focuses on revenue constant currency and free cash flow disclosures. Therefore, Meta does not mention leadership changes in the provided excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DIS",
+      "META"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DIS FY2022 Item 7; META FY2022 Item 7; META FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "DIS+META",
+    "sector": "Communication Services"
+  }
+]

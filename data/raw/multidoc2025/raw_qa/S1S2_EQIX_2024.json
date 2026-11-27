@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is the stock ticker symbol for Equinix?",
+    "answer": "EQIX",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what date was Equinix incorporated?",
+    "answer": "June 22, 1998",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many geographic regions are listed for Equinix's data center footprint in the business overview?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What recent political change in the U.S. is mentioned as contributing to a complex and evolving regulatory landscape?",
+    "answer": "the recent change in administration in the U.S.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the potential consequences of proposed U.S. tariffs on imports as described in the risk factors?",
+    "answer": "increased costs and supply chain disruptions",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which specific group of customers is mentioned as being named in restrictive executive orders?",
+    "answer": "several Chinese customers who are named in restrictive executive orders",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of IBX data centers in Equinix's global footprint according to its 2023 10-K filing?",
+    "answer": "268",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what date was the 2023 Form 10-K filed with the SEC?",
+    "answer": "February 16, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many IBX data centers are not held in unconsolidated joint ventures?",
+    "answer": "247",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of IBX data centers not held in unconsolidated joint ventures?",
+    "answer": "247",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the percentage of IBX data centers that are held in unconsolidated joint ventures?",
+    "answer": "7.84%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If the total number of IBX data centers is 268 and the number of markets is 74, what is the average number of IBX data centers per market?",
+    "answer": "3.62",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total amount of the investment portfolio that could be susceptible to market risk as of December 31, 2024?",
+    "answer": "$2.5 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Did EQIX recognize any other-than-temporary impairments associated with credit losses on its securities during the year ended December 31, 2024?",
+    "answer": "No, the company states that no other-than-temporary impairments associated with credit losses were required to be recognized during the year ended December 31, 2024.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct types of financial instruments does EQIX use for hedging currency and interest rate risk according to the market risk disclosures?",
+    "answer": "Four: foreign currency forward contracts, foreign currency option contracts, cross-currency interest rate swaps, and interest rate locks.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the accounting policies that involve significant estimation uncertainty according to the management?",
+    "answer": "Accounting for income taxes; • Accounting for business combinations; • Accounting for impairment of goodwill and other intangible assets; • Accounting for property, plant and equipment; and • Accounting for leases.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the definition of 'more likely than not' as used in the accounting standard for income taxes?",
+    "answer": "A likelihood of more than 50%.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many accounting policies are listed as having significant estimation uncertainty?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many accounting policies are listed as involving significant estimation uncertainty?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of the listed accounting policies involve estimation uncertainty?",
+    "answer": "100%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of the likelihood threshold for recognizing a valuation allowance on deferred tax assets to the likelihood threshold for recognizing a tax benefit from an uncertain income tax position? (Express as a simplified ratio)",
+    "answer": "1:1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

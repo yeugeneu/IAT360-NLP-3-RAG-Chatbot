@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Based on the 2022 and 2024 MD&As for ECL and DD, calculate the percentage change in net sales from 2022 to 2024 for each company. Which company experienced a higher percentage change?",
+    "answer": "ECL net sales: 2022 $14,186.4 million, 2024 $15,843.8 million. Change = (15,843.8 - 14,186.4) / 14,186.4 = 11.68% increase. DD net sales: 2022 $13,025 million, 2024 $12,448 million. Change = (12,448 - 13,025) / 13,025 = -4.43% decrease. Therefore, ECL had a higher percentage change (+11.68% vs -4.43%).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "ECL",
+      "DD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "ECL+DD",
+    "sector": "Materials"
+  },
+  {
+    "question": "Which company, ECL or DD, experienced a larger absolute change in operating margin from fiscal year 2022 to fiscal year 2024, and what is the magnitude of that change in percentage points?",
+    "answer": "DD experienced a larger absolute change of 1.5 percentage points (from 15.0% in 2022 to 13.5% in 2024), compared to ECL's change of 0.7 percentage points (from 12.5% to 13.2%).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "ECL",
+      "DD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "ECL 2022: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Operating margin of 12.5%; ECL 2024: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Operating margin of 13.2%; DD 2022: ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS – Operating margin of 15.0%; DD 2024: ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS – Operating margin of 13.5%",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "ECL+DD",
+    "sector": "Materials"
+  },
+  {
+    "question": "Compare the percentage change in net sales from 2022 to 2024 for ECL and DD. Which company experienced a larger absolute percentage change, and what are the respective percentage changes?",
+    "answer": "ECL net sales: 2022 = $14,186.8 million, 2024 = $15,723.7 million, a percentage change of +10.8% (rounded to one decimal). DD net sales: 2022 = $12,385 million, 2024 = $11,789 million, a percentage change of -4.8%. Therefore, ECL experienced a larger absolute percentage change (+10.8% vs -4.8%).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "ECL",
+      "DD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "ECL+DD",
+    "sector": "Materials"
+  }
+]

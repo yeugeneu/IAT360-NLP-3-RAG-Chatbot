@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Where is the Company's Code of Business Conduct available?",
+    "answer": "On the Company’s website at www.jnj.com/code-of-business-conduct",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Within how many business days must any substantive amendment to the Code of Business Conduct & Ethics for Members of the Board of Directors and Executive Officers be posted on the website?",
+    "answer": "within five business days",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How long must any waiver of the Code granted to the Chief Executive Officer be retained on the website?",
+    "answer": "at least one year",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many operating segments does the Company operate in?",
+    "answer": "two",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what bases does the Company compete with companies of all sizes?",
+    "answer": "cost-effectiveness, technological innovations, intellectual property rights, product performance, real or perceived product advantages, pricing and availability and rate of reimbursement",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What could negatively impact sales of the Company according to the risk factors?",
+    "answer": "Competitors’ development of more effective or less costly products, and/or their ability to secure patent and other intellectual property rights and successfully market products ahead of the Company",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the worldwide sales in 2023?",
+    "answer": "$85.2 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's discussion and analysis of results of operations and financial condition.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the worldwide sales in 2022?",
+    "answer": "$80.0 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's discussion and analysis of results of operations and financial condition.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage increase in U.S. sales in 2023?",
+    "answer": "10.6%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's discussion and analysis of results of operations and financial condition.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference, in percentage points, between the total sales growth in 2023 and the volume growth in 2022?",
+    "answer": "-1.8 percentage points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Sales increase/(decrease) due to: 2023 2022 Volume 6.8 % 8.3 % Price 0.6 (1.8) Currency (0.9) (4.9) Total 6.5 % 1.6 %",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of U.S. sales in 2023 to international sales in 2023?",
+    "answer": "1.20",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Sales by U.S. companies were $46.4 billion in 2023 and $42.0 billion in 2022. ... Sales by international companies were $38.7 billion in 2023 and $38.0 billion in 2022.",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average of the 2023 sales growth rates for U.S. and international companies?",
+    "answer": "6.25%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "This represents increases of 10.6% in 2023 ... This represents an increase of 1.9% in 2023",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A as stated in the provided content?",
+    "answer": "Quantitative and qualitative disclosures about market risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many characters are in the provided text from Item 7A?",
+    "answer": "145",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the provided content, what is stated about the information for market risk?",
+    "answer": "The information called for by this item is incorporated herein by reference to",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were Johnson & Johnson's total assets as of December 31, 2023?",
+    "answer": "$167,558 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial statements and supplementary data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the amount of cash and cash equivalents at January 1, 2023?",
+    "answer": "$12,889 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial statements and supplementary data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the change in total current assets from January 1, 2023 to December 31, 2023?",
+    "answer": "-$1,799 million (decrease of $1,799 million)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial statements and supplementary data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was Johnson & Johnson's current ratio (current assets divided by current liabilities) for the fiscal year 2023?",
+    "answer": "1.16",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By what percentage did cash and cash equivalents increase from fiscal year 2022 to fiscal year 2023?",
+    "answer": "69.6%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the combined value of accounts receivable trade, net and inventories for fiscal year 2023?",
+    "answer": "$26,054 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

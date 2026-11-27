@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company explicitly states that it has two reportable segments?",
+    "answer": "Verizon (VZ) states it has two reportable segments in its Business Overview section ('We have two reportable s...'). Comcast (CMCSA) does not mention any reportable segments in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "VZ"
+    ],
+    "evidence_section": "CMCSA: Item 7; VZ: Business Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company’s MD&A content includes a specific reference to the COSO 2013 framework for internal control?",
+    "answer": "Verizon (VZ) mentions the COSO criteria in its Report of Independent Registered Public Accounting Firm ('Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)'). Comcast (CMCSA) does not include any such reference in its provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "VZ"
+    ],
+    "evidence_section": "CMCSA: Item 7; VZ: Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company highlights C-Band spectrum as a key strategic asset?",
+    "answer": "Verizon (VZ) explicitly discusses C-Band spectrum in its Overview: 'We believe that our C-Band spectrum, together with our industry leading millimeter wave spectrum holdings and our 4G LTE network and fiber infrastructure, will drive innovative products and services.' Comcast (CMCSA) does not mention C-Band or any spectrum assets in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "VZ"
+    ],
+    "evidence_section": "CMCSA: Item 7; VZ: Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly references its focus on 5G and 4G LTE wireless networks?",
+    "answer": "Verizon (VZ) references both 5G and 4G LTE in its Overview: 'We are consistently deploying new network architecture and technologies to secure our leadership in both 5G and 4G wireless networks.' Comcast (CMCSA) does not mention any specific network technologies in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "VZ"
+    ],
+    "evidence_section": "CMCSA: Item 7; VZ: Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes a Report of Independent Registered Public Accounting Firm with a specific audit date?",
+    "answer": "Verizon (VZ) includes a Report of Independent Registered Public Accounting Firm dated 'February 12, 2025'. Comcast (CMCSA) does not provide any auditor report or similar date in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "VZ"
+    ],
+    "evidence_section": "CMCSA: Item 7; VZ: Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company’s MD&A content explicitly mentions 'digital world' and 'mobility' as customer demands?",
+    "answer": "Verizon (VZ) states: 'To compete effectively in today’s dynamic marketplace, we are focused on the capabilities of our high-performing networks to drive growth based on delivering what customers want and need in the digital world.' and references 'mobility, reliable network connectivity and security'. Comcast (CMCSA) does not include any such strategic language in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CMCSA",
+      "VZ"
+    ],
+    "evidence_section": "CMCSA: Item 7; VZ: Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CMCSA+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

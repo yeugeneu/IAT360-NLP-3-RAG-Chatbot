@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What were EOG's total estimated net proved reserves at December 31, 2024?",
+    "answer": "4,748 million barrels of oil equivalent (MMBoe)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of EOG's net proved reserves were located in Trinidad?",
+    "answer": "1%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the combined volume of NGLs and natural gas reserves in MMBoe?",
+    "answer": "2,878 MMBoe (1,358 MMBbl NGLs + 1,520 MMBoe natural gas)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does 'EOG' refer to in this risk factor section?",
+    "answer": "EOG Resources, Inc. and its subsidiaries.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the second factor listed that can cause price fluctuations for crude oil, NGLs and natural gas?",
+    "answer": "domestic and international drilling activity",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many bullet points listing factors that can affect commodity prices are shown in the risk factor excerpt?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total revenues from sales of EOG's production of crude oil and condensate, NGLs and natural gas in 2024?",
+    "answer": "$17,578 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of total revenues from sales of crude oil and condensate, NGLs and natural gas came from crude oil and condensate and NGLs in 2024?",
+    "answer": "91%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the change in total natural gas volumes from 2023 to 2024 in MMcfd.",
+    "answer": "237 MMcfd",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage decrease in the total natural gas composite average price from 2023 to 2024?",
+    "answer": "The composite average natural gas price decreased from $2.79 per Mcf in 2023 to $2.17 per Mcf in 2024. The percentage decrease is (2.17 - 2.79) / 2.79 = -0.62 / 2.79 = -0.2222, or a 22.22% decrease.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Natural Gas volumes and prices table: Composite average natural gas prices for 2023 and 2024.",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of total crude oil and condensate volume in 2024 was produced in the United States?",
+    "answer": "United States crude oil and condensate volume was 490.6 MBbld and total volume was 491.4 MBbld in 2024. The percentage is 490.6 / 491.4 = 0.99837, or 99.84%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Crude Oil and Condensate volumes table: United States and total volumes for 2024.",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By how much did the average price of United States natural gas decrease from 2023 to 2024 in dollars per Mcf?",
+    "answer": "The United States average natural gas price was $2.70 per Mcf in 2023 and $1.99 per Mcf in 2024. The decrease is $2.70 - $1.99 = $0.71 per Mcf.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Natural Gas volumes and prices table: United States average natural gas prices for 2023 and 2024.",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does Item 7A state regarding the required information?",
+    "answer": "The information required by this Item is incorporated by reference from",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How is the information for Item 7A disclosed?",
+    "answer": "incorporated by reference",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the exact wording of the first sentence in Item 7A?",
+    "answer": "The information required by this Item is incorporated by reference from",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of Item 8 in the 10-K filing?",
+    "answer": "Item 8. Financial Statements and Supplementary Data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what page does the Index to Financial Statements begin according to the filing?",
+    "answer": "F-1",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How is the information required by Item 8 described as being included in the report?",
+    "answer": "The information required by this Item is included in this report as set forth in the 'Index to Financial Statements' on page F-1 and is incorporated by reference herein.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total revenue reported in the Income Statement for fiscal year 2024?",
+    "answer": "Not provided in the given content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the net income margin (net income divided by total revenue) for 2024?",
+    "answer": "Cannot be calculated because revenue and net income are not provided.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the percentage change in total assets from 2023 to 2024?",
+    "answer": "Not determinable; balance sheet figures are absent.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EOG",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EOG"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

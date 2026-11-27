@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the operating margin of NFLX in FY2022 and FY2024 with the nature of META's Management Discussion and Analysis for the same fiscal years. What quantitative trend does NFLX show, and what can be inferred from META's disclosure?",
+    "answer": "NFLX's operating margin improved from 18% in FY2022 to 27% in FY2024, as shown in the consolidated performance highlights tables. META's Item 7 for both FY2022 and FY2024 contains only general forward-looking statements regarding their financial condition and results of operations, without providing any specific operating margin or numerical financial results. Thus, no quantitative comparison of operating margins can be made between the two companies from the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NFLX",
+      "META"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "NFLX FY2022 Item 7 and NFLX FY2024 Item 7 tables; META FY2022 Item 7 text and META FY2024 Item 7 text",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "NFLX+META",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Calculate the percentage increase in NFLX's total revenues from FY2022 to FY2024 and the percentage increase in paid memberships over the same period. How do these growth rates compare, and what does META's FY2022 and FY2024 MD&A provide for user or revenue metrics?",
+    "answer": "NFLX total revenues grew from $31,615,550 thousand in FY2022 to $39,000,966 thousand in FY2024, a 23.4% increase ($39,000,966 - $31,615,550) / $31,615,550 * 100 = 23.35%). Paid memberships at end of period grew from 230,747 thousand to 301,626 thousand, a 30.7% increase (($301,626 - $230,747) / $230,747 * 100 = 30.73%). Revenue grew slower than membership base, indicating ARPU pressure or mix shift. META's Item 7 for both FY2022 and FY2024 provides only introductory text with forward-looking statements, no revenue or user metrics, so no comparable data exists in the provided documents.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NFLX",
+      "META"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "NFLX FY2022 Item 7 table (Total revenues, Paid memberships at end of period) and NFLX FY2024 Item 7 table (Total revenues, Paid memberships at end of period); META FY2022 Item 7 text and META FY2024 Item 7 text",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "NFLX+META",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "NFLX's paid net membership additions were 8,903 thousand in FY2022 and 41,350 thousand in FY2024. What does this 364% increase imply about the company's subscriber growth trajectory? How does META's Management Discussion in FY2022 and FY2024 reflect a different disclosure approach, and what challenge does this present for cross-company subscriber growth analysis?",
+    "answer": "NFLX's paid net membership additions surged from 8,903 thousand in FY2022 to 41,350 thousand in FY2024, a 364% increase (($41,350 - $8,903) / $8,903 * 100 = 364.5%). This indicates a dramatic acceleration in subscriber acquisition after a relatively weak 2022. META's Item 7 for both FY2022 and FY2024 contains only standardized forward-looking statement language and does not disclose any user, membership, or net addition metrics. Therefore, no subscriber growth comparison between NFLX and META is possible from the provided content, highlighting the disparity in disclosure practices between the two companies.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NFLX",
+      "META"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "NFLX FY2022 Item 7 table (Paid net membership additions) and NFLX FY2024 Item 7 table (Paid net membership additions); META FY2022 Item 7 text and META FY2024 Item 7 text",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "NFLX+META",
+    "sector": "Communication Services"
+  }
+]

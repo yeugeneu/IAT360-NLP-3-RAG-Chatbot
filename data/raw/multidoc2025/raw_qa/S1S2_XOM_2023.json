@@ -1,0 +1,443 @@
+[
+  {
+    "question": "In what year was Exxon Mobil Corporation incorporated?",
+    "answer": "1882",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In which month and year did ExxonMobil enter into a merger agreement with Pioneer Natural Resources Company?",
+    "answer": "October 2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many years after its incorporation did ExxonMobil enter into the merger agreement with Pioneer?",
+    "answer": "141",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What condition must be met for the Corporation to record proved reserves?",
+    "answer": "Only for projects which have received significant funding commitments by management toward the development of the reserves.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What indirect measurement data is used in establishing proved reserves additions in 2023?",
+    "answer": "High-quality 3‑D and 4‑D seismic data, calibrated with available well control information.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the basis for the estimation of proved reserves according to the text?",
+    "answer": "The requirement of reasonable certainty.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the item number of the MD&A section?",
+    "answer": "7",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the full title of Item 7 as referenced in the MD&A section?",
+    "answer": "Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many times does the word 'and' appear in the title of the MD&A section?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the percentage increase in total revenues from 2022 to 2023 according to the revenue table in the MD&A?",
+    "answer": "23.5%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Using the income statement table, what is the net income margin for fiscal year 2023?",
+    "answer": "10.5%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "From the production volume table, what is the ratio of crude oil production (in kboed) to total production (in kboed) for 2023?",
+    "answer": "0.53",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are some ways countries limit access to their oil and gas resources?",
+    "answer": "By restricting leasing or permitting activities, or may place resources off-limits from development altogether.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What restrictions does ExxonMobil face due to laws and sanctions imposed by the United States or other jurisdictions?",
+    "answer": "Laws and sanctions may prohibit ExxonMobil or its affiliates from doing business in certain countries or restrict the kind of business that may be conducted, including acquiring or divesting certain assets.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What risks does lack of legal certainty expose ExxonMobil to?",
+    "answer": "Lack of legal certainty exposes us to increased risk of adverse or unpredictable actions by government officials, and also makes it more difficult for us to enforce our contracts.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of the independent registered public accounting firm mentioned in Item 8?",
+    "answer": "238",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the date of the report of the independent registered public accounting firm?",
+    "answer": "February 28, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to Item 8, with which section do the consolidated financial statements begin?",
+    "answer": "Report of Independent Registered Public Accounting Firm",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the PCAOB ID (238) and the number of the last note (21)?",
+    "answer": "259",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the product of the day of the month in the auditor's report date (28) and the number of the last note (21)?",
+    "answer": "588",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the average of the PCAOB ID (238) and the year of the auditor's report (2024)?",
+    "answer": "1131",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2023",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

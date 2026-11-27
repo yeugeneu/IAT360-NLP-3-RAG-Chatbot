@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Compare the strategic focus and risk categories highlighted in the MD&A for Dominion Energy (D) and Southern Company (SO) across fiscal years 2022 and 2024. What specific numerical evolution of revenue is shown in the financial tables for D and SO over these two years?",
+    "answer": "In 2022, D's MD&A mentions a comprehensive business review, while in 2024 it focuses on regulatory risks regarding electric transmission and distribution revenues. SO's MD&A consistently discusses operational risks in both years. The provided content does not include any financial tables or numerical revenue data, so no numerical evolution can be extracted. Therefore, the comparison is limited to textual risk categories.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "D+SO",
+    "sector": "Utilities"
+  },
+  {
+    "question": "Based on the provided MD&A sections, how does the risk focus of Dominion Energy differ from that of Southern Company across 2022 and 2024, and what financial statement line item (e.g., operating revenues or operating expenses) would be most directly impacted by these risks, requiring evidence from both the text and the income statement?",
+    "answer": "Dominion Energy shifted from a comprehensive business review with associated risks and uncertainties in 2022 to regulatory, legislative, and legal risks in 2024, while Southern Company consistently cited operational risks in both years. The financial line most directly impacted would be operating revenues for Dominion due to regulatory rate reviews, and operating expenses for Southern due to operational inefficiencies. No numerical values from financial tables are provided in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "D+SO",
+    "sector": "Utilities"
+  }
+]

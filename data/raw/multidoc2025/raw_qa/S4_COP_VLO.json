@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary business focuses of ConocoPhillips and Valero Energy Corporation as described in their FY2024 10-K filings?",
+    "answer": "ConocoPhillips is an E&P (exploration and production) company; Valero is a refining company with segments including Refining, Renewable Diesel, and Ethanol.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "VLO"
+    ],
+    "evidence_section": "COP: Item 7 - 'one of the world’s leading E&P companies'; VLO: Item 7 - mentions 'Refining segment margins', 'Renewable Diesel segment margins', 'Ethanol segment margins'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the forward-looking statement disclaimers differ in the words listed by each company?",
+    "answer": "COP includes words such as 'ambition,' 'anticipate,' 'believe,' 'budget,' 'continue,' 'could,' 'effort,' 'estimate,' 'expect,' 'forecast,' 'goal,' 'guidance,' 'intend,' 'may,' 'objective,' 'outlook,' 'plan,' 'potential,' 'predict,' 'projection,' 'seek,' 'should,' 'target,' 'will,' 'would.' VLO includes similar but also adds 'strive,' 'seek,' 'pursue,' 'potential,' 'opportunity,' 'aimed,' 'considering,' 'evaluate.' Both lists are typical safe harbor language.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "VLO"
+    ],
+    "evidence_section": "COP: Item 7 - lists words after 'The words'; VLO: Item 7 - lists words after 'You can identify our forward-looking statements by the words'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly states that its internal control over financial reporting was effective as of December 31, 2024, and which does not provide such a statement in the given excerpt?",
+    "answer": "Valero Energy Corporation explicitly states management believes internal control over financial reporting was effective as of December 31, 2024. ConocoPhillips does not provide a similar statement in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "VLO"
+    ],
+    "evidence_section": "VLO: Item 8 - 'Management believes that as of December 31, 2024, our internal control over financial reporting was effective based on those criteria.' COP: Item 8 - no mention of internal control effectiveness.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the geographical scope mentioned by each company in the provided excerpts.",
+    "answer": "ConocoPhillips has operations and activities in 14 countries and lists North America, Europe, Africa, Asia, and Canada. Valero does not specify its geographical scope in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "VLO"
+    ],
+    "evidence_section": "COP: Item 7 - 'operations and activities in 14 countries' and list of regions including 'North America; conventional assets in North America, Europe, Africa and Asia; global LNG developments; oil sands in Canada'. VLO: no geographical scope provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of assets or projects does each company highlight in their descriptions?",
+    "answer": "ConocoPhillips highlights a diverse, low cost of supply portfolio including resource-rich unconventional plays, conventional assets, global LNG developments, and oil sands in Canada. Valero highlights refining operations and low-carbon fuels projects, specifically Refining, Renewable Diesel, and Ethanol segments.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "VLO"
+    ],
+    "evidence_section": "COP: Item 7 - 'resource-rich unconventional plays in North America; conventional assets in North America, Europe, Africa and Asia; global LNG developments; oil sands in Canada'. VLO: Item 7 - 'Refining segment margins', 'Renewable Diesel segment margins', 'Ethanol segment margins', and 'low-carbon fuels projects'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does each company describe its competitive positioning in the provided excerpts?",
+    "answer": "ConocoPhillips describes itself as 'one of the world’s leading E&P companies based on both production and reserves' with a 'diverse, low cost of supply portfolio.' Valero does not explicitly describe its competitive positioning in the provided excerpt; it focuses on refining margins and low-carbon fuels.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "VLO"
+    ],
+    "evidence_section": "COP: Item 7 - 'one of the world’s leading E&P companies based on both production and reserves' and 'diverse, low cost of supply portfolio'. VLO: no explicit competitive positioning statement in provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

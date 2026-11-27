@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary strategic focuses of Con Edison and Southern Company as described in their filings?",
+    "answer": "Con Edison seeks to provide shareholder value through continued dividend growth, supported by earnings growth in regulated utilities and electric transmission projects (ED Item 7). Southern Company's primary businesses are electricity sales by its traditional electric operating companies and Southern Power, and the distribution of natural gas by Southern Company Gas (SO Item 8).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "SO"
+    ],
+    "evidence_section": "ED Item 7 & SO Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Con Edison and Southern Company differ in their perspectives on the impact of environmental regulations and climate goals?",
+    "answer": "Con Edison states that as the CLCPA and Climate Mobilization Act continue to be implemented, distributed energy resources and electric alternatives to gas and steam are expected to increase, and gas and steam usage to decrease (ED Item 7). Southern Company mentions the transition of its traditional electric operating companies' generating fleets in support of the Southern Company system's net zero goal (SO Item 7).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "SO"
+    ],
+    "evidence_section": "ED Item 7 & SO Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the distinct business segments reported by Con Edison and Southern Company?",
+    "answer": "Con Edison's reportable segments are not explicitly listed in the provided content, but it mentions Utilities (CECONY) and Con Edison Transmission (ED Item 7). Southern Company's reportable segments are the sale of electricity by the traditional electric operating companies (Alabama Power, Georgia Power, Mississippi Power), the sale of electricity in the competitive wholesale market by Southern Power, and the sale of natural gas and other complementary products and services by Southern Company Gas (SO Item 8).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "SO"
+    ],
+    "evidence_section": "ED Item 7 & SO Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Con Edison and Southern Company address risks related to technology changes and competition?",
+    "answer": "Con Edison notes that changes to technology and competition from distributed energy resources and alternatives like electricity and oil could significantly impact the value of its energy delivery facilities (ED Item 7). Southern Company lists risks including implementation of new technologies, technology system failures, and cyber intrusions, and also mentions customer expectations for reliability as the generating fleet transitions (SO Item 7).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "SO"
+    ],
+    "evidence_section": "ED Item 7 & SO Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key differences in how Con Edison and Southern Company describe their customer bases and demand trends?",
+    "answer": "Con Edison states that its gas delivery customers and CECONY's steam delivery customers have alternatives such as electricity and oil, and that distributed energy resources and energy efficiency investments allow customers to manage energy usage, with expected decreased gas and steam usage due to climate policies (ED Item 7). Southern Company mentions that its traditional electric operating companies provide electric service to retail customers in three Southeastern states and wholesale customers, and that it faces risks from inability to maintain reliability consistent with customer expectations as the fleet transitions (SO Item 7 & SO Item 8).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "SO"
+    ],
+    "evidence_section": "ED Item 7 & SO Item 7,8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies' views on transmission projects and infrastructure compare?",
+    "answer": "Con Edison highlights electric transmission projects as a key area for earnings growth and investment (ED Item 7). Southern Company's risk factors mention transmission disruption and capacity constraints as potential adverse effects, and its traditional electric operating companies are vertically integrated with generation, transmission, and distribution facilities, but the emphasis is on overall operations and wholesale market activities (SO Item 7 & SO Item 8).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "SO"
+    ],
+    "evidence_section": "ED Item 7 & SO Item 7,8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

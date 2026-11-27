@@ -1,0 +1,68 @@
+[
+  {
+    "question": "How did NEE's customer account base change from 2022 to 2024, and what year does Duke Energy's 2022 MD&A reference for variance driver discussion?",
+    "answer": "NEE served approximately 5.8 million customer accounts in 2022 and more than six million in 2024. Duke Energy's 2022 MD&A references a discussion of variance drivers for the year ended December 31, 2021.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NEE",
+      "DUK"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "NEE+DUK",
+    "sector": "Utilities"
+  },
+  {
+    "question": "Calculate the minimum increase in NEE's customer accounts from 2022 to 2024 and determine how that compares to Duke Energy’s customer account growth over the same period. Provide the numerical comparison.",
+    "answer": "NEE's customer accounts increased from approximately 5.8 million in 2022 to more than six million in 2024, a minimum increase of 0.2 million (assuming more than six million starts at 6.0 million). Duke Energy's customer account data is not provided in the given excerpts for either 2022 or 2024, so no numerical comparison can be made.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NEE",
+      "DUK"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "NEE+DUK",
+    "sector": "Utilities"
+  },
+  {
+    "question": "Compare the number of customer accounts served by FPL (NEE) in 2022 and 2024 with the customer account information disclosed by Duke Energy (DUK) for the same years. Provide the exact numerical figures from NEE's disclosures and explain how DUK's disclosures address customer accounts.",
+    "answer": "NEE's FPL served approximately 5.8 million customer accounts in 2022 (from 'serves approximately 5.8 million customer accounts') and more than six million customer accounts in 2024 (from 'serves more than six million customer accounts'). Duke Energy's 2022 10-K excerpt does not provide a numerical figure for customer accounts but states 'for a discussion of variance drivers for the year ended December 31, 2021'; the 2024 excerpt discusses 'Duke Energy continues to evaluate the retirement date assumptions for all coal-fired generating facilities' and does not include any customer account numbers.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "NEE",
+      "DUK"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "NEE+DUK",
+    "sector": "Utilities"
+  }
+]

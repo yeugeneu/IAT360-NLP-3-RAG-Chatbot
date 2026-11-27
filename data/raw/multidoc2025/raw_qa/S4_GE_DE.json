@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company provides its MD&A discussion under Item 7 and also includes separate Item 8 for financial statements?",
+    "answer": "Both GE and DE provide MD&A under Item 7. Only DE additionally includes Item 8 for financial statements and supplementary data; GE does not mention Item 8 in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "DE"
+    ],
+    "evidence_section": "GE: Item 7; DE: Item 7 and Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What page range is specified for GE's MD&A, and does DE's content provide a similar page range?",
+    "answer": "GE's MD&A is specified on pages 8-24. DE's content does not specify page numbers for its MD&A.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "DE"
+    ],
+    "evidence_section": "GE: Item 7 (pages 8-24); DE: ITEM 7 (no page numbers)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company’s Item 7 heading includes the phrase 'Results of Operations'?",
+    "answer": "Both companies' Item 7 headings include 'Results of Operations' – GE: 'Management’s Discussion and Analysis of Financial Condition and Results of Operations'; DE: 'Management’s Discussion and Analysis of Financial Condition and Results of Operations'.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "DE"
+    ],
+    "evidence_section": "GE: Item 7 heading; DE: ITEM 7 heading",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does either company indicate that supplementary data is provided in a separate item?",
+    "answer": "DE indicates supplementary data is provided in Item 8. GE does not mention any Item 8 or supplementary data in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "DE"
+    ],
+    "evidence_section": "GE: no mention; DE: ITEM 8 includes 'supplementary data'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the exact title of DE’s Item 8?",
+    "answer": "DE's Item 8 is titled 'FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA'.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "DE"
+    ],
+    "evidence_section": "DE: ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, which company appears to have a longer MD&A section (by page range)?",
+    "answer": "GE's MD&A covers pages 8-24, which is 17 pages. DE does not provide a page range, so no direct comparison is possible from the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "DE"
+    ],
+    "evidence_section": "GE: pages 8-24; DE: no page numbers",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "GE+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

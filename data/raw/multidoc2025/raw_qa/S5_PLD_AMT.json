@@ -1,0 +1,68 @@
+[
+  {
+    "question": "In fiscal year 2022, what was PLD's occupancy rate for its O&M operating portfolio, and how does that compare to the total net proceeds from AMT's registered public offering of common stock in the same year? Which company relied more on external capital markets for growth?",
+    "answer": "PLD's O&M operating portfolio occupancy was 98.2% at December 31, 2022. AMT's registered public offering of common stock generated aggregate net proceeds of $2.3 billion in 2022. PLD's high occupancy indicates strong operational performance with minimal need for external equity, while AMT raised significant external capital to fund its growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PLD",
+      "AMT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PLD FY2022 (Item 7) and AMT FY2022 (Item 7)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PLD+AMT",
+    "sector": "Real Estate"
+  },
+  {
+    "question": "How did the scale of AMT's senior unsecured notes offerings change from 2022 to 2024, and what was the total amount of notes offered in each year? Relate this to any comparable financing activity reported for PLD in those years.",
+    "answer": "In 2022, AMT conducted a registered public offering of $1.3 billion of senior unsecured notes. In 2024, AMT conducted a registered public offering of $3.6 billion (including EUR 1.0 billion) of senior unsecured notes. PLD's provided text does not mention any debt or equity offerings in either 2022 or 2024, indicating no comparable financing activity.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PLD",
+      "AMT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AMT FY2022 (Item 7), AMT FY2024 (Item 7), PLD FY2022 and FY2024 (Item 7)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PLD+AMT",
+    "sector": "Real Estate"
+  },
+  {
+    "question": "What was the total amount of debt-related financing activity (new issuances and repayments) for AMT in 2024, and how does that compare to the single operational metric reported for PLD in 2022? Discuss the difference in their strategic focus as reflected in these numbers.",
+    "answer": "In 2024, AMT issued $3.6 billion in senior unsecured notes and repaid an EUR 825.0 million ($895.5 million) unsecured term loan, for net new debt financing of approximately $2.7 billion. In 2022, PLD reported an O&M operating portfolio occupancy of 98.2%. PLD's metric reflects operational efficiency, while AMT's numbers highlight a focus on capital market activities to support expansion.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PLD",
+      "AMT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PLD FY2022 (Item 7), AMT FY2024 (Item 7)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "PLD+AMT",
+    "sector": "Real Estate"
+  }
+]

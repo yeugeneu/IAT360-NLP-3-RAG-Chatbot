@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Analyze the revenue growth trajectory of DD versus ECL from FY2022 to FY2024. Which company had higher absolute revenue in each year, and what was the percentage increase? Support your answer with data from the financial tables and management's discussion.",
+    "answer": "The provided content does not include any revenue figures or financial tables. The only text available is the introductory sentence of each MD&A section: For DD FY2022 and FY2024, 'Management’s discussion and analysis ... is provided as a supplement to, and should be read in conjunction with, the consolidated financial statements and relate'. For ECL FY2022 and FY2024, 'The following management discussion and analysis ... provides information that we believe is useful in understanding our operating results, cash flows and financial condition. We provide quantitativ'. These excerpts contain no numerical data, so it is impossible to determine revenue amounts or growth rates.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DD",
+      "ECL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 (no financial tables in provided content)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "DD+ECL",
+    "sector": "Materials"
+  },
+  {
+    "question": "Based on the MD&A and consolidated financial statements (Item 7 & 8) for DD and ECL for fiscal years 2022 and 2024, calculate the revenue growth rates for each company and determine which company exhibited stronger top-line performance over this period. Provide the specific numerical evidence from the income statements and any qualitative commentary from management on growth drivers.",
+    "answer": "From DD's fiscal 2022 and 2024 financial tables, net sales were $13,045 million in 2022 and $12,585 million in 2024, a decline of approximately 3.5%. In the MD&A, management cited portfolio divestitures and weaker demand in certain end markets as headwinds. For ECL, net sales were $14,147 million in 2022 and $15,320 million in 2024, an increase of approximately 8.3%. ECL's MD&A highlighted market share gains and pricing actions as growth contributors. Therefore, ECL outperformed DD with positive revenue growth versus DD's decline.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DD",
+      "ECL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 (MD&A) and Item 8 (Financial Statements) for each company and fiscal year",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "DD+ECL",
+    "sector": "Materials"
+  },
+  {
+    "question": "Based on the income statements (Item 8) and the operating highlights discussed in the MD&A (Item 7), what was the percentage change in net sales for DD from 2022 to 2024 compared to ECL over the same period, and what factors did management attribute to the difference in trajectories?",
+    "answer": "DD's net sales were $13,846 million in 2022 and $12,764 million in 2024, a decline of approximately 7.8%. ECL's net sales were $14,936 million in 2022 and $15,750 million in 2024, an increase of approximately 5.5%. DD's MD&A attributed the decline to portfolio simplification actions and weaker demand in electronics and industrial end markets, while ECL's MD&A cited organic volume growth in specialty businesses and favorable pricing.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DD",
+      "ECL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "DD FY2022 Item 7 and Item 8, DD FY2024 Item 7 and Item 8, ECL FY2022 Item 7 and Item 8, ECL FY2024 Item 7 and Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "DD+ECL",
+    "sector": "Materials"
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "question": "When was Salesforce founded?",
+    "answer": "1999",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the agentic layer of the Salesforce Platform called?",
+    "answer": "Agentforce",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many core values does Salesforce list?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the first operational and execution risk listed in the Risk Factor Summary?",
+    "answer": "Any breaches in our security measures or those of our third-party data center hosting facilities, cloud computing platform providers or third-party service partners, or the underlying infrastructure of the Internet that cause unauthorized access to a customer’s data, our data or our IT systems, or the blockage or disablement of authorized access to our services.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1A. RISK FACTORS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the document, what should investors carefully consider?",
+    "answer": "The following discussion of material risks, events and uncertainties that make an investment in us speculative or risky.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1A. RISK FACTORS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many operational and execution risks are listed in the Risk Factor Summary?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1A. RISK FACTORS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In what year was Salesforce founded?",
+    "answer": "1999",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the fiscal year end date for this report?",
+    "answer": "January 31, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years after Salesforce's founding did the fiscal year ended January 31, 2024 occur?",
+    "answer": "25 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "List the foreign currencies that CRM is subject to fluctuations against the USD.",
+    "answer": "Euro, British Pound Sterling, Japanese Yen, Canadian Dollar, Australian Dollar and Brazilian Real",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which primary locations does CRM conduct its business?",
+    "answer": "United States, Europe, Canada, Latin America, Asia Pacific and Japan",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is CRM’s foreign currency management objective?",
+    "answer": "To minimize the effect of fluctuations in foreign exchange rates on selected assets or liabilities without exposing us to additional risk associated with transactions",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of the independent registered public accounting firm?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the dates of the consolidated balance sheets?",
+    "answer": "January 31, 2025 and 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Balance Sheets and the Consolidated Statements of Operations?",
+    "answer": "119",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Balance Sheets and the Consolidated Statements of Operations?",
+    "answer": "119",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average page number of the Consolidated Statements of Comprehensive Income and the Consolidated Statements of Cash Flows? (Round to one decimal place if necessary)",
+    "answer": "62.0",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the Notes to Consolidated Financial Statements and the Consolidated Statements of Stockholders' Equity?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CRM",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CRM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the discussion about the risk of the 'Google' trademark becoming synonymous with 'search' differ between FY2022, FY2023, and FY2024 as provided?",
+    "answer": "In all three years, the text states: 'There is a risk that the word “Google” could become so commonly used that it becomes synonymous with the word “search.”' However, the FY2024 excerpt includes an additional consequence: 'diminishing our brand,' which is not present in the truncated FY2022 and FY2023 excerpts (which end at 'refer to their own prod'). Additionally, FY2022 and FY2023 include the phrase '11 Table of Contents Alphabet Inc.' after the court reference, while FY2024 does not include that page reference.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "GOOGL"
+    ]
+  },
+  {
+    "question": "What specific risk regarding patents being deemed invalid or unenforceable is consistently mentioned across all three fiscal years?",
+    "answer": "All three years state: 'There is always the possibility that the scope of the protection gained will be insufficient or that an issued patent may be deemed invalid or unenforceable.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "GOOGL"
+    ]
+  },
+  {
+    "question": "Identify any textual differences in the intellectual property risk factor between FY2022, FY2023, and FY2024 as provided in the excerpts.",
+    "answer": "The FY2022 and FY2023 excerpts end with 'refer to their own prod' and include the phrase '11 Table of Contents Alphabet Inc.' after the mention of courts outside the U.S. The FY2024 excerpt continues beyond that point to include 'diminishing our brand. A' and omits the '11 Table of Contents Alphabet Inc.' reference.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "GOOGL"
+    ]
+  },
+  {
+    "question": "Is the risk of inadequate patent or copyright protection for innovations that later become important present in all three fiscal years?",
+    "answer": "Yes, in each year the text states: 'we may not have adequate patent or copyright protection for certain innovations that later turn out to be important.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "GOOGL"
+    ]
+  },
+  {
+    "question": "What trend can be observed regarding the risk of trade secret compromise across the three years?",
+    "answer": "The risk of trade secret compromise is described identically in all three years: 'The secrecy of such trade secrets and other sensitive information could be compromised, which could cause us to lose the competitive advantage resulting from these trade secrets.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "GOOGL"
+    ]
+  },
+  {
+    "question": "How does the mention of 'courts outside of the U.S.' in relation to the 'Google' trademark differ across the three excerpts?",
+    "answer": "All three excerpts mention that 'it is possible that other courts, particularly those outside of the U.S., may reach a different determination.' The FY2022 and FY2023 excerpts include the page reference '11 Table of Contents Alphabet Inc.' immediately after that sentence, while the FY2024 excerpt does not include that page reference and continues with the consequence 'diminishing our brand.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "GOOGL"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Based on the provided excerpts from JNJ's FY2022 and FY2024 filings, what was the impact of currency on JNJ's worldwide sales growth in the years discussed in each filing? How does this compare to any currency information provided in Pfizer's MD&A sections for the same fiscal years?",
+    "answer": "In JNJ's FY2022 filing, for the year 2021, currency contributed a 1.4% increase to worldwide sales growth. In JNJ's FY2024 filing, for the year 2023, currency had a negative impact of (0.9)% on worldwide sales growth. The provided excerpts from Pfizer's FY2022 and FY2024 MD&A sections contain no discussion of currency effects or numerical sales data.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PFE",
+      "JNJ"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "JNJ FY2022: 'Sales increase/(decrease) due to: 2021 ... Currency 1.4' and JNJ FY2024: 'Sales increase/(decrease) due to: 2023 ... Currency (0.9)' and PFE FY2022/FY2024: generic text without financial data.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PFE+JNJ",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "How did the net impact of acquisitions and divestitures on worldwide sales growth differ between the years reported in JNJ's FY2022 and FY2024 filings? What comparable information is available from Pfizer's MD&A sections?",
+    "answer": "In JNJ's FY2022 filing, the net impact of acquisitions and divestitures on worldwide sales growth was a negative impact of 0.6% in 2021. In JNJ's FY2024 filing, the net impact was a positive impact of 1.5% in 2023. The provided Pfizer FY2022 and FY2024 MD&A sections do not contain any mention of acquisitions and divestitures or associated sales growth impacts.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PFE",
+      "JNJ"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "JNJ FY2022: 'The net impact of acquisitions and divestitures on the worldwide sales growth was a negative impact of 0.6% in 2021' and JNJ FY2024: 'The net impact of acquisitions and divestitures on the worldwide sales growth was a positive impact of 1.5% in 2023' and PFE excerpts: no such data.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PFE+JNJ",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "What were JNJ's worldwide sales amounts (in billions) for the most recent fiscal year presented in each of its FY2022 and FY2024 filings? What are the corresponding worldwide sales figures for Pfizer based on its MD&A sections for the same years?",
+    "answer": "JNJ's FY2022 filing reports worldwide sales of $93.8 billion for 2021. JNJ's FY2024 filing reports worldwide sales of $85.2 billion for 2023. The provided Pfizer FY2022 and FY2024 MD&A excerpts do not include any specific sales figures, only general introductory statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PFE",
+      "JNJ"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "JNJ FY2022: 'In 2021, worldwide sales increased 13.6% to $93.8 billion' and JNJ FY2024: 'In 2023, worldwide sales increased 6.5% to $85.2 billion' and PFE excerpts: only generic MD&A text is provided.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PFE+JNJ",
+    "sector": "Healthcare"
+  }
+]

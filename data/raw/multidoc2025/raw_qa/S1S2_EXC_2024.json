@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What are the types of tax obligations mentioned that the Registrants must estimate?",
+    "answer": "income, real estate, sales and use, and employment-related taxes and ongoing appeal issues related to these tax matters",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which note are the material legal proceedings summarized?",
+    "answer": "Note 18 — Commitments and Contingencies",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What could a negative outcome in legal proceedings require or result in?",
+    "answer": "significant expenditures, result in lost revenue, or restrict or disrupt business activities",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the price per share for the shares sold to the underwriters on August 4, 2022?",
+    "answer": "$43.32",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of shares sold in the underwritten public offering including the full exercise of the underwriters' option?",
+    "answer": "12.995 million shares (11.3 million + 1.695 million)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net proceeds from the offering and the exercise of the underwriters' option before expenses?",
+    "answer": "$563 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was Exelon's consolidated net income attributable to common shareholders from continuing operations for the year ended December 31, 2024?",
+    "answer": "$2,460",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total net income from continuing operations for the combined registrants ComEd, PECO, BGE, PHI, Pepco, DPL, and ACE for 2024?",
+    "answer": "$3,639 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the diluted earnings per average common share from continuing operations for the year ended December 31, 2023?",
+    "answer": "$2.34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage change in Exelon's consolidated net income from 2023 to 2024?",
+    "answer": "5.67%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is ComEd's 2024 net income minus BGE's 2023 net income?",
+    "answer": "581",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the total net income contributed by the PHI subsidiaries (Pepco, DPL, and ACE) in 2024.",
+    "answer": "754",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the recognition threshold used in the benefit recognition model for uncertain income tax positions?",
+    "answer": "more-likely-than-not",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the measurement threshold that the largest amount of tax benefit must exceed?",
+    "answer": "greater than 50% likely",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How often do the Registrants evaluate the probability of realizing deferred tax assets?",
+    "answer": "quarterly",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In accordance with which standards were the audits conducted?",
+    "answer": "the standards of the PCAOB",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the auditor's responsibility regarding the Company's consolidated financial statements and internal control over financial reporting?",
+    "answer": "to express opinions on the Company’s consolidated financial statements and on the Company's internal control over financial reporting",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What did the audits of the consolidated financial statements include with respect to risks of material misstatement?",
+    "answer": "performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "EXC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

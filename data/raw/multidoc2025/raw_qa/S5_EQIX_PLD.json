@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Based solely on the provided excerpts, identify the filing dates and the fiscal years of the Form 10-K reports referenced for EQIX FY2022 and PLD FY2022. Then, using the fact that the PLD FY2024 excerpt mentions a reconciliation of Net Earnings to FFO measures and NOI to Operating Income (which would be included in Item 8 financial tables), explain how the structure of the reports differs between the two companies across the two fiscal years.",
+    "answer": "EQIX FY2022 references its 2021 Form 10-K filed on February 18, 2022. PLD FY2022 references its Annual Report on Form 10-K for the fiscal year ended December 31, 2021, filed on February 9, 2022. For EQIX FY2024, the excerpt refers to Item 7 of its 2023 Form 10-K filed on February 16, 2024. For PLD FY2024, the excerpt references a reconciliation of Net Earnings Attributable to Common Stockholders/Unitholders in the Consolidated Statements of Income to FFO measures and a reconciliation of NOI to Operating Income. This indicates that PLD FY2024 explicitly incorporates financial tables from Item 8 (like FFO and NOI reconciliations), while the EQIX excerpts for both years only describe the purpose of Item 7 without referencing such reconciliations. The evidence shows that PLD provides these detailed reconciliations in its FY2024 filing, whereas EQIX’s FY2022 and FY2024 excerpts do not mention them.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "EQIX",
+      "PLD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 and Item 8 (implied from references to financial statements and reconciliations)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "EQIX+PLD",
+    "sector": "Real Estate"
+  },
+  {
+    "question": "Compare the disclosure practices of EQIX and PLD across their FY2022 and FY2024 10-K filings regarding the reconciliation of Net Earnings to FFO and NOI to Operating Income. Which company’s FY2024 excerpt explicitly mentions these reconciliations, and what does this suggest about the availability of financial tables in that filing?",
+    "answer": "Only PLD’s FY2024 excerpt mentions a 'reconciliation of Net Earnings Attributable to Common Stockholders/Unitholders in the Consolidated Statements of Income to our FFO measures and a reconciliation of NOI to Operating Income'. Neither EQIX’s FY2022 nor FY2024 excerpts, nor PLD’s FY2022 excerpt, reference any such reconciliations. This indicates that PLD’s FY2024 filing includes these financial tables, while the other filings do not, at least not in the provided excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "EQIX",
+      "PLD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "EQIX+PLD",
+    "sector": "Real Estate"
+  },
+  {
+    "question": "Identify which company-year filing explicitly references a reconciliation of NOI to Operating Income or Net Earnings to FFO, and calculate the difference in the number of days between the fiscal year end (December 31) and the filing date for the referenced 10-Ks in the FY2022 MD&A sections of EQIX and PLD.",
+    "answer": "Only PLD FY2024 includes direct references: 'reconciliation of Net Earnings Attributable to Common Stockholders/Unitholders in the Consolidated Statements of Income to our FFO measures and a reconciliation of NOI to Operating Income in the Conso...'. For FY2022 references: EQIX's referenced 2021 Form 10-K was filed on February 18, 2022 (49 days after December 31, 2021). PLD's referenced 2021 Form 10-K was filed on February 9, 2022 (40 days after December 31, 2021). The difference in filing lag is 9 days, with PLD filing earlier.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "EQIX",
+      "PLD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 (MD&A) + referenced table in PLD FY2024 text",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "EQIX+PLD",
+    "sector": "Real Estate"
+  }
+]

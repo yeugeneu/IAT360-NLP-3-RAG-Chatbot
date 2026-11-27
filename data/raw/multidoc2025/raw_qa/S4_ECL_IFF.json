@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company provides a performance graph comparing cumulative total shareholder return over the last five fiscal years, and what is the total return for the company that provides it from 2019 to 2024?",
+    "answer": "IFF provides a performance graph. The total return for IFF from December 31, 2019 to December 31, 2024, based on a $100 investment, was to $75.21, representing a decrease of 24.79%. ECL does not include a performance graph in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "IFF"
+    ],
+    "evidence_section": "IFF: 'Performance Graph' table; ECL: absence noted",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "ECL+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both ECL and IFF discuss non-GAAP financial measures. How do their approaches differ based on the provided content?",
+    "answer": "ECL explicitly mentions 'Non-GAAP Financial Measures' and provides reconciliation information in the MD&A. IFF's provided content does not mention non-GAAP financial measures. ECL discusses organic sales and special charges, while IFF's discussion focuses on liquidity and cash flows without reference to non-GAAP measures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "IFF"
+    ],
+    "evidence_section": "ECL: 'Non-GAAP Financial Measures' section and 'Comparability of Results'; IFF: no mention",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the cash flow from operating activities as a percentage of sales for IFF in 2024 and 2023. Does ECL provide comparable data?",
+    "answer": "IFF's cash flows from operating activities were $1.070 billion in 2024 (9.3% of sales) and $1.439 billion in 2023 (12.5% of sales). ECL's provided content does not include cash flow or sales data for comparison.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "IFF"
+    ],
+    "evidence_section": "IFF: 'Cash Flows Provided By Operating Activities'; ECL: no data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company discusses the impact of acquisitions and divestitures on its results, and does the other company mention a similar adjustment?",
+    "answer": "ECL discusses the 'Impact of Acquisitions and Divestitures' and includes them in non-GAAP measures for organic sales and operating income. IFF does not mention acquisitions or divestitures in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "IFF"
+    ],
+    "evidence_section": "ECL: 'Comparability of Results' and 'Impact of Acquisitions and Divestitures'; IFF: absent",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the number of shareholders of record for IFF as of February 24, 2025? Does ECL provide its number of shareholders in the provided content?",
+    "answer": "IFF reported 2,993 shareholders of record as of February 24, 2025. ECL's provided content does not include the number of shareholders.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "IFF"
+    ],
+    "evidence_section": "IFF: 'Approximate Number of Equity Security Holders'; ECL: not present",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both companies are in the Materials sector. Based on the provided content, which company provides more detailed quantitative disclosure of its financial results in the MD&A?",
+    "answer": "IFF provides specific numbers such as cash, cash equivalents and restricted cash ($471 million), cash flows from operating activities ($1.070 billion), and deferred tax liability ($154 million). ECL's MD&A excerpt is qualitative and does not include specific financial figures. Therefore, IFF offers more quantitative disclosure in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "IFF"
+    ],
+    "evidence_section": "IFF: 'Liquidity and Capital Resources'; ECL: 'Item 7' but no numbers",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

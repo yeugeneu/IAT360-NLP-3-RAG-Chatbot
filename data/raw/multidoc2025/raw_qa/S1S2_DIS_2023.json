@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What was the total number of employees of The Walt Disney Company as of September 30, 2023?",
+    "answer": "approximately 225,000",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many employees were employed outside the U.S. as of September 30, 2023?",
+    "answer": "approximately 58,000",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many full-time employees did the company have as of September 30, 2023?",
+    "answer": "approximately 173,250",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the categories of risk factors mentioned as the most significant affecting the company?",
+    "answer": "BUSINESS, ECONOMIC, MARKET and OPERATING CONDITION RISKS",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many times does the phrase 'economic conditions' appear in this risk factor section?",
+    "answer": "5 times",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many distinct business areas are mentioned as being affected by past declines in economic conditions?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total revenue for 2023?",
+    "answer": "$88,898 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of cost of services and cost of products for 2023?",
+    "answer": "$59,201 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What were the restructuring and impairment charges for 2023?",
+    "answer": "$3,892 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total gross profit (Total revenues minus Total costs and expenses) for fiscal year 2023?",
+    "answer": "88,898 - 79,906 = 8,992 ($ in millions)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7: MD&A - Consolidated Results",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the dollar increase in Depreciation and amortization from 2022 to 2023?",
+    "answer": "5,369 - 5,163 = 206 ($ in millions)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7: MD&A - Consolidated Results",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the net income from continuing operations as a percentage of total revenues for 2022?",
+    "answer": "3,553 / 82,722 ≈ 4.3%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7: MD&A - Consolidated Results",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the principal foreign currencies hedged by the Company according to Item 7A?",
+    "answer": "euro, Japanese yen, British pound, Chinese yuan and Canadian dollar",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the Company's objective in managing exposure to interest rate changes?",
+    "answer": "to limit the impact of interest rate volatility on earnings and cash flows and to lower overall borrowing costs",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many principal foreign currencies are listed as hedged in the section?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What page is the Index to Financial Statements and Supplemental Data located on?",
+    "answer": "77",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the section number and title of Item 8?",
+    "answer": "Item 8. Financial Statements and Supplementary Data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the digits of the page number where the index is found?",
+    "answer": "14",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the result of subtracting 70 from the page number of the Index to Financial Statements and Supplemental Data?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the result of adding 23 to the page number of the Index to Financial Statements and Supplemental Data?",
+    "answer": "100",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the result of dividing the page number of the Index to Financial Statements and Supplemental Data by 11?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

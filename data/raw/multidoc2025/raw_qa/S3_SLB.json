@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did SLB's year-over-year revenue growth rate change from FY2022 to FY2024?",
+    "answer": "FY2022 revenue grew 23% year on year, FY2023 revenue grew 18% year on year, and FY2024 revenue increased 10% year on year.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SLB",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "SLB"
+    ]
+  },
+  {
+    "question": "What were the cash flow from operations and free cash flow for FY2023 and FY2024?",
+    "answer": "For FY2023, cash flow from operations was $6.6 billion and free cash flow was $4.0 billion. For FY2024, cash flow from operations was also $6.6 billion and free cash flow was $4.0 billion.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SLB",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "SLB"
+    ]
+  },
+  {
+    "question": "How did the amount returned to shareholders change from FY2023 to FY2024?",
+    "answer": "In FY2023, SLB returned $2.0 billion to shareholders through dividends and stock repurchases. In FY2024, SLB returned $3.3 billion to shareholders.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SLB",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "SLB"
+    ]
+  },
+  {
+    "question": "Compare the year-over-year international revenue growth in FY2022, FY2023, and FY2024.",
+    "answer": "International revenue grew 20% in FY2022, 20% in FY2023, and 12% in FY2024. Excluding the acquired Aker subsea business, FY2024 international revenue increased 7% year over year.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SLB",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "SLB"
+    ]
+  },
+  {
+    "question": "What was the trend in digital revenue from FY2023 to FY2024?",
+    "answer": "In FY2023, digital revenue was more than $2 billion. In FY2024, digital revenue reached $2.44 billion, representing 20% growth.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SLB",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "SLB"
+    ]
+  },
+  {
+    "question": "How did SLB's net debt reduction compare between FY2023 and FY2024?",
+    "answer": "In FY2023, SLB reduced net debt by $1.4 billion. In FY2024, SLB reduced net debt by $571 million.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A Executive Overview",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SLB",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "SLB"
+    ]
+  }
+]

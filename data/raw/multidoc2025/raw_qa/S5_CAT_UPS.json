@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What is the difference in years between the fiscal year covered by UPS's 2024 10-K Item 7 and the filing year indicated for CAT's 2022 10-K Item 7?",
+    "answer": "1 year (2023 - 2022 = 1)",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CAT",
+      "UPS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "CAT+UPS",
+    "sector": "Industrials"
+  },
+  {
+    "question": "Calculate the difference in revenue growth rates (percentage change) for Caterpillar Inc. (CAT) and United Parcel Service, Inc. (UPS) from fiscal year 2022 to fiscal year 2024. What is the absolute difference in growth rates between the two companies?",
+    "answer": "CAT revenue grew from $59.4 billion in 2022 to $68.0 billion in 2024, a growth rate of approximately 14.5%. UPS revenue decreased from $100.3 billion in 2022 to $91.0 billion in 2024, a decline of approximately 9.3%. The absolute difference in growth rates is 14.5% - (-9.3%) = 23.8 percentage points.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CAT",
+      "UPS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "CAT+UPS",
+    "sector": "Industrials"
+  },
+  {
+    "question": "What is the numerical difference in years between the 2022 and 2024 filings for both CAT and UPS, based on the year references in their Item 7 forward-looking statements sections?",
+    "answer": "2 years",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CAT",
+      "UPS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "CAT+UPS",
+    "sector": "Industrials"
+  }
+]

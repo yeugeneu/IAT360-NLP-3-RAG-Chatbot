@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What year was Air Products and Chemicals, Inc. originally founded?",
+    "answer": "1940",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the stock symbol under which Air Products trades on the New York Stock Exchange?",
+    "answer": "APD",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which state is Air Products and Chemicals, Inc. incorporated?",
+    "answer": "Delaware",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the company state that its operations are affected by?",
+    "answer": "various risks, many of which are beyond our control",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does demand for the company's products and services depend on, according to the risk factor?",
+    "answer": "in part on the general economic conditions affecting the regions and markets in which we do business",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the company's growth strategy largely based on?",
+    "answer": "expected demand for technologies and projects to limit the impact of global climate change",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What unit is used for financial information in the MD&A?",
+    "answer": "millions of U.S. Dollars, except for per share data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which page does the Outlook section begin?",
+    "answer": "31",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Business Overview, 2024 in Summary, and Outlook sections?",
+    "answer": "88",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What section of the MD&A begins on page 43?",
+    "answer": "Liquidity and Capital Resources",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which pages do the 'Outlook' and 'Pension Benefits' sections begin?",
+    "answer": "Outlook: 31; Pension Benefits: 47",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the start of '2024 in Summary' (page 29) and the start of 'Critical Accounting Policies and Estimates' (page 49)?",
+    "answer": "20",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net financial instrument position at 30 September 2023?",
+    "answer": "liability of $8,990.8",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net financial instrument position at 30 September 2024?",
+    "answer": "liability of $13,855.3",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the increase in the net financial instrument position from 30 September 2023 to 30 September 2024?",
+    "answer": "$4,864.5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of Deloitte & Touche LLP as mentioned in the report?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what page does the Management's Report on Internal Control Over Financial Reporting begin?",
+    "answer": "57",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many fiscal years are covered by the Consolidated Income Statements?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the page number difference between the start of the Management's Report on Internal Control Over Financial Reporting (page 57) and the start of the Consolidated Balance Sheets (page 62)?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Income Statements (page 60) and the Consolidated Comprehensive Income Statements (page 61)?",
+    "answer": "121",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many pages are listed in the index from the Management's Report (page 57) through the Notes to Consolidated Financial Statements (page 65), inclusive?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

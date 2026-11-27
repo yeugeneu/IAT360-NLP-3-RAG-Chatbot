@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What was the Consumer segment's revenue in 2024?",
+    "answer": "$102.9 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many total broadband connections did the Consumer segment have as of December 31, 2024?",
+    "answer": "10 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the Consumer segment's revenue and its percentage of consolidated revenues, what were Verizon's total consolidated revenues in 2024?",
+    "answer": "Approximately $135.4 billion (calculated as $102.9 billion / 0.76)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the company expect for Fios internet connections?",
+    "answer": "We expect to continue to grow our Fios internet connections.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What pending acquisition is mentioned that is expected to enhance the fiber broadband footprint?",
+    "answer": "Frontier",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct business segments are explicitly mentioned in this content?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the fiscal year covered in this MD&A section?",
+    "answer": "2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many reportable segments does Verizon have according to this section?",
+    "answer": "two",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many wireless network generations does Verizon identify as areas of leadership in this MD&A?",
+    "answer": "two",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total revenue for Verizon in fiscal year 2024 according to the highlights table?",
+    "answer": "The provided content does not include any numerical data from the financial highlights table; therefore, the total revenue is not stated.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the percentage change in operating income from 2023 to 2024 based on the table.",
+    "answer": "The provided content does not include any numerical data from the table, so the percentage change cannot be calculated.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the capital expenditures in 2024 as per the table?",
+    "answer": "The provided content does not include any numerical data from the table; capital expenditures are not mentioned.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the company's general policy regarding entering into derivative transactions?",
+    "answer": "to enter into interest rate, foreign currency and other derivative transactions only to the extent necessary to achieve our desired objectives in optimizing exposure to various market risks.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does the company hold derivatives for trading purposes?",
+    "answer": "We do not hold derivatives for trading purposes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "List the types of derivatives the company may use in its risk management strategies.",
+    "answer": "cross currency swaps, forward starting interest rate swaps, interest rate swaps, interest rate caps, treasury rate locks and foreign exchange forwards",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the date of the report that expressed an unqualified opinion on Verizon's consolidated financial statements?",
+    "answer": "February 12, 2025",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "As of what date did the auditor opine that Verizon maintained effective internal control over financial reporting?",
+    "answer": "December 31, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What criteria were used to evaluate Verizon's internal control over financial reporting?",
+    "answer": "Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in years between the two balance sheet dates mentioned in the audit report?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many different consolidated financial statements are listed in the audit report?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years of financial data are covered by each of the statements mentioned?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VZ"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

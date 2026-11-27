@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the primary business focuses of CCI and DLR differ based on their 10-K descriptions?",
+    "answer": "CCI’s business focuses on towers, small cells, and fiber solutions providing communications infrastructure, while DLR focuses on data center, colocation, and interconnection solutions. CCI discusses competition in tower and fiber markets, whereas DLR emphasizes being a leading global provider of data center space, power, and interconnection.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "DLR"
+    ],
+    "evidence_section": "CCI: Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results; DLR: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the competitive threats each company identifies in their MD&A: What types of competitors does CCI mention versus DLR?",
+    "answer": "CCI identifies competition from other communications infrastructure owners, tenants who self-perform, and new alternative deployment methods, as well as from fiber owners and new entrants in small cells and fiber. DLR’s MD&A does not explicitly list competitors in the provided snippet, but describes its target market as data center and technology industry customers, implying competition from other data center providers. CCI’s competitors are more diverse across towers and fiber, while DLR’s competitive landscape is centered on data center real estate.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "DLR"
+    ],
+    "evidence_section": "CCI: Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results; DLR: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the stated primary business objectives for DLR, and how do they compare to CCI’s strategic focus as described in their MD&A?",
+    "answer": "DLR’s primary business objectives are to maximize sustainable long-term growth in earnings and funds from operations per share/unit, cash flow and distributions to stockholders/unitholders, and return on invested capital. CCI’s MD&A emphasizes growth through entering new tenant contracts, renewals, and maintaining market share despite competition. DLR focuses on risk-adjusted returns and capital allocation, while CCI highlights tenant contract management and competitive pressures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "DLR"
+    ],
+    "evidence_section": "CCI: Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results; DLR: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies describe their internal growth strategies?",
+    "answer": "CCI describes growth as dependent on entering new tenant contracts, amendments, renewals, and renegotiating tenant contracts. It also mentions a restructuring plan discontinuing installation services. DLR states that a significant component of its internal growth is anticipated through development of existing space held for development, acquisition of land for future development, and acquisition of new properties. CCI focuses on contract-based growth, while DLR emphasizes property development and acquisition.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "DLR"
+    ],
+    "evidence_section": "CCI: Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results; DLR: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences in customer non-renewal risk are highlighted between CCI’s fiber and tower businesses versus DLR’s data center business?",
+    "answer": "CCI explicitly states that the level of non-renewals associated with fiber solutions is generally higher than that of towers and small cells. DLR’s provided content does not mention non-renewal rates but describes its properties as containing fully redundant infrastructure to support customer applications. CCI identifies a material difference in renewal risk within its own product lines, while DLR does not address this risk in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "DLR"
+    ],
+    "evidence_section": "CCI: Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results; DLR: ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (Business Overview and Strategy)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the descriptions, what type of real estate and infrastructure assets does each company own and operate?",
+    "answer": "CCI owns and operates communications infrastructure: towers, small cells, and fiber networks. DLR owns and operates data center properties with physical and connectivity infrastructure that supports applications and operations of data center and technology industry customers, including fully redundant infrastructure. CCI’s assets are outdoor communications sites, while DLR’s are indoor data center facilities.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "DLR"
+    ],
+    "evidence_section": "CCI: Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results; DLR: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

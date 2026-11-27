@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What are the primary business segments of ED and NEE as described in their respective filings?",
+    "answer": "ED's primary business segments are its regulated Utilities (CECONY, O&R, and others) and Con Edison Transmission, which invests in electric and gas transmission projects. NEE's primary business segments are Florida Power & Light Company (FPL), which serves over six million customer accounts in Florida, and NextEra Energy Resources (NEER), described as the world's largest generator of renewable energy from wind and sun based on 2024 MWh produced.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "NEE"
+    ],
+    "evidence_section": [
+      "ED Item 7",
+      "NEE Item 7"
+    ],
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+NEE",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do ED and NEE differ in their strategic approach to renewable energy and distributed energy resources?",
+    "answer": "ED expects distributed energy resources to increase and gas and steam usage to decrease as the CLCPA and Climate Mobilization Act are implemented, positioning itself to adapt to a cleaner energy mix. NEE, through NEER, is already a world leader in renewable energy generation from wind and sun, and a world leader in battery storage capacity, indicating an aggressive proactive stance in renewables.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "NEE"
+    ],
+    "evidence_section": [
+      "ED Item 7",
+      "NEE Item 7"
+    ],
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+NEE",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What net income figures are reported for NEE's segments in 2024, and what net income figure is provided for ED in the given content?",
+    "answer": "NEE reports 2024 net income of $4,543 million for FPL, $2,299 million for NEER, $104 million for Corporate and Other, totaling $6,946 million. The provided ED content does not include any net income figures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "NEE"
+    ],
+    "evidence_section": [
+      "NEE Item 7",
+      "ED Item 7"
+    ],
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+NEE",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the auditor opinions on the financial statements and internal control over financial reporting for ED and NEE as of December 31, 2024?",
+    "answer": "Both ED and NEE received unqualified opinions on their consolidated financial statements and effective internal control over financial reporting as of December 31, 2024. The auditor for ED is a PCAOB-registered firm; NEE's management report asserts the system provides reasonable assurance, and the auditor opinion for NEE is implied through management's statement but not explicitly repeated in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "NEE"
+    ],
+    "evidence_section": [
+      "ED Item 8",
+      "NEE Item 8"
+    ],
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+NEE",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does NEE's five-year total shareholder return compare to the S&P 500, and does ED provide a similar metric?",
+    "answer": "NEE delivered a total shareholder return of approximately 33.2% for the five years ended December 31, 2024, compared to the S&P 500's return of 97.0%. ED does not disclose a total shareholder return metric in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "NEE"
+    ],
+    "evidence_section": [
+      "NEE Item 7",
+      "ED Item 7"
+    ],
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+NEE",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the stated strategies of ED and NEE for providing shareholder value?",
+    "answer": "ED states it seeks to provide shareholder value through continued dividend growth, supported by earnings growth in regulated utilities and electric transmission projects. NEE does not explicitly mention dividend growth in the provided content; its performance is driven by FPL and NEER operations, with a focus on renewable energy leadership and customer growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ED",
+      "NEE"
+    ],
+    "evidence_section": [
+      "ED Item 7",
+      "NEE Item 7"
+    ],
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ED+NEE",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What was the effective date of the DWDP Merger?",
+    "answer": "August 31, 2017",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many spin-off distributions did the Company complete in 2019?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Effective when did Corteva's subsidiary EID change its name to EIDP?",
+    "answer": "January 1, 2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the Company state that past financial performance may not be a reliable indicator of?",
+    "answer": "future performance",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what is the Intended Electronics Separation expected to create?",
+    "answer": "dis-synergies",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are three characteristics of the separation and distribution transactions necessary to effectuate the Intended Electronics Separation as described in the risk factors?",
+    "answer": "complex, costly and time-consuming",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the amount of net working capital as of December 31, 2024?",
+    "answer": "1.6 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what date did DuPont announce the plan to separate the Electronics business?",
+    "answer": "May 22, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Intended Electronics Separation",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of net working capital and cash and cash equivalents as of December 31, 2024?",
+    "answer": "3.5 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between cash and cash equivalents and net working capital as of December 31, 2024?",
+    "answer": "$0.3 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of net working capital to cash and cash equivalents as of December 31, 2024?",
+    "answer": "0.8421 (approximately)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of net working capital and cash and cash equivalents as of December 31, 2024?",
+    "answer": "$3.5 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the primary currencies for which the Company has an exchange rate exposure?",
+    "answer": "European euro (EUR), Chinese renminbi (CNY), Japanese yen (JPY), South Korean won (KRW), Canadian dollar (CAD)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of contracts does the Company use to offset its net exposures related to foreign currency denominated monetary assets and liabilities?",
+    "answer": "Forward exchange contracts",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many primary currencies are listed as having exchange rate exposure?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which item of the 10-K are the financial statements included?",
+    "answer": "Item 8.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what page do the financial statements commence according to Item 8?",
+    "answer": "Page F-1.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What two types of information are required in Item 8?",
+    "answer": "Financial statements and supplementary data.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

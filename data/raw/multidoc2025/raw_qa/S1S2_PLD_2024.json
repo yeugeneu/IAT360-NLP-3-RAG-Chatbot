@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What year did Prologis, Inc. begin operating as a fully integrated real estate company?",
+    "answer": "1997",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the role of Prologis, Inc. in relation to Prologis, L.P.?",
+    "answer": "Prologis, Inc. is the sole general partner of Prologis, L.P.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many non-GAAP financial measures are explicitly named in this section?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the amount of consolidated revenues generated from operations outside the U.S. in 2024?",
+    "answer": "$688 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the four categories of risks listed in the risk factors section?",
+    "answer": "(i) risks related to our global operations, (ii) risks related to our business, (iii) risks related to financing and capital, and (iv) risks related to income taxes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the reported figure that $688 million represents 8.4% of consolidated revenues, what was the approximate total consolidated revenues in millions?",
+    "answer": "$8,190 million ($688 million / 0.084 = $8,190.476 million, rounded to $8,190 million).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the address of the corporate headquarters of Prologis?",
+    "answer": "Pier 1, Bay 1, San Francisco, California 94111",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many primary factors are mentioned as driving demand toward creating supply chain resiliency?",
+    "answer": "three",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average number of countries per continent in which Prologis operates?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average number of Prologis operational countries per continent?",
+    "answer": "5 countries per continent",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many more countries than continents does Prologis operate in?",
+    "answer": "16",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of number of countries to number of continents for Prologis?",
+    "answer": "5:1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the exact title of Item 7A as written in the text?",
+    "answer": "Quantitative a nd Qualitat ive Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to Item 7A, what are the two main types of market risks to which the company is exposed?",
+    "answer": "foreign exchange-related variability and earnings volatility on our foreign investments, and interest rate changes",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many words are in the sentence that begins with 'We are exposed' in Item 7A?",
+    "answer": "21 words",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the balance of real estate assets at the end of fiscal year 2024?",
+    "answer": "$81,108,966 (in thousands)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the depreciation expense recognized for fiscal year 2024?",
+    "answer": "$1,925,386 (in thousands)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net increase in real estate assets during fiscal year 2024?",
+    "answer": "$1,306,014 (in thousands)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the net book value of real estate assets as of December 31, 2024?",
+    "answer": "$68,658,421 thousand",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the percentage change in real estate assets balance at end of year from 2022 to 2023?",
+    "answer": "8.94%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of depreciation expense for 2024 to the beginning accumulated depreciation for 2024?",
+    "answer": "0.1807 (18.07%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PLD",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PLD"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

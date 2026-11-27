@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the respective fiscal year ends for APD and ALB according to their 10-K filings?",
+    "answer": "APD's fiscal year ends on 30 September 2024 (APD: 'Consolidated Income Statements – Fiscal Years Ended 30 September 2024, 2023, and 2022'). ALB's fiscal year ends on 31 December 2024 (ALB: 'we conducted an evaluation of the effectiveness of our internal control over financial reporting as of December 31, 2024').",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "ALB"
+    ],
+    "evidence_section": "APD: Item 8 - Consolidated Income Statements; ALB: Item 8 - Management's Report on Internal Control Over Financial Reporting",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly mentions using the COSO Integrated Framework (2013) for assessing internal control effectiveness, and which does not?",
+    "answer": "ALB explicitly mentions using the COSO Integrated Framework 2013: 'management used the criteria for effective internal control over financial reporting described in the Internal Control—Integrated Framework 2013 set forth by COSO.' APD's provided content does not mention COSO; instead it describes internal control as 'a process designed to provide reasonable assurance regarding the reliability of our financial reporting and the preparation of financial statements in accordance with U.S. generally accepted accounting principles.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "ALB"
+    ],
+    "evidence_section": "APD: Item 8 - Management's Report on Internal Control Over Financial Reporting; ALB: Item 8 - Management's Report on Internal Control Over Financial Reporting",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies differ in their disclosure of non-GAAP financial measures?",
+    "answer": "APD explicitly states it presents non-GAAP financial measures: 'We present certain financial measures on an \"adjusted,\" or \"non-GAAP,\" basis because we believe such measures, when viewed together with financial results computed in accordance with GAAP, provide a more complete understanding of the factors and trends affecting our historical financial performance.' ALB's provided content does not reference any non-GAAP financial measures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "ALB"
+    ],
+    "evidence_section": "APD: Item 7 - Management's Discussion and Analysis; ALB: Item 7 - Management's Discussion and Analysis (no mention)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific risk or accounting policy does APD highlight that ALB does not, and vice versa, based on the provided content?",
+    "answer": "APD highlights 'Pension Benefits' and 'Critical Accounting Policies and Estimates' as separate sections. ALB highlights 'credit rating downgrades' and 'Write-offs or impairment of our goodwill, intangible assets or long-lived assets' as significant risk factors. APD does not discuss credit rating downgrades or goodwill impairment; ALB does not discuss pension benefits or critical accounting estimates within the provided excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "ALB"
+    ],
+    "evidence_section": "APD: Item 7 - Pension Benefits, Critical Accounting Policies and Estimates sections; ALB: Item 7 - discussion of credit ratings and impairment",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both companies state management's responsibility for internal control over financial reporting. How does the wording of their responsibility statements compare?",
+    "answer": "APD states: 'Air Products’ management is responsible for establishing and maintaining adequate internal control over financial reporting. Our internal control over financial reporting, which is defined in the following sentences, is a process designed to provide reasonable assurance regarding the reliability of our financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles.' ALB states: 'Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Exchange Act Rule 13a-15(f) and 15d-15(f). Our internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States.' Both are similar, but ALB explicitly references the Exchange Act Rules, while APD does not.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "ALB"
+    ],
+    "evidence_section": "APD: Item 8 - Management's Report on Internal Control Over Financial Reporting; ALB: Item 8 - Management's Report on Internal Control Over Financial Reporting",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does APD specify its financial reporting unit compared to ALB in their 10-K filings?",
+    "answer": "APD explicitly states: 'Unless otherwise stated, financial information is presented in millions of U.S. Dollars, except for per share data.' ALB's provided content does not contain an explicit statement of financial reporting unit or currency; the content references 'Albemarle Corporation and Subsidiaries' and numbers but does not specify the unit.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "APD",
+      "ALB"
+    ],
+    "evidence_section": "APD: Item 7 - Management's Discussion and Analysis; ALB: No equivalent statement in provided excerpts",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "APD+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

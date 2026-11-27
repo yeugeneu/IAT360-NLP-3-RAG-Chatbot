@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How many reportable operating segments does Starbucks have compared to what is disclosed for Lowe's?",
+    "answer": "Starbucks has three reportable operating segments: North America, International, and Channel Development. Lowe's discloses that it includes Note 17 'Segment Information' in its financial statements, but the number of segments is not specified in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "LOW"
+    ],
+    "evidence_section": "SBUX Item 7 MD&A; LOW Item 8 Note 17",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific private brand trademarks does Lowe's own, and how does Starbucks' branding approach differ based on the provided content?",
+    "answer": "Lowe's owns private brand trademarks such as 'Kobalt', 'STAINMASTER', and 'allen+roth'. Starbucks does not mention any private brand trademarks in the provided content; its revenue is generated through company-operated stores, licensed stores, and other sources under the Starbucks brand.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "LOW"
+    ],
+    "evidence_section": "LOW Item 7 Intellectual Property; SBUX Item 7 MD&A Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Starbucks and Lowe's describe their regulatory compliance outlook?",
+    "answer": "Starbucks does not address regulatory compliance expectations in the provided content. Lowe's states that it is subject to a wide array of federal, state, and local laws and regulations but does not currently expect compliance to have a material effect on its capital expenditures, results of operations, and competitive position as compared to prior periods.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "LOW"
+    ],
+    "evidence_section": "LOW Item 7 Government Regulation; SBUX no mention",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What employer recognition awards does Lowe's mention for fiscal 2024, and does Starbucks list any similar awards?",
+    "answer": "Lowe's mentions receiving several notable employer of choice awards in fiscal 2024, including being named on the Disability:IN National Best Places to Work for Disability Inclusion, Fortune's World's Most Admired Companies Specialty Retailer, and 2024 Great Place (incomplete). Starbucks does not mention any employer awards in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "LOW"
+    ],
+    "evidence_section": "LOW Item 7 Human Capital; SBUX no mention",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, what are the revenue sources for Starbucks, and can a similar breakdown be identified for Lowe's?",
+    "answer": "Starbucks reports revenue from Company-operated stores ($29,765.9 million), Licensed stores ($4,505.1 million), and Other ($1,905.2 million). Lowe's does not provide a revenue breakdown in the given excerpt; its financial statements are referenced but not detailed.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "LOW"
+    ],
+    "evidence_section": "SBUX Item 8 Consolidated Statements of Earnings; LOW Item 8 Table of Contents",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is Starbucks' operating income for fiscal 2024, and can we compare it to Lowe's operating income from the provided content?",
+    "answer": "Starbucks reported operating income of $5,408.8 million for the fiscal year ended September 29, 2024. Lowe's does not provide operating income figures in the provided content, so a direct comparison is not possible.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "LOW"
+    ],
+    "evidence_section": "SBUX Item 8 Consolidated Statements of Earnings; LOW no data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

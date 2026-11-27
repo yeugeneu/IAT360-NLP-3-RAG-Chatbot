@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary customer groups served by HD and AMZN according to their filings?",
+    "answer": "HD serves two primary customer groups: consumers (including both DIY and DIFM customers) and Professional customers (Pros) such as renovators, general contractors, and specialty tradespeople. AMZN does not explicitly define customer groups in the provided content but references 'our customers, including third-party sellers' in its risk factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "AMZN"
+    ],
+    "evidence_section": "Item 7 - MD&A (HD); Item 7 - Risk Factors (AMZN)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does HD's acquisition of SRS in fiscal 2024 support its Pro strategy, and how does AMZN describe its competitive approach?",
+    "answer": "HD acquired SRS, which sells products to specialty trade roofers, landscapers, and pool contractors, to drive growth with Pros. AMZN describes its businesses as 'rapidly evolving and intensely competitive' and notes that it invests in new technologies including artificial intelligence and machine learning to compete.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "AMZN"
+    ],
+    "evidence_section": "Item 7 - MD&A (HD); Item 7 - Risk Factors (AMZN)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the fiscal year ends and the periods covered by the audited financial statements for HD and AMZN.",
+    "answer": "HD's fiscal year ended February 2, 2025, and the audited financial statements cover the three-year period ended February 2, 2025. AMZN's fiscal year ended December 31, 2023, and the audited financial statements cover each of the three years in the period ended December 31, 2023.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "AMZN"
+    ],
+    "evidence_section": "Item 8 - Auditor Reports (HD: 'as of February 2, 2025 and January 28, 2024' and 'three-year period ended February 2, 2025'; AMZN: 'as of December 31, 2023 and 2022' and 'three-year period ended December 31, 2023')",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific types of professional customers does HD target, and how does AMZN characterize its customer base in the provided content?",
+    "answer": "HD targets professional renovators/remodelers, general contractors, small to medium homebuilders, maintenance professionals, handymen, property managers, building service contractors, and specialty tradespeople (electricians, landscapers, plumbers, painters, pool contractors, roofers). AMZN does not list specific customer segments but refers to 'our customers, including third-party sellers' and mentions that competition impacts its customers.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "AMZN"
+    ],
+    "evidence_section": "Item 7 - MD&A (HD); Item 7 - Risk Factors (AMZN)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do HD and AMZN describe their competitive environments in their filings?",
+    "answer": "HD does not explicitly discuss competition in the provided MD&A excerpt but emphasizes serving urgent purchasers and building emotional connections with DIY customers, and investing in Pro initiatives. AMZN states its businesses are 'rapidly evolving and intensely competitive' with many competitors across geographies and industries, and notes that the internet facilitates competitive entry and comparison shopping.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "AMZN"
+    ],
+    "evidence_section": "Item 7 - MD&A (HD); Item 7 - Risk Factors (AMZN)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic initiatives do HD and AMZN highlight to maintain or grow their market positions?",
+    "answer": "HD highlights a dedicated sales force, Pro Xtra loyalty program, enhanced credit offerings, and the acquisition of SRS to drive growth with Pros. AMZN highlights investment in new and enhanced technologies including search, web and infrastructure computing services, practical applications of artificial intelligence and machine learning, digital content, and electronic devices.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "AMZN"
+    ],
+    "evidence_section": "Item 7 - MD&A (HD); Item 7 - Risk Factors (AMZN)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

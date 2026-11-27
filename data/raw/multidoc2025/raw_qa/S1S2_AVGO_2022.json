@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What are the origins of the company mentioned in the overview?",
+    "answer": "Hewlett-Packard Company, AT&T, LSI Corporation, Broadcom Corporation, Brocade Communications Systems LLC, CA, Inc. and Symantec Enterprise Security.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many specific end-product categories are listed for the company's products?",
+    "answer": "10",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where does the company maintain its engineering resources?",
+    "answer": "In the U.S., Asia, Europe and Israel.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the risk factors summary, what is one risk related to customer concentration?",
+    "answer": "The majority of our sales come from a small number of customers and a reduction in demand or loss of one or more of our significant customers may adversely affect our business.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How does the COVID-19 pandemic affect the risks described?",
+    "answer": "The COVID-19 pandemic has disrupted normal business activity and may exacerbate many of the following risks and uncertainties.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct risk factors are listed under 'Risks Related to Our Business' in the summary?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many reportable segments does the company have?",
+    "answer": "two",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the two reportable segments?",
+    "answer": "semiconductor solutions and infrastructure software",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Counting the items listed in the infrastructure software segment description, how many distinct solution types are mentioned?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of the number of end product categories listed to the number of reportable segments?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many components are included in the infrastructure software segment as described?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the number of end product categories and the number of reportable segments?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the principal amount of debt outstanding as of October 30, 2022?",
+    "answer": "$41.2 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Did the company have any outstanding foreign exchange forward contracts as of October 30, 2022?",
+    "answer": "No, the company did not have any outstanding foreign exchange forward contracts.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the carrying amount and the estimated aggregate fair value of debt as of October 30, 2022?",
+    "answer": "$6.5 billion (carrying amount $39.5 billion minus fair value $33.0 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On what page is Schedule II - Valuation and Qualifying Accounts located?",
+    "answer": "89",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the description of Exhibit 2.1?",
+    "answer": "Agreement and Plan of Merger, dated as of July 11, 2018, by and among Broadcom Inc., Collie Acquisition Corp. and CA, Inc.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many exhibit numbers are fully listed in the provided section?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many exhibits listed in the exhibits table were filed in the year 2018?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the number of days between the filing date of Exhibit 2.1 and the filing date of Exhibit 2.4?",
+    "answer": "1414",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of the number of exhibits filed in the year 2018 to the number filed in the year 2022?",
+    "answer": "3:1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AVGO",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

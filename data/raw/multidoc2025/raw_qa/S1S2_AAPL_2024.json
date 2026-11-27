@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is the duration of the Company's fiscal year?",
+    "answer": "the 52- or 53-week period",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many iPhone models are listed in the 2024 Form 10-K?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the name of the Company's first spatial computer?",
+    "answer": "Apple Vision Pro",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the Company state about past financial performance and its reliability as an indicator of future performance?",
+    "answer": "Past financial performance should not be considered to be a reliable indicator of future performance, and investors should not use historical trends to anticipate results or trends in future periods.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where are the majority of the Company's supplier facilities located according to the risk factors?",
+    "answer": "A majority of the Company’s supplier facilities, including manufacturing and assembly sites, are located outside the U.S.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Macroeconomic and Industry Risks",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many specific adverse macroeconomic conditions are listed in the provided risk factor excerpt?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Macroeconomic and Industry Risks",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which quarter of fiscal year 2024 was Apple Intelligence announced?",
+    "answer": "Third Quarter 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the total net sales (in millions) for the Americas segment in fiscal year 2024?",
+    "answer": "$167,045",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the absolute change in total net sales from fiscal year 2023 to fiscal year 2024?",
+    "answer": "$7,750 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in net sales for Japan between 2024 and 2022?",
+    "answer": "Decrease of $925 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the combined net sales for the three smallest segments (by 2024 net sales) in 2024?",
+    "answer": "$122,662 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which segment experienced the largest absolute change in net sales from 2022 to 2023?",
+    "answer": "Americas, with a decrease of $7,098 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of risk is the Company exposed to from interest rates and foreign exchange rates?",
+    "answer": "Economic risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the potential decline in fair value of the investment portfolio as of September 28, 2024, given a hypothetical 100 basis point increase in interest rates?",
+    "answer": "$ 2,755 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in potential increase in annual interest expense on term debt between 2023 and 2024?",
+    "answer": "$ 55 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were total net sales for the fiscal year ended September 28, 2024?",
+    "answer": "391,035",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the provision for income taxes for the fiscal year ended September 30, 2023?",
+    "answer": "16,741",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the difference between total net sales for fiscal year 2024 and fiscal year 2023?",
+    "answer": "7,750",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was Apple's gross margin as a percentage of total net sales in fiscal year 2024?",
+    "answer": "46.2% (180683 / 391035 * 100 = 46.2%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the dollar change in total net sales from fiscal year 2022 to fiscal year 2024?",
+    "answer": "-3,293 million (394,328 - 391,035 = -3,293)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was Apple's operating income as a percentage of total net sales in fiscal year 2023?",
+    "answer": "29.82% (114301 / 383285 * 100 = 29.82%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

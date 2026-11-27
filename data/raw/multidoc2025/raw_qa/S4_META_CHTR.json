@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company's MD&A includes a discussion of non-GAAP financial measures, and which does not?",
+    "answer": "META's MD&A explicitly discusses constant currency revenue and free cash flow as non-GAAP financial measures. CHTR's MD&A does not mention any non-GAAP measures in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "CHTR"
+    ],
+    "evidence_section": "META Item 7, CHTR Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Do both companies provide a breakdown of revenues by service offering in their MD&A?",
+    "answer": "No. CHTR provides a detailed breakdown of revenues by service offering (Internet, Video, Mobile service, Voice, Residential revenue) with dollar amounts and growth percentages. META does not provide any revenue breakdown in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "CHTR"
+    ],
+    "evidence_section": "META Item 7, CHTR Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's 10-K includes an audit opinion on internal control over financial reporting, and which does not in the provided excerpts?",
+    "answer": "META's Item 8 includes a report from the independent registered public accounting firm that states they audited internal control over financial reporting. CHTR's provided content from Item 8 does not include an audit opinion; it only references the financial statements and schedules.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "CHTR"
+    ],
+    "evidence_section": "META Item 8, CHTR Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company reports diluted earnings per share (EPS) in its financial data, and what is its diluted EPS for 2024?",
+    "answer": "CHTR reports diluted EPS of $34.97 for 2024 and $29.99 for 2023. META does not provide EPS figures in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "CHTR"
+    ],
+    "evidence_section": "CHTR Item 7, META Item 7/8 (no EPS)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was Charter's revenue growth rate from 2023 to 2024, and does Meta provide a comparable revenue growth figure in the excerpt?",
+    "answer": "Charter's revenue grew from $54,607 million to $55,085 million, a growth of $478 million or 0.9% (calculation: (55,085-54,607)/54,607 ≈ 0.9%). Meta does not provide any revenue figure or growth rate in the provided content, so no comparison can be made.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "CHTR"
+    ],
+    "evidence_section": "CHTR Item 7, META Item 7 (no data)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "META+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the net income attributable to shareholders for both companies as presented in the provided content.",
+    "answer": "CHTR reports net income attributable to Charter shareholders of $5,083 million for 2024 and $4,557 million for 2023. META does not disclose any net income figures in the provided content, so no direct comparison of net income is possible.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "CHTR"
+    ],
+    "evidence_section": "CHTR Item 7, META Item 7/8 (no net income)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

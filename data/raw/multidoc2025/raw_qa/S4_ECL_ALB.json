@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Both ECL and ALB mention using the same framework for evaluating internal control over financial reporting. What is that framework?",
+    "answer": "ECL: 'based on the 2013 framework in Internal Control — Integrated Framework issued...' (Item 8). ALB: 'the criteria for effective internal control over financial reporting described in the Internal Control—Integrated Framework 2013 set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).' (Item 8). The framework is the Internal Control—Integrated Framework (2013) issued by COSO.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "ALB"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's MD&A explicitly states that its credit ratings were downgraded by two of the three main credit ratings agencies in 2024?",
+    "answer": "ALB: 'During 2024, the Company’s ratings were downgraded by two of the three main credit ratings agencies' (Item 7). ECL does not mention any credit rating downgrades in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "ALB"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's MD&A mentions the use of non-GAAP financial measures and provides a reference to reconciliation tables?",
+    "answer": "ECL: 'This discussion contains various Non-GAAP Financial Measures... We also refer readers to the tables within the section entitled “Results of Operations” of this MD&A for reconciliation information...' (Item 7). ALB does not mention non-GAAP financial measures in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "ALB"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly states that its internal control over financial reporting was effective as of December 31, 2024?",
+    "answer": "ALB: 'management concluded that, as of December 31, 2024, our internal control over financial reporting was effective.' (Item 8). ECL's management report describes the evaluation but does not include a statement of effectiveness in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "ALB"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company discusses the impact of acquisitions and divestitures on its non-GAAP financial measures such as organic sales?",
+    "answer": "ECL: 'Our non-GAAP financial measures for organic sales, organic operating income and organic operating income margin are at fixed currency and exclude the impact of ... the results of our acquired businesses from the first twelve months post acqu' (Item 7). ALB does not discuss organic sales or the impact of acquisitions on non-GAAP measures in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "ALB"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the applicable margin for borrowings under ALB's 2022 Credit Agreement as a result of credit rating downgrades in 2024? Does ECL disclose a similar margin in its MD&A?",
+    "answer": "ALB: 'resulting in the increase of the applicable margin for borrowings under the 2022 Credit Agreement to 1.20%.' (Item 7). ECL does not disclose any applicable margin or credit agreement margin in the provided MD&A excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "ALB"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

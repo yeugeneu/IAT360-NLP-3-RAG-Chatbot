@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the evolution of terminology used by HD for its professional customer segment between FY2022 and FY2024 with the evolution of AMZN's risk factor descriptions over the same period. What does each company's textual change imply about its strategic focus, and which company shows a broader redefinition in its language?",
+    "answer": "In HD FY2022, the segment is called 'professional customers'; in HD FY2024, it is renamed 'Pros' (text: 'professional customers' vs. 'Pros'). For AMZN, FY2022 mentions 'global economic climate' while FY2024 expands to 'global economic and geopolitical conditions' and adds an explicit reference to risks impacting 'third-party sellers' (text: 'global economic climate' vs. 'global economic and geopolitical conditions' and 'impact our customers, including third-party sellers'). The changes suggest HD is streamlining its branding for a key customer group, while AMZN is broadening its risk awareness to include geopolitical factors and the third-party ecosystem. AMZN's language shows a more significant redefinition of scope.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "HD",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 (Management’s Discussion) for both companies and both years",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "HD+AMZN",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "How does HD's description of its DIY customer group differ between FY2022 and FY2024, and how does AMZN's description of its competitive landscape differ between the same years? Provide direct textual evidence and explain which company's change implies a more stable strategy based on the provided excerpts.",
+    "answer": "HD describes DIY customers in both years identically as 'homeowners who purchase products and complete their own projects and installations' with associates assisting in stores and online. The only textual difference is the label for the other customer group (from 'professional customers' to 'Pros'). AMZN's FY2022 text states it has 'intensely competitive' businesses with 'many competitors across geographies, including cross-border competition'; FY2024 retains the same competitive language but also notes that risks 'also impact our customers, including third-party sellers, which could indirectly have a material adverse effect on us.' Thus, HD's core DIY description is unchanged, while AMZN adds a new dimension. HD's stable DIY wording implies a consistent customer approach; AMZN's addition suggests a more dynamic risk view.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "HD",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 for HD (both years) and Item 7 risk factors for AMZN (both years)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "HD+AMZN",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "Identify the specific textual changes in HD's customer classification and AMZN's risk factor wording from FY2022 to FY2024. Using only the provided content, which company's change suggests a new emphasis on a previously unmentioned segment or risk? Provide direct quotes and explain why financial tables (e.g., segment revenue or risk breakdown) would be needed to validate the significance of these changes.",
+    "answer": "HD: FY2022 uses 'professional customers'; FY2024 uses 'Pros' (quote: 'professional customers' vs 'Pros'). AMZN: FY2022 mentions 'global economic climate'; FY2024 adds 'geopolitical conditions' and specifically notes risks affecting 'third-party sellers' (quote: 'global economic climate' in FY2022 vs 'global economic and geopolitical conditions' and 'impact our customers, including third-party sellers' in FY2024). AMZN's addition of 'third-party sellers' as an explicit risk channel is a new emphasis not present in FY2022. Financial tables such as revenue from third-party seller services or pro segment revenue would quantify the materiality of these focuses, but are not included in the provided excerpts.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "HD",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 for HD and Item 7 risk factors for AMZN in both years",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "HD+AMZN",
+    "sector": "Consumer Discretionary"
+  }
+]

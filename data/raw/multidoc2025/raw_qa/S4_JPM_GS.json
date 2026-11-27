@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Where in their respective 10-K filings do JPMorgan Chase and Goldman Sachs present Management's Discussion and Analysis of Financial Condition and Results of Operations?",
+    "answer": "JPMorgan Chase states that MD&A appears on pages 52–167, while Goldman Sachs states that Item 7 'Management's Discussion and Analysis of Financial Condition and Results of Operations' is in its Annual Report on Form 10-K for the year ended December 31, 2023.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "GS"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does Goldman Sachs provide a target ROE range in the given content, and does JPMorgan Chase provide a similar target in its provided excerpt?",
+    "answer": "Goldman Sachs states a target (through-the-cycle) ROE range of 14% to 16%. JPMorgan Chase's provided content does not include any target ROE range or similar numerical target.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "GS"
+    ],
+    "evidence_section": "Item 7 (GS); Item 7 (JPM – no such target mentioned)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the fiscal years for which financial data is explicitly presented in the provided content for Goldman Sachs and JPMorgan Chase?",
+    "answer": "Goldman Sachs presents financial data for the years ended December 31, 2024, 2023, and 2022. JPMorgan Chase's provided content does not include any financial data tables or specify fiscal years.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "GS"
+    ],
+    "evidence_section": "Item 7 (GS table); JPM content has no financial data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies describe the location of their financial statements?",
+    "answer": "JPMorgan Chase states that its Consolidated Financial Statements and Notes appear on pages 172–321. Goldman Sachs states that Item 8 contains Financial Statements and Supplementary Data, and also includes a Management’s Report on Internal Control over Financial Reporting.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "GS"
+    ],
+    "evidence_section": "Item 7 (JPM); Item 8 (GS)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of exhibits are listed for JPMorgan Chase in the provided content, and does Goldman Sachs list any exhibits in the given excerpt?",
+    "answer": "JPMorgan Chase lists exhibits related to its restated certificate of incorporation and various preferred stock certificates (Series CC, DD, EE, GG, II, JJ, and a partial entry for Series 3.90). Goldman Sachs' provided content does not include any list of exhibits.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "GS"
+    ],
+    "evidence_section": "Item 8 (JPM – exhibit list); GS content does not contain exhibits",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does either company mention preferred stock dividends in the provided content, and if so, how?",
+    "answer": "Goldman Sachs mentions preferred stock dividends in its definition of net earnings to common (net earnings less preferred stock dividends) and in the dividend payout ratio calculation. JPMorgan Chase's provided content lists preferred stock series designations but does not mention dividend amounts or calculations.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JPM",
+      "GS"
+    ],
+    "evidence_section": "GS: Footnote to financial overview table; JPM: Exhibit list (preferred stock designations)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JPM+GS",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

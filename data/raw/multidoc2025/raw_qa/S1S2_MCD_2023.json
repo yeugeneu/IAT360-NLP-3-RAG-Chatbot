@@ -1,0 +1,128 @@
+[
+  {
+    "question": "What is the title of Item 7?",
+    "answer": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MCD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On which page does Item 7 begin?",
+    "answer": "Page 8",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MCD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the page number and the item number (7)?",
+    "answer": "15",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MCD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Given the provided content includes only a section header with no tables, what is the total revenue reported in the MD&A table for fiscal year 2023?",
+    "answer": "No table data available in provided content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MCD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "From the MD&A table, what was the percentage change in operating income from 2022 to 2023?",
+    "answer": "No table data available in provided content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MCD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of net income to total revenues for fiscal year 2023 based on the MD&A table?",
+    "answer": "No table data available in provided content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MCD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

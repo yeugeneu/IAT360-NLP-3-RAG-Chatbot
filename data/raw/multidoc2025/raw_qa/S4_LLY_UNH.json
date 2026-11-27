@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the primary business focuses of LLY and UNH differ based on their 2024 filings?",
+    "answer": "LLY is a pharmaceutical company focused on discovering, developing, and commercializing innovative medicines, with approximately 55 new medicine candidates in clinical development or under regulatory review. UNH is a health care and well-being company with two complementary businesses (Optum and UnitedHealthcare) that work to build a modern, high-performing health system through improved access, affordability, outcomes, and experiences.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "UNH"
+    ],
+    "evidence_section": "For LLY: 'Our long-term success depends on our ability to continually discover or acquire, develop, and commercialize innovative medicines. We currently have approximately 55 new medicine candidates in clinical development or under regulatory review.' For UNH: 'UnitedHealth Group is a health care and well-being company with a mission to help people live healthier lives and help make the health system work better for everyone. Our two distinct, yet complementary businesses — Optum and UnitedHealthcare — are working to help build a modern, high-performing health system.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LLY+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was LLY's net income for 2024 and what significant event impacted UNH in 2024 that required substantial financial support to care providers?",
+    "answer": "LLY's net income for 2024 was $10,590.0 million. UNH experienced a cyberattack on February 21, 2024, which impacted Change Healthcare systems, and as a result, UNH provided interest-free loans of more than $9 billion through December 31, 2024 to support care providers.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "UNH"
+    ],
+    "evidence_section": "For LLY: 'Net income $ 10,590.0' from the Consolidated Statements of Operations. For UNH: 'To support care providers we provided interest-free loans of more than $9 billion through December 31, 2024.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LLY+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did LLY's revenue performance in 2024 compare to the scale of UNH's interest-free loan program following the cyberattack?",
+    "answer": "LLY's revenue increased 32% to $45,042.7 million in 2024. UNH provided interest-free loans of more than $9 billion through December 31, 2024 to care providers affected by the cyberattack. While LLY's revenue is a measure of top-line growth, UNH's loan program represents a financial response to a cybersecurity incident, not revenue.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "UNH"
+    ],
+    "evidence_section": "For LLY: 'Revenue $ 45,042.7' and 'Revenue increased in 2024 driven by increased volume and, to a lesser extent, higher realized prices.' For UNH: 'To support care providers we provided interest-free loans of more than $9 billion through December 31, 2024.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LLY+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key products driving LLY's revenue growth and what are the reportable segments for UNH?",
+    "answer": "LLY's revenue growth in 2024 was primarily driven by Mounjaro, Zepbound, and Verzenio. UNH has four reportable segments across two businesses: Optum Health, Optum Insight, Optum Rx (all under Optum), and UnitedHealthcare (which includes UnitedHealthcare Employer & Individual, UnitedHealthcare Medicare & Retirement, and UnitedHealthcare Community & State).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "UNH"
+    ],
+    "evidence_section": "For LLY: 'The increase in revenue in 2024 was primarily driven by Mounjaro, Zepbound, and Verzenio.' For UNH: 'We have four reportable segments across our two businesses: • Optum Health; • Optum Insight; • Optum Rx; and • UnitedHealthcare, which includes UnitedHealthcare Employer & Individual, UnitedHealthcare Medicare & Retirement and UnitedHealthcare Community & State.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LLY+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the cost structures differ between LLY and UNH based on the provided content?",
+    "answer": "LLY reports significant research and development expenses of $10,990.6 million and marketing, selling, and administrative expenses of $8,593.8 million for 2024. UNH's content does not provide detailed cost breakdowns but highlights a major non-recurring cost from the Change Healthcare cyberattack, which led to $9+ billion in interest-free loans. LLY also recorded asset impairment, restructuring, and other special charges of $860.6 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "UNH"
+    ],
+    "evidence_section": "For LLY: 'Research and development 10,990.6', 'Marketing, selling, and administrative 8,593.8', 'Asset impairment, restructuring, and other special charges 860.6' from the Consolidated Statements of Operations. For UNH: 'To support care providers we provided interest-free loans of more than $9 billion through December 31, 2024.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LLY+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What risks or special events are mentioned for each company in their 2024 filings?",
+    "answer": "LLY discusses risks related to forward-looking statements and items that may cause actual results to differ, including those in 'Risk Factors' and mentions asset impairment, restructuring, and other special charges of $860.6 million. UNH specifically describes the Change Healthcare cyberattack on February 21, 2024, which prompted isolation of systems and provision of interest-free loans exceeding $9 billion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LLY",
+      "UNH"
+    ],
+    "evidence_section": "For LLY: 'Various risks and uncertainties, including those discussed in... Item 1A, „Risk Factors,”' and 'Asset impairment, restructuring, and other special charges 860.6'. For UNH: 'we identified that cybercrime threat actors had gained access to certain Change Healthcare information technology systems' and 'we provided interest-free loans of more than $9 billion.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LLY+UNH",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

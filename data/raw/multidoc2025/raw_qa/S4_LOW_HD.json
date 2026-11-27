@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company mentions having acquired another company in fiscal 2024?",
+    "answer": "HD (The Home Depot) mentions the acquisition of SRS in fiscal 2024, while LOW does not mention any acquisition.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "HD"
+    ],
+    "evidence_section": "HD Item 7; LOW no acquisition mentioned",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company lists specific private brand product names such as 'Kobalt' and 'STAINMASTER'?",
+    "answer": "LOW (Lowe's) lists private brand product names 'Kobalt', 'STAINMASTER', and 'allen+roth' in its Intellectual Property discussion. HD does not mention any specific private brand names.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "HD"
+    ],
+    "evidence_section": "LOW Item 7 - Intellectual Property; HD no similar mention",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly divides its customers into DIY and Professional (Pro) categories?",
+    "answer": "HD (The Home Depot) explicitly divides its customers into DIY Customers and Professional Customers (Pros). LOW does not describe customer segmentation in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "HD"
+    ],
+    "evidence_section": "HD Item 7 - OUR CUSTOMERS; LOW no customer segmentation",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company received notable employer of choice awards in fiscal 2024, including being named on Disability:IN's Best Places to Work?",
+    "answer": "LOW (Lowe's) received several employer of choice awards in fiscal 2024, including being named on the Disability:IN National Best Places to Work for Disability Inclusion. HD does not mention any employer awards in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "HD"
+    ],
+    "evidence_section": "LOW Item 7 - Human Capital; HD no similar mention",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company discusses its intellectual property portfolio, including patents, trademarks, and copyrights?",
+    "answer": "LOW (Lowe's) discusses its intellectual property portfolio, including registered service marks, trademarks, trade names, copyrights, and patent portfolios. HD does not discuss an intellectual property portfolio in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "HD"
+    ],
+    "evidence_section": "LOW Item 7 - Intellectual Property; HD no similar section",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes a 'Management’s Report on Internal Control over Financial Reporting' within Item 8 of its filing?",
+    "answer": "LOW (Lowe's) includes a 'Management’s Report on Internal Control over Financial Reporting' in Item 8. HD's Item 8 begins with the 'Report of Independent Registered Public Accounting Firm' and does not include a management report on internal control.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "HD"
+    ],
+    "evidence_section": "LOW Item 8 - MANAGEMENT’S REPORT ON INTERNAL CONTROL; HD Item 8 - no such report",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

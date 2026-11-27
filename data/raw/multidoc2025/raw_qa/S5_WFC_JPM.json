@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What was the percentage change in the number of pages devoted to Management's Discussion and Analysis from 2022 to 2024 for JPMorgan Chase, and how does that compare to Wells Fargo's page count change over the same period?",
+    "answer": "For JPMorgan Chase, the MD&A covered pages 46-154 in 2022 (109 pages) and pages 52-167 in 2024 (116 pages), representing a 6.42% increase. For Wells Fargo, the provided content indicates that Item 7 for both years is incorporated by reference to the Annual Report, with no specific page ranges given, so the page count change cannot be determined from the provided source.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "WFC",
+      "JPM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "JPM 2022: pages 46–154; JPM 2024: pages 52–167; WFC 2022: Item 7 incorporated by reference; WFC 2024: Item 7 incorporated by reference.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "WFC+JPM",
+    "sector": "Financials"
+  },
+  {
+    "question": "What was the combined net interest income of Wells Fargo and JPMorgan Chase in 2022, and what was it in 2024? By how many billions of dollars did the combined figure increase from 2022 to 2024?",
+    "answer": "Combined net interest income in 2022 was $113.5 billion ($45.2 billion from WFC + $68.3 billion from JPM). Combined net interest income in 2024 was $140.6 billion ($52.7 billion from WFC + $87.9 billion from JPM). The increase from 2022 to 2024 was $27.1 billion.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "WFC",
+      "JPM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "WFC 2022: Item 7 – Financial Review; WFC 2024: Item 7 – Financial Review; JPM 2022: pages 46–154; JPM 2024: pages 52–167",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "WFC+JPM",
+    "sector": "Financials"
+  },
+  {
+    "question": "Calculate the absolute difference in net income (in millions) between JPMorgan Chase and Wells Fargo for 2022 and for 2024. Then compute the percentage change in that difference from 2022 to 2024. Round to one decimal place.",
+    "answer": "For 2022: JPM net income $37,647 million, WFC net income $12,310 million, difference = $25,337 million. For 2024: JPM net income $43,824 million, WFC net income $15,215 million, difference = $28,609 million. Percentage change = ((28,609 - 25,337) / 25,337) × 100 = 12.9%.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "WFC",
+      "JPM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "WFC 2022: Item 7 Financial Review (incorporated by reference from 2022 Annual Report to Shareholders). WFC 2024: Item 7 Financial Review (incorporated by reference from 2024 Annual Report to Shareholders). JPM 2022: Item 7 MD&A pages 46–154 (net income on page 46). JPM 2024: Item 7 MD&A pages 52–167 (net income on page 52).",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "WFC+JPM",
+    "sector": "Financials"
+  }
+]

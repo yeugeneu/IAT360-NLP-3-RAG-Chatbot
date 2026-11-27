@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What were Wells Fargo's total assets as of December 31, 2024?",
+    "answer": "approximately $1.9 trillion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between Wells Fargo's total deposits and total loans as of December 31, 2024?",
+    "answer": "$487.3 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which subsidiary held what percentage of Wells Fargo's total assets as of December 31, 2024?",
+    "answer": "Wells Fargo Bank, N.A. held 88% of the Company's assets",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where can Item 7 be found according to this section?",
+    "answer": "In the 2024 Annual Report to Shareholders under 'Financial Review.'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What information is incorporated into Item 7 by reference?",
+    "answer": "The information from the 2024 Annual Report to Shareholders under 'Financial Review.'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many times does the phrase 'Financial Review' appear in this section?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the net income for 2024 according to the table in Item 7?",
+    "answer": "The provided content does not include a table with net income data.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the percentage change in total assets from 2023 to 2024 using the table referenced in Item 7.",
+    "answer": "The provided content does not include a table with total assets data, so the percentage change cannot be calculated.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of revenue and net income from the table in Item 7?",
+    "answer": "The provided content does not contain a table with revenue or net income data, so the sum cannot be determined.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where can Item 7A be found in the 2024 Annual Report to Shareholders?",
+    "answer": "under “Financial Review – Risk Management – Asset/Liability Management.”",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How is the information from the Annual Report incorporated into Item 7A?",
+    "answer": "by reference",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the digits in the year of the Annual Report mentioned in the content?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the fiscal year of the annual report referenced in this section?",
+    "answer": "2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct sections are listed where Item 8 can be found?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What number appears at the end of the paragraph in this section?",
+    "answer": "9",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the single numerical value present in the content?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If the value 9 is multiplied by 3, what is the result?",
+    "answer": "27",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is 9 divided by 3?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

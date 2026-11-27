@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do Disney and Alphabet each describe the impact of foreign exchange fluctuations on their revenues in their 10-K filings?",
+    "answer": "Disney states that service revenues reflected an approximate 1 percentage point decrease due to an unfavorable movement of the U.S. dollar against major currencies including the impact of its hedging program (Foreign Exchange Impact). Alphabet lists 'changes in foreign currency exchange rates' as a general factor affecting fluctuations in revenues, but does not provide a specific percentage impact.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DIS",
+      "GOOGL"
+    ],
+    "evidence_section": "DIS: Item 7 - 'Service revenues reflected an approximate 1 percentage point decrease due to an unfavorable movement of the U.S. dollar against major currencies including the impact of our hedging program (Foreign Exchange Impact).' GOOGL: Item 8 - 'fluctuations in our revenues have been, and may continue to be, affected by a combination of general factors, including: changes in foreign currency exchange rates.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DIS+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the primary revenue sources for Disney and Alphabet according to their 10-K disclosures?",
+    "answer": "Disney’s primary revenue sources include service revenues (subscription revenue, parks and experiences businesses, advertising revenue, theatrical distribution, TV/VOD distribution, and affiliate revenue). Alphabet’s primary revenue sources include Google advertising (Google Search & other, YouTube ads, Google Network), Google subscriptions, platforms, and devices revenues, Google Cloud, and Other Bets revenues.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DIS",
+      "GOOGL"
+    ],
+    "evidence_section": "DIS: Item 7 - 'Service revenues for fiscal 2024 increased... due to higher subscription revenue, growth at our parks and experiences businesses, and, to a lesser extent, higher advertising revenue... lower theatrical distribution revenue, a decrease in TV/VOD distribution sales and lower affiliate revenue.' GOOGL: Item 8 - 'Google Services revenues consist of Google advertising as well as Google subscriptions, platforms, and devices revenues... Google advertising revenues are comprised of: Google Search & other... YouTube ads... Google Network... revenues from other sources (\"Google subscriptions, platforms, and devices revenues\"), Google Cloud, and Other Bets revenues.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DIS+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company reported a decrease in cost of services, and what was the percentage change? Does Alphabet provide a comparable cost figure in the excerpt?",
+    "answer": "Disney reported a 1% decrease in cost of services to $52.5 billion. Alphabet does not provide a cost of services figure in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DIS",
+      "GOOGL"
+    ],
+    "evidence_section": "DIS: Item 7 - 'Cost of services for fiscal 2024 decreased 1%, or $0.6 billion, to $52.5 billion.' GOOGL: No cost data provided in the excerpt.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DIS+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was Disney's diluted EPS from continuing operations for fiscal 2024, and does Alphabet provide a comparable EPS figure in the excerpt?",
+    "answer": "Disney reported diluted EPS from continuing operations of $2.72. Alphabet does not provide an EPS figure in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DIS",
+      "GOOGL"
+    ],
+    "evidence_section": "DIS: Item 7 - 'diluted earnings per share (EPS) from continuing operations attributable to Disney increased to $2.72 compared to $1.29 in the prior year.' GOOGL: No EPS data provided in the excerpt.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DIS+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies differ in their treatment of impairment charges? Provide evidence from the excerpts.",
+    "answer": "Disney details specific impairment charges totaling over $3 billion in fiscal 2024, including Star India ($1,545 million), goodwill ($1,287 million), retail assets ($328 million), content ($187 million), equity investments ($165 million), and severance ($83 million). Alphabet’s excerpt does not mention any impairment charges.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DIS",
+      "GOOGL"
+    ],
+    "evidence_section": "DIS: Item 7 - 'Restructuring and Impairment Charges ($ in millions) 2024 2023 Impairments: Star India $ 1,545 $ — Goodwill (1) 1,287 721 Retail assets 328 — Content (2) 187 2,577 Equity investments 165 141 Severance 83' GOOGL: No impairment data in excerpt.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DIS+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic differences in revenue generation are evident from the 10-K descriptions of Disney and Alphabet?",
+    "answer": "Disney emphasizes service revenues from parks and experiences, subscription streaming, theatrical distribution, and TV/VOD, indicating a diversified media and entertainment model with physical and digital components. Alphabet emphasizes Google advertising (Search, YouTube, Network), subscriptions/platforms/devices, Google Cloud, and Other Bets, reflecting a digital advertising and cloud-centric model.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DIS",
+      "GOOGL"
+    ],
+    "evidence_section": "DIS: Item 7 - 'Service revenues... due to higher subscription revenue, growth at our parks and experiences businesses, and, to a lesser extent, higher advertising revenue... lower theatrical distribution revenue, a decrease in TV/VOD distribution sales and lower affiliate revenue.' GOOGL: Item 8 - 'Google advertising revenues... Google Search & other... YouTube ads... Google Network... revenues from other sources (\"Google subscriptions, platforms, and devices revenues\"), Google Cloud, and Other Bets revenues.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DIS+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

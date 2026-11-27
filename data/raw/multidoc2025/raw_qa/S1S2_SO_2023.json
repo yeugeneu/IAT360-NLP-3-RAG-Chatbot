@@ -1,0 +1,380 @@
+[
+  {
+    "question": "How many traditional electric operating companies does Southern Company own?",
+    "answer": "three",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "List the four states where Southern Company Gas distributes natural gas.",
+    "answer": "Illinois, Georgia, Virginia, and Tennessee",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many services does SCS provide according to the list?",
+    "answer": "18",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the profitability of the traditional electric operating companies and the natural gas distribution utilities largely dependent on?",
+    "answer": "Their ability, through the rates that they are permitted to charge, to recover their costs and earn a reasonable rate of return on invested capital.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What could result in substantial monetary penalties for a Registrant according to the risk factors?",
+    "answer": "If a Registrant is found to be noncompliant with the regulatory regimes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "To what types of governmental regulation are Southern Company and its subsidiaries subject?",
+    "answer": "Substantial federal, state, and local governmental regulation, including with respect to rates.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What catastrophic events are listed as potential risks in the MD&A section?",
+    "answer": "fires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, wars, political unrest, or other similar occurrences",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What goal is referenced regarding the transition of generating fleets by the traditional electric operating companies and Southern Power?",
+    "answer": "the Southern Company system's net zero goal",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What inherent risks are associated with the operation of nuclear facilities according to the MD&A?",
+    "answer": "environmental, safety, health, regulatory, natural disasters, cyber intrusions, physical attacks, and financial",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A in the 10-K filing for SO fiscal year 2023?",
+    "answer": "QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Under which subsection of Management's Discussion and Analysis is the market price risk discussed according to this section?",
+    "answer": "Market Price Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the full heading of Item 7A as it appears in the content?",
+    "answer": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many traditional electric operating companies does Southern Company own?",
+    "answer": "three",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Business Activities",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In how many Southeastern states do the traditional electric operating companies provide electric service?",
+    "answer": "three",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Business Activities",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many reportable segments does Southern Company have?",
+    "answer": "three (sale of electricity by traditional electric operating companies, sale of electricity by Southern Power, and sale of natural gas and other complementary products and services by Southern Company Gas)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Business Activities",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many traditional electric operating companies does Southern Company own?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total number of reportable segments listed in the overview?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of traditional electric operating companies to Southern Power?",
+    "answer": "3:1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2023",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

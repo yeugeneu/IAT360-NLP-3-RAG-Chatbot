@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the owned brand strategies of Target and Lowe's differ based on their FY2024 10-K disclosures?",
+    "answer": "Target states that 11 of its owned brands (e.g., dealworthy, Auden, Cat & Jack, Gigglescape, up&up) exceeded $1 billion in annual sales. Lowe's mentions private brand product names such as 'Kobalt', 'STAINMASTER', and 'allen+roth' but does not disclose any sales figures or the number of brands exceeding a billion dollars.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "LOW"
+    ],
+    "evidence_section": "TGT Item 7 Executive Overview; LOW Item 7 Intellectual Property",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What digital or marketplace initiatives did Target highlight in FY2024 that are not mentioned in Lowe's equivalent disclosure?",
+    "answer": "Target expanded its Target Plus digital marketplace, launched Roundel Media Studio (a self-service buying tool), and enhanced its Roundel digital media products with experiential events. Lowe's FY2024 Item 7 does not mention any digital marketplace or media platform.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "LOW"
+    ],
+    "evidence_section": "TGT Item 7 Executive Overview; LOW Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Target and Lowe's differ in their approach to loyalty programs according to their FY2024 filings?",
+    "answer": "Target reimagined its Target Circle loyalty program with a free-to-join option, a paid membership for same-day delivery, and integration of the Target Circle Card. Lowe's Item 7 does not discuss any loyalty program or membership initiative.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "LOW"
+    ],
+    "evidence_section": "TGT Item 7 Executive Overview; LOW Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What international divestiture is disclosed in Lowe's FY2024 filing, and does Target report any similar action?",
+    "answer": "Lowe's Note 6 to the financial statements is titled 'Divestiture of the Canadian Retail Business.' Target does not mention any international divestiture or Canadian operations in its provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "LOW"
+    ],
+    "evidence_section": "LOW Item 8 Note 6; TGT Item 8 Notes",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company emphasizes intellectual property protection more in its FY2024 10-K, and what specific IP assets are mentioned?",
+    "answer": "Lowe's explicitly discusses its patent portfolios, registered and unregistered trademarks (e.g., 'Kobalt', 'STAINMASTER', 'allen+roth'), copyrights, and domain names. Target does not mention patents or a patent portfolio; it focuses on exclusive products and designer collaborations rather than IP protection.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "LOW"
+    ],
+    "evidence_section": "LOW Item 7 Intellectual Property; TGT Item 7 Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Target and Lowe's compare in terms of employer recognition and human capital awards reported in their FY2024 filings?",
+    "answer": "Lowe's received several notable employer of choice awards in fiscal 2024, including being named on the Disability:IN National Best Places to Work for Disability Inclusion and Fortune's World's Most Admired Companies Specialty Retailer. Target's Item 7 does not mention any employer awards or recognition.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "LOW"
+    ],
+    "evidence_section": "LOW Item 7 Human Capital; TGT Item 7 Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+LOW",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

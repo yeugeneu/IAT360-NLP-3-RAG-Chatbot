@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the business focus of each company based on the provided descriptions?",
+    "answer": "PSX is 'a leading integrated downstream energy provider operating with Midstream, Chemicals, Refining, Marketing and Specialties (M&S), and Renewable Fuels segments.' COP is 'one of the world’s leading E&P companies' (exploration and production).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSX",
+      "COP"
+    ],
+    "evidence_section": "PSX: Item 7 'EXECUTIVE OVERVIEW AND BUSINESS ENVIRONMENT' | COP: Item 7 'Business Environment and Executive Overview'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the definitions of 'earnings' differ between the two companies in their MD&A sections?",
+    "answer": "PSX: 'The term “earnings” as used in Management’s Discussion and Analysis refers to net income attributable to Phillips 66.' COP: 'The terms “earnings” and “loss” as used in Management’s Discussion and Analysis refer to net income (loss).' PSX specifies 'attributable' while COP uses a broader definition of net income.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSX",
+      "COP"
+    ],
+    "evidence_section": "PSX: Item 7 first paragraph | COP: Item 7 first paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the reported total assets for Phillips 66 as of December 31, 2024? Does the provided content for ConocoPhillips include a total assets figure?",
+    "answer": "PSX: 'At December 31, 2024, we had total assets of $72.6 billion.' COP: The provided excerpt does not contain a total assets figure; only a table of contents for financial statements is shown.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSX",
+      "COP"
+    ],
+    "evidence_section": "PSX: Item 7 'EXECUTIVE OVERVIEW AND BUSINESS ENVIRONMENT' | COP: Item 8 index",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the cash from operating activities reported by each company for FY2024 based on the provided content.",
+    "answer": "PSX: 'generated $4.2 billion in cash from operating activities.' COP: The provided excerpt does not include cash flow from operations; it only references a Consolidated Statement of Cash Flows without specific numbers.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSX",
+      "COP"
+    ],
+    "evidence_section": "PSX: Item 7 'Executive Overview' | COP: Item 8 index (no figures)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic priorities or targets are mentioned in each company's MD&A?",
+    "answer": "PSX: 'In November 2022, we announced financial and operational targets toward achieving the company’s strategic priorities, and in October 2023, we announced updates and enhancements to certain of those targets.' Specific targets are not detailed in the excerpt. COP: No mention of strategic priorities or targets in the provided excerpt; only a general statement about forward-looking statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSX",
+      "COP"
+    ],
+    "evidence_section": "PSX: Item 7 'Strategic Priorities' | COP: Item 7 first paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Describe the geographic scope of operations for each company as stated in the provided content.",
+    "answer": "PSX: Geographic scope is not explicitly stated; the description focuses on business segments. COP: 'operations and activities in 14 countries.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PSX",
+      "COP"
+    ],
+    "evidence_section": "PSX: Item 7 'Executive Overview' (no geography) | COP: Item 7 'Business Environment and Executive Overview'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PSX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

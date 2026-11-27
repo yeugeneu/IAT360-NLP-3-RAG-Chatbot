@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were the total revenues for NFLX and DIS in their respective fiscal years 2024, and which company reported higher revenues?",
+    "answer": "NFLX total revenues were $39,000,966 thousand (approximately $39.0 billion). DIS total revenues were $91.4 billion. DIS reported higher total revenues by approximately $52.4 billion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX",
+      "DIS"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NFLX+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the year-over-year total revenue growth rates for NFLX and DIS in fiscal 2024. Which company had higher growth?",
+    "answer": "NFLX total revenues increased 16% year-over-year (as stated in the report). DIS total revenues increased 3% year-over-year. NFLX experienced significantly higher revenue growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX",
+      "DIS"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NFLX+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the operating margin of NFLX with the net profit margin of DIS for fiscal 2024. What are the respective margins and which company is more profitable on a margin basis?",
+    "answer": "NFLX operating margin was 27% (operating income of $10,417,614 thousand divided by total revenues of $39,000,966 thousand). DIS net profit margin was approximately 5.5% (net income of $5.0 billion divided by total revenues of $91.4 billion). NFLX had a significantly higher margin.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX",
+      "DIS"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NFLX+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Identify the largest impairment charge reported by DIS in fiscal 2024, and note if NFLX reported any impairment charges in the provided content.",
+    "answer": "The largest impairment charge for DIS was Star India at $1,545 million. NFLX did not report any impairment charges in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX",
+      "DIS"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NFLX+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the absolute operating income of NFLX with the net income of DIS for fiscal 2024. Which company reported higher absolute profit and by how much?",
+    "answer": "NFLX reported operating income of $10,417,614 thousand (approximately $10.42 billion). DIS reported net income of $5.0 billion. NFLX's operating income was higher by approximately $5.42 billion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX",
+      "DIS"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NFLX+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of total revenues came from service revenues for NFLX and DIS in fiscal 2024, and how does this reflect their business models?",
+    "answer": "For NFLX, streaming revenues (the only revenue source) equaled total revenues of $39,000,966 thousand, so 100% of total revenues came from streaming services. For DIS, service revenues were $81.8 billion out of total revenues of $91.4 billion, or approximately 89.5%. This shows NFLX is a pure-play streaming company while DIS has significant other revenue streams (e.g., parks and experiences).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX",
+      "DIS"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NFLX+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

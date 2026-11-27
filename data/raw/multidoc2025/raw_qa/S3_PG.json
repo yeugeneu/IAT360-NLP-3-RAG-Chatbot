@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did Procter & Gamble's gross margin change from fiscal year 2022 to 2024? Provide the percentages for each year and the total change in basis points.",
+    "answer": "Gross margin was 47.4% in fiscal 2022, 47.9% in fiscal 2023, and 51.4% in fiscal 2024. The total increase from fiscal 2022 to fiscal 2024 is 400 basis points (51.4% - 47.4% = 4.0 percentage points = 400 bps).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "PG",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PG"
+    ]
+  },
+  {
+    "question": "What was the trend in net sales growth rates from fiscal 2022 through fiscal 2024?",
+    "answer": "Net sales increased 5% in fiscal 2022 (to $80.2 billion), 2% in fiscal 2023 (to $82.0 billion), and 2% in fiscal 2024 (to $84.0 billion).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PG",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PG"
+    ]
+  },
+  {
+    "question": "How did the drivers of net sales change across fiscal 2022, 2023, and 2024? Compare the impact of pricing, volume, and mix.",
+    "answer": "In fiscal 2022: pricing +4%, volume +2%, mix +1%, foreign exchange -2%. In fiscal 2023: pricing +9%, volume -3%, mix +1%, foreign exchange -5%. In fiscal 2024: pricing +4%, volume 0%, mix 0%, foreign exchange -2%.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PG",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PG"
+    ]
+  },
+  {
+    "question": "What was the trend in organic sales growth from fiscal 2022 to fiscal 2024?",
+    "answer": "Organic sales grew 7% in fiscal 2022, 7% in fiscal 2023, and 4% in fiscal 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PG",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PG"
+    ]
+  },
+  {
+    "question": "How did the gross margin drivers evolve across the three fiscal years? Identify the main positive and negative factors each year.",
+    "answer": "In fiscal 2022: gross margin decreased 380 bps due to increased commodity costs (+390 bps) and unfavorable mix (-130 bps). In fiscal 2023: gross margin increased 50 bps due to higher pricing (+430 bps) and manufacturing productivity savings (+150 bps), partially offset by increased commodity costs (-320 bps) and unfavorable mix (-110 bps). In fiscal 2024: gross margin increased 350 bps due to manufacturing productivity savings (+220 bps), lower commodity costs (+160 bps), and higher pricing (+170 bps), partially offset by unfavorable product mix (-80 bps), unfavorable foreign exchange (-60 bps), product and packaging investments (-30 bps), and one-time manufacturing costs (-30 bps).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PG",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PG"
+    ]
+  },
+  {
+    "question": "How did operating margin trend from fiscal 2022 to 2024, and what were the year-over-year changes in basis points?",
+    "answer": "Operating margin was 22.2% in fiscal 2022, 22.1% in fiscal 2023, and 22.1% in fiscal 2024. Year-over-year changes: -140 bps in fiscal 2022 (from 23.6% to 22.2%), -10 bps in fiscal 2023 (from 22.2% to 22.1%), and 0 bps in fiscal 2024 (from 22.1% to 22.1%).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "PG",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PG"
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "In what year was Eli Lilly and Company incorporated?",
+    "answer": "1901",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years after the founding of the drug manufacturing business did Eli Lilly and Company incorporate?",
+    "answer": "25 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many countries are Lilly's products sold in?",
+    "answer": "approximately 95 countries",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the inherent characteristic of drug discovery and development mentioned in the risk factors?",
+    "answer": "There is a high rate of failure inherent in drug discovery and development.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "At what stages can failure occur after substantial investment?",
+    "answer": "Failure can occur at any point in the process, including in later stages after substantial investment and following meaningful cost for manufacturing capabilities and inventory to prepare for launch.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what happens to a significant portion of funds invested in research and development programs?",
+    "answer": "A significant portion of funds invested in research and development programs will not generate direct financial returns.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was Lilly's total revenue for the year ended December 31, 2024?",
+    "answer": "$45,042.7",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Financial Results",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the dollar increase in net income from 2023 to 2024?",
+    "answer": "$5,349.6 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Financial Results",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many new medicine candidates does Lilly have in clinical development or under regulatory review?",
+    "answer": "approximately 55",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Clinical Development Pipeline",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the percent change between revenue and net income from 2023 to 2024?",
+    "answer": "70 percentage points (102% - 32% = 70%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the net profit margin (net income divided by revenue) for 2023 and 2024.",
+    "answer": "2023: 5,240.4 / 34,124.1 = 0.1536 (15.36%); 2024: 10,590.0 / 45,042.7 = 0.2351 (23.51%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the absolute change in earnings per share (diluted) from 2023 to 2024?",
+    "answer": "$5.91 (11.71 - 5.80 = 5.91)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where are the quantitative and qualitative disclosures about market risk located according to Item 7A?",
+    "answer": "Item 7, 'Management's Discussion and Analysis - Financial Condition and Liquidity.'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What number appears at the end of the section?",
+    "answer": "57",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many sentences are in Item 7A?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net income for the year ended December 31, 2024?",
+    "answer": "$10,590.0 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the basic earnings per share for the year ended December 31, 2024?",
+    "answer": "$11.76",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the gross profit for the year ended December 31, 2024?",
+    "answer": "$36,624.4 million (Revenue $45,042.7 million minus Cost of sales $8,418.3 million)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the percentage change in Revenue from the year ended December 31, 2023 to December 31, 2024?",
+    "answer": "Approximately 32.01% (calculation: (45,042.7 - 34,124.1) / 34,124.1 × 100 = 32.01%).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For the year ended December 31, 2024, what is the effective tax rate (Income taxes divided by Income before income taxes) expressed as a percentage?",
+    "answer": "16.48% (2,090.4 / 12,680.4 = 0.1648).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For the year ended December 31, 2024, what is Research and Development expense as a percentage of Revenue?",
+    "answer": "Approximately 24.40% (10,990.6 / 45,042.7 = 0.2440).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

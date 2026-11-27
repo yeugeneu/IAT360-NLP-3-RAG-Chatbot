@@ -1,0 +1,380 @@
+[
+  {
+    "question": "How many paid memberships does Netflix have?",
+    "answer": "over 260 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many countries does Netflix operate in?",
+    "answer": "over 190 countries",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many distinct types of competitors are mentioned in the Competition section?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what are the reasons given for members canceling the service?",
+    "answer": "a perception that they do not use the service sufficiently, that they need to cut household expenses, dissatisfaction with content, a preference for competitive services and customer service issues",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How does membership growth vary across jurisdictions according to the risk factors?",
+    "answer": "In countries where we have been operating for many years or where we are highly penetrated, our membership growth is slower than in newer or less penetrated countries.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which types of competitors are mentioned in the risk factors as potentially impacting member attraction and retention?",
+    "answer": "other entertainment video providers, such as linear television, and streaming entertainment providers (including those that provide pirated content), video gaming providers, as well as user-generated content, and more broadly other sources of entertainment",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total operating income for the years 2021, 2022, and 2023 combined?",
+    "answer": "18,781,343 thousand ($18.78 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Results of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of streaming revenues to total revenues for the year 2021, expressed as a percentage?",
+    "answer": "99.4%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Results of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many more paid memberships at the end of period were there in 2023 compared to 2021?",
+    "answer": "38,432 thousand (38,432,000 memberships)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Results of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total amount of fixed rate unsecured debt held by Netflix as of December 31, 2023?",
+    "answer": "$14.6 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which five currencies are identified as Netflix's largest foreign currency exposures?",
+    "answer": "euro, British pound, Brazilian real, Canadian dollar, Mexican peso",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "By how many percentage points did the proportion of revenue from non-USD currencies exceed the proportion of operating expenses from non-USD currencies for the year ended December 31, 2023?",
+    "answer": "29 percentage points (57% - 28%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm that audited Netflix's financial statements?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On what date did the independent registered public accounting firm issue their report on the consolidated financial statements?",
+    "answer": "January 26, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many years of consolidated statements of operations are covered by the audit?",
+    "answer": "three years",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the page number difference between the Consolidated Statements of Operations and the Notes to Consolidated Financial Statements?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of page numbers for the Consolidated Statements of Cash Flows and the Consolidated Statements of Stockholders’ Equity?",
+    "answer": "84",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the range (difference between highest and lowest page numbers) among the financial statements listed in the index?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NFLX",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NFLX"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

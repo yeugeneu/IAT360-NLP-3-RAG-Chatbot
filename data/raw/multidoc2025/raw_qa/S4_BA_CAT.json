@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company includes a discussion of forward-looking statements with cautionary language in its provided content?",
+    "answer": "CAT includes a discussion of forward-looking statements, as seen in the first paragraph of Item 7: 'Item 7 “Management's Discussion and Analysis of Financial Condition and Results of Operations,” include “forward-looking statements”...' BA does not include such a discussion in its provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BA",
+      "CAT"
+    ],
+    "evidence_section": "BA: Item 7; CAT: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BA+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company reports a specific safety incident involving its products in early 2024?",
+    "answer": "BA reports the Alaska Airlines 737-9 incident: 'On January 5, 2024, an Alaska Airlines 737-9 flight made an emergency landing after a mid-exit door plug detached in flight.' CAT does not report any such incident.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BA",
+      "CAT"
+    ],
+    "evidence_section": "BA: Item 7; CAT: none",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BA+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a breakdown of revenue between products and services?",
+    "answer": "BA provides a breakdown: 'Sales of products $53,227' and 'Sales of services $13,290' for 2024. CAT does not provide such a breakdown in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BA",
+      "CAT"
+    ],
+    "evidence_section": "BA: Item 8 (Consolidated Statements of Operations); CAT: none",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BA+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes a management report on internal control over financial reporting?",
+    "answer": "CAT includes 'Management’s Report on Internal Control Over Financial Reporting' in Item 8: 'The management of Caterpillar Inc. (company) is responsible for establishing and maintaining adequate internal control over financial reporting...' BA does not include such a report in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BA",
+      "CAT"
+    ],
+    "evidence_section": "BA: none; CAT: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BA+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company mentions being one of the two major manufacturers in its primary industry?",
+    "answer": "BA states: 'We are one of the two major manufacturers of 100+ seat airplanes for the worldwide commercial airline industry.' CAT does not make a similar claim in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BA",
+      "CAT"
+    ],
+    "evidence_section": "BA: Item 7; CAT: none",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BA+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company describes its business segments in the MD&A?",
+    "answer": "BA describes its segments: 'Our strategy is centered on successful execution in healthy core businesses – Commercial Airplanes (BCA), Defense, Space & Security (BDS) and Global Services (BGS).' CAT does not describe its segments in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BA",
+      "CAT"
+    ],
+    "evidence_section": "BA: Item 7; CAT: none",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BA+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

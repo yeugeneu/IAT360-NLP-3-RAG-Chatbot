@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the phrases used by AMZN in Item 7 to describe business risks in 2022 versus 2024. What additional condition is cited as a risk amplifier in 2024? How does this compare to the change in HD's description of DIY customers from 2022 to 2024, and what does this suggest about each company's strategic awareness?",
+    "answer": "In 2022, AMZN cited 'the global economic climate and additional or unforeseen circumstances, developments, or events.' In 2024, AMZN added 'global economic and geopolitical conditions' and noted that risks to customers could 'indirectly have a material adverse effect on us.' For HD, the 2022 description of DIY customers ended with 'to build an emotional connection with our DIY customers.' In 2024, HD added 'As the preferences and behaviors of our DIY customers are changing, we are investing in capabilities to better' (sentence truncated in source). This suggests AMZN broadened its risk horizon to include geopolitical factors and indirect effects, while HD recognized evolving DIY customer preferences and a need to invest in response capabilities.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AMZN",
+      "HD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 | AMZN FY2022, AMZN FY2024, HD FY2022, HD FY2024",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "AMZN+HD",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "How many distinct industry or service categories does AMZN list as competitive areas in its 2022 risk description? Compare this to the truncated list in the 2024 snippet, and then identify the specific change in HD's DIY customer description by counting the number of sentences added in 2024 relative to 2022.",
+    "answer": "From AMZN 2022: 'physical, e-commerce, and omnichannel retail, e-commerce services, web and infrastructure computing services, electronic devices, digital content, advertising, grocery, and transportation and logistics services' – that is 9 distinct categories (counting each semicolon-separated term as one). In AMZN 2024 the list is truncated at 'web and infrastructure' so a full count is not possible from the snippet. For HD DIY description: 2022 has three sentences; 2024 has four sentences (the fourth begins 'As the preferences and behaviors of our DIY customers are changing…'). Therefore, HD added one sentence to its DIY customer description in 2024. The calculation shows HD expanded its narrative on customer behavior while AMZN maintained a broad competitive scope.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AMZN",
+      "HD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 | AMZN FY2022, AMZN FY2024, HD FY2022, HD FY2024",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "AMZN+HD",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "Based on the text of Item 7 for both companies across both years, what new risk or customer dynamic does each company introduce only in its 2024 filing? Provide the exact phrases that support your answer and explain how these changes could be reflected in the financial tables (Item 8) for revenue growth or segment performance.",
+    "answer": "AMZN 2024 introduces 'geopolitical conditions' as an amplifier of risks and explicitly states that risks to customers 'could indirectly have a material adverse effect on us.' HD 2024 introduces the phrase 'As the preferences and behaviors of our DIY customers are changing, we are investing in capabilities to better' (sentence incomplete). These textual additions suggest that in the financial tables (Item 8), AMZN might show higher revenue volatility from international segments (geopolitical exposure) and potentially lower third-party seller GMV if customer risks materialize. HD might show increased capital expenditures (investing in capabilities) and a shift in DIY sales mix as customer preferences evolve.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AMZN",
+      "HD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 (text) and Item 8 (financial tables inferred) | AMZN FY2024, HD FY2024",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "AMZN+HD",
+    "sector": "Consumer Discretionary"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What is the auditor firm ID for Costco's independent registered public accounting firm?",
+    "answer": "185",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Under which exhibit number is Costco's Insider Trading Policy filed with this Annual Report?",
+    "answer": "Exhibit 19.1",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the auditor firm ID (185) and the maximum number of days within which the Proxy Statement must be filed (120)?",
+    "answer": "305",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many land-only leases does Costco have as of September 1, 2024?",
+    "answer": "134",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many more owned warehouses does Costco operate compared to leased warehouses?",
+    "answer": "516 (703 owned minus 187 leased)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average warehouse square footage in Canada?",
+    "answer": "15.5 million square feet divided by 108 warehouses equals approximately 0.1435 million square feet per warehouse.",
+    "intent": "calculation",
+    "is_hybrid_modal": true,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of the section in the provided content?",
+    "answer": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 22",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What number appears at the end of the section title?",
+    "answer": "22",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many words are in the section title (including the number at the end)?",
+    "answer": "14",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the approximate decrease in fair value of the contracts if the functional currencies strengthen by 10% at September 1, 2024?",
+    "answer": "$120",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which type of contracts qualify for the 'normal purchases and normal sales' exception under authoritative guidance?",
+    "answer": "Variable-priced contracts for purchases of electricity and natural gas, in addition to some of the fuel for gas stations, on an index basis.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If a 10% strengthening of functional currencies decreases fair value by $120, what would be the decrease for a 5% strengthening assuming a linear relationship?",
+    "answer": "$60",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the start of the Consolidated Statements of Income and the start of the Consolidated Balance Sheets?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If the page number for the start of the Consolidated Statements of Equity is added to the page number for the start of the Notes to Consolidated Financial Statements, what is the sum?",
+    "answer": "80",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many pages after the Consolidated Statements of Comprehensive Income do the Consolidated Statements of Cash Flows begin?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "COST"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

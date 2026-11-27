@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were McDonald's total revenues for fiscal years 2022, 2023, and 2024?",
+    "answer": "Total revenues were $23.18 billion in 2022, $25.49 billion in 2023, and $25.92 billion in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Item 7 (MD&A) page 8; FY2023 Item 7 (MD&A) page 8; FY2024 Item 7 (MD&A) page 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "MCD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "MCD"
+    ]
+  },
+  {
+    "question": "Calculate the percent change in operating income from fiscal year 2022 to fiscal year 2024.",
+    "answer": "Operating income was $7.45 billion in 2022 and $9.60 billion in 2024. The percent increase is ($9.60 - $7.45) / $7.45 = 28.86%.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Item 7 (MD&A) page 8; FY2023 Item 7 (MD&A) page 8; FY2024 Item 7 (MD&A) page 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "MCD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "MCD"
+    ]
+  },
+  {
+    "question": "Compare global comparable sales percentages for 2022, 2023, and 2024.",
+    "answer": "Global comparable sales increased 5.9% in 2022, 9.4% in 2023, and 1.3% in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Item 7 (MD&A) page 8; FY2023 Item 7 (MD&A) page 8; FY2024 Item 7 (MD&A) page 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "MCD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "MCD"
+    ]
+  },
+  {
+    "question": "What was the trend in McDonald's adjusted operating margin from 2022 to 2024?",
+    "answer": "Adjusted operating margin was 32.1% in 2022, 35.1% in 2023, and 37.0% in 2024, showing a steady improvement.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Item 7 (MD&A) page 8; FY2023 Item 7 (MD&A) page 8; FY2024 Item 7 (MD&A) page 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "MCD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "MCD"
+    ]
+  },
+  {
+    "question": "Calculate the compound annual growth rate (CAGR) of digital systemwide sales from fiscal year 2022 to fiscal year 2024.",
+    "answer": "Digital systemwide sales were $19 billion in 2022, $22 billion in 2023, and $26 billion in 2024. The CAGR is (26 / 19)^(1/2) - 1 = 17.0%.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Item 7 (MD&A) page 8; FY2023 Item 7 (MD&A) page 8; FY2024 Item 7 (MD&A) page 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "MCD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "MCD"
+    ]
+  },
+  {
+    "question": "Calculate the percent increase in capital expenditures from fiscal year 2022 to fiscal year 2024.",
+    "answer": "Capital expenditures were $1.4 billion in 2022, $1.6 billion in 2023, and $1.8 billion in 2024. The percent increase from 2022 to 2024 is ($1.8 - $1.4) / $1.4 = 28.6%.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "FY2022 Item 7 (MD&A) page 8; FY2023 Item 7 (MD&A) page 8; FY2024 Item 7 (MD&A) page 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "MCD",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "MCD"
+    ]
+  }
+]

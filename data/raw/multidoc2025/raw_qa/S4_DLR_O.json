@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the primary business focus of DLR according to its Form 10-K, and how does O describe its investment approach in its 10-K?",
+    "answer": "DLR delivers comprehensive space, power, and interconnection solutions for data center, colocation and interconnection customers across a variety of industry verticals. O invests in diversified commercial real estate and is known as 'The Monthly Dividend Company' with a mission to invest in people and places to deliver dependable monthly dividends that increase over time.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "O"
+    ],
+    "evidence_section": "DLR: Item 7 – Business Overview and Strategy; O: Item 7 – General",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does DLR define its primary business objectives, and what key portfolio metric does O highlight regarding its dividend history?",
+    "answer": "DLR's primary business objectives are to maximize (i) sustainable long-term growth in earnings and funds from operations per share/unit, (ii) cash flow and returns through payment of distributions, and (iii) return on invested capital. O highlights that it has declared 656 consecutive monthly dividends and is a member of the S&P 500 Dividend Aristocrats index for increasing dividends for 30 consecutive years.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "O"
+    ],
+    "evidence_section": "DLR: Item 7 – Business Overview and Strategy; O: Item 7 – General",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of O's portfolio consisted of single-client properties as of December 31, 2024, and does DLR provide a similar metric in its 10-K?",
+    "answer": "As of December 31, 2024, 98.0% of O's properties were single-client properties. DLR does not provide a comparable single-client percentage in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "O"
+    ],
+    "evidence_section": "O: Item 7 – General (property portfolio breakdown); DLR: no such metric found",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the client diversity between DLR and O as described in their 10-K filings.",
+    "answer": "DLR serves customers across a variety of industry verticals, with a focus on data center and technology industry customers. O leases to 1,565 clients doing business in 89 separate industries, and its top 20 clients represent approximately 36.4% of annualized rent.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "O"
+    ],
+    "evidence_section": "DLR: Item 7 – Business Overview and Strategy; O: Item 7 – General",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the weighted average remaining lease term for O's portfolio, and does DLR disclose a similar figure in the provided content?",
+    "answer": "O's total portfolio had a weighted average remaining lease term (excluding renewal options) of approximately 9.3 years as of December 31, 2024. DLR does not disclose a weighted average lease term in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "O"
+    ],
+    "evidence_section": "O: Item 7 – General (lease term); DLR: no such data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does DLR plan to achieve its business objectives, and what distinguishes O's dividend policy from DLR's stated objectives?",
+    "answer": "DLR expects to accomplish its objectives by achieving superior risk-adjusted returns, prudently allocating capital, diversifying product offerings, accelerating global reach and scale, and driving revenue growth and operating efficiencies. O differentiates itself as 'The Monthly Dividend Company' with a mission to deliver dependable monthly dividends that increase over time, while DLR's objectives focus on maximizing growth and returns without specifying a dividend frequency.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "O"
+    ],
+    "evidence_section": "DLR: Item 7 – Business Overview and Strategy; O: Item 7 – General",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

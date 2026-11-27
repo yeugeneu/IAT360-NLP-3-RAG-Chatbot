@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What caused significantly higher energy prices in 2022, according to the filing?",
+    "answer": "increases in energy demand, along with supply disruptions exacerbated by the conflict between Russia and Ukraine.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What do the company and its independent bottlers operate to distribute beverage products?",
+    "answer": "a large fleet of trucks and other motor vehicles",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many categories of raw materials and other supplies are explicitly listed in the sentence starting with 'The raw materials and other supplies, including...'?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is required for certain assets when conditions exist that indicate the carrying value may not be recoverable?",
+    "answer": "Recoverability and/or impairment tests.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How frequently are impairment tests required for assets that are tested at least annually?",
+    "answer": "At least annually, or more frequently if events or circumstances indicate that an asset may be impaired.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "List three factors that management must estimate when performing recoverability and impairment tests.",
+    "answer": "Among others, the economic lives of the assets, sales volume, pricing, royalty rates, cost of raw materials, delivery costs, the impact of any supply chain disruptions, inflation, long-term growth rates, cost of capital, marketing spending, foreign currency exchange rates, tax rates, capital spending, proceeds from the sale of assets and customers’ financial condition.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many countries and territories does the Company make its branded beverage products available in?",
+    "answer": "more than 200",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many sparkling soft drink brands are listed in the MD&A section?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many juice, value-added dairy and plant-based beverage brands are listed?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many brands are listed under the sparkling soft drinks category in the MD&A?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of beverage brands mentioned across all three categories (sparkling soft drinks, water/sports/coffee/tea, and juice/dairy/plant-based)?",
+    "answer": "31",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of the number of brands in the water, sports, coffee and tea category to the number of brands in the juice, value-added dairy and plant-based category?",
+    "answer": "16/7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In 2022, what amount of net operating revenues was generated from operations outside the United States?",
+    "answer": "$27.6 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the Company's policy regarding the use of derivative financial instruments for trading purposes?",
+    "answer": "The Company does not enter into derivative financial instruments for trading purposes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct foreign currencies are mentioned as being hedged by the Company using derivative instruments?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What were the net operating revenues for the year ended December 31, 2022?",
+    "answer": "$43,004 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the net interest expense for the year ended December 31, 2022? (Interest expense minus interest income)",
+    "answer": "$433 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total of cost of goods sold and selling, general and administrative expenses for the year ended December 31, 2022?",
+    "answer": "$30,880 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the operating margin (Operating Income divided by Net Operating Revenues) for the year ended December 31, 2022? Express your answer as a percentage rounded to two decimal places.",
+    "answer": "25.37%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Calculate the effective tax rate for the year ended December 31, 2021 (Income Taxes divided by Income Before Income Taxes). Express your answer as a percentage rounded to two decimal places.",
+    "answer": "21.09%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Determine the gross profit margin for the year ended December 31, 2020, and compare it to the gross profit margin for the year ended December 31, 2022. Which year had the higher gross profit margin? Provide both margins as percentages rounded to two decimal places.",
+    "answer": "2020: 59.32%; 2022: 58.14%; 2020 had the higher gross profit margin.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Consolidated Statements of Income",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "KO",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "KO"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

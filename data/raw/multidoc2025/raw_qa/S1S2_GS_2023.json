@@ -1,0 +1,443 @@
+[
+  {
+    "question": "According to the text, what could a failure of a significant market participant lead to?",
+    "answer": "significant liquidity problems, losses or defaults by other institutions",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What risk is mentioned regarding special assessments under the FDIA or OLA?",
+    "answer": "risk of a special assessment, including under the FDIA or OLA in the event of the failure of a bank or non-bank financial institution",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What could a significant downgrade in the credit ratings of counterparties cause?",
+    "answer": "a negative impact on our results",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Who reports to the Board on cybersecurity threats and risks?",
+    "answer": "chief information security officer (CISO)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What does the Board annually review and approve as part of risk management?",
+    "answer": "risk appetite statement",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many specific types of firmwide risks are listed in the description of regular briefings?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What were the net revenues for the year ended December 31, 2023?",
+    "answer": "$46,254 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "By how much did net revenues decrease from 2022 to 2023?",
+    "answer": "$1,111 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the target range for ROTE according to the company?",
+    "answer": "15% to 17%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the percentage change in Net revenues from 2021 to 2023?",
+    "answer": "-22.1%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "By how many percentage points did the Dividend payout ratio increase from 2022 to 2023?",
+    "answer": "16.0 percentage points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the amount of preferred stock dividends in 2023?",
+    "answer": "$609 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to Item 7A, where are the quantitative and qualitative disclosures about market risk set forth?",
+    "answer": "In “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Risk Management” in Part II",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which part of the report contains the risk management section referenced in Item 7A?",
+    "answer": "Part II",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What framework did management use to assess the firm's internal control over financial reporting as of December 31, 2023?",
+    "answer": "Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was management's determination regarding the effectiveness of the firm's internal control over financial reporting as of December 31, 2023?",
+    "answer": "management has determined that the firm’s internal control over financial reporting as of December 31, 2023 was effective",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Who is responsible for establishing and maintaining adequate internal control over financial reporting at The Goldman Sachs Group, Inc.?",
+    "answer": "Management of The Goldman Sachs Group, Inc., together with its consolidated subsidiaries (the firm)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many times does the phrase 'internal control' appear in the provided text?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many times does the year '2023' appear in the provided text?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many sentences are in the provided text (counting only complete sentences ending with a period)?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

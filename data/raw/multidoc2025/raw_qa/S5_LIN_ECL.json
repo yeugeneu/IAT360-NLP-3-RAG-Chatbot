@@ -1,0 +1,68 @@
+[
+  {
+    "question": "In their Item 7 MD&A, which company explicitly states that they provide quantitative information about the impact of changes in volume and pricing on sales, and at which organizational level do they report this? Provide textual evidence from both ECL's FY2022 and LIN's FY2024 filings, and identify which financial table or note is referenced for additional segment detail.",
+    "answer": "ECL's FY2022 Item 7 states: 'We provide quantitative information about the material sales drivers including the impact of changes in volume and pricing and the effect of acquisitions and changes in foreign currency at the corporate and reportable segment level.' LIN's FY2024 Item 7 does not contain a similar explicit statement; instead it directs readers to 'Note 18 to the consolidated financial statements for additional information related to Linde’s reportable segments.' This Note 18 constitutes the financial table referenced for segment details.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "LIN",
+      "ECL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7, Management's Discussion and Analysis",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "LIN+ECL",
+    "sector": "Materials"
+  },
+  {
+    "question": "Compare the language used by LIN in FY2024 and ECL in FY2022 regarding the provision of quantitative sales driver information. Does LIN's FY2024 Item 7 mention quantitative sales drivers at all, or does it rely solely on references to financial tables? Support your answer with exact quotes from both filings and indicate which fiscal years are represented.",
+    "answer": "ECL's FY2022 Item 7 states: 'We provide quantitative information about the material sales drivers including the impact of changes in volume and pricing and the effect of acquisitions and changes in foreign currency at the corporate and reportable segment level.' LIN's FY2024 Item 7 does not contain any mention of quantitative sales drivers; it only states: 'Item 7, Management's Discussion and Analysis, for a discussion of consolidated sales and Note 18 to the consolidated financial statements for additional information related to Linde’s reportable segments.' Thus, LIN relies entirely on referencing the financial tables (Note 18) rather than providing quantitative descriptions in the text.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "LIN",
+      "ECL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7, Management's Discussion and Analysis",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "LIN+ECL",
+    "sector": "Materials"
+  },
+  {
+    "question": "How do LIN and ECL differ in their approach to presenting segment-level information in their MD&A across the 2022 and 2024 filings? Identify the specific words used by ECL in FY2022 about quantitative information and the exact note number LIN references in FY2024. What does this indicate about the location of detailed numerical data in each filing?",
+    "answer": "ECL's FY2022 Item 7 states: 'We provide quantitative information about the material sales drivers ... at the corporate and reportable segment level.' This implies that numerical data is presented within the MD&A text itself. LIN's FY2024 Item 7 directs readers to 'Note 18 to the consolidated financial statements' for segment information, indicating that the detailed numerical data resides in the financial tables rather than the narrative. The key terms are ECL's 'quantitative information' and LIN's 'Note 18'.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "LIN",
+      "ECL"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7, Management's Discussion and Analysis",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "LIN+ECL",
+    "sector": "Materials"
+  }
+]

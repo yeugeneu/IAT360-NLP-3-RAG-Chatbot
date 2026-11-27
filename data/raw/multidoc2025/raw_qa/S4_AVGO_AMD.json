@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the reportable segments of AVGO and AMD according to their 10-K filings?",
+    "answer": "AVGO has two reportable segments: semiconductor solutions and infrastructure software. AMD reports its revenue in four segments: Data Center, Client, Gaming, and Embedded.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "AMD"
+    ],
+    "evidence_section": "AVGO: Item 7: 'We have two reportable segments: semiconductor solutions and infrastructure software.' AMD: Item 7: 'Data Center net revenue of $12.6 billion... Client segment net revenue of $7.1 billion... Gaming net revenue of $2.6 billion... Embedded net revenue of $3.6 billion.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do AVGO and AMD describe their AI-related products or technologies in their 10-K filings?",
+    "answer": "AVGO mentions 'artificial intelligence (“AI”) networking and connectivity' as a product area. AMD highlights 'AMD Instinct™ GPUs' (specifically the MI300X accelerator), 'AMD Ryzen AI 300 Series processors', and an 'accelerated AMD Instinct accelerator roadmap' with an annual cadence.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "AMD"
+    ],
+    "evidence_section": "AVGO: Item 7: 'artificial intelligence (“AI”) networking and connectivity'. AMD: Item 7: 'AMD Instinct™ GPUs and AMD EPYC™ CPUs', 'AMD Instinct MI300X GPU accelerators', 'AMD Ryzen AI 300 Series processors', 'an accelerated AMD Instinct accelerator roadmap to deliver an annual cadence of leadership AI solutions'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total net revenue for AMD for the fiscal year ended December 28, 2024, and what is the fiscal year end date for AVGO based on its filing?",
+    "answer": "AMD's total net revenue for the fiscal year ended December 28, 2024 was $25,785 million. AVGO's filing is for its fiscal year 2023, and the filing date is December 14, 2023, but the specific fiscal year end date is not provided in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "AMD"
+    ],
+    "evidence_section": "AMD: Item 8, Consolidated Statements of Operations: 'Net revenue $25,785' for year ended December 28, 2024. AVGO: Item 7 header: 'Item 7 of our Annual Report on Form 10-K for fiscal year 2023... filed on December 14, 2023'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For AMD, what was the net revenue for its Data Center segment and Client segment in FY2024? Based on AVGO's description, which end markets does AVGO target that overlap with AMD's Data Center focus?",
+    "answer": "AMD's Data Center net revenue was $12.6 billion and Client segment net revenue was $7.1 billion in 2024. AVGO targets 'enterprise and data center networking, including artificial intelligence (“AI”) networking and connectivity' and 'data center servers and storage systems', which overlap with AMD's Data Center segment.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "AMD"
+    ],
+    "evidence_section": "AMD: Item 7: 'Data Center net revenue of $12.6 billion increased by 94%... Client segment net revenue of $7.1 billion in 2024 increased by 52%'. AVGO: Item 7: 'enterprise and data center networking, including artificial intelligence (“AI”) networking and connectivity... data center servers and storage systems'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was AMD's gross profit and gross margin for FY2024? For AVGO, does the provided content include any gross profit or cost of sales information?",
+    "answer": "AMD's gross profit was $12,725 million and gross margin was approximately 49.4% ($12,725 / $25,785). The AVGO excerpt does not include any gross profit, cost of sales, or revenue figures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "AMD"
+    ],
+    "evidence_section": "AMD: Item 8, Consolidated Statements of Operations: 'Gross profit 12,725', 'Net revenue 25,785'. AVGO: No financial statement data in provided excerpt.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "AVGO+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the number of reportable segments and the inclusion of software solutions for AVGO and AMD.",
+    "answer": "AVGO has two reportable segments: semiconductor solutions and infrastructure software, explicitly including software. AMD has four reportable segments (Data Center, Client, Gaming, Embedded) and its product descriptions focus on hardware (GPUs, CPUs, processors), with no mention of a separate software segment or infrastructure software.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "AMD"
+    ],
+    "evidence_section": "AVGO: Item 7: 'We have two reportable segments: semiconductor solutions and infrastructure software.' AMD: Item 7: 'Data Center net revenue... Client segment... Gaming net revenue... Embedded net revenue' and product descriptions mention GPUs, CPUs, processors only.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

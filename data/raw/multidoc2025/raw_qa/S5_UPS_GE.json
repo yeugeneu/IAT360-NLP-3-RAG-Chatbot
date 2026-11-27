@@ -1,0 +1,68 @@
+[
+  {
+    "question": "How did the page number of the beginning of the MD&A section (Item 7) change for UPS from its 2022 filing to its 2024 filing?",
+    "answer": "In the 2022 filing, the MD&A section begins on page 23; in the 2024 filing, it begins on page 25, an increase of 2 pages.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UPS",
+      "GE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "UPS FY2022 (Item 7+8): '23 UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES MANAGEMENT'S DISCUSSION AND ANALYSIS...' and UPS FY2024 (Item 7+8): '25 UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES MANAGEMENT'S DISCUSSION AND ANALYSIS...'",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "UPS+GE",
+    "sector": "Industrials"
+  },
+  {
+    "question": "What is the difference in the number of pages covered by the MD&A section (Item 7) in GE's 10-K filings between fiscal year 2022 and fiscal year 2024, and which year had a larger section?",
+    "answer": "For fiscal year 2022, the MD&A covers pages 6-29 (24 pages). For fiscal year 2024, it covers pages 8-24 (17 pages). The 2022 section is larger by 7 pages.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UPS",
+      "GE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GE FY2022 (Item 7+8): 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 6-29' and GE FY2024 (Item 7+8): 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 8-24'",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "UPS+GE",
+    "sector": "Industrials"
+  },
+  {
+    "question": "What is the change in the starting page number of the MD&A section from fiscal year 2022 to 2024 for UPS and GE, and which company experienced a larger increase?",
+    "answer": "For UPS, the starting page increased from 23 in 2022 to 25 in 2024, an increase of 2 pages. For GE, the starting page increased from 6 in 2022 to 8 in 2024, an increase of 2 pages. Both companies experienced the same increase.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UPS",
+      "GE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "UPS: '23 ...' (2022) and '25 ...' (2024); GE: '6-29' (2022) and '8-24' (2024). Starting pages inferred from the page range text.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "UPS+GE",
+    "sector": "Industrials"
+  }
+]

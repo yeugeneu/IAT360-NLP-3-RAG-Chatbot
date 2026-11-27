@@ -1,0 +1,443 @@
+[
+  {
+    "question": "How many U.S. and international patents does Microsoft have issued?",
+    "answer": "over 69,000",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many pending patents does Microsoft have worldwide?",
+    "answer": "over 19,000",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of patents Microsoft has when combining issued and pending patents?",
+    "answer": "over 88,000 (69,000 issued + 19,000 pending)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What factors does Microsoft cite as reasons it may not proactively discover harmful or illegal content on its services?",
+    "answer": "due to scale, the limitations of existing technologies, and conflicting legal frameworks.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What risks does the text attribute to the development of the Internet of Things (IoT)?",
+    "answer": "security, privacy, and execution risks.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What aspect of an IoT solution can impact the security of the whole system, according to the text?",
+    "answer": "Each layer, including the weakest layer",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the amount of payment made in the second quarter of fiscal year 2021 for the settlement of a portion of the IRS audits for tax years 2004 to 2013?",
+    "answer": "$1.7 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many tax years are covered by the IRS audits that Microsoft remained under audit for as of June 30, 2022?",
+    "answer": "14 tax years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the primary unresolved issues for the IRS audits as of June 30, 2022?",
+    "answer": "transfer pricing",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct fiscal years are mentioned for the settlement of portions of IRS audits for tax years 2004-2013?",
+    "answer": "4 (2011, 2016, 2018, 2021)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total amount paid in fiscal year 2021 for the settlement of IRS audits for tax years 2004-2013?",
+    "answer": "$1.7 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "For the tax year range 2004-2006, how many settlement fiscal years are recorded?",
+    "answer": "2 (2011 and 2021)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the principal currency exposures mentioned in the market risk section?",
+    "answer": "Euro, Japanese yen, British pound, Canadian dollar, and Australian dollar.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the potential loss in fair value from a 100 basis point increase in credit spreads as of June 30, 2022?",
+    "answer": "$(350) million.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total potential loss from a 10% decrease in foreign exchange rates across both revenue and investments?",
+    "answer": "$(6,916) million.",
+    "intent": "calculation",
+    "is_hybrid_modal": true,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the recorded basis of total debt investments as of June 30, 2022?",
+    "answer": "$122,008 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total amount of cash and cash equivalents reported for debt investments and the separate cash line?",
+    "answer": "$13,248 million ($5,976 + $7,272)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the amount of equity investments without readily determinable fair values measured at cost with adjustments as of June 30, 2022?",
+    "answer": "$3.8 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of total recorded basis for debt investments is represented by U.S. government securities?",
+    "answer": "77.36%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the percentage of total recorded basis that is classified as equity investments?",
+    "answer": "4.39%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the recorded basis and the adjusted cost basis for total debt investments?",
+    "answer": "4,042",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MSFT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

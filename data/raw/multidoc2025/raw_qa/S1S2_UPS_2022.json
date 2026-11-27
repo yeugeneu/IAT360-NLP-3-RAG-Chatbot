@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What was UPS's total revenue in 2022?",
+    "answer": "$100.3 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many packages did UPS deliver in total during 2022?",
+    "answer": "6.2 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the number of delivery recipients and shipping customers for UPS?",
+    "answer": "9.5 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What types of multiemployer plans does UPS contribute to under collective bargaining agreements?",
+    "answer": "multiemployer pension and health and welfare plans",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Multiemployer Benefit Plans",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the Critical Accounting Estimates section, what does UPS base its estimates on?",
+    "answer": "prior experience, current trends, various other assumptions and third-party input",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Critical Accounting Estimates",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many times does the word 'multiemployer' appear in the provided text?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Multiemployer Benefit Plans",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total adjustment to operating expenses for the year ended December 31, 2022?",
+    "answer": "$759 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the total adjustments to operating expenses for 2022 and 2021?",
+    "answer": "$425 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the adjustment for Defined Benefit Pension and Postretirement Medical Plan (Gains) and Losses in 2021?",
+    "answer": "($3,272) million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Supplemental Information - Items Affecting Comparability",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the increase in total adjustments to Operating Expenses from 2021 to 2022?",
+    "answer": "$425 million (from $334 million in 2021 to $759 million in 2022).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of total adjustments to Income Before Income Taxes in 2021 were the Defined Benefit Pension and Postretirement Medical Plan (Gains) and Losses in that year?",
+    "answer": "111.4% (computed as $3,272 million divided by $2,938 million).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the net adjustment from the sum of Transformation Strategy Costs (operating expenses) and the related income tax benefit for Transformation Strategy Costs in 2022?",
+    "answer": "$142 million (operating expense of $178 million minus income tax benefit of $36 million).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the two main exposures UPS monitors and manages in regard to market risk?",
+    "answer": "foreign currency exchange rate and interest rate exposures",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A - Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many factors are listed as affecting the forecasting of capital investment needs?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A - Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What negative outcomes could result from inaccurate forecasting of capital investment needs?",
+    "answer": "we could under- or over-invest, or have excess capacity or insufficient capacity, any of which would negatively affect our revenues and profitability",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A - Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the registered public accounting firm?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On what page does the discussion of 'Note 14 — Segment and Geographic Information' begin?",
+    "answer": "113",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many notes are listed in the table of contents for the Notes to Consolidated Financial Statements?",
+    "answer": "18",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Balance Sheets, Statements of Consolidated Income, and Statements of Consolidated Comprehensive Income (Loss)?",
+    "answer": "185",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many notes to the consolidated financial statements are listed in the table of contents?",
+    "answer": "18",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between Note 1 (Summary of Accounting Policies) and Note 18 (Transformation Strategy Costs)?",
+    "answer": "62",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UPS",
+    "year": "2022",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UPS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

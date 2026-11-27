@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary business offerings of EQIX and CCI according to their filings?",
+    "answer": "EQIX provides 'a global, vendor-neutral data center, interconnection and edge solutions platform' including 'premium data center colocation; interconnection and data exchange solutions; edge solutions for deploying networking, security and hardware; and remote expert support and professional services.' CCI focuses on communications infrastructure including 'towers, small cells or fiber' and 'site rental tenants' with a Fiber business that 'generally has different competitors than those in our Towers business.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX",
+      "CCI"
+    ],
+    "evidence_section": "EQIX Item 7; CCI Item 7 (MD&A)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EQIX+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do EQIX and CCI describe their competitive landscape?",
+    "answer": "EQIX's provided excerpt does not discuss competition. CCI explicitly states: 'As a result of competition in our industry, we may find it more difficult to negotiate favorable rates on our new or renewing tenant contracts.' It details competition from '(1) other independent communications infrastructure owners or operators, (2) tenants who elect to self-perform and (3) new alternative deployment methods for communications infrastructure.' Additionally, 'Our Fiber business generally has different competitors than those in our Towers business, including other owners of fiber, as well as new entrants into small cells and fiber solutions.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX",
+      "CCI"
+    ],
+    "evidence_section": "EQIX Item 7; CCI Item 7 (MD&A)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EQIX+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the differences in asset portfolio descriptions between EQIX and CCI?",
+    "answer": "EQIX reports '268 IBXs, including 20 xScale data centers and the MC1 data center that are held in unconsolidated joint ventures, across 74 markets around the world.' CCI's excerpt does not provide specific counts but describes its assets as 'towers, small cells or fiber' and mentions its 'Fiber business' and 'Towers business' as distinct segments.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX",
+      "CCI"
+    ],
+    "evidence_section": "EQIX Item 7; CCI Item 7 (MD&A)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EQIX+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies address restructuring or strategic changes in the provided text?",
+    "answer": "CCI mentions 'our 2023 Restructuring Plan, which included discontinuing installation services as a Towers product offering.' EQIX's excerpt does not mention any restructuring plan.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX",
+      "CCI"
+    ],
+    "evidence_section": "CCI Item 7 (MD&A); EQIX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EQIX+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What critical accounting policies are discussed by EQIX, and does CCI’s excerpt include similar detail?",
+    "answer": "EQIX lists five critical accounting policies: 'Accounting for income taxes; Accounting for business combinations; Accounting for impairment of goodwill and other intangible assets; Accounting for property, plant and equipment; and Accounting for leases.' CCI's provided excerpt does not discuss critical accounting policies.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX",
+      "CCI"
+    ],
+    "evidence_section": "EQIX Item 8; CCI Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EQIX+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic differences are evident between EQIX and CCI in the real estate/communications infrastructure sector?",
+    "answer": "EQIX focuses on providing a 'global, vendor-neutral data center, interconnection and edge solutions platform' for 'safe housing of critical IT equipment' and to 'protect and connect the world's most valued information assets,' targeting the digital economy. CCI focuses on 'site rental tenants' for 'towers, small cells or fiber' and faces competition from 'other independent communications infrastructure owners or operators' and 'new alternative deployment methods,' emphasizing wireless communications infrastructure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EQIX",
+      "CCI"
+    ],
+    "evidence_section": "EQIX Item 7; CCI Item 7 (MD&A)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EQIX+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

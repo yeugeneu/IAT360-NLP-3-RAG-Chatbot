@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How many principal business segments does RTX report, and does UPS disclose any segment breakdown in the provided content?",
+    "answer": "RTX reports three principal business segments: Collins Aerospace, Pratt & Whitney, and Raytheon. The provided content for UPS does not include a segment breakdown; UPS presents consolidated financial statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "UPS"
+    ],
+    "evidence_section": "RTX: Item 7; UPS: Item 8 (consolidated financial statements)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What did RTX conclude about its internal control over financial reporting as of December 31, 2024, and what is stated about UPS's internal control in its filing?",
+    "answer": "RTX management concluded that its internal control over financial reporting was effective as of December 31, 2024. The provided content for UPS does not include a management report on internal control; the auditor's opinion only covers financial statements, not internal control.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "UPS"
+    ],
+    "evidence_section": "RTX: Item 8 (Management's Report on Internal Control); UPS: Item 8 (auditor opinion states 'Opinion on the Financial Statements' only)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the total transformation strategy costs for UPS in 2024, and does RTX report any similar transformation costs in its provided content?",
+    "answer": "UPS's total transformation strategy costs for 2024 are $322 million. RTX's provided content does not mention any transformation strategy costs or similar non-GAAP adjustments.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "UPS"
+    ],
+    "evidence_section": "UPS: Item 7 (Non-GAAP Adjustments table, line 'Total Transformation Strategy Costs' shows $322 million); RTX: No evidence of such costs in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who audited RTX's financial statements and internal control, and can the auditor of UPS be identified from the provided content?",
+    "answer": "RTX's financial statements and internal control over financial reporting were audited by PricewaterhouseCoopers LLP. The provided content for UPS does not explicitly name its auditor; the auditor report includes a PCAOB ID number (34) but no firm name.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "UPS"
+    ],
+    "evidence_section": "RTX: Item 8 (Report of Independent Registered Public Accounting Firm by PricewaterhouseCoopers LLP); UPS: Item 8 (auditor report shows PCAOB ID No. 34 but no firm name)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, what are the primary strategic focuses of RTX and UPS?",
+    "answer": "RTX's Collins Aerospace segment focuses on technologically advanced aerospace and defense products, including aftermarket services and human space exploration solutions. UPS's strategic focus is reflected in its transformation strategy costs, particularly 'Fit to Serve' ($204 million) and 'Network Reconfiguration and Efficiency Reimagined' ($35 million), indicating a focus on operational efficiency and logistics network restructuring.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "UPS"
+    ],
+    "evidence_section": "RTX: Item 7 (Collins Aerospace description); UPS: Item 7 (Non-GAAP Adjustments table listing transformation strategy components)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the change in total transformation strategy costs for UPS from 2023 to 2024. How does this compare to any transformation costs reported by RTX?",
+    "answer": "UPS's total transformation strategy costs were $435 million in 2023 and $322 million in 2024, a decrease of $113 million. RTX does not report any transformation strategy costs in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "UPS"
+    ],
+    "evidence_section": "UPS: Item 7 (Non-GAAP Adjustments table: 2023 total $435 million, 2024 total $322 million); RTX: No evidence",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "RTX+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

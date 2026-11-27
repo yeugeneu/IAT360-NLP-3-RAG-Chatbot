@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the business structures of NEE and XEL differ based on the provided content? Specifically, what are NEE's principal businesses and how does XEL describe its own operations?",
+    "answer": "NEE's operating performance is driven by two principal businesses: FPL, which serves more than six million customer accounts in Florida and is one of the largest electric utilities in the U.S., and NEER, the world's largest generator of renewable energy from the wind and sun based on 2024 MWh produced on a net generation basis. XEL describes itself as a holding company with no business operations, whose assets consist primarily of investments in its utility subsidiaries, and whose material cash inflows are only from dividends and other payments received from its utility subsidiaries.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "XEL"
+    ],
+    "evidence_section": "NEE: Item 7, XEL: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does NEE state about its internal control over financial reporting, and what does XEL state about its use of non-GAAP financial measures? Compare the financial reporting emphasis of each company.",
+    "answer": "NEE states that management is responsible for establishing and maintaining adequate internal control over financial reporting, and that the system provides reasonable assurance that assets are safeguarded and transactions are properly recorded. XEL states that management uses non-GAAP financial measures such as ongoing ROE, ongoing earnings, and ongoing diluted EPS for financial planning, performance analysis, and communicating earnings outlook. NEE emphasizes internal control and GAAP, while XEL highlights the use of non-GAAP measures in addition to GAAP.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "XEL"
+    ],
+    "evidence_section": "NEE: Item 8, XEL: ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "NEE provides net income attributable to NEE for 2024, 2023, and 2022 in its segment table. Does XEL provide comparable net income figures for 2024 in the provided content?",
+    "answer": "No, XEL does not provide a specific net income figure for 2024 in the provided content. XEL discusses non-GAAP measures and ongoing earnings but does not disclose its GAAP net income for 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "XEL"
+    ],
+    "evidence_section": "NEE: Item 7, XEL: ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, what regulatory factors does XEL mention that can affect its utility subsidiaries' ability to pay dividends? Does NEE mention any similar regulatory constraints for FPL?",
+    "answer": "XEL states that the ability of its utility subsidiaries to make dividend and other payments is subject to the regulations of the FERC under the Federal Power Act and applicable state laws. NEE does not mention any specific regulatory constraints for FPL in the provided content (the content focuses on internal control and financial results, not regulatory limitations).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "XEL"
+    ],
+    "evidence_section": "XEL: Item 8, NEE: Items 7 and 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "NEE's net income attributable to NEE for 2024 was $6,946 million, with FPL contributing $4,543 million and NEER contributing $2,299 million. How does XEL's business segment breakdown compare, based on the provided content?",
+    "answer": "The provided content for XEL does not include a breakdown of net income by segment or subsidiary. XEL describes itself as a holding company with utility subsidiaries but does not provide segment-level financial results. Therefore, no direct comparison of segment breakdowns can be made from the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "XEL"
+    ],
+    "evidence_section": "NEE: Item 7, XEL: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both NEE and XEL discuss guarantees in their filings. What does XEL disclose about guarantees and indemnifications? Does NEE mention any similar arrangements in the provided content?",
+    "answer": "XEL discloses that it provides guarantees and bond indemnities under specified agreements or transactions, limiting exposure to a maximum stated amount, and as of Dec. 31, 2024 and 2023, it had no assets held as collateral. NEE does not mention any guarantees or indemnifications in the provided content (which covers management's report on internal control and segment results).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEE",
+      "XEL"
+    ],
+    "evidence_section": "XEL: Item 8, NEE: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEE+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

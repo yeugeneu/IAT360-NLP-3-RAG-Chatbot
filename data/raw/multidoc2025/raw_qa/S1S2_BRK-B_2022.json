@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Where is the corporate headquarters of Berkshire Hathaway located?",
+    "answer": "Omaha, Nebraska",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many employees did Berkshire Hathaway have worldwide at the end of 2021?",
+    "answer": "approximately 372,000",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many employees of Berkshire Hathaway were represented by unions at the end of 2021?",
+    "answer": "approximately 78,120 (21% of 372,000)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What types of attacks have Berkshire's information systems been subject to according to the risk factors?",
+    "answer": "computer viruses, malicious codes, unauthorized access, phishing efforts, denial-of-service attacks and other cyber-attacks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct types of cyber-attacks are explicitly listed (excluding 'other')?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many mitigation steps are mentioned that Berkshire has taken to address cyber security risks?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net earnings attributable to Berkshire Hathaway shareholders in 2019?",
+    "answer": "$81,417 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of net earnings from Railroad and Utilities and energy in 2020?",
+    "answer": "$5,161 million + $3,091 million = $8,252 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the goodwill and indefinite-lived intangible asset impairment charge in 2020?",
+    "answer": "$11.0 billion",
+    "intent": "fact",
+    "is_hybrid_modal": true,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In 2021, what was the total net earnings from the Insurance segment (underwriting and investment income combined)?",
+    "answer": "5,535 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the change in net earnings from the Railroad segment from 2019 to 2021?",
+    "answer": "Increase of $509 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of total net earnings attributable to shareholders in 2020 was contributed by the Manufacturing, service and retailing segment?",
+    "answer": "19.52%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the heading of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What specific disclosure is Item 7A referring the reader to?",
+    "answer": "“Market Risk Disclosures”",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the complete text of Item 7A as provided in the filing?",
+    "answer": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk See “Market Risk Disclosures” contained in",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the dates of the consolidated balance sheets that were audited?",
+    "answer": "December 31, 2021 and 2020",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "For how many years were the consolidated statements of earnings audited?",
+    "answer": "three years",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What criteria were used for the audit of internal control over financial reporting?",
+    "answer": "criteria established in Internal Control — Integrated Framework (2013) issued by COSO",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How much longer (in years) is the period covered by the consolidated statements of earnings compared to the consolidated balance sheets?",
+    "answer": "1 year",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of year-statement pairs audited when considering all five financial statements mentioned (balance sheets, earnings, comprehensive income, changes in equity, cash flows)?",
+    "answer": "14",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "If the balance sheets cover two years and each of the other four statements covers three years, what is the average number of years per financial statement?",
+    "answer": "2.8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BRK-B",
+    "year": "2022",
+    "sector": "Unknown",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BRK-B"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

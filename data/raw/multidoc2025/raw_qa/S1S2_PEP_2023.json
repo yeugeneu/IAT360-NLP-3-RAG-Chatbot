@@ -1,0 +1,317 @@
+[
+  {
+    "question": "In which year did PepsiCo continue to experience significantly higher operating costs?",
+    "answer": "2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What methods does PepsiCo use to manage the risk of price fluctuation for commodities?",
+    "answer": "Fixed-price contracts and purchase orders, pricing agreements and derivative instruments, including swaps and futures.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many external factors are listed that have impacted transportation, labor and commodity availability and costs?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the annual tax rate for PEP in 2023?",
+    "answer": "19.8%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between the annual tax rates in 2023 and 2022?",
+    "answer": "3.7 percentage points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are deferred tax assets?",
+    "answer": "Deferred tax assets generally represent items that can be used as a tax deduction or credit in our tax returns in future years for which we have already recorded the tax benefit on our consolidated financial statements.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of the independent registered public accounting firm mentioned in Item 7?",
+    "answer": "185",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the effective date of the Amended and Restated By-laws of PepsiCo, Inc. as shown in the Index to Exhibits?",
+    "answer": "April 15, 2020",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many consolidated financial statements are listed under Item 7?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many financial statements listed in the MD&A cover three fiscal years?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference in the number of fiscal years covered between the Consolidated Balance Sheet and the Consolidated Statement of Income?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which fiscal year is covered by the Consolidated Balance Sheet in addition to fiscal year 2023?",
+    "answer": "December 31, 2022",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the full title of Item 7A as it appears in the content?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What word immediately follows the period after 'Market Risk' in the provided text?",
+    "answer": "Included",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What punctuation mark appears immediately after the word 'in' in the phrase 'Included in'?",
+    "answer": "“",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

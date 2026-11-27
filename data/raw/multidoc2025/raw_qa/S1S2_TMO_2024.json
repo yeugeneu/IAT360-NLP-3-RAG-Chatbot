@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What year experienced significant inflationary pressures according to the filing?",
+    "answer": "2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the risks associated with international sales and operations mentioned?",
+    "answer": "Economic, political, foreign currency and other risks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many adverse effects are listed as a result of unstable economic conditions?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many colleagues were employed globally as of December 31, 2024?",
+    "answer": "approximately 125,000",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Human Capital",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the three key indices used to measure progress from the annual Employee Involvement Survey?",
+    "answer": "Leadership, Involvement and Inclusion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Human Capital",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many colleagues are not based in the Americas as of December 31, 2024?",
+    "answer": "approximately 65,000",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Human Capital",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total revenue for fiscal year 2023?",
+    "answer": "$42,857 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the adjusted operating income margin for fiscal year 2024?",
+    "answer": "22.6%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the absolute change in GAAP operating income from 2023 to 2024 in millions of dollars?",
+    "answer": "$478 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between adjusted operating income and GAAP operating income for the year 2024?",
+    "answer": "$2,370 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total of GAAP operating income and adjusted operating income for the year 2023?",
+    "answer": "$16,669 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the dollar increase in GAAP operating income from 2023 to 2024?",
+    "answer": "$478 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total estimated fair value of the company's debt at December 31, 2024?",
+    "answer": "$28.53 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many currencies are mentioned as being hedged by the company's currency-exchange contracts?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does the company enter into speculative derivative agreements?",
+    "answer": "No",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the page number of the Consolidated Balance Sheets as of December 31, 2024 and 2023?",
+    "answer": "33",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "INDEX OF CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of the independent registered public accounting firm mentioned in the report?",
+    "answer": "238",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many notes to consolidated financial statements are listed in the Index?",
+    "answer": "15",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "INDEX OF CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the Consolidated Balance Sheets and the Consolidated Statements of Cash Flows?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX OF CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for Note 1 and Note 15?",
+    "answer": "110",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX OF CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average of the page numbers for the Consolidated Statements of Income, Consolidated Statements of Comprehensive Income, and Consolidated Statements of Cash Flows?",
+    "answer": "35",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX OF CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TMO",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TMO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

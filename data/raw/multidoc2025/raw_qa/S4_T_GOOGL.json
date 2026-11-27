@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the reportable segments of T and the main revenue categories of GOOGL?",
+    "answer": "According to T's Item 7, its two reportable segments are Communications and Latin America. According to GOOGL's Item 8, its revenues are categorized into Google Services (which includes Google advertising and Google subscriptions, platforms, and devices), Google Cloud, and Other Bets.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "GOOGL"
+    ],
+    "evidence_section": "T Item 7; GOOGL Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does T's Latin America segment performance compare to GOOGL's international exposure?",
+    "answer": "T's Latin America segment reported operating revenue of $4,232 million and operating income of $40 million (Item 7). GOOGL's Item 8 lists 'changes in foreign currency exchange rates' as a factor affecting its revenues, indicating international exposure without quantifying segment-specific performance.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "GOOGL"
+    ],
+    "evidence_section": "T Item 7; GOOGL Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare T's use of discontinued operations with GOOGL's presentation of continuing operations.",
+    "answer": "T's financial statements include discontinued operations consisting of WarnerMedia, Vrio, Xandr, and Playdemic (Item 7). GOOGL's provided content does not mention any discontinued operations; it discusses only continuing operations under Item 8.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "GOOGL"
+    ],
+    "evidence_section": "T Item 7; GOOGL Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the main risks to T's business (from the provided content) and GOOGL's business?",
+    "answer": "T's Item 8 shows significant asset impairments and abandonments and restructuring charges of $5,075 million. GOOGL's Item 7 details risks related to intellectual property, including potential loss of trademark protection for 'Google' and insufficient patent protection.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "GOOGL"
+    ],
+    "evidence_section": "T Item 8; GOOGL Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the revenue streams of T's Communications segment with GOOGL's advertising business.",
+    "answer": "T's Communications segment revenue for 2024 was $117,652 million (Item 7). GOOGL's advertising revenues are part of Google Services and include Google Search & other, YouTube ads, and Google Network (Item 8). The provided content does not include numeric revenue for GOOGL's advertising.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "GOOGL"
+    ],
+    "evidence_section": "T Item 7; GOOGL Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the strategic actions of T (combining WarnerMedia) compare to GOOGL's focus on intellectual property?",
+    "answer": "T closed a transaction to combine substantially all of its WarnerMedia segment with Discovery and reported it as discontinued operations (Item 7). GOOGL's Item 7 emphasizes protecting intellectual property rights as valuable assets, noting risks such as trademark genericide for 'Google' and inadequate patent protection.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "GOOGL"
+    ],
+    "evidence_section": "T Item 7; GOOGL Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

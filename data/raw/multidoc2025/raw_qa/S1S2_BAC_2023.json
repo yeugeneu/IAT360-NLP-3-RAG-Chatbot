@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What specific government program is mentioned in connection with litigation risks related to the COVID-19 pandemic?",
+    "answer": "the processing of unemployment benefits for California and certain other states",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what are some of the potential consequences from litigation and regulatory actions?",
+    "answer": "potential judgments, orders, settlements, penalties, fines and reputational damage",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What risks are associated with the discontinuation of reference rates?",
+    "answer": "increased expenses and litigation and the effectiveness of hedging strategies",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What types of competitors does Bank of America face according to the MD&A?",
+    "answer": "banks, thrifts, credit unions, investment banking firms, investment advisory firms, brokerage firms, investment companies, insurance companies, mortgage banking companies, credit card issuers, mutual fund companies, hedge funds, private equity firms, and e-commerce and other internet-based companies, including merchant banks and companies providing nonbank financial services",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) and Note 23 – Business Segment Information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What factors does competition base on according to the MD&A?",
+    "answer": "customer service and convenience, the pricing, quality and range of products and services offered, lending limits, the quality and delivery of our technology and our reputation, experience and relationships in relevant markets",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) and Note 23 – Business Segment Information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which committee of the Board provides oversight of human capital management strategies?",
+    "answer": "Compensation and Human Capital Committee",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) and Note 23 – Business Segment Information",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many distinct categories of competitors are explicitly listed in the competition description?",
+    "answer": "14",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many factors are listed as bases for competition?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many entities or groups are mentioned as providing oversight of human capital management?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What page in the MD&A is referenced for Market Risk Management?",
+    "answer": "page 73",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the exact title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures about Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to Item 7A, where can the Quantitative and Qualitative Disclosures about Market Risk be found?",
+    "answer": "Market Risk Management on page 73 in the MD&A and the sections referenced therein",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many notes are listed in the Table of Contents of Item 8?",
+    "answer": "25",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On what page does Note 5 begin?",
+    "answer": "114",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for Note 1 and Note 25?",
+    "answer": "262",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the starting page numbers for Notes 1, 2, and 3?",
+    "answer": "299",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the average starting page number for Notes 11 through 15?",
+    "answer": "138.8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between the starting page of Note 25 and the starting page of Note 23?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the set of non-GAAP financial measures reported by Microsoft change across fiscal years 2022, 2023, and 2024?",
+    "answer": "In FY2022, the non-GAAP measures were adjusted net income and adjusted diluted EPS, excluding the net tax benefit from the transfer of intangible properties and the net income tax benefit from an India Supreme Court decision. In FY2023, the non-GAAP measures expanded to include adjusted gross margin, adjusted operating income, adjusted net income, and adjusted diluted EPS, excluding a Q2 charge for employee severance, hardware-related impairment, and lease consolidation costs. In FY2024, the same four non-GAAP measures were reported, but no adjustments were made (all exclusion amounts were zero).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "MSFT"
+    ]
+  },
+  {
+    "question": "What were the primary unresolved issues for IRS audits as of June 30, 2022 and June 30, 2023?",
+    "answer": "Both as of June 30, 2022 and June 30, 2023, the primary unresolved issues for the IRS audits relate to transfer pricing.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "MSFT"
+    ]
+  },
+  {
+    "question": "How did the reported GAAP net income compare between fiscal years 2023 and 2024?",
+    "answer": "GAAP net income for FY2023 was $72,361 million and for FY2024 was $88,136 million, an increase of 22%.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "MSFT"
+    ]
+  },
+  {
+    "question": "What was the trend in the range of tax years under audit by the IRS as stated in the FY2022 and FY2023 filings?",
+    "answer": "In both FY2022 and FY2023, Microsoft stated it remained under audit for tax years 2004 to 2017. The range did not change between the two years.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "MSFT"
+    ]
+  },
+  {
+    "question": "How did the cash, cash equivalents, and short-term investments change from June 30, 2023 to June 30, 2024?",
+    "answer": "Cash, cash equivalents, and short-term investments totaled $111.3 billion as of June 30, 2023 and $75.5 billion as of June 30, 2024, a decrease of $35.8 billion.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "MSFT",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "MSFT"
+    ]
+  },
+  {
+    "question": "What were the non-GAAP adjustments applied to net income in each of the three fiscal years, and how did they change?",
+    "answer": "In FY2022, adjusted net income excluded a net tax benefit related to the transfer of intangible properties and a net income tax benefit from an India Supreme Court decision. In FY2023, adjusted net income excluded $946 million of severance, hardware-related impairment, and lease consolidation costs (and prior-year comparisons also excluded the FY2022 tax benefits). In FY2024, no adjustments were made; the non-GAAP net income equaled GAAP net income of $88,136 million.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "MSFT",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "MSFT"
+    ]
+  }
+]

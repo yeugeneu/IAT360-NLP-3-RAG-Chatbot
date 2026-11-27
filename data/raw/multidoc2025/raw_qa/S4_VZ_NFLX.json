@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary strategic focuses of Verizon and Netflix according to their FY2024 10-K filings?",
+    "answer": "Verizon focuses on deploying new network architecture and technologies to secure leadership in 5G and 4G wireless networks, with significant capital investments in C-Band spectrum, millimeter wave spectrum, fiber infrastructure, and advanced IT systems. Netflix focuses on growing paid memberships and streaming revenues, as evidenced by its reporting of paid net membership additions (41,350 thousand), average monthly revenue per paying membership ($11.70), and a 16% increase in streaming revenues to $39,000,966 thousand.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "NFLX"
+    ],
+    "evidence_section": "VZ Item 7; NFLX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+NFLX",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the auditor reports for Verizon and Netflix differ in their opinions on internal control over financial reporting?",
+    "answer": "Both auditor reports express unqualified opinions on internal control over financial reporting. For Verizon, the auditor (unnamed in the excerpt) states that Verizon maintained effective internal control over financial reporting as of December 31, 2024, based on COSO criteria. For Netflix, the auditor (PCAOB ID: 42) states that Netflix maintained effective internal control over financial reporting as of December 31, 2024, based on COSO criteria. There is no difference in the type of opinion expressed.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "NFLX"
+    ],
+    "evidence_section": "VZ Item 8; NFLX Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+NFLX",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What key financial metrics does Netflix report in its FY2024 results, and what does Verizon highlight in its 'Highlights of Our 2024 Financial Results'?",
+    "answer": "Netflix reports streaming revenues of $39,000,966 thousand, total revenues of $39,000,966 thousand, operating income of $10,417,614 thousand, operating margin of 27%, paid net membership additions of 41,350 thousand, and paid memberships at end of period of 301,626 thousand. Verizon states 'Highlights of Our 2024 Financial Results (dollars in millions)' but provides no specific numerical figures in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "NFLX"
+    ],
+    "evidence_section": "VZ Item 7; NFLX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+NFLX",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the business model of Verizon (communications technology) contrast with Netflix (streaming entertainment) based on the provided content?",
+    "answer": "Verizon is a holding company that provides communications, technology, information, and streaming products and services to consumers, businesses, and government entities, with a focus on data, video, and voice services over its networks, emphasizing network quality as the hallmark of its brand. Netflix is a streaming entertainment service provider that derives revenues from streaming memberships, with a focus on growing paid memberships globally and maximizing average monthly revenue per paying membership. Verizon's strategy requires significant capital investments in wireless spectrum and fiber, while Netflix's strategy centers on content and subscriber growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "NFLX"
+    ],
+    "evidence_section": "VZ Item 7; NFLX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+NFLX",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company mentions investments in C-Band spectrum and 5G networks, and which mentions investments in paid membership growth?",
+    "answer": "Verizon mentions investments in C-Band spectrum, millimeter wave spectrum, and 5G/4G network leadership. Specifically, it states: 'We believe that our C-Band spectrum, together with our industry leading millimeter wave spectrum holdings and our 4G LTE network and fiber infrastructure, will drive innovative products and services and fuel our growth.' Netflix mentions investments in paid membership growth, as shown by its reporting of 'Paid net membership additions 41,350' and a 40% change vs. 2023.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "NFLX"
+    ],
+    "evidence_section": "VZ Item 7; NFLX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+NFLX",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the reported operating margins and revenue figures for Netflix in FY2024 with Verizon's description of its competitive advantage.",
+    "answer": "Netflix reports a 27% operating margin and total revenues of $39,000,966 thousand for FY2024, with streaming revenues growing 16% year-over-year. Verizon describes its competitive advantage as 'the hallmark of our brand and the foundation for the connectivity, platforms and solutions upon which we build our competitive advantage' and highlights its network quality, but does not provide specific revenue or margin figures in the excerpt. The comparison indicates Netflix provides explicit financial performance metrics, whereas Verizon emphasizes qualitative network leadership without disclosing numerical results in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "NFLX"
+    ],
+    "evidence_section": "VZ Item 7; NFLX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+NFLX",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

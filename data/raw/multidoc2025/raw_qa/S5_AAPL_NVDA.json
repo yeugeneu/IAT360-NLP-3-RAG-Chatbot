@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What was the increase in total net sales for AAPL in fiscal 2022 compared to fiscal 2021, and what was the increase in net sales for NVDA in fiscal 2024 compared to its prior fiscal year, based on the provided content?",
+    "answer": "AAPL's total net sales increased by $28.5 billion (8%) in fiscal 2022 compared to fiscal 2021. The provided content for NVDA's fiscal 2024 does not include any numerical data on net sales changes.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AAPL",
+      "NVDA"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AAPL: Item 7 – Fiscal Year Highlights – \"Total net sales increased 8% or $28.5 billion during 2022 compared to 2021.\" NVDA: provided content contains only references to Item 7 of Form 10-K filings with no numerical data.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "AAPL+NVDA",
+    "sector": "Information Technology"
+  },
+  {
+    "question": "Using the provided content, calculate AAPL's total net sales for fiscal year 2022 from the given increase data, and determine if any corresponding numerical evidence of net sales or growth is provided in the NVDA 2022 and 2024 snippets.",
+    "answer": "AAPL's total net sales for fiscal 2022 can be calculated as follows: the increase of $28.5 billion represents an 8% growth over fiscal 2021. Thus, fiscal 2021 net sales = $28.5 billion / 0.08 = $356.25 billion, and fiscal 2022 net sales = $356.25 billion + $28.5 billion = $384.75 billion. The NVDA 2022 and 2024 snippets contain no numerical evidence of net sales or growth rates.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AAPL",
+      "NVDA"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AAPL 2022 snippet: 'Total net sales increased 8% or $28.5 billion during 2022 compared to 2021.' No numerical evidence in NVDA snippets.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "AAPL+NVDA",
+    "sector": "Information Technology"
+  },
+  {
+    "question": "Based on the provided content, what was the total net sales increase for AAPL in fiscal 2022, and what were the corresponding numerical figures for NVDA in fiscal 2022 and fiscal 2024?",
+    "answer": "AAPL's total net sales increased 8% or $28.5 billion during fiscal 2022 compared to 2021. The provided content for NVDA fiscal 2022 only states 'The following table sets forth' with no numerical data, and NVDA fiscal 2024 provides only a reference to a table without any numbers. Therefore, no numerical evidence is available for NVDA in either year from the given snippets.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AAPL",
+      "NVDA"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "AAPL+NVDA",
+    "sector": "Information Technology"
+  }
+]

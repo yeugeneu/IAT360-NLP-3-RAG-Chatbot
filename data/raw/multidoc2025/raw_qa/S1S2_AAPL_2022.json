@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What operating system is used by the iPhone line?",
+    "answer": "iOS",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many models are listed under the iPad line?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the definition of the Company's fiscal year?",
+    "answer": "the 52- or 53-week period that ends on the last Saturday of September",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What regions are listed as locations where substantially all of the Company's manufacturing is performed by outsourcing partners?",
+    "answer": "Asia, including China mainland, India, Japan, South Korea, Taiwan and Vietnam.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the risk factor, what can tariffs on imports from China mainland do to the Company's products and components?",
+    "answer": "Tariffs increase the cost of the Company’s products and the components and raw materials that go into making them.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many countries or regions are explicitly mentioned as locations where the Company's outsourcing partners are primarily located?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total net sales increase in dollars during fiscal 2022 compared to fiscal 2021?",
+    "answer": "$28.5 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total amount of capital returned to shareholders through share repurchases and dividends in fiscal 2022?",
+    "answer": "$105.0 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By how much did Apple increase its share repurchase program authorization in April 2022?",
+    "answer": "$90 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the percentage increase in the share repurchase authorization from $315 billion to $405 billion?",
+    "answer": "28.57%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the percentage increase in the quarterly dividend per share from $0.22 to $0.23?",
+    "answer": "4.55%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total cash returned to shareholders in fiscal 2022 through share repurchases and dividends, and how does it compare to the year-over-year increase in total net sales?",
+    "answer": "Total cash returned is $105.0 billion ($90.2 billion repurchases + $14.8 billion dividends). The net sales increase was $28.5 billion, so cash returned is $76.5 billion more than the net sales increase.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the primary objective of the Company's investment policy and strategy?",
+    "answer": "preservation of capital",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which country's interest rate fluctuations most affect the Company?",
+    "answer": "U.S. interest rates",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many types of risk management instruments are mentioned in the first sentence of the content?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What were Apple's total net sales for the fiscal year ended September 24, 2022?",
+    "answer": "$394,328 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the gross margin as a percentage of total net sales for fiscal year 2022?",
+    "answer": "43.3%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the absolute change in operating income from fiscal year 2021 to 2022?",
+    "answer": "$10,488 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was Apple's gross margin percentage for the fiscal year ended September 24, 2022?",
+    "answer": "43.32%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the percentage change in total net sales from fiscal 2020 to fiscal 2022?",
+    "answer": "43.65%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of total net sales was attributable to Services in fiscal 2022?",
+    "answer": "19.82%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

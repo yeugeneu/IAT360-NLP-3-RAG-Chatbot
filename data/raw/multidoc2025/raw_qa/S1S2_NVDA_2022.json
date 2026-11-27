@@ -1,0 +1,380 @@
+[
+  {
+    "question": "According to the text, what did the GPU initially simulate?",
+    "answer": "human imagination",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct end markets are explicitly listed in the text?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does NVIDIA's platform strategy bring together?",
+    "answer": "hardware and systems, software, algorithms and libraries, and services",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the four large markets that NVIDIA's accelerated computing platforms address?",
+    "answer": "Gaming, Data Center, Professional Visualization, and Automotive",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what must NVIDIA be able to do to maintain customer and end user satisfaction?",
+    "answer": "manage product, software, and service lifecycles",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does NVIDIA state is needed to scale its business, including related to acquisitions, customer support, e-commerce and IP licensing capabilities?",
+    "answer": "develop infrastructure",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the Graphics segment revenue in fiscal year 2022?",
+    "answer": "$15,868 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How much did the net income percentage increase from fiscal year 2021 to fiscal year 2022?",
+    "answer": "10.2 percentage points (from 26.0% to 36.2%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What drove the increase in Compute & Networking segment revenue in fiscal year 2022, and what was its revenue amount?",
+    "answer": "Sales of NVIDIA Ampere architecture products to hyperscale customers; $11,046 million",
+    "intent": "fact",
+    "is_hybrid_modal": true,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in net income as a percentage of revenue between fiscal year 2022 and fiscal year 2021?",
+    "answer": "10.2 percentage points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of research and development expense percentage to sales, general and administrative expense percentage in fiscal year 2022?",
+    "answer": "2.45",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the percentage of total revenue contributed by the Compute & Networking segment in fiscal year 2022?",
+    "answer": "41.0%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How much senior notes did NVIDIA have outstanding as of January 30, 2022?",
+    "answer": "$11.00 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the decrease in fair value of investments assuming a 0.5% increase in interest rates according to the sensitivity analysis?",
+    "answer": "$33 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the absolute difference between the potential decrease and increase in fair value from the interest rate sensitivity analysis?",
+    "answer": "$11 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was NVIDIA's total revenue for fiscal year 2022 as reported in the income statement?",
+    "answer": "$26,914 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the net profit margin for fiscal year 2022, calculated using net income and total revenue from the income statement?",
+    "answer": "36.2%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the current ratio as of January 30, 2022, calculated from current assets and current liabilities on the balance sheet?",
+    "answer": "4.60",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "NVDA",
+    "year": "2022",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

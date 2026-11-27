@@ -1,0 +1,134 @@
+[
+  {
+    "question": "In KO's FY2022 brand list, the water, sports, coffee and tea category includes 'Ciel' but not 'Crystal'. In KO's FY2024 brand list, 'Crystal' appears in that same category. How does this brand addition compare to any new additions in PEP's list of financial statements from FY2022 to FY2024?",
+    "answer": "KO FY2022 water category: Aquarius, Ayataka, BODYARMOR, Ciel, Costa, Dasani, doğadan, FUZE TEA, Georgia, glacéau smartwater, glacéau vitaminwater, Gold Peak, Ice Dew, I LOHAS, Powerade, Topo Chico. KO FY2024 water category: Aquarius, Ayataka, BODYARMOR, Ciel, Costa, Crystal, Dasani, doğadan, Fuze Tea, Georgia, glacéau smartwater, glacéau vitaminwater, Gold Peak, I LOHAS, Powerade, Topo Chico. 'Crystal' is new in FY2024. PEP's FY2022 Item 8 lists Consolidated Statement of Income, Consolidated Statement of Comprehensive Income, Consolidated Statement of Cash Flows, Consolidated Balance Sheet, Consolidated Statement of Equity, Notes to Consolidated Financial Statements, and Report of Independent Registered Public Accounting Firm. PEP's FY2024 Item 8 lists the same set with no new additions.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "KO",
+      "PEP"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "KO FY2022 Item 7 brand list, KO FY2024 Item 7 brand list, PEP FY2022 Item 8, PEP FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "KO+PEP",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "In KO FY2024 Item 7, the juice, value-added dairy and plant-based beverages category includes 'Core Power' and 'Maaza' which were not listed in KO FY2022. On which page does the Consolidated Statement of Cash Flows appear in PEP FY2024?",
+    "answer": "KO FY2024 adds 'Core Power' and 'Maaza' to the juice, value-added dairy and plant-based beverages category (FY2022 included AdeS, Del Valle, fairlife, innocent, Minute Maid, Minute Maid Pulpy, Simply). PEP FY2024 Consolidated Statement of Cash Flows appears on page 65 per its Item 8 table of contents.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "KO",
+      "PEP"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "KO FY2022 Item 7 brand list, KO FY2024 Item 7 brand list, PEP FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "KO+PEP",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "How many individual sparkling soft drink brands does KO list in its FY2022 Item 7, and how does that number compare to the count of financial statement items (excluding page numbers) listed under PEP's FY2022 Item 8?",
+    "answer": "KO FY2022 sparkling soft drinks: Coca-Cola, Diet Coke/Coca-Cola Light, Coca-Cola Zero Sugar, Fanta, Fresca, Schweppes, Sprite, Thums Up — 8 brands. PEP FY2022 Item 8 lists: Consolidated Statement of Income, Consolidated Statement of Comprehensive Income, Consolidated Statement of Cash Flows, Consolidated Balance Sheet, Consolidated Statement of Equity, Notes to Consolidated Financial Statements, Report of Independent Registered Public Accounting Firm — 7 items.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "KO",
+      "PEP"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "KO FY2022 Item 7 brand list, PEP FY2022 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "KO+PEP",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "In KO FY2024, the brand 'Crystal' appears in the water, sports, coffee and tea category but was absent in FY2022. Does PEP FY2024 Item 8 include any financial statement that was not present in PEP FY2022 Item 8? Cite the relevant sections from both years.",
+    "answer": "KO FY2024 adds 'Crystal' to water, sports, coffee and tea (absent in FY2022). PEP FY2024 Item 8 lists exactly the same financial statements as PEP FY2022 Item 8: Consolidated Statement of Income, Consolidated Statement of Comprehensive Income, Consolidated Statement of Cash Flows, Consolidated Balance Sheet, Consolidated Statement of Equity, Notes to Consolidated Financial Statements, and Report of Independent Registered Public Accounting Firm. No new financial statement was added.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "KO",
+      "PEP"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "KO FY2022 Item 7, KO FY2024 Item 7, PEP FY2022 Item 8, PEP FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "KO+PEP",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "Identify one brand that appears in KO FY2022's juice, value-added dairy and plant-based beverages category but is not listed in the same category in KO FY2024. Then, state the page number on which PEP FY2022's Consolidated Balance Sheet begins.",
+    "answer": "The brand 'AdeS' appears in KO FY2022's juice category but not in KO FY2024's juice category. In PEP FY2022 Item 8, the list of financial statements includes 'Consolidated Balance Sheet – December 31, 2022 and December 25, 2021' and does not include any new statement compared to FY2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "KO",
+      "PEP"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "KO FY2022 Item 7 brand list, KO FY2024 Item 7 brand list, PEP FY2022 Item 8, PEP FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "KO+PEP",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "In KO FY2024, which two brands are newly added to the juice, value-added dairy and plant-based beverages category compared to KO FY2022? Additionally, compare the total number of financial statement items (including the report of independent auditors) in PEP FY2022 Item 8 with the number in PEP FY2024 Item 8.",
+    "answer": "KO FY2024 adds 'Core Power' and 'Maaza' to the juice category (FY2022 had AdeS, Del Valle, fairlife, innocent, Minute Maid, Minute Maid Pulpy, Simply). PEP FY2022 Item 8 lists 7 items (Consolidated Statement of Income, Comprehensive Income, Cash Flows, Balance Sheet, Equity, Notes, Report). PEP FY2024 Item 8 also lists the same 7 items, so the count is identical.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "KO",
+      "PEP"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "KO FY2022 Item 7, KO FY2024 Item 7, PEP FY2022 Item 8, PEP FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "KO+PEP",
+    "sector": "Consumer Staples"
+  }
+]

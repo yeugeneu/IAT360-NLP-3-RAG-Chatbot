@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the revenue growth percentage at Disney from FY2023 to FY2024 with the unchanged intellectual property risk statement in Alphabet's FY2022 and FY2024 filings. What was Disney's revenue for FY2024, and what percentage increase does that represent if the prior year revenue was $88.74 billion?",
+    "answer": "Disney's FY2024 revenue was $91.4 billion. Given a 3% increase, the prior year revenue was approximately $88.74 billion ($91.4 / 1.03). The percentage increase is 3%. Alphabet's intellectual property risk statement was identical in FY2022 and FY2024, indicating no change in that risk factor over those two years.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GOOGL",
+      "DIS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GOOGL FY2022 and FY2024 Item 7; DIS FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GOOGL+DIS",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "From Disney's FY2024 filing, service revenues were $81.8 billion, representing what percentage of total revenues? How does this reliance on service-based revenue relate to Alphabet's risk that 'effective intellectual property protection may not be available in every country' as stated in both FY2022 and FY2024?",
+    "answer": "Disney's service revenues of $81.8 billion divided by total revenues of $91.4 billion equals 89.5%. Alphabet's risk that IP protection may not be available in every country directly threatens service-based revenue streams, which constitute a majority of Disney's revenue. This risk remained the same in both FY2022 and FY2024 filings.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GOOGL",
+      "DIS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GOOGL FY2022 and FY2024 Item 7; DIS FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GOOGL+DIS",
+    "sector": "Communication Services"
+  },
+  {
+    "question": "Disney's diluted earnings per share (EPS) from continuing operations increased from $1.29 in FY2023 to $2.72 in FY2024. Calculate the percentage increase. In contrast, Alphabet's IP risk factor remained constant from FY2022 to FY2024. How might the lack of change in Alphabet's risk disclosure affect the comparative attractiveness of these two stocks based on the EPS growth shown?",
+    "answer": "The percentage increase in Disney's diluted EPS is ($2.72 - $1.29) / $1.29 = 110.9%. Alphabet's unchanged IP risk disclosure suggests a static risk profile, which, when compared to Disney's strong EPS growth, could make Disney stock relatively more attractive if the IP risk were to materialize for Alphabet. This comparison uses the EPS data from Disney's FY2024 filing and the identical risk statement from Alphabet's FY2022 and FY2024 filings.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GOOGL",
+      "DIS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GOOGL FY2022 and FY2024 Item 7; DIS FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GOOGL+DIS",
+    "sector": "Communication Services"
+  }
+]

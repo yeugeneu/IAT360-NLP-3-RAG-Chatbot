@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company explicitly identifies its independent registered public accounting firm by name in the provided excerpts, and what is the PCAOB ID of that firm?",
+    "answer": "ExxonMobil (XOM) explicitly identifies PricewaterhouseCoopers LLP (PCAOB ID 238). Valero (VLO) does not name its auditor in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XOM",
+      "VLO"
+    ],
+    "evidence_section": "XOM: ITEM 8 – 'Report of Independent Registered Public Accounting Firm' – 'PricewaterhouseCoopers LLP (PCAOB ID 238)'; VLO: ITEM 8 – Report of Independent Registered Public Accounting Firm (no name given).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XOM+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company’s management includes a statement on the effectiveness of internal control over financial reporting in the provided excerpts, and what framework did they use?",
+    "answer": "Valero (VLO) management states internal control over financial reporting was effective based on the criteria in Internal Control – Integrated Framework (2013) issued by COSO. ExxonMobil (XOM) does not include a management report on internal control in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XOM",
+      "VLO"
+    ],
+    "evidence_section": "VLO: ITEM 8 – 'Management’s Report on Internal Control Over Financial Reporting' – 'criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Management believes that as of December 31, 2024, our internal control over financial reporting was effective.' XOM: no equivalent mention.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XOM+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a cautionary statement regarding forward-looking statements, and which statutory safe harbor provisions does it reference?",
+    "answer": "Valero (VLO) includes a 'Cautionary Statement for the Purpose of Safe Harbor Provisions of the Private Securities Litigation Reform Act of 1995' and references Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. ExxonMobil (XOM) does not include such a statement in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XOM",
+      "VLO"
+    ],
+    "evidence_section": "VLO: ITEM 7 – 'Cautionary Statement...' – 'within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.' XOM: no such statement.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XOM+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes supplemental information on oil and gas exploration and production activities as part of its financial reporting in the provided excerpt?",
+    "answer": "ExxonMobil (XOM) includes 'Supplemental Information on Oil and Gas Exploration and Production Activities' (unaudited) as indicated in ITEM 8. Valero (VLO) does not mention such supplemental information in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XOM",
+      "VLO"
+    ],
+    "evidence_section": "XOM: ITEM 8 – 'Supplemental Information on Oil and Gas Exploration and Production Activities (unaudited)'. VLO: no equivalent section.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XOM+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company’s audit report explicitly states that the financial statements present fairly 'in all material respects' and which fiscal years are covered in the balance sheet audit for Valero?",
+    "answer": "Both companies have audit reports with unqualified opinions. For ExxonMobil, the reference is to its consolidated financial statements beginning with the report. For Valero, the independent auditor's opinion states the consolidated balance sheets as of December 31, 2024 and 2023 are presented fairly. VLO explicitly covers two years for balance sheets; XOM’s excerpt does not specify the years covered.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XOM",
+      "VLO"
+    ],
+    "evidence_section": "XOM: ITEM 8 – 'consolidated financial statements, together with the report...'; VLO: ITEM 8 – 'We have audited the accompanying consolidated balance sheets of Valero Energy Corporation and subsidiaries as of December 31, 2024 and 2023...'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XOM+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company mentions that its independent registered public accounting firm has issued an attestation report on the effectiveness of internal control over financial reporting?",
+    "answer": "Valero (VLO) states that its independent registered public accounting firm has issued an attestation report on the effectiveness of internal control over financial reporting, which begins on page 68. ExxonMobil (XOM) does not mention an attestation report on internal control in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XOM",
+      "VLO"
+    ],
+    "evidence_section": "VLO: ITEM 8 – 'Our independent registered public accounting firm has issued an attestation report on the effectiveness of our internal control over financial reporting, which begins on page 68 of this report.' XOM: no such mention.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XOM+VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

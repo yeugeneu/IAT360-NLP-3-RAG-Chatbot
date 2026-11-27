@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What was the total AUM for ETFs as of December 31, 2023?",
+    "answer": "$3,499,299 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Component Changes in AUM for 2023",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between the December 31, 2023 AUM and the full year average AUM for the Retail subtotal?",
+    "answer": "$43,380 million (929,697 - 886,317)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Component Changes in AUM for 2023",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the market change impact for Institutional Index Equity in 2023?",
+    "answer": "$401,047 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Component Changes in AUM for 2023",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the two primary components of BlackRock's investment management revenue?",
+    "answer": "fees based on a percentage of the value of AUM and, in some cases, performance fees which are normally expressed as a percentage of returns to the client.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "List the potential consequences mentioned that could result from changes in asset market values.",
+    "answer": "the value of AUM, or BlackRock's returns on AUM, to decrease; client redemptions from BlackRock’s products; client rebalancing or reallocating of assets into BlackRock products that yield lower fees; an impairment to the value of intangible assets and goodwill; or a decrease in the value of seed or co-investment capital.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many potential consequences are listed that could result from changes in asset market values?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of Aladdin's revenue was denominated in non-US currencies?",
+    "answer": "Approximately 25%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Non-GAAP Financial Measures",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many minority investments are listed in the content?",
+    "answer": "10",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Non-GAAP Financial Measures",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of assets does the majority of positions managed on the Aladdin platform consist of?",
+    "answer": "Fixed income",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Non-GAAP Financial Measures",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of Aladdin's revenue was denominated in US currencies?",
+    "answer": "approximately 75%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many minority investments are listed by BlackRock in the paragraph?",
+    "answer": "10",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between the percentage of non-US currency revenue and the percentage of US currency revenue?",
+    "answer": "50 percentage points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are BlackRock's investment advisory and administration fees primarily comprised of?",
+    "answer": "fees based on a percentage of the value of AUM and, in some cases, performance fees expressed as a percentage of the returns realized on AUM.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What three types of market risks is BlackRock exposed to associated with its corporate investments?",
+    "answer": "equity market price risk, interest rate/credit spread risk and foreign exchange rate risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the purpose of BlackRock's seed capital hedging program?",
+    "answer": "to hedge exposure to certain deferred cash compensation plans or for regulatory purposes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the GBP amount for the Preqin acquisition?",
+    "answer": "£2.55 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many SubCo Units and RSUs will be paid at closing for the HPS acquisition?",
+    "answer": "Approximately 9.2 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total maximum number of units (SubCo Units and RSUs) that could be delivered for the HPS acquisition under all scenarios?",
+    "answer": "13.7 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of SubCo Units that BlackRock could potentially pay for the HPS acquisition, including all guaranteed payments and potential additional consideration?",
+    "answer": "13.7 million SubCo Units (9.2 million at closing + 2.9 million in five years + up to 1.6 million additional)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the approximate GBP/USD exchange rate used to convert the Preqin acquisition price of £2.55 billion to approximately $3.2 billion?",
+    "answer": "Approximately 1.255 USD/GBP ($3.2 billion divided by £2.55 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By how many SubCo Units does the guaranteed payment due in approximately five years exceed the potential additional consideration?",
+    "answer": "1.3 million SubCo Units (2.9 million minus 1.6 million)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BLK",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BLK"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

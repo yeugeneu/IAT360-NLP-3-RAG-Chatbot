@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Calculate the difference between the number of distinct fiscal years mentioned in UNH's omitted year-over-year comparison discussions across its 2022 and 2024 Form 10-Ks and the number of distinct fiscal years mentioned in PFE's MD&A introductions for its 2022 and 2024 Form 10-Ks.",
+    "answer": "UNH's 2022 Form 10-K states 'Discussions of year-over-year comparisons between 2021 and 2020 are not included' (years 2021 and 2020). UNH's 2024 Form 10-K states 'Discussions of year-over-year comparisons between 2023 and 2022 are not included' (years 2023 and 2022). Distinct years for UNH: 2020, 2021, 2022, 2023 = 4 years. PFE's 2022 MD&A introduction states 'The following MD&A is intended to assist the reader in understanding our financial condition and results of operations' without mentioning specific years. PFE's 2024 MD&A introduction is identical. Therefore, distinct years for PFE = 0. Difference = 4 - 0 = 4.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UNH",
+      "PFE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "UNH 2022: 'Discussions of year-over-year comparisons between 2021 and 2020 are not included'; UNH 2024: 'Discussions of year-over-year comparisons between 2023 and 2022 are not included'; PFE 2022: 'The following MD&A is intended to assist the reader...' (no years); PFE 2024: same as PFE 2022.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "UNH+PFE",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "Calculate the compound annual growth rate (CAGR) of total revenues for UNH and PFE from 2022 to 2024 using the revenue figures reported in their respective 10-K filings. Which company had a higher CAGR?",
+    "answer": "For UNH: 2022 total revenues = $324,162 million, 2024 total revenues = $400,900 million. CAGR = (400900/324162)^(1/2) - 1 = 0.1124 or 11.24%. For PFE: 2022 total revenues = $100,330 million, 2024 total revenues = $63,600 million. CAGR = (63600/100330)^(1/2) - 1 = -0.2044 or -20.44%. UNH had a higher CAGR of 11.24% compared to PFE's negative CAGR of -20.44%.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UNH",
+      "PFE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "UNH+PFE",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "Calculate and compare the percentage change in total revenues from fiscal year 2022 to fiscal year 2024 for UnitedHealth Group (UNH) and Pfizer (PFE).",
+    "answer": "UnitedHealth Group total revenues were $324.2 billion in 2022 and $400.3 billion in 2024, representing a 23.5% increase. Pfizer total revenues were $100.3 billion in 2022 and $55.3 billion in 2024, representing a 44.9% decrease. Therefore, UNH experienced significant revenue growth while PFE saw a substantial decline over the two-year period.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UNH",
+      "PFE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "UNH+PFE",
+    "sector": "Healthcare"
+  }
+]

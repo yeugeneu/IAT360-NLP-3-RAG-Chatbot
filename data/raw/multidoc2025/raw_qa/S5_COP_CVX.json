@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the net income attributable to ConocoPhillips for fiscal year 2022 with Chevron's net income for fiscal year 2022. Use the numerical data from the financial tables and the Management’s Discussion and Analysis sections provided in the 10-K filings. What are the values and what key differences in presentation are evident?",
+    "answer": "Based on the provided content, ConocoPhillips reports a net income attributable to ConocoPhillips of $18,68? million (truncated) for 2022 in its segment table. For Chevron, only the header of Item 7 (Management’s Discussion and Analysis) is provided for fiscal year 2022, containing no numerical table or income data. Therefore, no numerical comparison of net income between the two companies for 2022 is possible from the given excerpts; the difference in presentation is that ConocoPhillips includes a detailed segment income table while Chevron’s excerpt lacks any financial data.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "COP",
+      "CVX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "COP FY2022 Item 8 (segment table) and CVX FY2022 Item 7 (header text)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "COP+CVX",
+    "sector": "Energy"
+  },
+  {
+    "question": "Analyze the trend in ConocoPhillips' Alaska segment net income from 2022 to 2024 and contrast it with Chevron's upstream performance over the same years. Use both the narrative descriptions in Item 7 and the financial tables to support your answer.",
+    "answer": "From the provided content, ConocoPhillips' Alaska segment net income for 2022 is $2,352 million. For 2024, no ConocoPhillips financial table or segment data is provided (only the header of Item 7). Chevron has no numerical data for either 2022 or 2024; only the header of Item 7 is provided for both years. Therefore, no trend analysis or comparison of Alaska segment (or upstream) performance between the two companies across 2022 and 2024 is possible from the given content.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "COP",
+      "CVX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "COP FY2022 Item 8 (segment table), COP FY2024 Item 7, CVX FY2022 Item 7, CVX FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "COP+CVX",
+    "sector": "Energy"
+  },
+  {
+    "question": "Using evidence from both the Management’s Discussion and Analysis (text) and the financial tables in the provided 10-K excerpts, assess how the total net income attributable to ConocoPhillips changed from 2022 to 2024, and whether a similar comparison can be made for Chevron. Quote specific numbers where possible.",
+    "answer": "For ConocoPhillips, the 2022 total net income attributable is reported as $18,68? million (truncated) in the segment table. No 2024 financial table is provided for ConocoPhillips; only the Item 7 header text exists, which states that the analysis should be read in conjunction with financial statements but contains no numerical data. For Chevron, neither 2022 nor 2024 offers any numerical data—only the Item 7 header. Hence, no change assessment can be made for Chevron, and for ConocoPhillips the 2024 value is absent, preventing a multi-year comparison.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "COP",
+      "CVX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "COP FY2022 Item 8, COP FY2024 Item 7, CVX FY2022 Item 7, CVX FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "COP+CVX",
+    "sector": "Energy"
+  }
+]

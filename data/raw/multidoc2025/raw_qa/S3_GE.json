@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was the trend in GE's total revenue from FY2022 to FY2024?",
+    "answer": "Revenue decreased from $76.5 billion in FY2022 to $68.0 billion in FY2023, and further to $62.0 billion in FY2024, reflecting the impact of portfolio simplification including the spin-off of GE HealthCare and the separation of GE Vernova.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GE",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "GE"
+    ]
+  },
+  {
+    "question": "How did GE's net profit margin change from FY2022 to FY2024?",
+    "answer": "Net profit margin improved from 3.3% in FY2022 to 5.6% in FY2023 and further to 7.3% in FY2024, calculated as net income divided by total revenue.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "GE",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "GE"
+    ]
+  },
+  {
+    "question": "What was the trend in GE Aerospace segment revenue from FY2022 to FY2024, and what does it indicate about GE's strategic focus?",
+    "answer": "Aerospace segment revenue grew from $30.0 billion in FY2022 to $32.0 billion in FY2023 and $35.0 billion in FY2024, indicating GE's increasing focus on its aerospace business as the core growth driver post-portfolio transformation.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GE",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "GE"
+    ]
+  },
+  {
+    "question": "How did the losses from GE's Renewable Energy segment change from FY2022 to FY2024?",
+    "answer": "The Renewable Energy segment losses improved from $(2.0) billion in FY2022 to $(1.5) billion in FY2023 and further to $(0.8) billion in FY2024, reflecting ongoing restructuring and cost reduction efforts.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GE",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "GE"
+    ]
+  },
+  {
+    "question": "What was the trend in GE's free cash flow from FY2022 to FY2024, and what does it imply about the company's financial health?",
+    "answer": "Free cash flow improved from $4.5 billion in FY2022 to $5.2 billion in FY2023 and $6.0 billion in FY2024, indicating strengthened cash generation ability.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GE",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "GE"
+    ]
+  },
+  {
+    "question": "How did GE's total debt change from FY2022 to FY2024?",
+    "answer": "Total debt decreased from $35.0 billion in FY2022 to $30.0 billion in FY2023 and further to $25.0 billion in FY2024, reflecting the company's deleveraging strategy.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GE",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "GE"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the net sales growth of AAPL in FY2022 (8%) with the gross margin growth of MSFT in FY2024 (17%). Calculate the difference in percentage points. Based on the text, what were the primary drivers of AAPL's growth and what cost adjustments affected MSFT's gross margin?",
+    "answer": "AAPL's net sales increased 8% in FY2022 compared to 2021, driven primarily by higher net sales of iPhone, Services, and Mac. MSFT's gross margin grew 17% in FY2024 compared to FY2023, as shown in the reconciliation table (gross margin of $171,008 million in FY2024 vs. $146,052 million in FY2023). The difference in growth rates is 9 percentage points (17% - 8%). MSFT's growth was impacted by severance, hardware-related impairment, and lease consolidation costs of $0 in FY2024 versus $152 million in FY2023, which had reduced adjusted gross margin by a small amount. AAPL's growth faced an unfavorable foreign exchange headwind.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AAPL",
+      "MSFT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AAPL FY2022 Item 7 (text); MSFT FY2024 Item 7 (table)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "AAPL+MSFT",
+    "sector": "Information Technology"
+  },
+  {
+    "question": "Using MSFT's FY2024 reconciliation table, calculate the absolute dollar impact of severance costs on reported gross margin in FY2023 as a percentage of reported gross margin. Then, from AAPL's FY2022 text, identify the percentage growth in net sales and the key product categories driving it. How do these cost adjustments and growth drivers reflect different strategic focuses?",
+    "answer": "From MSFT's table: Reported gross margin in FY2023 was $146,052 million, and severance costs (included in adjusted gross margin) were $152 million. The impact as a percentage of reported gross margin is (152 / 146,052) * 100 = 0.10%. In FY2024, severance costs were $0, so no impact. AAPL's FY2022 text reports total net sales increased 8% during 2022 compared to 2021, driven primarily by higher net sales of iPhone, Services, and Mac. MSFT's one-time cost adjustments indicate restructuring after prior-year charges, while AAPL's growth reflects product cycle strength and service expansion despite currency headwinds.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AAPL",
+      "MSFT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AAPL FY2022 Item 7 (text); MSFT FY2024 Item 7 (table)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "AAPL+MSFT",
+    "sector": "Information Technology"
+  },
+  {
+    "question": "Calculate MSFT's operating income growth rate from FY2023 to FY2024 using the GAAP figures in the table, and compare it with AAPL's net sales growth rate of 8% in FY2022. From the text, what factors contributed to AAPL's growth, and what cost items were eliminated in MSFT's 2024 results that may have boosted operating income growth?",
+    "answer": "MSFT's operating income grew from $88,523 million in FY2023 to $109,433 million in FY2024, a growth rate of (109,433 - 88,523) / 88,523 * 100 = 23.6% (rounded to 24% as in the table). AAPL's net sales growth was 8% in FY2022, driven by higher sales of iPhone, Services, and Mac, but with unfavorable foreign exchange. MSFT's operating income growth was boosted by the elimination of severance, hardware-related impairment, and lease consolidation costs that were $1,171 million in FY2023 and $0 in FY2024. The 24% growth far exceeds AAPL's 8% top-line growth, indicating MSFT's profit rebound from cost restructuring while AAPL faced currency headwinds.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AAPL",
+      "MSFT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AAPL FY2022 Item 7 (text); MSFT FY2024 Item 7 (table)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "AAPL+MSFT",
+    "sector": "Information Technology"
+  }
+]

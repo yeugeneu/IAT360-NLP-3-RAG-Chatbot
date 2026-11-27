@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is TSLA's mission as stated in the Business section?",
+    "answer": "Our mission is to accelerate the world’s transition to sustainable energy.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many reportable segments does TSLA operate?",
+    "answer": "2",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many items are listed under services and other in the automotive segment?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What quarter and year does the risk factor refer to as the start of the COVID-19 pandemic impact?",
+    "answer": "first quarter of 2020",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What specific challenges to the supply chain are mentioned as resulting from pandemic-related issues?",
+    "answer": "port congestion, intermittent supplier shutdowns and delays, shortfall of semiconductors, labor shortages",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "As of fiscal year 2023, how many years have elapsed since the first quarter of 2020?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the total revenue recognized in 2022?",
+    "answer": "$81.46 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the net income attributable to common stockholders in the prior year?",
+    "answer": "$5.52 billion (derived from $12.56 billion - $7.04 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many megawatts of solar energy systems were deployed in 2022?",
+    "answer": "348 megawatts",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the prior year's total revenue?",
+    "answer": "$53.82 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the net profit margin in 2022?",
+    "answer": "15.42%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of produced vehicles were delivered in 2022?",
+    "answer": "95.93%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the hypothetical gain or loss from adverse foreign currency exchange rate changes at December 31, 2022, assuming no hedging?",
+    "answer": "$473 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "List the currencies mentioned as having foreign currency risk in the context of TSLA's current year operations.",
+    "answer": "Chinese yuan, euro, pound sterling and Norwegian krone",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between the hypothetical gain or loss at December 31, 2022 and December 31, 2021?",
+    "answer": "$196 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the description of Exhibit 4.1?",
+    "answer": "Specimen common stock certificate of the Registrant.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On what date was Exhibit 3.3 filed?",
+    "answer": "February 1, 2017",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many exhibits are listed in the provided index from 3.1 through 4.6?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many exhibits listed in the Index to Exhibits were filed on March 1, 2017?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Index to Exhibits",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many days after the filing of Exhibit 3.3 was Exhibit 4.1 filed?",
+    "answer": "28 days",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Index to Exhibits",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many exhibits were filed on Form S-1/A?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Index to Exhibits",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

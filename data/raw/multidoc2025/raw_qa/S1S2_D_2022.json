@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What annual dividend rate for 2023 did Dominion Energy's Board of Directors establish in December 2022?",
+    "answer": "$2.67 per share of common stock",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What dividend per share did Dominion Energy's Board of Directors declare in February 2023 for March 2023?",
+    "answer": "66.75 cents per share of common stock",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "If the quarterly dividend declared for March 2023 is 66.75 cents per share, what annual dividend rate is implied?",
+    "answer": "$2.67 per share (66.75 cents × 4 = 267 cents = $2.67)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What assumptions are the companies' forward-looking statements based on?",
+    "answer": "beliefs and assumptions using information available at the time the statements are made",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "With which committee did Dominion Energy discuss the development, selection and disclosure of critical accounting policies?",
+    "answer": "the Audit Committee of its Board of Directors",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "When are regulatory assets recognized for Dominion Energy's regulated businesses?",
+    "answer": "When it is probable that regulators will permit the recovery of current costs through future rates charged to customers",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which federal agency regulates the Companies' wholesale rates for electric transmission service?",
+    "answer": "FERC",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many regulatory bodies are mentioned in this excerpt?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What two determinations are made in the Virginia Commission's proceeding for Virginia Power?",
+    "answer": "the determination of Virginia Power’s actual earned ROE during a historic test period, and the determination of Virginia Power’s authorized ROE prospectively",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the actual earned ROE and the authorized ROE based on the Virginia Commission's review?",
+    "answer": "The provided content does not include numerical values for actual earned ROE or authorized ROE, so the difference cannot be calculated.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "If the FERC-approved formula rate mechanism results in a 2% decrease in rates from current levels, what would be the new rate assuming the current rate is $X?",
+    "answer": "The current rate is not provided in the content, so the calculation cannot be performed.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Calculate the annual revenue impact if Virginia Power's rates are reduced by the same percentage as the federal transmission rate decrease mentioned.",
+    "answer": "No numerical data on revenue or rate percentages is available in the content to perform this calculation.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What kind of statements may be contained in the matters discussed in Item 7A?",
+    "answer": "forward-looking statements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to Item 7A, where are forward-looking statements described?",
+    "answer": "in the introductory paragraphs",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm that audited Dominion Energy's consolidated financial statements?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "For how many fiscal years are the consolidated statements of income presented?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which subsidiary's separate consolidated financial statements are also included in this section?",
+    "answer": "Virginia Electric and Power Company",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for all of Dominion Energy, Inc.'s financial statements (Consolidated Statements of Income, Comprehensive Income, Balance Sheets, Equity, and Cash Flows) listed in Item 8?",
+    "answer": "457",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many more pages are allocated to Virginia Electric and Power Company's Consolidated Balance Sheet compared to Dominion Energy, Inc.'s Consolidated Balance Sheet?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of the total page numbers for Virginia Electric and Power Company's financial statements (Income, Comprehensive Income, Balance Sheet, Common Shareholder's Equity, and Cash Flows) to the total for Dominion Energy, Inc.'s financial statements (Income, Comprehensive Income, Balance Sheet, Equity, and Cash Flows)?",
+    "answer": "497/457",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "D",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "D"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

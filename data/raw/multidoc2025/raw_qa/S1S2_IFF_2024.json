@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What were IFF's total sales in 2024?",
+    "answer": "$11.484 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the approximate sales amount from the U.S. in 2024?",
+    "answer": "Approximately $3.216 billion (28% of $11.484 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many business segments did IFF have as of December 31, 2024, and what are their names?",
+    "answer": "Four segments: Nourish, Health & Biosciences, Scent and Pharma Solutions",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is one of the risk factors related to legal claims specifically mentioned in the content?",
+    "answer": "the ongoing antitrust and competition investigations and related class action lawsuits",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many risk factors are explicitly listed in the provided content?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which risk factor relates to the company's ability to return capital to shareholders?",
+    "answer": "We have a substantial amount of indebtedness that could materially adversely affect, among other things, our financial condition, our ability to return capital to our shareholders, needed investments into our business, and our credit ratings.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the cash, cash equivalents and restricted cash at December 31, 2024?",
+    "answer": "approximately $471 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the deferred tax liability as of December 31, 2024 for repatriating funds?",
+    "answer": "approximately $154 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the decrease in cash flows provided by operating activities from 2023 to 2024?",
+    "answer": "$369 million ($1.439 billion - $1.070 billion = $0.369 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage decrease in cash flows provided by operating activities from 2023 to 2024?",
+    "answer": "25.65%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Liquidity and Capital Resources",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the ratio of cash, cash equivalents and restricted cash at December 31, 2024 to that at December 31, 2023?",
+    "answer": "0.641",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Liquidity and Capital Resources",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between the deferred tax liability for repatriation and the cash held in assets held for sale at December 31, 2024?",
+    "answer": "$152 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Liquidity and Capital Resources",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the maximum maturity of foreign currency forward contracts entered into by IFF?",
+    "answer": "twelve months",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of analysis is used to estimate IFF's exposure to market risk for the year ended December 31, 2024?",
+    "answer": "sensitivity analyses",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many major foreign currency markets are identified as making up IFF's major foreign currencies?",
+    "answer": "10",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the number of shareholders of record for IFF's common stock as of February 24, 2025?",
+    "answer": "2,993",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Approximate Number of Equity Security Holders",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the dollar change in IFF's cumulative total return from the end of 2019 to the end of 2024?",
+    "answer": "It decreased by $24.79 from $100.00 to $75.21.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Performance Graph",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the cumulative total returns of IFF and the S&P 500 Index at the end of fiscal year 2024. What is the difference?",
+    "answer": "IFF: $75.21, S&P 500: $197.02, difference of $121.81 (S&P 500 higher).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Performance Graph",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage change in the cumulative total return of International Flavors & Fragrances stock from December 31, 2019 to December 31, 2024?",
+    "answer": "-24.79%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Performance Graph",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By how much did the cumulative total return of the S&P 500 Specialty Chemicals Index exceed that of International Flavors & Fragrances at the end of fiscal year 2024?",
+    "answer": "$50.70",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Performance Graph",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the difference in cumulative total return between the best and worst performing entities in 2020?",
+    "answer": "$31.74",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Performance Graph",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "IFF",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "IFF"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

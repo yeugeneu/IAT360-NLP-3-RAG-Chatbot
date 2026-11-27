@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do Amazon and Nike describe the competitive environment they face in their respective Item 7 sections?",
+    "answer": "Amazon states: 'Our businesses are rapidly evolving and intensely competitive, and we have many competitors across geographies... including physical, e-commerce, omnichannel retail, e-commerce services, web and infrastructure computing services, electronic devices, digital content, advertising, grocery, and transportation and logistics services.' Nike states: 'We are the largest seller of athletic footwear and apparel in the world.' Thus, Amazon emphasizes broad, intense competition across multiple industries, while Nike asserts market leadership in its specific category.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "NKE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic priorities are explicitly stated for Amazon and Nike from their Item 7 content?",
+    "answer": "Amazon does not state an explicit strategy in the provided content; instead, it focuses on competitive risks and the need to keep pace with new technologies. Nike states its strategy: 'to achieve sustainable profitable long-term revenue growth by creating innovative, \"must-have\" products, building deep personal consumer connections with our brands and delivering compelling consumer experiences through digital platforms and at retail.' Additionally, Nike mentions investing in NIKE Direct operations and wholesale partners, and streamlining the organization.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "NKE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, what organizational changes or restructuring efforts are described by Amazon and Nike for fiscal 2024?",
+    "answer": "Nike states: 'in the third quarter of fiscal 2024, we announced an enterprise-wide initiative to prioritize investment to fuel future growth including taking steps to streamline the organization. This resulted in a net reduction of our global workforce and we expect to reinvest a majority of the future annual wage savings from these actions to support this initiative.' Amazon's provided content does not mention any workforce reduction or restructuring for fiscal 2024; it only discusses competitive risks and prior financial statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "NKE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific technologies or business areas do Amazon and Nike identify as competitive factors in their Item 7 discussions?",
+    "answer": "Amazon lists: 'new and enhanced technologies, including search, web and infrastructure computing services, practical applications of artificial intelligence and machine learning, digital content, and electronic devices continue to increase our competition.' Nike mentions investing in 'a global Enterprise Resource Planning Platform, data and analytics, demand sensing, insight gathering and other areas to create an end-to-end technology foundation to serve our consumer with speed and scale.' Thus, Amazon focuses on technologies that intensify competition, while Nike highlights technology investments to improve consumer experience.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "NKE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the revenue figures for the most recent fiscal years compare between Amazon and Nike based on the provided content?",
+    "answer": "Nike reports: 'NIKE, Inc. Revenues for fiscal 2024 were $51.4 billion compared to $51.2 billion' (prior year). The provided content for Amazon does not include any revenue figure for fiscal 2024; it only references financial statements for the years ended December 31, 2023 and 2022. Therefore, a direct revenue comparison is not possible from the given text.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "NKE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In what ways do Amazon and Nike characterize their own brand recognition or market position in their Item 7 discussions?",
+    "answer": "Amazon states: 'Some of our current and potential competitors have greater resources, longer histories, more customers, and/or greater brand recognition' — implying Amazon does not claim overall market leadership. In contrast, Nike states: 'We are the largest seller of athletic footwear and apparel in the world,' explicitly asserting its top market position in its primary category.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "NKE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

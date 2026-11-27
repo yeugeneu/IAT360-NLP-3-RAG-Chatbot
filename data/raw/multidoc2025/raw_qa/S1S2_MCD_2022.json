@@ -1,0 +1,128 @@
+[
+  {
+    "question": "What is the title of Item 7 in the 2022 10-K filing?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MCD",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On which pages does Item 7 appear?",
+    "answer": "Pages 8-35",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "MCD",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many pages does Item 7 cover?",
+    "answer": "28 pages",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "MCD",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the percentage change in total revenues from 2021 to 2022 according to the income statement table?",
+    "answer": "Total revenues were $23,182.6 million in 2022 and $23,222.9 million in 2021, a decrease of 0.2%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Operating Results",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MCD",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net increase in total McDonald's restaurants from 2021 to 2022 based on the store count table?",
+    "answer": "Total restaurants at year-end 2022 were 40,275 and at year-end 2021 were 40,031, an increase of 244.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Store Count",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MCD",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the change in operating margin (operating income as a percentage of total revenues) from 2021 to 2022?",
+    "answer": "Operating margin was 36.0% in 2022 (operating income $8,351.7 million ÷ total revenues $23,182.6 million) and 34.5% in 2021 (operating income $8,004.6 million ÷ total revenues $23,222.9 million), an increase of 1.5 percentage points.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Operating Results",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "MCD",
+    "year": "2022",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "MCD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

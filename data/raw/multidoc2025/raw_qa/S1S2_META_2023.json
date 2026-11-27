@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What is the mission of Meta as stated in the business overview?",
+    "answer": "give people the power to build community and bring the world closer together",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many business segments does Meta report financial results for?",
+    "answer": "two",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which two business segments does Meta report financial results for?",
+    "answer": "Family of Apps (FoA) and Reality Labs (RL)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the two main categories of risk factors summarized in this section?",
+    "answer": "Risks Related to Our Product Offerings and Risks Related to Our Business Operations and Financial Results",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Name one specific risk factor listed under 'Risks Related to Our Product Offerings'.",
+    "answer": "our ability to add and retain users and maintain levels of user engagement with our products",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many specific risk factors are listed under 'Risks Related to Our Product Offerings'?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What method is used to calculate revenue on a constant currency basis for the full year 2023?",
+    "answer": "We translated revenue for the full year 2023 using 2022 monthly exchange rates for our settlement or billing currencies other than the U.S. dollar.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many non-GAAP financial measures are mentioned in this section?",
+    "answer": "Two",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In which section can the full description of free cash flow be found?",
+    "answer": "Liquidity and Capital Resources—Free Cash Flow",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the primary foreign currency mentioned in relation to Meta's foreign currency exchange risk?",
+    "answer": "Euro",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How does a strengthening of the U.S. dollar affect Meta's revenue and other operating results as expressed in U.S. dollars?",
+    "answer": "Negatively affects them",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In which section of the filing is the foreign exchange impact on revenue discussed?",
+    "answer": "Management's Discussion and Analysis of Financial Condition and Results of Operations — Foreign Exchange Impact on Revenue section",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm for Meta Platforms, Inc.?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "As of what dates are the consolidated balance sheets presented in the 2023 10-K?",
+    "answer": "December 31, 2023 and 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the Consolidated Balance Sheets and the Consolidated Statements of Cash Flows?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers on which the Consolidated Balance Sheets, Consolidated Statements of Income, and Consolidated Statements of Comprehensive Income begin?",
+    "answer": "270",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between the page numbers of the last and first listed consolidated financial statement pages (Consolidated Statements of Cash Flows and Consolidated Balance Sheets, respectively)?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "If you add the page numbers for the Consolidated Statements of Stockholders' Equity and the Consolidated Statements of Cash Flows, what is the result?",
+    "answer": "185",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2023",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

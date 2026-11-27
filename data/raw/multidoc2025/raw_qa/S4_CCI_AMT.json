@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was CCI's 2023 Restructuring Plan, and what significant financing transactions did AMT undertake in 2024?",
+    "answer": "CCI's 2023 Restructuring Plan included discontinuing installation services as a Towers product offering. AMT's significant 2024 financing transactions included redemption of its 0.600% Notes, 5.00% Notes, and 3.375% Notes upon maturity; a registered public offering of $3.6 billion aggregate principal amount of senior unsecured notes; repayment of an 825.0 million EUR unsecured term loan; and repayment of indebtedness under the 2021 Multicurrency Credit Facility using proceeds from the ATC TIPL Transaction.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "AMT"
+    ],
+    "evidence_section": "Item 7. MD&A (CCI); Item 7 of the 2023 Form 10-K (AMT)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do CCI and AMT describe their primary business risks from competition?",
+    "answer": "CCI states that competition may make it more difficult to negotiate favorable rates, attract new tenants, maintain gross margins or market share, and may cause renegotiation of contracts to avoid early terminations. AMT does not discuss competitive risks in the provided content; instead it focuses on financial flexibility and liquidity.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "AMT"
+    ],
+    "evidence_section": "Item 7. MD&A (CCI); Item 7 of the 2023 Form 10-K (AMT)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What difference in non-renewal rates between business segments does CCI highlight, and does AMT provide a comparable metric?",
+    "answer": "CCI states that 'the level of non-renewals associated with fiber solutions is generally higher than that of Towers and small cells.' AMT does not provide a comparable metric for non-renewal rates in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "AMT"
+    ],
+    "evidence_section": "Item 7. MD&A (CCI); Item 7 of the 2023 Form 10-K (AMT)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was AMT's total liquidity as of December 31, 2024, and what comparable figure does CCI provide?",
+    "answer": "AMT's total liquidity as of December 31, 2024 was $11,964.0 million ($9,964.4 million available under credit facilities, net of letters of credit, plus $1,999.6 million cash and cash equivalents). CCI does not provide a comparable liquidity figure in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "AMT"
+    ],
+    "evidence_section": "Item 7 of the 2023 Form 10-K (AMT); CCI content does not include liquidity table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was AMT's net cash provided by operating activities in 2024, and what comparable figure does CCI disclose in its provided excerpt?",
+    "answer": "AMT's net cash provided by operating activities for the year ended December 31, 2024 was $5,290.5 million. CCI's provided content references a consolidated statement of cash flows for each of the three years ended December 31, 2024, but does not include the numerical values in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "AMT"
+    ],
+    "evidence_section": "Item 7 of the 2023 Form 10-K (AMT); Item 8. Financial Statements (CCI reference only)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the strategic priorities of CCI and AMT differ based on their FY2024 filings?",
+    "answer": "CCI emphasizes a restructuring plan that includes discontinuing installation services and managing competitive pressures in tower and fiber markets. AMT focuses on increasing financial flexibility through debt refinancing, including a $3.6 billion public offering, loan repayments, and maintaining a strong liquidity position.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CCI",
+      "AMT"
+    ],
+    "evidence_section": "Item 7. MD&A (CCI); Item 7 of the 2023 Form 10-K (AMT)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CCI+AMT",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

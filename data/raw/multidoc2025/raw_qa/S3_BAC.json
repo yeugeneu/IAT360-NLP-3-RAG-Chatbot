@@ -1,0 +1,134 @@
+[
+  {
+    "question": "In which fiscal years does the MD&A include the phrase 'programs, initiatives and practices' in the description of the Board's oversight of human capital management strategies?",
+    "answer": "Only in FY2023, the description includes 'programs, initiatives and practices'. In FY2022, it says 'programs and practices' (without 'initiatives'), and in FY2024 the entire oversight sentence is replaced by a different statement.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Human Capital Resources",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "BAC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "BAC"
+    ]
+  },
+  {
+    "question": "Did the MD&A provide an approximate number of employees in any of the fiscal years? If so, which year and what was the number?",
+    "answer": "Yes, only in FY2024 the MD&A states: 'We are a company of approximately 213,000 talented employees'. No employee count is provided in FY2022 or FY2023.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Human Capital Resources",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "BAC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "BAC"
+    ]
+  },
+  {
+    "question": "Did the list of competitors in the Competition section change between FY2022 and FY2024?",
+    "answer": "No, the list of competitors remained identical across all three fiscal years. Each year lists: 'banks, thrifts, credit unions, investment banking firms, investment advisory firms, brokerage firms, investment companies, insurance companies, mortgage banking companies, credit card issuers, mutual fund companies, hedge funds, private equity firms, and e-commerce and other internet-based companies, including merchant banks and companies providing nonbank financial services.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Competition",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "BAC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "BAC"
+    ]
+  },
+  {
+    "question": "In which fiscal years does the MD&A state that Bank of America strives to make 'a great place to work for our employees'?",
+    "answer": "All three fiscal years: FY2022, FY2023, and FY2024 each contain the exact phrase: 'We strive to make Bank of America a great place to work for our employees.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Human Capital Resources",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "BAC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "BAC"
+    ]
+  },
+  {
+    "question": "In which years does the MD&A mention competition from firms utilizing 'digital assets' as an example of emerging technologies?",
+    "answer": "All three fiscal years: FY2022, FY2023, and FY2024 each contain the phrase: 'including firms utilizing emerging technologies, such as digital assets, rather than, or in addition to, traditional banking products.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Competition",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "BAC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "BAC"
+    ]
+  },
+  {
+    "question": "Does the statement that competitive ability depends on the ability to 'attract new employees and develop, retain and motivate our existing employees' appear consistently across the three years?",
+    "answer": "Yes, the exact same text appears in all three fiscal years: 'Our ability to continue to compete effectively also depends in large part on our ability to attract new employees and develop, retain and motivate our existing employees, while managing compensation and other costs.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Competition",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "BAC",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "BAC"
+    ]
+  }
+]

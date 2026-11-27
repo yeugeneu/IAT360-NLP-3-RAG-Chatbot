@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What are the two business platforms of UnitedHealth Group?",
+    "answer": "Optum and UnitedHealthcare",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the mission of UnitedHealth Group?",
+    "answer": "to help people live healthier lives and help make the health system work better for everyone",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the three businesses within Optum?",
+    "answer": "Optum Health, Optum Insight and Optum Rx",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the forward-looking statements caution, what is the company's obligation to update any forward-looking statement after the date of this report?",
+    "answer": "we undertake no obligation to update any forward-looking statement",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What words or phrases are listed as examples that are intended to identify forward-looking statements?",
+    "answer": "\"believe,\" \"expect,\" \"intend,\" \"estimate,\" \"anticipate,\" \"forecast,\" \"outlook,\" \"plan,\" \"project,\" \"should\"",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the name of the legislation cited as providing 'safe harbor' provisions?",
+    "answer": "Private Securities Litigation Reform Act of 1995 (PSLRA)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of U.S. GDP does health care spending comprise according to the text?",
+    "answer": "18%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many business platforms does UnitedHealth Group have?",
+    "answer": "2",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of GDP is not accounted for by health care spending?",
+    "answer": "82%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "As of December 31, 2022, what was the amount of financial assets on which interest rates vary with market interest rates?",
+    "answer": "$31 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the combined amount of fixed-rate investments and non-swapped fixed-rate term debt as of December 31, 2022?",
+    "answer": "$81 billion ($38 billion + $43 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What two foreign currencies are primarily mentioned for foreign exchange rate risk?",
+    "answer": "Brazilian real and Chilean peso",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many years of financial statements are included in the audit?",
+    "answer": "three",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Balance Sheets and the Consolidated Statements of Operations?",
+    "answer": "75",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Balance Sheets and the Consolidated Statements of Operations?",
+    "answer": "75",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Statements of Comprehensive Income and the Consolidated Statements of Changes in Equity?",
+    "answer": "79",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Statements of Cash Flows and the Notes to the Consolidated Financial Statements?",
+    "answer": "83",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "UNH",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "UNH"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

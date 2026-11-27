@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company provides a detailed breakdown of its business segments in the provided MD&A?",
+    "answer": "Phillips 66 (PSX) lists its segments: Midstream, Chemicals, Refining, Marketing and Specialties (M&S), and Renewable Fuels. Chevron (CVX) does not provide any segment details in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "PSX"
+    ],
+    "evidence_section": "PSX Item 7; CVX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total assets of Phillips 66 as of December 31, 2024, and is a comparable figure available for Chevron?",
+    "answer": "Phillips 66 total assets were $72.6 billion at December 31, 2024. Chevron's total assets are not provided in the content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "PSX"
+    ],
+    "evidence_section": "PSX Item 7; CVX Item 7/Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How much did Phillips 66 spend on capital expenditures and investments in 2024, and what is the corresponding figure for Chevron?",
+    "answer": "Phillips 66 funded capital expenditures and investments of $1.9 billion in 2024. Chevron does not disclose any capital expenditure amount in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "PSX"
+    ],
+    "evidence_section": "PSX Item 7; CVX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company discusses its strategic priorities and financial targets in the provided MD&A?",
+    "answer": "Phillips 66 discusses strategic priorities and targets announced in November 2022 and updated in October 2023. Chevron does not mention any strategic priorities in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "PSX"
+    ],
+    "evidence_section": "PSX Item 7; CVX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the level of detail provided for the financial statements?",
+    "answer": "Phillips 66 includes full consolidated financial statements (Income, Comprehensive Income, Balance Sheet, Cash Flows, Changes in Equity) for 2024, 2023, and 2022. Chevron only provides an index reference to the Financial Table of Contents without any actual financial data.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "PSX"
+    ],
+    "evidence_section": "PSX Item 8; CVX Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How much cash did Phillips 66 generate from operating activities in 2024, and is a similar metric reported for Chevron?",
+    "answer": "Phillips 66 generated $4.2 billion in cash from operating activities in 2024. Chevron does not provide any cash flow from operations figure in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "PSX"
+    ],
+    "evidence_section": "PSX Item 7; CVX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

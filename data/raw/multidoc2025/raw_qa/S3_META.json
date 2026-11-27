@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the description of the limitation in measurement of user metrics change from fiscal year 2022 to fiscal year 2024 in the MD&A?",
+    "answer": "In fiscal year 2022 and fiscal year 2023, the company referred to 'limitations in the measurement of certain of our community metrics.' In fiscal year 2024, the company changed this to 'limitations in the measurement of our Family metrics.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "META",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "META"
+    ]
+  },
+  {
+    "question": "In which fiscal year did the company first use the term 'Family metrics' instead of 'community metrics' in the MD&A?",
+    "answer": "The term 'Family metrics' was first used in fiscal year 2024. In fiscal years 2022 and 2023, the company used 'community metrics.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "META",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "META"
+    ]
+  },
+  {
+    "question": "What was the base year used for constant currency revenue calculation in each of fiscal years 2022, 2023, and 2024?",
+    "answer": "For fiscal year 2022, the company used 2021 monthly exchange rates. For fiscal year 2023, the company used 2022 monthly exchange rates. For fiscal year 2024, the company used 2023 monthly exchange rates.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "META",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "META"
+    ]
+  },
+  {
+    "question": "Did the company update the base year for constant currency revenue calculation each fiscal year?",
+    "answer": "Yes. The base year advanced from 2021 for FY2022, to 2022 for FY2023, and to 2023 for FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "META",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "META"
+    ]
+  },
+  {
+    "question": "How does the reference to 'Risk Factors' section location compare across the three fiscal years?",
+    "answer": "In all three fiscal years (2022, 2023, and 2024), the company refers to 'Part I, Item 1A, \"Risk Factors\"' in the same manner.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "META",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "META"
+    ]
+  },
+  {
+    "question": "Is there any change in the wording about non-GAAP measures being 'different from' in fiscal year 2024 compared to earlier years?",
+    "answer": "Yes. In fiscal years 2022 and 2023, the text ends with 'These measures may be diffe' (incomplete). In fiscal year 2024, the text reads 'These measures may be different from non‑' (also incomplete but uses 'different from' explicitly).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "META",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "META"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were the total revenues of NVIDIA and AMD in their respective fiscal years 2024, and which company had higher revenue?",
+    "answer": "NVIDIA's total revenue for FY2024 (ended Jan 28, 2024) was $60,922 million. AMD's total net revenue for FY2024 (ended Dec 28, 2024) was $25,785 million. NVIDIA's revenue was more than double that of AMD.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AMD"
+    ],
+    "evidence_section": "NVDA: Reportable Segments Revenue table (Compute & Networking $47,405M + Graphics $13,517M = Total $60,922M); AMD: Consolidated Statements of Operations 'Net revenue $25,785'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NVDA+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the gross margins of NVIDIA and AMD compare in their respective fiscal years 2024?",
+    "answer": "NVIDIA's gross margin was 72.7% (from the percentage table: 'Gross profit 72.7 %'). AMD's gross margin was approximately 49.4% (calculated as $12,725 million gross profit divided by $25,785 million net revenue = 49.4%). NVIDIA's gross margin was significantly higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AMD"
+    ],
+    "evidence_section": "NVDA: Item 7 percentage table 'Gross profit 72.7%'; AMD: Consolidated Statements of Operations 'Gross profit $12,725' and 'Net revenue $25,785'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the operating margins of NVIDIA and AMD in their respective fiscal years 2024?",
+    "answer": "NVIDIA's operating margin was 54.1% (from the percentage table: 'Operating income 54.1 %'). AMD's operating margin was 7.4% (calculated as $1,900 million operating income divided by $25,785 million net revenue = 7.4%). NVIDIA's operating margin was about 7.3 times that of AMD.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AMD"
+    ],
+    "evidence_section": "NVDA: Item 7 percentage table 'Operating income 54.1%'; AMD: Consolidated Statements of Operations 'Operating income $1,900' and 'Net revenue $25,785'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the year-over-year growth rates of NVIDIA's Compute & Networking segment compare to AMD's Data Center segment in their respective fiscal years 2024?",
+    "answer": "NVIDIA's Compute & Networking segment revenue grew 215% year-over-year (from $15,068M to $47,405M). AMD's Data Center segment net revenue grew 94% year-over-year (from $6.5B in 2023 to $12.6B in 2024). NVIDIA's growth rate was more than twice AMD's growth rate.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AMD"
+    ],
+    "evidence_section": "NVDA: Reportable Segments Revenue table 'Compute & Networking...215%'; AMD: Overview paragraph 'Data Center net revenue of $12.6 billion increased by 94% compared to $6.5 billion in 2023'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NVDA+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the research and development (R&D) expenses as a percentage of revenue for NVIDIA and AMD in their respective fiscal years 2024?",
+    "answer": "NVIDIA's R&D expense was 14.2% of revenue (from the percentage table: 'Research and development 14.2 %'). AMD's R&D expense was 25.0% of revenue (calculated as $6,456 million R&D divided by $25,785 million net revenue = 25.0%). AMD invested a higher proportion of its revenue in R&D compared to NVIDIA.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AMD"
+    ],
+    "evidence_section": "NVDA: Item 7 percentage table 'Research and development 14.2%'; AMD: Consolidated Statements of Operations 'Research and development $6,456' and 'Net revenue $25,785'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did net income as a percentage of revenue compare between NVIDIA and AMD in their respective fiscal years 2024?",
+    "answer": "NVIDIA's net income was 48.9% of revenue (from the percentage table: 'Net income 48.9 %'). AMD's net income was 6.4% of revenue (calculated as $1,641 million net income divided by $25,785 million net revenue = 6.4%). NVIDIA's net income margin was about 7.6 times that of AMD.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AMD"
+    ],
+    "evidence_section": "NVDA: Item 7 percentage table 'Net income 48.9%'; AMD: Consolidated Statements of Operations 'Net income $1,641' and 'Net revenue $25,785'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

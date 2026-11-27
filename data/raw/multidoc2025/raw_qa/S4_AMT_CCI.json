@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does American Tower's (AMT) net cash provided by operating activities in 2024 compare to Crown Castle's (CCI) operating cash flow for the same period?",
+    "answer": "AMT reported net cash provided by operating activities of $5,290.5 million for the year ended December 31, 2024. The CCI content does not provide any numerical data for operating cash flow in 2024, as it only includes an index to consolidated financial statements and a discussion of competition and restructuring, not the actual financial figures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "CCI"
+    ],
+    "evidence_section": "AMT: Item 7 – Cash Flow Summary; CCI: Item 8 – Financial Statements Index",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the differences in the liquidity facilities disclosed by American Tower (AMT) and the financing discussion provided by Crown Castle (CCI)?",
+    "answer": "AMT details its liquidity as of December 31, 2024, including $6,000.0 million available under the 2021 Multicurrency Credit Facility, $4,000.0 million under the 2021 Credit Facility, net of letters of credit, and $1,999.6 million cash and cash equivalents, totaling $11,964.0 million. CCI's content does not mention any specific credit facilities or liquidity amounts; it focuses on competition, restructuring, and an index to financial statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "CCI"
+    ],
+    "evidence_section": "AMT: Item 7 – Liquidity table; CCI: Item 7 – General Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the strategic financing actions of American Tower (AMT) in 2024 differ from Crown Castle's (CCI) restructuring and competitive strategy?",
+    "answer": "AMT's financing actions include redemption of senior notes upon maturity, a $3.6 billion public offering of senior notes with maturities from 2029 to 2035, repayment of an €825.0 million term loan, and repayment of indebtedness using proceeds from the ATC TIPL Transaction. CCI discusses its 2023 Restructuring Plan that discontinued installation services as a Towers product offering and mentions competitive pressures affecting tenant contracts and renegotiations. AMT focuses on debt management and raising capital, while CCI emphasizes operational restructuring and competitive positioning.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "CCI"
+    ],
+    "evidence_section": "AMT: Item 7 – Financing transactions; CCI: Item 7 – Highlights of Business Fundamentals and Results",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does each company's 10-K excerpt reveal about its approach to growth and competition in the real estate communications infrastructure sector?",
+    "answer": "AMT discusses maintaining financial flexibility and long-term policies, focusing on financing transactions to support growth, and does not directly address competition in the provided content. CCI directly addresses competition, listing sources such as other infrastructure owners, self-performing tenants, and new technologies, and notes that competition may affect rates, renewals, and margins. CCI also highlights that its fiber business has different competitors than its Towers business. Thus, AMT's approach centers on capital management, while CCI's is more focused on competitive dynamics and customer retention.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "CCI"
+    ],
+    "evidence_section": "AMT: Item 7 – Overview; CCI: Item 7 – General Overview and Competition",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the cash flow summaries of American Tower (AMT) for 2024 and the financial statement formats of Crown Castle (CCI) differ in the information they provide to investors?",
+    "answer": "AMT provides a summary cash flow table for the years ended December 31, 2024 and 2023, with net cash provided by operating activities ($5,290.5 million), investing activities ($410.6 million), financing activities (-$5,452.4 million), and the effect of exchange rates. CCI does not present any cash flow numbers in the provided excerpt; instead, it lists an index to its consolidated financial statements, including a consolidated statement of cash flows but without presenting the data. Thus, AMT offers immediate cash flow figures, while CCI only references the location of such data.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "CCI"
+    ],
+    "evidence_section": "AMT: Item 7 – Cash Flow Summary; CCI: Item 8 – Index to Financial Statements",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between the non-renewal risk mentioned by Crown Castle (CCI) and any risk factors discussed by American Tower (AMT)?",
+    "answer": "CCI explicitly states that 'the level of non-renewals associated with fiber solutions is generally higher than that of Towers and small cells,' indicating a specific risk from contract terminations. AMT's provided content does not discuss non-renewals or risk factors; it focuses on financing transactions and liquidity. CCI's disclosure highlights a competitive risk, while AMT's excerpt omits such discussion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "CCI"
+    ],
+    "evidence_section": "AMT: Item 7 – Overview; CCI: Item 7 – General Overview (competition and non-renewals)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

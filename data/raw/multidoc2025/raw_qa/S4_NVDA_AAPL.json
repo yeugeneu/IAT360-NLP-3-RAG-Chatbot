@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the total revenue of NVDA for FY2024 and AAPL for FY2024, and how many times larger is AAPL's revenue?",
+    "answer": "NVDA total revenue is $60,922 million; AAPL total net sales is $391,035 million. AAPL's revenue is approximately 6.4 times larger than NVDA's ($391,035 / $60,922 ≈ 6.4).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AAPL"
+    ],
+    "evidence_section": "NVDA: Reportable Segments table (Revenue by Reportable Segments) shows total revenue $60,922 million. AAPL: Segment Operating Performance table shows total net sales $391,035 million.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the gross margin percentage of NVDA and AAPL for FY2024. Which company has a higher gross margin?",
+    "answer": "NVDA gross margin is 72.7% of revenue as reported directly in the income statement percentages. AAPL gross margin is $180,683 million on revenue of $391,035 million, which equals 46.2% ($180,683 / $391,035 = 46.2%). NVDA has a higher gross margin (72.7% vs 46.2%).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AAPL"
+    ],
+    "evidence_section": "NVDA: Item 7 table shows Gross profit 72.7% of revenue. AAPL: Consolidated Statements of Operations shows Gross margin $180,683 million and Total net sales $391,035 million.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the operating income margins for NVDA and AAPL in FY2024? Which company is more profitable at the operating level?",
+    "answer": "NVDA operating income is 54.1% of revenue as reported in the percentages table. AAPL operating income is $123,216 million on revenue of $391,035 million, which yields an operating margin of 31.5% ($123,216 / $391,035 = 31.5%). NVDA's operating margin is significantly higher at 54.1% vs 31.5%.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AAPL"
+    ],
+    "evidence_section": "NVDA: Item 7 table shows Operating income 54.1% of revenue. AAPL: Consolidated Statements of Operations shows Operating income $123,216 million and Total net sales $391,035 million.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does R&D spending as a percentage of revenue compare between NVDA and AAPL in FY2024?",
+    "answer": "NVDA R&D expense is 14.2% of revenue (from the income statement percentages). AAPL R&D expense is $31,370 million on revenue of $391,035 million, which is 8.0% ($31,370 / $391,035 = 8.0%). NVDA allocates a higher percentage of revenue to R&D (14.2% vs 8.0%).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AAPL"
+    ],
+    "evidence_section": "NVDA: Item 7 table shows Research and development 14.2% of revenue. AAPL: Consolidated Statements of Operations shows Research and development $31,370 million and Total net sales $391,035 million.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company is more concentrated on its largest reportable segment in FY2024? Compare NVDA's Compute & Networking segment share of total revenue to AAPL's Americas segment share.",
+    "answer": "NVDA's Compute & Networking segment generated $47,405 million out of total $60,922 million, which is 77.8% of total revenue. AAPL's Americas segment net sales were $167,045 million out of total $391,035 million, which is 42.7% of total revenue. NVDA is more concentrated on its largest segment (77.8% vs 42.7%).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AAPL"
+    ],
+    "evidence_section": "NVDA: Reportable Segments table shows Compute & Networking revenue $47,405 million and Total revenue $60,922 million. AAPL: Segment Operating Performance table shows Americas net sales $167,045 million and Total net sales $391,035 million.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare net profit margins (net income as a percentage of revenue) for NVDA and AAPL in FY2024.",
+    "answer": "NVDA net income is 48.9% of revenue as reported in the income statement percentages table. AAPL net income is income before taxes $123,485 million minus provision for income taxes $29,749 million, which equals $93,736 million. Net profit margin = $93,736 / $391,035 = 24.0%. NVDA's net profit margin is higher at 48.9% vs 24.0%.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NVDA",
+      "AAPL"
+    ],
+    "evidence_section": "NVDA: Item 7 table shows Net income 48.9% of revenue. AAPL: Consolidated Statements of Operations shows Income before provision for income taxes $123,485 million, Provision for income taxes $29,749 million, and Total net sales $391,035 million.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NVDA+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

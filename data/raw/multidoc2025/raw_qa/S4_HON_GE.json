@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the length of the Management's Discussion and Analysis section in terms of page count compare between HON and GE for FY2024?",
+    "answer": "GE's MD&A spans pages 8 through 24 (17 pages), while HON's MD&A is listed as starting on page 37 with no ending page specified in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "GE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's MD&A section appears earlier in the 10-K filing?",
+    "answer": "GE's MD&A appears earlier, starting on page 8, while HON's MD&A begins on page 37.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "GE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the specific section (Item number) for the MD&A in each company's filing?",
+    "answer": "Both companies present their MD&A under Item 7.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "GE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the provided content, which company's MD&A covers a greater range of pages?",
+    "answer": "GE's MD&A covers pages 8-24, a range of 17 pages. HON's MD&A is only indicated as starting on page 37, without an ending page, so the total pages for HON cannot be determined from the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "GE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the start page of the MD&A section compare between HON and GE?",
+    "answer": "HON's MD&A starts on page 37, while GE's MD&A starts on page 8.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "GE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based solely on the provided content, what can be inferred about the relative depth of discussion between HON's and GE's MD&A?",
+    "answer": "GE's MD&A spans 17 pages (pages 8-24), suggesting a more extensive discussion of financial condition and results of operations compared to HON, which only provides a single page reference (page 37) without indicating the section length.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HON",
+      "GE"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HON+GE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

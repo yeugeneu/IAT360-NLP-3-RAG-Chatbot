@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the PCAOB IDs of the independent registered public accounting firms for ConocoPhillips (COP) and ExxonMobil (XOM) as per their FY2024 10-K filings?",
+    "answer": "ConocoPhillips' PCAOB ID is #42, and ExxonMobil's PCAOB ID is 238.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "XOM"
+    ],
+    "evidence_section": "COP: Item 8 - Reports of Independent Registered Public Accounting Firm (PCAOB ID #42). XOM: Item 8 - report thereon of PricewaterhouseCoopers LLP (PCAOB ID 238).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the level of detail in Item 7 (Management’s Discussion and Analysis) differ between ConocoPhillips and ExxonMobil in their FY2024 10-K filings?",
+    "answer": "ConocoPhillips' Item 7 includes a full narrative titled 'Business Environment and Executive Overview' with details on operations and forward-looking statements, while ExxonMobil's Item 7 merely references the MD&A in the Financial Section without providing substantive content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "XOM"
+    ],
+    "evidence_section": "COP: 'Item 7. Management’s Discussion and Analysis... Business Environment and Executive Overview ConocoPhillips is one of the world’s leading E&P companies...' XOM: 'ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS ... Reference is made to the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Financial Section of this report.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many countries are mentioned for ConocoPhillips' operations in its FY2024 10-K Item 7, and does ExxonMobil specify a number in its corresponding section?",
+    "answer": "ConocoPhillips mentions operations and activities in 14 countries. ExxonMobil does not specify a number of countries in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "XOM"
+    ],
+    "evidence_section": "COP: 'with operations and activities in 14 countries.' XOM: No country count provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of operations does ConocoPhillips list in its FY2024 10-K Item 7 overview, and does ExxonMobil provide a similar operational breakdown in its Item 7?",
+    "answer": "ConocoPhillips lists 'resource-rich unconventional plays in North America; conventional assets in North America, Europe, Africa and Asia; global LNG developments; oil sands in Canada; and an inventory' (incomplete). ExxonMobil does not provide such operational detail in its Item 7.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "XOM"
+    ],
+    "evidence_section": "COP: '...unconventional plays in North America; conventional assets in North America, Europe, Africa and Asia; global LNG developments; oil sands in Canada; and an inven' (truncated in source). XOM: No operational breakdown in provided text.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the dates of the audit reports for ConocoPhillips and ExxonMobil based on their FY2024 10-K filings?",
+    "answer": "ConocoPhillips' audit report date is not provided in the excerpt; ExxonMobil's report of PricewaterhouseCoopers LLP is dated February 19, 2025.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "XOM"
+    ],
+    "evidence_section": "COP: No date given. XOM: '...dated February 19, 2025' (from XOM Item 8).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does ConocoPhillips characterize its portfolio as 'low cost of supply' in its FY2024 10-K, and does ExxonMobil use similar strategic language in its Item 7?",
+    "answer": "ConocoPhillips describes its portfolio as 'diverse, low cost of supply portfolio' in the Business Environment overview. ExxonMobil does not use such language in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "COP",
+      "XOM"
+    ],
+    "evidence_section": "COP: 'Our diverse, low cost of supply portfolio includes...' XOM: No comparable phrase present.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "COP+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

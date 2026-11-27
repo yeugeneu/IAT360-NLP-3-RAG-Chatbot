@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were the total non-GAAP operating expense adjustments for UPS in 2024, and what does GE report in its Item 7?",
+    "answer": "UPS reported total adjustments to non-GAAP operating expenses of $426 million in 2024. The provided GE content does not include any numerical data; it only references Item 7 on pages 8-24.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "UPS"
+    ],
+    "evidence_section": "GE: Item 7; UPS: Management's Discussion and Analysis - Non-GAAP Adjustments table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the transformation strategy costs for UPS and GE in 2024.",
+    "answer": "UPS reported transformation strategy costs of $322 million in 2024, comprising Transformation 1.0 ($0), Transformation 2.0 ($83 million), Fit to Serve ($204 million), Network Reconfiguration ($35 million), and other. The provided GE content does not contain any transformation cost details.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "UPS"
+    ],
+    "evidence_section": "GE: Item 7; UPS: Management's Discussion and Analysis - Transformation Strategy Costs",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do goodwill and asset impairment charges compare between UPS and GE in 2024?",
+    "answer": "UPS reported goodwill and asset impairment charges of $108 million in 2024. The provided GE content does not include any impairment charge information.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "UPS"
+    ],
+    "evidence_section": "GE: Item 7; UPS: Management's Discussion and Analysis - Goodwill and Asset Impairment Charges",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the impact of the Coyote divestiture on UPS's non-GAAP adjustments, and does GE have any similar divestiture gains in its filing?",
+    "answer": "UPS reported a gain on divestiture of Coyote of $156 million (reducing expenses) in 2024. The provided GE content does not mention any divestiture gains or losses.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "UPS"
+    ],
+    "evidence_section": "GE: Item 7; UPS: Management's Discussion and Analysis - Gain on Divestiture of Coyote",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the defined benefit pension and postretirement medical plan losses for both companies in 2024.",
+    "answer": "UPS reported defined benefit pension and postretirement medical plan losses of $665 million in 2024 (included in non-GAAP adjustments under Other Income and Expense). The provided GE content does not include any pension loss data.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "UPS"
+    ],
+    "evidence_section": "GE: Item 7; UPS: Management's Discussion and Analysis - Other Income and (Expense) - Defined Benefit Pension and Postretirement Medical Plan Loss",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total non-GAAP adjustment for one-time items at UPS in 2024, and how does GE's Item 7 address such items?",
+    "answer": "UPS's total non-GAAP adjustments for 2024 were $426 million in operating expenses plus pension losses of $665 million, among other items. The provided GE content only references Item 7 on pages 8-24 and does not disclose any specific one-time adjustments.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GE",
+      "UPS"
+    ],
+    "evidence_section": "GE: Item 7; UPS: Management's Discussion and Analysis - Non-GAAP Adjustments table and Other Income and (Expense)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GE+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

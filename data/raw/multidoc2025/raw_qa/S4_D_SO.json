@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the regulatory risks described by Dominion Energy and Southern Company differ in their primary focus?",
+    "answer": "Dominion Energy's MD&A focuses on regulatory risks from state and federal rate reviews, including biennial base rate reviews by the Virginia Commission and FERC formula rate mechanisms, with potential rate decreases and refunds. Southern Company's MD&A does not detail regulatory rate review risks; instead, its operational risks section emphasizes risks from operating facilities, including regulatory compliance with environmental, safety, and reliability standards, and potential impacts from cyber intrusions and physical attacks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "evidence_section": "D: Item 7; SO: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the reportable segments of Southern Company compared to the business operations described for Dominion Energy?",
+    "answer": "Southern Company's reportable segments are: (1) sale of electricity by traditional electric operating companies (Alabama Power, Georgia Power, Mississippi Power), (2) sale of electricity in the competitive wholesale market by Southern Power, and (3) sale of natural gas and other complementary products and services by Southern Company Gas. Dominion Energy describes its operations as electric transmission, distribution, generation and gas distribution, but does not break out reportable segments or mention a competitive wholesale generation segment like Southern Power.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "evidence_section": "D: Item 7; SO: Item 8 (Overview)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly identifies risks related to nuclear facility operations?",
+    "answer": "Southern Company explicitly identifies risks related to nuclear facility operations, stating: 'Operation of nuclear facilities involves inherent risks, including environmental, safety, health, regulatory, natural disasters, cyber intrusions, physical attacks, and financi[al]...' Dominion Energy's provided content does not mention nuclear facility risks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "evidence_section": "D: Item 7; SO: Item 7 (OPERATIONAL RISKS)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the geographic service areas of Dominion Energy and Southern Company's traditional electric operations compare?",
+    "answer": "Dominion Energy's Virginia Power provides electric service to retail customers in Virginia. Southern Company's traditional electric operating companies – Alabama Power, Georgia Power, and Mississippi Power – provide electric service to retail customers in three Southeastern states: Alabama, Georgia, and Mississippi. Thus, Dominion Energy's electric operations appear focused on Virginia, while Southern Company operates across three states.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "evidence_section": "D: Item 7 (Virginia Power); SO: Item 8 (Overview)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What mechanism does Dominion Energy describe for adjusting its retail base rates, and does Southern Company discuss a similar process in the provided content?",
+    "answer": "Dominion Energy describes a biennial base rate review by the Virginia Commission, which involves determining actual earned ROE from a historic test period and setting authorized ROE prospectively, with potential refunds to customers. Southern Company's provided content does not describe any specific rate review or adjustment mechanism; its operational risks focus on facility and system reliability, not rate-setting processes.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "evidence_section": "D: Item 7; SO: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company mentions a net zero goal in the context of transitioning its generating fleet?",
+    "answer": "Southern Company mentions a net zero goal: 'inability to maintain reliability consistent with customer expectations as the traditional electric operating companies transition their generating fleets in support of the Southern Company system's net zero goal.' Dominion Energy's provided content does not mention a net zero goal or fleet transition related to emissions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "SO"
+    ],
+    "evidence_section": "D: Item 7; SO: Item 7 (OPERATIONAL RISKS)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What are some potential negative impacts of expansion or development activities mentioned in the section?",
+    "answer": "The negative impacts include: disrupt business relationships with tenants and landlords, divert capital and management attention, fail to achieve revenue or margin targets or operational synergies, increase operational risk or volatility, not result in expected benefits or take longer to realize, impact cost structure and need to hire additional employees, increase demands on employees or affect retention, and result in need for additional TRSs subject to taxes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What types of transactions or activities does the company review, analyze and evaluate in the ordinary course of business?",
+    "answer": "In the ordinary course of its business, the company reviews, analyzes and evaluates various potential transactions or other activities in which it may engage.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What may happen to business relationships with tenants and landlords as a result of certain transactions or activities?",
+    "answer": "Such transactions and activities may disrupt the company's business relationships with its tenants and landlords, depending on the nature of or counterparty to such transactions and activities.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the actual Total Net Leverage Ratio as of December 31, 2023?",
+    "answer": "5.2x",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between the covenant level requirement and the actual level for the Total Net Leverage Ratio as of December 31, 2023?",
+    "answer": "1.3x (6.50x - 5.2x)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the document, what two criteria make an accounting policy critical?",
+    "answer": "(1) are most important to the portrayal of our financial condition and results of operations or (2) require our most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Critical Accounting Policies and Estimates",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What potential negative health effects have been studied in connection with radio frequency emissions?",
+    "answer": "some forms of cancer",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Does the company maintain significant insurance with respect to potential claims related to radio frequency emissions?",
+    "answer": "We currently do not maintain any significant insurance with respect to these matters.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What types of cybersecurity breaches or disruptions are mentioned as potential risks to the company?",
+    "answer": "unauthorized access, computer viruses, ransomware or other malicious software, cyber-attacks and other security breaches",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many distinct risk factors are discussed in the table?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of the risk factors are related to health effects from radio frequency emissions?",
+    "answer": "50%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many times is the phrase 'radio frequency emissions' mentioned in the table?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A—General Overview—Highlights of Business Fundamentals and Results",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was net cash provided by operating activities in 2022?",
+    "answer": "$2,878 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of net cash provided by operating activities for the years 2021, 2022, and 2023?",
+    "answer": "$8,793 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the net decrease in cash and cash equivalents and restricted cash from continuing operations for 2023?",
+    "answer": "($46) million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of the independent registered public accounting firm that audited Crown Castle Inc.'s financial statements?",
+    "answer": "238",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On which page does the Consolidated Balance Sheet appear in the Index to Consolidated Financial Statements?",
+    "answer": "53",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many distinct line items (including the auditor's report and financial statements/schedules) are listed in the Index to Consolidated Financial Statements?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many years of data are presented in the Consolidated Statement of Operations?",
+    "answer": "three years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "For which fiscal years is Schedule III presented?",
+    "answer": "2023 and 2022",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the page number for the Consolidated Balance Sheet?",
+    "answer": "53",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "CCI",
+    "year": "2023",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "CCI"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

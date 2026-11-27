@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What percentage of total revenues did property operations account for in the year ended December 31, 2022?",
+    "answer": "98%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "If property operations accounted for 98% of total revenues in the year ended December 31, 2022, what percentage of total revenues came from all other operations combined?",
+    "answer": "2%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Besides towers, what does the communications real estate portfolio primarily consist of according to the text?",
+    "answer": "distributed antenna system (“DAS”) networks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the impairment taken on tower and network location intangible assets in India during the year ended December 31, 2022?",
+    "answer": "$97.0 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the impairment taken on tenant-related intangible assets for VIL during the year ended December 31, 2022?",
+    "answer": "$411.6 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total impairment amount taken on intangible assets in India as described for the year ended December 31, 2022?",
+    "answer": "$508.6 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total liquidity of AMT as of December 31, 2022?",
+    "answer": "$7,125.3 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What were the aggregate net proceeds from the registered public offering of common stock in 2022?",
+    "answer": "$2.3 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total amount of additional net borrowings made by AMT subsequent to December 31, 2022?",
+    "answer": "$1,550.0 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of cash and cash equivalents to total liquidity as of December 31, 2022? (Compute as cash and cash equivalents divided by total liquidity)",
+    "answer": "0.2847 (computed as $2,028.4 million / $7,125.3 million)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "subset": "S2",
+    "difficulty": "L1",
+    "requires_calculation": true,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By how much did net cash provided by operating activities decrease from 2021 to 2022?",
+    "answer": "$1,123.7 million decrease (computed as $4,819.9 million − $3,696.2 million)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "subset": "S2",
+    "difficulty": "L1",
+    "requires_calculation": true,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of 'Total available under credit facilities, net' and 'Cash and cash equivalents' and how does it compare to 'Total liquidity'?",
+    "answer": "The sum is $7,125.3 million ($5,096.9 million + $2,028.4 million), which exactly equals the reported Total liquidity of $7,125.3 million.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "subset": "S2",
+    "difficulty": "L1",
+    "requires_calculation": true,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "As of what date is the market risk exposure table presented?",
+    "answer": "December 31, 2022",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What information does the table present for long-term debt obligations?",
+    "answer": "principal cash flows by maturity date and average interest rates related to outstanding obligations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many different types of financial instruments are detailed in the table according to the description?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMT",
+    "year": "2022",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMT"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

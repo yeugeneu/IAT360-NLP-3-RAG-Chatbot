@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What percentage of National Geographic does the Company own?",
+    "answer": "73%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many lines of business are described in the Entertainment segment?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the three segments in which The Walt Disney Company operates?",
+    "answer": "Entertainment, Sports and Experiences",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what are three examples of impacts that past declines in economic conditions have had on the Company?",
+    "answer": "reduced or resulted in slower growth than expected in, among other things, guest spending at our parks and resorts, purchases of and prices for advertising on our platforms and purchases of Company-branded consumer products",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific costs have been increased due to recent inflationary conditions, according to the filing?",
+    "answer": "certain of our costs, including at our parks and resorts",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Even if inflationary pressures moderate, what does the Company expect to remain elevated?",
+    "answer": "to remain elevat",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the total revenues for fiscal 2024?",
+    "answer": "$91.4 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total restructuring and impairment charges for fiscal 2024?",
+    "answer": "$3,595 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total restructuring and impairment charges for fiscal 2024 and the depreciation and amortization for fiscal 2024?",
+    "answer": "Restructuring and impairment charges: $3,595 million; Depreciation and amortization: $5.0 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": true,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total restructuring and impairment charges for fiscal 2024 as listed in the table?",
+    "answer": "$3,595 million (sum of $1,545 million Star India, $1,287 million Goodwill, $328 million Retail assets, $187 million Content, $165 million Equity investments, and $83 million Severance).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Restructuring and Impairment Charges table",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the change in impairment charges for Content from fiscal 2023 to fiscal 2024.",
+    "answer": "The impairment charges for Content decreased by $2,390 million from $2,577 million in 2023 to $187 million in 2024.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Restructuring and Impairment Charges table",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of total fiscal 2024 impairment charges is attributable to Star India?",
+    "answer": "Approximately 42.98% ($1,545 million / $3,595 million * 100).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Restructuring and Impairment Charges table",
+    "difficulty": "L2",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the principal foreign currencies hedged by the Company?",
+    "answer": "the euro, Japanese yen, British pound, Chinese yuan and Canadian dollar",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of financial instruments does the Company primarily use to manage exposure to interest rate changes?",
+    "answer": "interest rate swaps",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many principal foreign currencies does the Company hedge?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the page number where the Index to Financial Statements and Supplemental Data can be found?",
+    "answer": "page 67",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which section of the 10-K filing references the Index to Financial Statements and Supplemental Data?",
+    "answer": "Item 8. Financial Statements and Supplementary Data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct items (Item numbers) are mentioned in the provided content?",
+    "answer": "1 (Item 8)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the percentage change in total revenue from 2023 to 2024?",
+    "answer": "4.59%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How much did total assets decrease from 2023 to 2024?",
+    "answer": "$1.2 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net cash provided by operating activities in 2024 compared to 2023?",
+    "answer": "2024: $13.5 billion, 2023: $12.1 billion; increase of $1.4 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DIS"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

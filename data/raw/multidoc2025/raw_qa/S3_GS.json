@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were the net revenues for GS in 2022, 2023, and 2024, and what was the percentage change from 2022 to 2024?",
+    "answer": "Net revenues were $47,365 million in 2022, $46,254 million in 2023, and $53,512 million in 2024. From 2022 to 2024, net revenues increased by approximately 13.0% (from $47,365 million to $53,512 million).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Financial Overview table in FY2024 MD&A and FY2023 MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "GS",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "GS"
+    ]
+  },
+  {
+    "question": "How did pre-tax earnings evolve from 2022 to 2024? Provide the dollar amounts for each year.",
+    "answer": "Pre-tax earnings were $13,486 million in 2022, $10,739 million in 2023, and $18,397 million in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Financial Overview table in FY2024 MD&A and FY2023 MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GS",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "GS"
+    ]
+  },
+  {
+    "question": "What was the trend in diluted EPS from 2022 to 2024? List the values for each year and identify the year with the highest EPS.",
+    "answer": "Diluted EPS was $30.06 in 2022, $22.87 in 2023, and $40.54 in 2024. The highest EPS was in 2024 at $40.54.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Financial Overview table in FY2024 MD&A and FY2023 MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GS",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "GS"
+    ]
+  },
+  {
+    "question": "Compare ROE and ROTE in 2022, 2023, and 2024. How do these returns relate to GS's target (through-the-cycle) range of 14% to 16% for ROE and 15% to 17% for ROTE?",
+    "answer": "ROE was 10.2% in 2022, 7.5% in 2023, and 12.7% in 2024. ROTE was 11.0% in 2022, 8.1% in 2023, and 13.5% in 2024. In all three years, both ROE and ROTE were below the target ranges (ROE target 14%-16%, ROTE target 15%-17%).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Financial Overview table in FY2024 MD&A and FY2023 MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GS",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "GS"
+    ]
+  },
+  {
+    "question": "What was the dividend payout ratio for each year from 2022 to 2024, and how did it change?",
+    "answer": "Dividend payout ratio was 29.9% in 2022, 45.9% in 2023, and 28.4% in 2024. It increased from 2022 to 2023, then decreased in 2024 to a level slightly below 2022.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Financial Overview table in FY2024 MD&A and FY2023 MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GS",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "GS"
+    ]
+  },
+  {
+    "question": "Calculate the net earnings to average assets ratio for 2022, 2023, and 2024 and describe the trend.",
+    "answer": "Net earnings to average assets was 0.7% in 2022, 0.5% in 2023, and 0.9% in 2024. The ratio declined from 2022 to 2023, then increased in 2024 to the highest level among the three years.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Financial Overview table in FY2024 MD&A and FY2023 MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "GS",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "GS"
+    ]
+  }
+]

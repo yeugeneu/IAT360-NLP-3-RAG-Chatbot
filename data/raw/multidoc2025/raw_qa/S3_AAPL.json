@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were Apple's total net sales (in millions) for fiscal years 2022, 2023, and 2024?",
+    "answer": "2022: $394,328 million; 2023: $383,285 million; 2024: $391,035 million.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A (Segment Operating Performance table in FY2024 content)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AAPL"
+    ]
+  },
+  {
+    "question": "How did the Americas segment net sales (in millions) change from fiscal year 2022 to 2023 to 2024?",
+    "answer": "2022: $169,658 million; 2023: $162,560 million (down 4%); 2024: $167,045 million (up 3%).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A (Segment Operating Performance table in FY2024 content)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AAPL"
+    ]
+  },
+  {
+    "question": "In which fiscal years did Apple announce an increase to its quarterly dividend per share, and what were the new dividend amounts?",
+    "answer": "In fiscal year 2022, the quarterly dividend was raised from $0.22 to $0.23 per share beginning in May 2022. In fiscal year 2023, it was raised from $0.23 to $0.24 per share. No dividend increase was mentioned for fiscal year 2024 in the provided content.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A (Fiscal Year Highlights in FY2022 and FY2023 content)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AAPL"
+    ]
+  },
+  {
+    "question": "What were the net sales (in millions) for the Greater China segment in fiscal years 2022, 2023, and 2024?",
+    "answer": "2022: $74,200 million; 2023: $72,559 million; 2024: $66,952 million (down 8% from 2023).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A (Segment Operating Performance table in FY2024 content)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AAPL"
+    ]
+  },
+  {
+    "question": "How many weeks did each fiscal year (2022, 2023, 2024) span?",
+    "answer": "Fiscal year 2022: 52 weeks; fiscal year 2023: 53 weeks; fiscal year 2024: 52 weeks.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A (Fiscal Period description in FY2023 and FY2024 content)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AAPL"
+    ]
+  },
+  {
+    "question": "What were the year-over-year percentage changes in total net sales for fiscal years 2023 (vs 2022) and 2024 (vs 2023)?",
+    "answer": "Total net sales decreased 3% in fiscal year 2023 compared to 2022, and increased 2% in fiscal year 2024 compared to 2023.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A (Fiscal Year Highlights in FY2023 content and Segment Operating Performance table in FY2024 content)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AAPL"
+    ]
+  }
+]

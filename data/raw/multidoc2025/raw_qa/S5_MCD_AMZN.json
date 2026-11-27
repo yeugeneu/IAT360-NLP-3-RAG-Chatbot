@@ -1,0 +1,134 @@
+[
+  {
+    "question": "For MCD, what is the page range for Item 7 (MD&A) in FY2022 and FY2024? For AMZN, what is the page number of the Report of Independent Registered Public Accounting Firm in FY2022 and FY2024?",
+    "answer": "MCD FY2022: pages 8-35; MCD FY2024: page 7. AMZN FY2022: page 34; AMZN FY2024: page 35.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "MCD FY2022 Item 7, MCD FY2024 Item 7, AMZN FY2022 Item 8, AMZN FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "Compare the wording describing the global economic risk factor in AMZN’s FY2022 and FY2024 filings. Also, what is the page range for MCD’s FY2022 MD&A?",
+    "answer": "In AMZN FY2022: 'global economic climate'; in AMZN FY2024: 'global economic and geopolitical conditions'. MCD FY2022 MD&A is on pages 8-35.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AMZN FY2022 Item 7, AMZN FY2024 Item 7, MCD FY2022 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "For AMZN, identify the fiscal years covered by the audit report in FY2022 and FY2024. Additionally, what is the page number for the Table of Contents preceding the audit report in each filing?",
+    "answer": "AMZN FY2022 audit covers balance sheets as of Dec 31, 2021 and 2020, and operations for three years ended Dec 31, 2021. AMZN FY2024 audit covers balance sheets as of Dec 31, 2023 and 2022, and operations for three years ended Dec 31, 2023. Table of Contents page: FY2022 page 33, FY2024 page 34.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AMZN FY2022 Item 8, AMZN FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "What is the difference in the page number of the audit report in AMZN’s FY2024 compared to FY2022? Also, what is the page range for MCD’s MD&A in FY2024?",
+    "answer": "Difference: AMZN FY2024 page 35 minus FY2022 page 34 = 1 page. MCD FY2024 MD&A is on page 7.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AMZN FY2022 Item 8, AMZN FY2024 Item 8, MCD FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "MCD+AMZN",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "In both AMZN FY2022 and FY2024, what is the PCAOB ID of the independent registered public accounting firm? Also, for MCD, what is the page range for MD&A in FY2022?",
+    "answer": "PCAOB ID: 42 in both years. MCD FY2022 MD&A: pages 8-35.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AMZN FY2022 Item 8, AMZN FY2024 Item 8, MCD FY2022 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "For AMZN, how many different industries are listed in the ‘Intense Competition’ risk factor in FY2022 and FY2024? Also, what is the page number of the Table of Contents in MCD’s filings? (Note: MCD page numbers not provided for content, use the given: MCD FY2022 Item 7 pages 8-35, MCD FY2024 Item 7 page 7. For the Table of Contents, MCD is not mentioned in provided content; however, from the AMZN sections, the Table of Contents pages are given. Cross-company: compare AMZN Table of Contents pages across years.)",
+    "answer": "In both FY2022 and FY2024, the risk factor lists the same number of industries: physical, e-commerce, omnichannel retail, e-commerce services, web and infrastructure computing services, electronic devices, digital content, advertising, grocery, transportation and logistics services – 10 industries. AMZN Table of Contents: FY2022 page 33, FY2024 page 34.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "AMZN FY2022 Item 7, AMZN FY2024 Item 7, AMZN FY2022 Item 8, AMZN FY2024 Item 8",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "sector": "Consumer Discretionary"
+  }
+]

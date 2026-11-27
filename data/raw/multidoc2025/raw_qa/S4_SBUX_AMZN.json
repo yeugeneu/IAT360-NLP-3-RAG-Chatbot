@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do Starbucks and Amazon describe the primary challenges to their businesses in their respective 10-K filings?",
+    "answer": "Starbucks states that 'fiscal 2024 reflect a challenging operating environment, notably driven by reduced customer traffic compared to fiscal 2023' (Item 7). Amazon states that 'our businesses are rapidly evolving and intensely competitive, and we have many competitors across geographies' and that 'competition continues to intensify' (Item 7).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "AMZN"
+    ],
+    "evidence_section": "SBUX: Item 7; AMZN: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What key operating metrics does Starbucks use to assess growth, and what competitive factors does Amazon highlight as relevant to its business model?",
+    "answer": "Starbucks states it assesses growth using 'new store openings, comparable store sales, and operating margin management' (Item 7). Amazon notes that competitors 'may secure better terms from vendors, adopt more aggressive pricing, and devote more resources to technology, infrastructure, fulfillment, and marketing' (Item 7).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "AMZN"
+    ],
+    "evidence_section": "SBUX: Item 7; AMZN: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the reportable segments of Starbucks with the business areas mentioned by Amazon in its risk factors.",
+    "answer": "Starbucks reports three segments: 'North America, International, and Channel Development' (Item 7). Amazon mentions that it competes 'in different industries, including physical, e-commerce, and omnichannel retail, e-commerce services, web and infrastructure computing services, electronic devices, digital content, advertising, grocery, and transportation and logistics services' (Item 7).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "AMZN"
+    ],
+    "evidence_section": "SBUX: Item 7; AMZN: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does Starbucks' revenue growth driver of 'net new company-operated stores over the past 12 months' differ from the competitive pressures Amazon describes?",
+    "answer": "Starbucks attributes revenue increase to 'net new company-operated stores over the past 12 months' (Item 7). Amazon describes that 'some of our current and potential competitors have greater resources, longer histories, more customers, and/or greater brand recognition' and that 'competition continues to intensify, including with the development of new business models' (Item 7).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "AMZN"
+    ],
+    "evidence_section": "SBUX: Item 7; AMZN: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What financial metric does Starbucks report for fiscal 2024 that Amazon does not provide in the given excerpt, and what does Amazon's audit opinion indicate about its financial reporting?",
+    "answer": "Starbucks reports that 'Consolidated net revenues increased 1% to $36.2 billion in fiscal 2024' (Item 7). Amazon's audit opinion states that 'the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2023 and 2022' but does not give a specific revenue figure in the provided content (Item 8).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "AMZN"
+    ],
+    "evidence_section": "SBUX: Item 7; AMZN: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, how do the geographic scopes of Starbucks and Amazon differ in terms of their operational focus?",
+    "answer": "Starbucks' International segment 'is inclusive of China, Japan, Asia Pacific, Europe, Middle East, Africa, Latin America, and the Caribbean' (Item 7). Amazon references 'across geographies, including cross-border competition' and notes that some competitors have 'greater brand recognition, particularly with our newly-launched products and services and in our newer geographic regions' (Item 7).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SBUX",
+      "AMZN"
+    ],
+    "evidence_section": "SBUX: Item 7; AMZN: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SBUX+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

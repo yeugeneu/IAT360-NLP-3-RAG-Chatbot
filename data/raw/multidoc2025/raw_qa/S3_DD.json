@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was the trend in net working capital from FY2022 to FY2024?",
+    "answer": "Net working capital decreased from $6.4 billion in FY2022 to $4.4 billion in FY2023, then further to $1.6 billion in FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "DD"
+    ]
+  },
+  {
+    "question": "Calculate the percentage decrease in cash and cash equivalents from FY2022 to FY2024.",
+    "answer": "Cash and cash equivalents decreased from $3.7 billion in FY2022 to $1.9 billion in FY2024, a decrease of approximately 48.6%.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "DD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "DD"
+    ]
+  },
+  {
+    "question": "Describe the major strategic transactions announced or completed during FY2022, FY2023, and FY2024.",
+    "answer": "In FY2022, the company completed the M&M Divestiture to Celanese for $11.0 billion cash. In FY2023, no new major strategic transaction was reported in the overview. In FY2024, the company announced a plan to separate the Electronics business (targeting November 1, 2025) and to retain the Water business.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "DD"
+    ]
+  },
+  {
+    "question": "What was the trend in cash and cash equivalents over the three fiscal years?",
+    "answer": "Cash and cash equivalents were $3.7 billion at end of FY2022, $2.4 billion at end of FY2023, and $1.9 billion at end of FY2024, showing a consistent decrease.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "DD"
+    ]
+  },
+  {
+    "question": "By how much did net working capital decline from FY2022 to FY2024?",
+    "answer": "Net working capital declined by $4.8 billion from $6.4 billion in FY2022 to $1.6 billion in FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "DD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "DD"
+    ]
+  },
+  {
+    "question": "In which fiscal year did the company have the highest net working capital, and what was the value?",
+    "answer": "FY2022 had the highest net working capital at $6.4 billion.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "DD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "DD"
+    ]
+  }
+]

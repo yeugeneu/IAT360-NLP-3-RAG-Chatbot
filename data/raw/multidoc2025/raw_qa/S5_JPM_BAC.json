@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What is the percentage increase in the number of pages dedicated to Management's Discussion and Analysis (MD&A) for JPMorgan Chase from fiscal year 2022 to fiscal year 2024, and how does this compare to the change in the competition description for Bank of America over the same period?",
+    "answer": "For JPM, MD&A spans pages 46–154 (109 pages) in FY2022 and pages 52–167 (116 pages) in FY2024, representing a 6.42% increase ((116-109)/109). For BAC, the competition section text is identical in both FY2022 and FY2024: \"We operate in a highly competitive environment. Our competitors include banks, thrifts, credit unions, investment banking firms, investment advisory firms, brokerage firms, investment companies, insurance companies, mortgage banking companies, credit card issuers, mutual fund companies, hedge funds, p\" (truncated). Thus, BAC's competitive description remained unchanged while JPM expanded its MD&A section.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JPM",
+      "BAC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "JPM FY2022 Item 7 (pages 46–154), JPM FY2024 Item 7 (pages 52–167), BAC FY2022 and FY2024 Item 7 Competition paragraph",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "JPM+BAC",
+    "sector": "Financials"
+  },
+  {
+    "question": "Calculate the total page count for JPM's Consolidated Financial Statements (including Notes) in FY2022 and FY2024. Based on the identical competition text for BAC in both years, what does this suggest about the relative narrative disclosure trends between the two banks?",
+    "answer": "JPM's Consolidated Financial Statements: FY2022 pages 159–291 (133 pages), FY2024 pages 172–321 (150 pages), an increase of 17 pages (12.78% growth). BAC's competition text is the same across both years, indicating no change in its competitive landscape narrative. This suggests JPM increased its financial disclosure detail over the two-year period, while BAC maintained a static description of competition.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JPM",
+      "BAC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "JPM FY2022 Item 8 (pages 159–291), JPM FY2024 Item 8 (pages 172–321), BAC FY2022 and FY2024 Item 7 Competition paragraph",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "JPM+BAC",
+    "sector": "Financials"
+  },
+  {
+    "question": "Compare the page range of JPM's Management's Discussion and Analysis in FY2024 with the page range of its Consolidated Financial Statements in FY2022. Then compare the length of BAC's competition text (taken from the provided excerpt) across FY2022 and FY2024. Which company showed a greater proportional change in the length of its respective narrative sections?",
+    "answer": "JPM's MD&A FY2024: pages 52–167 (116 pages); JPM's Consolidated Financial Statements FY2022: pages 159–291 (133 pages). Ratio of MD&A to Financial Statements = 116/133 ≈ 0.872. BAC's competition excerpt is the same length in both years, so the ratio is 1.0 (no change). Therefore, JPM's relative section length decreased slightly (from MD&A being 109/133=0.820 in FY2022 to 0.872 in FY2024), while BAC showed no proportional change. However, the more notable finding is that JPM increased its MD&A page count while BAC's competitive description remained static.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JPM",
+      "BAC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "JPM FY2024 Item 7 (pages 52–167), JPM FY2022 Item 8 (pages 159–291), BAC FY2022 and FY2024 Item 7 Competition paragraph",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "JPM+BAC",
+    "sector": "Financials"
+  }
+]

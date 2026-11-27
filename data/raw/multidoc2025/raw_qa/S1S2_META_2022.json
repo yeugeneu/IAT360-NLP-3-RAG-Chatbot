@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is Meta's mission as stated in Item 1?",
+    "answer": "give people the power to build community and bring the world closer together",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which segment generates substantially all of Meta's revenue?",
+    "answer": "Family of Apps (FoA)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many specific apps are explicitly named as places where ads can appear?",
+    "answer": "three",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what is a risk related to our product offerings concerning user engagement?",
+    "answer": "our ability to add and retain users and maintain levels of user engagement with our products",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is a risk related to our business operations and financial results mentioned in the risk factors?",
+    "answer": "our ability to compete effectively",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does the company state about the risks and uncertainties listed in this section?",
+    "answer": "You should consider carefully the risks and uncertainties described below, in addition to other information contained in this Annual Report on Form 10-K.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the two non-GAAP financial measures presented in this MD&A section?",
+    "answer": "revenue on a constant currency basis and free cash flow",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How is revenue on a constant currency basis calculated according to this section?",
+    "answer": "we translated revenue for the full year 2022 using 2021 monthly exchange rates for our settlement or billing currencies other than the U.S. dollar.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In which section is free cash flow described?",
+    "answer": "— Liquidity and Capital Resources—Free Cash Flow",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of Meta's total revenue in 2022 came from advertising, based on the revenue table?",
+    "answer": "97.5%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Between 2021 and 2022, which key user metric grew at a faster rate: Daily Active Users (DAU) or Monthly Active Users (MAU)?",
+    "answer": "Daily Active Users (DAU) grew faster at 3.6% compared to MAU growth of 1.7%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was Meta's free cash flow margin (free cash flow as a percentage of total revenue) for 2022?",
+    "answer": "15.4%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What foreign currency does META primarily have exposure to according to Item 7A?",
+    "answer": "the Euro",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the effect of a strengthening U.S. dollar on META's revenue as described in Item 7A?",
+    "answer": "negatively affect our revenue",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many types of market risks are mentioned in Item 7A?",
+    "answer": "Three",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm for Meta Platforms, Inc.?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On what date did the independent auditor issue its report on Meta Platforms, Inc.'s consolidated financial statements?",
+    "answer": "February 1, 2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many years of financial statements were audited for the period ended December 31, 2022?",
+    "answer": "three",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the Consolidated Balance Sheets and the Consolidated Statements of Cash Flows?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Balance Sheets and the Consolidated Statements of Income?",
+    "answer": "171",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the Notes to Consolidated Financial Statements and the Consolidated Balance Sheets?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "META",
+    "year": "2022",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "META"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

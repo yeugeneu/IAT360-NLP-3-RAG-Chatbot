@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the page number for the 'Business Overview' section change from FY2022 to FY2024?",
+    "answer": "In FY2022, Business Overview was on page 22; in FY2023, it was on page 23; in FY2024, it was on page 28.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "APD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "APD"
+    ]
+  },
+  {
+    "question": "What currency unit is used to present financial information in each of the three fiscal years?",
+    "answer": "In FY2022, financial information is presented in 'millions of dollars'; in FY2023 and FY2024, it is presented in 'millions of U.S. Dollars'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "APD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "APD"
+    ]
+  },
+  {
+    "question": "What were the titles of the 'Summary' and 'Outlook' subsections in each year's MD&A?",
+    "answer": "FY2022: '2022 in Summary' and '2023 Outlook'; FY2023: '2023 in Summary' and 'Outlook'; FY2024: '2024 in Summary' and 'Outlook'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "APD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "APD"
+    ]
+  },
+  {
+    "question": "How did the phrasing of the safe harbor statement regarding the Annual Report reference evolve from FY2022 to FY2024?",
+    "answer": "In FY2022, the statement references 'this Annual Report on Form 10-K' once, and later says 'of this Annual Report'. In FY2023 and FY2024, the later phrase reads 'of this Annual Report on Form 10-K'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "APD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "APD"
+    ]
+  },
+  {
+    "question": "Are the sections 'Reconciliations of Non-GAAP Financial Measures' and 'Liquidity and Capital Resources' present in all three years?",
+    "answer": "Yes, both sections appear in each year's MD&A: FY2022 (pages 35 and 41), FY2023 (pages 33 and 39), FY2024 (pages 37 and 43).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "APD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "APD"
+    ]
+  },
+  {
+    "question": "What is the page range for the 'Pension Benefits' section in each fiscal year?",
+    "answer": "FY2022: page 44; FY2023: page 43; FY2024: page 47.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "APD",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "companies": [
+      "APD"
+    ]
+  }
+]

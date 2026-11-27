@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was the percentage change in total revenue from fiscal year 2022 to fiscal year 2024?",
+    "answer": "Revenue increased from $28,541.4 million in 2022 to $45,042.7 million in 2024. The percentage change is approximately 57.9% (calculated as (45,042.7 - 28,541.4) / 28,541.4 * 100).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Executive Overview / Financial Results",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "LLY",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "LLY"
+    ]
+  },
+  {
+    "question": "How did net income change from 2022 to 2023 and then from 2023 to 2024?",
+    "answer": "Net income decreased from $6,244.8 million in 2022 to $5,240.4 million in 2023 (a 16% decrease), then increased to $10,590.0 million in 2024 (a 102% increase).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Executive Overview / Financial Results",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "LLY",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "LLY"
+    ]
+  },
+  {
+    "question": "What were the diluted earnings per share for each fiscal year 2022, 2023, and 2024, and what was the overall trend?",
+    "answer": "Diluted EPS was $6.90 in 2022, $5.80 in 2023, and $11.71 in 2024. EPS decreased from 2022 to 2023 by 16%, then increased dramatically by 102% from 2023 to 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Executive Overview / Financial Results",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "LLY",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "LLY"
+    ]
+  },
+  {
+    "question": "How did the number of new medicine candidates in clinical development or under regulatory review change from fiscal year 2023 to fiscal year 2024?",
+    "answer": "In 2023, the company had approximately 50 new medicine candidates. In 2024, that number increased to approximately 55.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Clinical Development Pipeline (2024) and Late-Stage Pipeline (2023)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "LLY",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "LLY"
+    ]
+  },
+  {
+    "question": "Which products were cited as primary revenue drivers in 2023 compared to 2024, and what product line experienced a decline in 2024?",
+    "answer": "In 2023, revenue growth was primarily driven by Mounjaro, Verzenio, Jardiance, and sales of rights for the olanzapine portfolio and Baqsimi. In 2024, revenue growth was primarily driven by Mounjaro, Zepbound, and Verzenio, partially offset by Trulicity. Thus, in 2024, Zepbound replaced Jardiance as a key driver, and Trulicity experienced a decline.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Executive Overview / Financial Results",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "LLY",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "LLY"
+    ]
+  },
+  {
+    "question": "What were the primary reasons cited for the changes in net income in fiscal years 2023 and 2024?",
+    "answer": "In 2023, net income decreased primarily due to higher acquired in-process research and development (IPR&D) charges and increased research and development expenses, marketing, selling, and administrative expenses, and income taxes, partially offset by increased revenue. In 2024, net income increased primarily due to higher gross margin, partially offset by increased research and development expenses, marketing, selling, and administrative expenses, and asset impairment, restructuring, and other special charges.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A - Executive Overview / Financial Results",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "LLY",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "LLY"
+    ]
+  }
+]

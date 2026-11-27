@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is Google's mission as stated in the 2024 10-K?",
+    "answer": "to organize the world’s information and make it universally accessible and useful",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Since what year has Google been an AI-first company?",
+    "answer": "2016",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the two segments in which Google reports its business according to the 2024 10-K?",
+    "answer": "Google Services and Google Cloud",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In 2023, what percentage of total revenues came from online advertising?",
+    "answer": "more than 75%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the maximum possible percentage of total revenues that could have come from non-online advertising in 2023, given that online advertising generated more than 75%?",
+    "answer": "less than 25%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What can advertisers, distributors, digital publishers, and content providers do at any time according to the risk factors?",
+    "answer": "terminate their contracts",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the important assets mentioned as being at risk in this section?",
+    "answer": "Our patents, trademarks, trade secrets, copyrights, and other intellectual property rights.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific risk is associated with the trademark 'Google'?",
+    "answer": "There is a risk that the word 'Google' could become so commonly used that it becomes synonymous with the word 'search.'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If the trademark 'Google' loses protection, what could be the consequence?",
+    "answer": "Other people using the word 'Google' to refer to their own products, thus diminishing our brand.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many distinct types of intellectual property rights are explicitly mentioned as important assets in the MD&A section?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of times the word 'trademark' appears in the provided text?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many more risk statements are explicitly associated with patents compared to trademarks?",
+    "answer": "2 more",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the principal currencies hedged by Google as mentioned in the market risk disclosure?",
+    "answer": "Australian dollar, British pound, Canadian dollar, Euro, and Japanese yen.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the approximate adverse effect on income before income taxes if a 10% adverse foreign currency exchange rate change occurred for the years ended December 31, 2022 and 2023, after consideration of foreign exchange contracts?",
+    "answer": "$136 million for 2022 and $503 million for 2023.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the adverse effect on income before income taxes between 2023 and 2022, assuming a 10% adverse foreign currency exchange rate change after consideration of contracts?",
+    "answer": "$367 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the three components of Google advertising revenues?",
+    "answer": "Google Search & other, YouTube ads, and Google Network",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which metrics are used to track how well traffic is monetized for Google advertising revenues?",
+    "answer": "paid clicks and cost-per-click",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many types of Google advertising revenues are listed?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many components of Google advertising revenues are listed in the provided text?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many of the Google advertising revenue components have names that include the word 'Google'?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of characters in the names of the three Google advertising revenue components (including spaces and '&')?",
+    "answer": "43",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GOOGL",
+    "year": "2024",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GOOGL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

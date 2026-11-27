@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the primary business description of PLD as stated in its 10-K, and how does WELL describe its business in the provided content?",
+    "answer": "PLD describes itself as 'the global leader in logistics real estate with a focus on high-barrier, high growth markets.' WELL's provided content does not include a business description; it only includes risk factor summaries and audit reports.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PLD",
+      "WELL"
+    ],
+    "evidence_section": "PLD: Item 7 Management’s Discussion and Analysis (first paragraph); WELL: Entire provided content (no business description found).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PLD+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the geographic scope presented in the PLD filing compare to any geographic information provided for WELL?",
+    "answer": "PLD states it operates 'in 20 countries across four continents' and lists multiple office locations worldwide. WELL's provided content does not mention any geographic scope or country count.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PLD",
+      "WELL"
+    ],
+    "evidence_section": "PLD: Item 7 – 'We own, manage and develop well-located, high-quality logistics facilities in 20 countries across four continents.' WELL: No geographic data in provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PLD+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the presence or absence of risk factor disclosures in the provided excerpts for PLD and WELL.",
+    "answer": "WELL includes a 'Risk Factor Summary' under Item 7 that discusses macroeconomic and geopolitical risks. PLD's provided content does not contain any risk factor section.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PLD",
+      "WELL"
+    ],
+    "evidence_section": "WELL: Item 7 – 'Risk Factor Summary' with bullet points; PLD: Entire provided content (no risk factors included).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PLD+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total real estate assets balance for PLD as of December 31, 2024, and what is the corresponding balance reported for WELL?",
+    "answer": "PLD reports total real estate assets of $81,108,966 thousand as of December 31, 2024. WELL's provided content does not disclose any real estate asset balances.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PLD",
+      "WELL"
+    ],
+    "evidence_section": "PLD: Item 8 – Schedule III table 'Real estate assets: Balance at end year' $81,108,966; WELL: No such schedule in provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PLD+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the accumulated depreciation reported by PLD for its real estate assets as of December 31, 2024, and what figure does WELL disclose for its accumulated depreciation?",
+    "answer": "PLD reports accumulated depreciation of $12,450,545 thousand as of December 31, 2024. WELL's provided content does not disclose any accumulated depreciation figure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PLD",
+      "WELL"
+    ],
+    "evidence_section": "PLD: Item 8 – Schedule III table 'Accumulated depreciation: Balance at end year' $12,450,545; WELL: No depreciation data in provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PLD+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Do both PLD and WELL provide audit opinions from an independent registered public accounting firm in their provided content, and what are the opinions?",
+    "answer": "Yes, both provide audit reports. PLD's audit opinion is not explicitly quoted but is referenced in the table of contents; WELL includes an audit opinion stating the financial statements present fairly in conformity with GAAP and an unqualified opinion on internal control over financial reporting.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PLD",
+      "WELL"
+    ],
+    "evidence_section": "PLD: Item 8 – references to Report of Independent Registered Public Accounting Firm (exact text not included); WELL: Item 8 – 'Opinion on the Financial Statements ... present fairly, in all material respects' and 'unqualified opinion' on internal control.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PLD+WELL",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

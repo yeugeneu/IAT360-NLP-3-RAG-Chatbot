@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What year was The Procter & Gamble Company incorporated in Ohio?",
+    "answer": "1905",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the business model of P&G built to deliver?",
+    "answer": "Balanced top- and bottom-line growth and value creation",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many years after the founding of the business in 1837 was the company incorporated in Ohio in 1905?",
+    "answer": "68 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many countries does PG have operations in according to the risk factors section?",
+    "answer": "approximately 70 countries",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many more countries/territories does PG sell products in compared to the number of countries it has operations in?",
+    "answer": "110 countries/territories (180 - 70 = 110)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In how many countries and territories around the world are PG's products sold?",
+    "answer": "approximately 180 countries and territories",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the net sales amount for fiscal year 2023?",
+    "answer": "$82.0 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the net sales amount for fiscal year 2022?",
+    "answer": "$80.39 billion (calculated as $82.0 billion / 1.02)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total basis point impact from higher pricing and manufacturing productivity savings on gross margin?",
+    "answer": "580 basis points (430 + 150)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Using the operating costs table and the reported net sales of $82.0 billion for fiscal 2023, calculate the dollar amount of Selling, General and Administrative (SG&A) expense. Show your calculation.",
+    "answer": "SG&A expense = 25.7% of $82.0 billion = 0.257 × 82.0 = $21.074 billion.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Operating Costs Table; Net sales: 'Net sales increased 2% to $82.0 billion in fiscal 2023.'; Table: 'Selling, general and administrative expense 25.7 %' for 2023",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Based on the operating costs table, what is the difference in basis points between the gross margin in fiscal 2023 and the net earnings margin in fiscal 2022? Provide the numerical answer and show the conversion to basis points.",
+    "answer": "Gross margin 2023 = 47.9%; Net earnings 2022 = 18.4%. Difference = 47.9% − 18.4% = 29.5 percentage points = 29.5 × 100 = 2950 basis points.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Operating Costs Table: rows for 'Gross margin' (47.9% for 2023) and 'Net earnings' (18.4% for 2022)",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Using the table, verify that the operating margin for fiscal 2023 equals the gross margin minus the SG&A expense percentage. Explain any rounding difference observed.",
+    "answer": "Gross margin 2023 = 47.9%; SG&A 2023 = 25.7%; 47.9% − 25.7% = 22.2%. The table shows operating margin as 22.1%, a difference of 0.1 percentage point, likely due to rounding or the effect of other operating expenses not shown separately.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Operating Costs Table: Gross margin 47.9%, SG&A 25.7%, Operating margin 22.1% all for fiscal 2023",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the exact title of Item 7A as stated in the section?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which specific sections are incorporated by reference for the required market risk disclosures?",
+    "answer": "Other Information in the MD&A and Note 9 to the Consolidated Financial Statements.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many distinct referenced sections are mentioned in the incorporation by reference statement?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Who is responsible for establishing and maintaining adequate internal control over financial reporting?",
+    "answer": "Management",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the name of the manual that sets forth the commitment to conduct business with integrity?",
+    "answer": "Worldwide Business Conduct Manual",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many additional key elements are listed following the phrase 'Additional key elements of our internal control structure include'?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many distinct groups or committees are explicitly mentioned as part of the internal control structure in the text?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many times does the phrase 'internal control' (including variations like 'internal controls') appear in the provided content?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many key elements are listed after the phrase 'Additional key elements of our internal control structure include'?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PG",
+    "year": "2023",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PG"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

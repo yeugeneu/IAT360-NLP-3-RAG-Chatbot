@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the fiscal 2024 revenues reported by LOW and NKE, and what does this indicate about their relative size?",
+    "answer": "NKE reported revenues of $51.4 billion for fiscal 2024. LOW's revenue is not provided in the given content, so a direct comparison of size cannot be made.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "NKE"
+    ],
+    "evidence_section": "NKE Item 7; LOW Item 7 and Item 8 do not contain revenue",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do LOW and NKE describe their strategic focus areas in their Management's Discussion and Analysis?",
+    "answer": "LOW emphasizes being 'the employer of choice in retail' and creating 'valuable career opportunities' with a focus on human capital and employer awards. NKE focuses on 'creating innovative, must-have products', 'building deep personal consumer connections', and 'delivering compelling consumer experiences through digital platforms and at retail', as well as streamlining the organization through a net workforce reduction.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "NKE"
+    ],
+    "evidence_section": "LOW Item 7; NKE Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in the intellectual property disclosures of LOW and NKE?",
+    "answer": "LOW specifically lists registered trademarks and service marks including 'Kobalt', 'STAINMASTER', and 'allen+roth', and mentions patents and copyrights. NKE does not provide any details about its intellectual property in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "NKE"
+    ],
+    "evidence_section": "LOW Item 7; NKE Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do LOW and NKE describe their approaches to workforce management and culture?",
+    "answer": "LOW describes a commitment to being an 'employer of choice' with a focus on attracting and retaining top talent, career opportunities, and a culture that 'invites and encourages diverse opinions and ideas'. They mention receiving employer awards. NKE describes an enterprise-wide initiative to 'streamline the organization' resulting in 'a net reduction of our global workforce' with plans to reinvest wage savings into future growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "NKE"
+    ],
+    "evidence_section": "LOW Item 7; NKE Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does each company state about its internal control over financial reporting?",
+    "answer": "LOW states it is 'responsible for establishing and maintaining adequate internal control over financial reporting' and that its control 'was designed to provide reasonable assurance' regarding financial reporting reliability. NKE similarly states 'Management is responsible for establishing and maintaining adequate internal control over financial reporting' and that its systems are 'designed to reasonably assure assets are safeguarded'. Both include language about inherent limitations and reasonable assurance.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "NKE"
+    ],
+    "evidence_section": "LOW Item 8 (Management's Report on Internal Control); NKE Item 8 (Management's Annual Report on Internal Control)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, what notable employer awards does LOW mention that NKE does not, and what does this reveal about their respective human capital strategies?",
+    "answer": "LOW mentions being named on the 'Disability:IN National Best Places to Work for Disability Inclusion', 'Fortune’s World’s Most Admired Companies Specialty Retailer', and '2024 Great Plac[e]' (incomplete). NKE does not mention any employer awards. This indicates LOW's human capital strategy explicitly highlights external recognition, while NKE's narrative focuses on restructuring and operational efficiency.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LOW",
+      "NKE"
+    ],
+    "evidence_section": "LOW Item 7; NKE Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LOW+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

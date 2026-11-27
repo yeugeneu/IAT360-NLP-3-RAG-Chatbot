@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What are the types of risks that the company's sustainability efforts expose them to?",
+    "answer": "operational, reputational, financial, legal, and other risks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the text, what three things are required to achieve the goals and commitments?",
+    "answer": "evolving our business, capital investment and the development of technology",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many times does the word 'commitments' appear in the provided content?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many sites in the United States is ECL currently involved with for waste disposal site clean-up activities under CERCLA or state equivalents?",
+    "answer": "16 sites",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Environmental Remediation and Proceedings",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does the accrual for environmental remediation include potential insurance reimbursements?",
+    "answer": "No, potential insurance reimbursements are not included.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Environmental Remediation and Proceedings",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of waste disposal sites (in the United States and outside the United States) that ECL is currently involved with for clean-up activities?",
+    "answer": "22 sites (16 in the United States plus 6 outside the United States)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Environmental Remediation and Proceedings",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For how many months are the results of acquired businesses excluded from organic sales in non-GAAP financial measures?",
+    "answer": "the first twelve months",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of quantitative information does the MD&A provide about material sales drivers?",
+    "answer": "the impact of changes in volume and pricing and the effect of acquisitions and changes in foreign currency",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many material sales drivers are specifically listed in the description of quantitative information provided by the MD&A?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total amount of special (gains) and charges reported in the MD&A tables for fiscal year 2024?",
+    "answer": "The provided content does not contain any numerical table data for special (gains) and charges.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the table, what was the percentage change in organic sales from the prior year, assuming the segments are listed in the MD&A?",
+    "answer": "The provided content lacks any numerical table data needed to perform this calculation.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If the table shows total sales of $5,000 million and acquisition-related sales of $500 million, what is the organic sales growth rate for the year?",
+    "answer": "The provided content does not include the actual table with these figures; therefore, the calculation cannot be verified from the given content.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What discussion is incorporated by reference from Part II according to Item 7A?",
+    "answer": "The discussion under the heading \"Market Risk\" and “Global Economic and Political Environment”",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which item in the filing covers Quantitative and Qualitative Disclosures about Market Risk?",
+    "answer": "Item 7A",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Under what headings is the discussion incorporated by reference?",
+    "answer": "\"Market Risk\" and “Global Economic and Political Environment”",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What framework was used for the evaluation of internal control over financial reporting?",
+    "answer": "2013 framework in Internal Control — Integrated Framework iss",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Management’s Report on Internal Control Over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Under which Exchange Act Rule is internal control over financial reporting defined?",
+    "answer": "Exchange Act Rule 13a-15(f)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Management’s Report on Internal Control Over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who is responsible for recommending the appointment of the Company's independent registered public accounting firm?",
+    "answer": "The Audit Committee recommends to the Board of Directors the appointment of the Company’s independent registered public accounting firm",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Reports of Management",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ECL"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

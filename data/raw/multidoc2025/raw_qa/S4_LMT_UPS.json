@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Does Lockheed Martin report any non-GAAP adjusted financial measures or transformation strategy costs similar to UPS's Transformation 2.0 costs in the provided content?",
+    "answer": "No, the provided Lockheed Martin content does not mention any non-GAAP adjusted financial measures or transformation strategy costs. UPS reports Transformation 2.0 costs of $83 million in 2024 and $210 million in 2023.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "UPS"
+    ],
+    "evidence_section": "--- LMT CONTENT --- (only audit opinion and MD&A intro; no non-GAAP discussion) and --- UPS CONTENT --- (Item 7, Non-GAAP Adjustments table showing Transformation 2.0 Spans and Layers, etc.)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the total non-GAAP adjustments to operating expenses reported by UPS for the year ended December 31, 2024, and does Lockheed Martin provide any equivalent disclosure in its MD&A?",
+    "answer": "UPS reports total non-GAAP adjustments to operating expenses of $426 million for 2024. Lockheed Martin does not provide any equivalent non-GAAP adjustment disclosure in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "UPS"
+    ],
+    "evidence_section": "--- UPS CONTENT ---: 'Total Adjustments to Non-GAAP Operating Expenses $ 426 $ 732' for 2024 and 2023. --- LMT CONTENT ---: no non-GAAP adjustments mentioned.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "LMT+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both Lockheed Martin and UPS have audit opinions from independent registered public accounting firms. What differences exist in the scope of their audit reports as described in the provided excerpts?",
+    "answer": "Lockheed Martin's audit report states that the auditor also audited the Corporation's internal control over financial reporting as of December 31, 2024, and expressed an unqualified opinion. UPS's audit report does not mention an audit of internal control over financial reporting in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "UPS"
+    ],
+    "evidence_section": "LMT: 'we have audited... the Corporation’s internal control over financial reporting as of December 31, 2024... expressed an unqualified opinion'. UPS: only 'We have audited... the financial statements' (no mention of internal control audit).",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "UPS reports goodwill and asset impairment charges as a non-GAAP adjustment. What are those amounts for 2024 and 2023, and does Lockheed Martin disclose any impairment charges in the provided content?",
+    "answer": "UPS reports goodwill and asset impairment charges of $108 million in 2024 and $236 million in 2023. Lockheed Martin does not disclose any impairment charges in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "UPS"
+    ],
+    "evidence_section": "--- UPS CONTENT ---: 'Goodwill and Asset Impairment Charges 108 236'. --- LMT CONTENT ---: no mention of impairments.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "UPS lists 'Defined Benefit Pension and Postretirement Medical Plan Loss' as a non-GAAP adjustment. What are the amounts for 2024 and 2023, and does Lockheed Martin report any similar pension losses in the provided excerpt?",
+    "answer": "UPS reports Defined Benefit Pension and Postretirement Medical Plan Loss of $665 million in 2024 and $359 million in 2023. Lockheed Martin does not report any similar pension or postretirement plan losses in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "UPS"
+    ],
+    "evidence_section": "--- UPS CONTENT ---: 'Other Income and (Expense): Defined Benefit Pension and Postretirement Medical Plan Loss $ 665 $ 359'. --- LMT CONTENT ---: no such disclosure.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the transformation strategies of UPS (Transformation 1.0, 2.0, Fit to Serve, Reimagined) compare with Lockheed Martin's strategic initiatives as described in the provided MD&A?",
+    "answer": "UPS provides detailed breakdowns of transformation costs including Transformation 1.0 ($0 in 2024, $13M in 2023), Transformation 2.0 ($83M in 2024, $210M in 2023), Fit to Serve ($204M in 2024, $212M in 2023), and Reimagined ($35M in 2024, $0 in 2023). Lockheed Martin's MD&A does not mention any specific transformation strategy costs or initiatives in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "UPS"
+    ],
+    "evidence_section": "--- UPS CONTENT ---: 'Transformation Strategy Costs' table with line items. --- LMT CONTENT ---: only general MD&A description, no transformation costs.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+UPS",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

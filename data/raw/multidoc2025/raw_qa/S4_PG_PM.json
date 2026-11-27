@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the net sales/revenues of Procter & Gamble and Philip Morris International compare in their most recent fiscal years?",
+    "answer": "Procter & Gamble's net sales were $84.0 billion in fiscal 2024 (ending June 30, 2024). Philip Morris International's net revenues were $37,878 million ($37.878 billion) in calendar year 2024. PG's net sales are approximately $46.1 billion higher than PM's net revenues, and PG's sales are about 2.22 times larger.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "evidence_section": "PG: Item 7; PM: Item 8 (Consolidated Statements of Earnings)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PG+PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company reports a higher gross margin, and by how many basis points?",
+    "answer": "Procter & Gamble's gross margin is 51.4% of net sales. Philip Morris International's gross margin is 64.8% (computed as $24,549 million gross profit / $37,878 million net revenues). PM's gross margin is higher by 1,340 basis points (64.8% - 51.4% = 13.4 percentage points = 1,340 bps).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "evidence_section": "PG: Item 7 (Gross margin 51.4%); PM: Item 8 (Consolidated Statements of Earnings: gross profit and net revenues)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PG+PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the operating margin percentages of Procter & Gamble and Philip Morris International. Which company is more profitable at the operating level?",
+    "answer": "Procter & Gamble's operating margin is 22.1% of net sales (given directly). Philip Morris International's operating margin is 35.4% (calculated as $13,402 million operating income / $37,878 million net revenues). PM has a higher operating margin by 13.3 percentage points (1,330 bps).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "evidence_section": "PG: Item 7 (Operating margin 22.1%); PM: Item 8 (Consolidated Statements of Earnings: operating income and net revenues)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PG+PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the net earnings attributable to parent as a percentage of net sales/revenues compare between Procter & Gamble and Philip Morris International?",
+    "answer": "Procter & Gamble's net earnings attributable to Procter & Gamble is 17.7% of net sales. For Philip Morris International, net earnings attributable to PMI of $7,057 million divided by net revenues of $37,878 million equals approximately 18.6%. PM's margin is 0.9 percentage points (90 bps) higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "evidence_section": "PG: Item 7 (Net earnings attributable 17.7%); PM: Item 8 (Consolidated Statements of Earnings: Net earnings attributable to PMI and net revenues)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PG+PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company reported impairment charges in their most recent fiscal year, and how do they compare to the other company?",
+    "answer": "Philip Morris International reported a significant impairment charge in 2024: a $2,316 million impairment related to the RBH equity investment. Procter & Gamble did not mention any impairment charges in the provided fiscal 2024 excerpt. PM's impairment is $2,316 million and represents a major non-cash charge, while PG appears to have no impairment.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "evidence_section": "PG: Item 7 (no impairment mentioned); PM: Item 8 (Consolidated Statements of Earnings: 'Impairment related to the RBH equity investment $2,316' and Item 7 discussion of prior year impairments)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PG+PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare selling, general and administrative expense as a percentage of sales for Procter & Gamble and marketing, administration and research costs as a percentage of revenues for Philip Morris International.",
+    "answer": "Procter & Gamble's SG&A expense is 27.7% of net sales. Philip Morris International's marketing, administration and research costs are $11,147 million / $37,878 million = 29.4% of net revenues. PM's percentage is 1.7 percentage points (170 bps) higher than PG's.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PG",
+      "PM"
+    ],
+    "evidence_section": "PG: Item 7 (SG&A 27.7%); PM: Item 8 (Consolidated Statements of Earnings: marketing, administration and research costs and net revenues)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "PG+PM",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

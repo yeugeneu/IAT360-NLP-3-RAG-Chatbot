@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the introductory description of macroeconomic factors change from FY2022 to FY2023 and FY2024?",
+    "answer": "In FY2022, the description is 'global economic climate and additional or unforeseen circumstances, developments, or events.' In FY2023 and FY2024, it expands to 'global economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in the risk factors below",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "AMZN"
+    ]
+  },
+  {
+    "question": "What new technology category was added to the list of competitive technologies in FY2024 that was not present in FY2022 or FY2023?",
+    "answer": "In FY2024, 'practical applications of artificial intelligence and machine learning' was added. The FY2022 and FY2023 texts list 'search, web and infrastructure computing services, digital content, and electronic devices' without mentioning artificial intelligence or machine learning.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in the risk factors below",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "AMZN"
+    ]
+  },
+  {
+    "question": "In which fiscal year(s) does the risk factor state that the risks 'also impact our customers, including third-party sellers, which could indirectly have a material adverse effect on us'?",
+    "answer": "This statement appears in FY2023 and FY2024, but not in the FY2022 content provided.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in the risk factors below",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "AMZN"
+    ]
+  },
+  {
+    "question": "How did the description of competition intensity evolve regarding the development of new business models across the three fiscal years?",
+    "answer": "In FY2022, the text states 'Competition continues to intensify, including with the development of new business models and the entry of new and well-funded competitors.' The same sentence appears verbatim in FY2023 and FY2024. No change was observed across the years for this specific phrase.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in the risk factors below",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "AMZN"
+    ]
+  },
+  {
+    "question": "What change occurred in the list of technologies that 'continue to increase our competition' between FY2022/FY2023 and FY2024?",
+    "answer": "In FY2022 and FY2023, the list is 'search, web and infrastructure computing services, digital content, and electronic devices.' In FY2024, it becomes 'search, web and infrastructure computing services, practical applications of artificial intelligence and machine learning, digital content, and electronic devices,' adding 'practical applications of artificial intelligence and machine learning' before 'digital content.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in the risk factors below",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "AMZN"
+    ]
+  },
+  {
+    "question": "Does the FY2022 risk factor include the phrase 'global economic and geopolitical conditions' or only 'global economic climate'? How does this compare to FY2023 and FY2024?",
+    "answer": "FY2022 uses 'global economic climate and additional or unforeseen circumstances, developments, or events.' FY2023 and FY2024 use 'global economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events.' Thus, the phrase 'geopolitical conditions' is added starting in FY2023.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in the risk factors below",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "AMZN"
+    ]
+  }
+]

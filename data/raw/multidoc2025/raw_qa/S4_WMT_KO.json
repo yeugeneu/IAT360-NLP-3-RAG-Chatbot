@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the fiscal year ends for Walmart Inc. and The Coca-Cola Company based on their financial statements?",
+    "answer": "Walmart's fiscal year ended January 31, 2024 (as stated in 'fiscal years ended January 31, 2024'). The Coca-Cola Company's fiscal year ended December 31, 2024 (as stated in 'Year Ended December 31, 2024').",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WMT",
+      "KO"
+    ],
+    "evidence_section": "WMT: ITEM 7, first paragraph; KO: ITEM 8, Consolidated Statements of Income heading",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WMT+KO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies differ in their primary business models and the performance metrics they highlight for investors?",
+    "answer": "Walmart is a retailer that measures performance using 'comparable store and club sales' (defined as sales from stores and clubs open for the previous 12 months). Coca-Cola is a beverage manufacturer that highlights its brand portfolio (e.g., Coca-Cola, Sprite, Dasani) and reports net operating revenues, gross profit, and operating income.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WMT",
+      "KO"
+    ],
+    "evidence_section": "WMT: ITEM 7, paragraph defining comparable sales; KO: ITEM 7, list of beverage brands and ITEM 8, Consolidated Statements of Income",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WMT+KO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both companies' financial statements were audited by a firm registered with the PCAOB. What is the common PCAOB ID number shown in their reports?",
+    "answer": "Both reports show PCAOB ID: 42 (Walmart: 'PCAOB ID: 42' in the report heading; Coca-Cola: 'PCAOB ID: 42' in the report heading).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WMT",
+      "KO"
+    ],
+    "evidence_section": "WMT: ITEM 8, Report of Independent Registered Public Accounting Firm (page); KO: ITEM 8, Report of Independent Registered Public Accounting Firm (page 121)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WMT+KO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic initiative does Coca-Cola describe in the alcohol beverage category, and how does that contrast with Walmart's description of its business?",
+    "answer": "Coca-Cola describes a direct entry into alcohol beverages via a firewalled subsidiary, focusing on pre-mixed cocktails, flavored alcohol beverages, and hard seltzers. Walmart does not mention any alcohol business; instead it focuses on retail store and club operations and comparable sales metrics.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WMT",
+      "KO"
+    ],
+    "evidence_section": "WMT: ITEM 7, discussion of comparable sales; KO: ITEM 7, paragraph on alcohol beverage category and approach",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WMT+KO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a detailed gross profit line item in its income statement, and what is the gross profit for its most recent fiscal year?",
+    "answer": "The Coca-Cola Company provides Gross Profit of $28,737 million for the year ended December 31, 2024. Walmart's income statement is not included in the provided content, so no gross profit figure is available for comparison.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WMT",
+      "KO"
+    ],
+    "evidence_section": "WMT: no income statement provided in excerpt; KO: ITEM 8, Consolidated Statements of Income, line 'Gross Profit $28,737'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WMT+KO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What metric does Walmart use to evaluate the performance of its existing stores and clubs, and what is Coca-Cola's net operating revenues for fiscal year 2024?",
+    "answer": "Walmart uses 'comparable store and club sales' (or comparable sales) defined as the change in sales for stores and clubs open for the previous 12 months. Coca-Cola's net operating revenues for the year ended December 31, 2024 are $47,061 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WMT",
+      "KO"
+    ],
+    "evidence_section": "WMT: ITEM 7, second paragraph; KO: ITEM 8, Consolidated Statements of Income, line 'Net Operating Revenues $47,061'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WMT+KO",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

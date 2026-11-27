@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company provides a detailed financial overview table including net revenues, pre-tax earnings, net earnings, diluted EPS, ROE, and ROTE in its 10-K excerpt?",
+    "answer": "GS provides a detailed financial overview table for the years ended December 31, 2024, 2023, and 2022, including net revenues of $53,512 million, pre-tax earnings of $18,397 million, net earnings of $14,276 million, diluted EPS of $40.54, ROE of 12.7%, and ROTE of 13.5% for 2024. JPM does not provide such a table in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GS",
+      "JPM"
+    ],
+    "evidence_section": "GS: Item 7; JPM: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GS+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company reports a target through-the-cycle ROE and ROTE range?",
+    "answer": "GS reports a target through-the-cycle ROE range of 14% to 16% and ROTE range of 15% to 17%. JPM does not mention any such targets in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GS",
+      "JPM"
+    ],
+    "evidence_section": "GS: Item 7; JPM: N/A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GS+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's Management's Report on Internal Control Over Financial Reporting explicitly states the framework used for the assessment?",
+    "answer": "GS states that its assessment was based on the framework established in 'Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO)'. JPM's excerpt does not include such a statement.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GS",
+      "JPM"
+    ],
+    "evidence_section": "GS: Item 8; JPM: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GS+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company presents its dividend payout ratio for FY2024?",
+    "answer": "GS presents a dividend payout ratio of 28.4% for the year ended December 31, 2024. JPM does not present any dividend payout ratio in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GS",
+      "JPM"
+    ],
+    "evidence_section": "GS: Item 7; JPM: N/A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GS+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's 10-K excerpt includes multiple certificates of designation for preferred stock series?",
+    "answer": "JPM includes certificates of designation for preferred stock Series CC, DD, EE, GG, II, JJ, and others. GS does not include any such certificates in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GS",
+      "JPM"
+    ],
+    "evidence_section": "GS: N/A; JPM: Item 8 (Exhibits 3.3–3.90)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GS+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company reports both ROE and ROTE in its financial overview?",
+    "answer": "GS reports ROE of 12.7% and ROTE of 13.5% for 2024. JPM's excerpt does not include any ROE or ROTE figures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "GS",
+      "JPM"
+    ],
+    "evidence_section": "GS: Item 7; JPM: N/A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "GS+JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

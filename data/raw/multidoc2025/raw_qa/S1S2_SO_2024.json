@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What is the name of the system service company that provides services to Southern Company?",
+    "answer": "SCS",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In how many states does Southern Company Gas distribute natural gas?",
+    "answer": "four",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many subsidiary companies are explicitly named in the first paragraph of Item 1. Business?",
+    "answer": "10",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the profitability of the traditional electric operating companies' and the natural gas distribution utilities' businesses largely dependent on?",
+    "answer": "their ability, through the rates that they are permitted to charge, to recover their costs and earn a reasonable rate of return on invested capital.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What could result in substantial monetary penalties if a Registrant is found to be noncompliant?",
+    "answer": "The Registrants' businesses are subject to regulatory regimes which could result in substantial monetary penalties if a Registrant is found to be noncompliant.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many times does the word 'rates' appear in the provided risk factor text?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are some of the catastrophic events listed as operational risks in the MD&A section?",
+    "answer": "fires, including wildfires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, wars, political unrest, or other similar occurrences",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What inherent risks are associated with the operation of nuclear facilities according to this section?",
+    "answer": "environmental, safety, health, regulatory, natural disasters, cyber intrusions, physical attacks, and financi",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What factors can cause operating limitations as mentioned in the operational risks?",
+    "answer": "environmental or other regulatory requirements or in connection with joint owner arrangements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many separate risk categories are listed in the operational risks paragraph?",
+    "answer": "16",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of risks related to cyber security to total risks?",
+    "answer": "2/16 = 0.125 or 12.5%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many risks are associated with natural disasters?",
+    "answer": "1 out of 16",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the exact reference given in Item 7A for quantitative and qualitative disclosures about market risk?",
+    "answer": "Management's Discussion and Analysis – Financial Condition and Liquidity – 'Market Price Risk'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the section number of the item that contains these market risk disclosures?",
+    "answer": "Item 7A",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many words are in the heading of Item 7A as it appears in the provided content?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many traditional electric operating companies does Southern Company own?",
+    "answer": "three",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the primary businesses of Southern Company?",
+    "answer": "electricity sales by the traditional electric operating companies and Southern Power and the distribution of natural gas by Southern Company Gas",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many reportable segments does Southern Company have?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "SO",
+    "year": "2024",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "SO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

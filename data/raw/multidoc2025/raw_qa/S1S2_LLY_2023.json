@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What year was Eli Lilly and Company incorporated?",
+    "answer": "1901",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In approximately how many countries are Eli Lilly's products sold?",
+    "answer": "approximately 105",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many years after the founding of the drug manufacturing business in 1876 was Eli Lilly and Company incorporated in 1901?",
+    "answer": "25 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What specific reasons are given for why new product candidates may fail to reach the market or have limited commercial success?",
+    "answer": "efficacy or safety concerns, inability to obtain or maintain necessary regulatory approvals or payer reimbursement or coverage, failure to obtain placement on gu",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is stated about the financial returns from funds invested in research and development programs?",
+    "answer": "most funds invested in research and development programs will not generate financial returns",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the difficulties and uncertainties inherent in pharmaceutical research and development, new product introductions, and business development activities?",
+    "answer": "There is a high rate of failure inherent in drug discovery and development. To bring a product from the discovery phase to market takes considerable time and entails significant cost. Failure can occur at any point in the process, including in later stages after substantial investment.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was LLY's revenue for the year ended December 31, 2023?",
+    "answer": "$34,124.1",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "EXECUTIVE OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the absolute change in net income from 2022 to 2023?",
+    "answer": "$1,004.4 million decrease (6,244.8 - 5,240.4 = 1,004.4)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "EXECUTIVE OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Name two products that contributed to the revenue increase in 2023.",
+    "answer": "Mounjaro and Verzenio",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "EXECUTIVE OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the net profit margin for the year ended December 31, 2023, expressed as a percentage?",
+    "answer": "15.36% (calculated as 5,240.4 / 34,124.1 × 100)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the absolute change in net income from 2022 to 2023?",
+    "answer": "$1,004.4 million decrease (6,244.8 - 5,240.4 = 1,004.4 million less)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Using the revenue figures for 2022 and 2023, calculate the percentage change and compare it to the reported percent change.",
+    "answer": "Calculated: (34,124.1 - 28,541.4) / 28,541.4 × 100 = 19.56% (rounded to 20% as reported). The reported percent change is 20%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Where, according to Item 7A, can the quantitative and qualitative disclosures about market risk be found?",
+    "answer": "Item 7, 'Management's Discussion and Analysis - Financial Condition and Liquidity.'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What number appears at the end of the content in Item 7A?",
+    "answer": "56",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the result of adding 44 to the page number referenced at the end of Item 7A?",
+    "answer": "100",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the revenue for the year ended December 31, 2023?",
+    "answer": "$34,124.1 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of cost of sales and marketing, selling, and administrative expenses for the year ended December 31, 2023?",
+    "answer": "$7,082.2 million + $7,403.1 million = $14,485.3 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the change in net income from 2022 to 2023?",
+    "answer": "$5,240.4 million - $6,244.8 million = -$1,004.4 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the gross margin (Revenue minus Cost of sales) for 2023 in millions of dollars?",
+    "answer": "27,041.9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the absolute difference in total costs, expenses, and other between 2022 and 2023 in millions of dollars?",
+    "answer": "5,834.5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "For the year ended December 31, 2021, what is the net other comprehensive income (loss) after income taxes, calculated as other comprehensive income before income taxes minus the income tax expense related to other comprehensive income?",
+    "answer": "2,153.3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Comprehensive Income (Loss)",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2023",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

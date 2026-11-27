@@ -1,0 +1,443 @@
+[
+  {
+    "question": "In how many U.S. states does JPMorgan Chase Bank, N.A. have branches?",
+    "answer": "48",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the name of JPMorgan Chase's principal non-bank subsidiary?",
+    "answer": "J.P. Morgan Securities LLC",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What were JPMorgan Chase's total liabilities as of December 31, 2022, given assets of $3.7 trillion and stockholders' equity of $292.3 billion?",
+    "answer": "$3,407,700,000,000",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What do the principal risk factors listed in the summary include?",
+    "answer": "Regulatory risks, political risks, and market risks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What can security holders absorb if JPMorgan Chase were to enter into a resolution?",
+    "answer": "the losses",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many principal risk factors are explicitly listed in the provided text?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of the Management's Discussion and Analysis section?",
+    "answer": "Management’s discussion and analysis",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On which pages do the Consolidated Financial Statements appear?",
+    "answer": "159-291",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many pages does the Management’s Discussion and Analysis cover?",
+    "answer": "109",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the percentage change in net revenue from 2021 to 2022?",
+    "answer": "6.5%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Table of Selected Income Statement Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the ratio of noninterest expense to net revenue for 2022?",
+    "answer": "56.2%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Table of Consolidated Income Statement",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By how much did the provision for credit losses change from 2021 to 2022?",
+    "answer": "Increase of $1.2 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Table of Provision for Credit Losses",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In which section of the 10-K filing are the quantitative and qualitative disclosures about market risk referred to?",
+    "answer": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What page range is referenced for the Market Risk Management discussion?",
+    "answer": "pages 131-138",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where is the Market Risk Management section located according to Item 7A?",
+    "answer": "Management’s discussion and analysis on pages 131-138",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where in the filing are the financial statements for Item 8 set forth?",
+    "answer": "commencing on page 156",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many exhibits are listed from 3.1 through 3.8 in the Exhibit list for Item 8?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the effective date of the Restated Certificate of Incorporation of JPMorgan Chase & Co. as referenced in Exhibit 3.1?",
+    "answer": "effective April 5, 2006",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many certificates of designations for fixed-to-floating rate non-cumulative preferred stock are referenced in exhibits 3.3 through 3.8?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the filing date of the Certificate of Designations for Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series R?",
+    "answer": "July 29, 2013",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many exhibits are listed from 3.1 to 3.8?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What services does the Company offer under the Services category?",
+    "answer": "Advertising and AppleCare.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which smartwatches are part of the Wearables, Home and Accessories category?",
+    "answer": "Apple Watch Ultra 2, Apple Watch Series 9 and Apple Watch SE.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many iPhone models are listed in the 2023 10-K?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What does the Company state about sales outside the U.S. in relation to total net sales?",
+    "answer": "sales outside the U.S. representing a majority of the Company’s total net sales",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What does the Company state about the location of its supplier facilities?",
+    "answer": "a majority of the Company’s supplier facilities, including manufacturing and assembly sites, are located outside the U.S.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What does the Company say about past financial performance as an indicator of future performance?",
+    "answer": "past financial performance should not be considered to be a reliable indicator of future performance, and investors should not use historical trends to anticipate results or trends in future periods.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was Apple's net income for fiscal year 2023?",
+    "answer": "$97.0 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many weeks did fiscal year 2023 span?",
+    "answer": "53 weeks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What were Apple's total net sales in fiscal year 2022?",
+    "answer": "$394.3 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was Apple's net profit margin for fiscal year 2023?",
+    "answer": "25.3%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "By what percentage did Apple increase its quarterly dividend per share from $0.23 to $0.24?",
+    "answer": "4.3%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Given fiscal year 2023 had 53 weeks and total net sales of $383.3 billion, what was the average net sales per week?",
+    "answer": "$7.23 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the potential decline in fair value of AAPL's investment portfolio for fiscal year 2023 under a hypothetical 100 basis point increase in interest rates, as reported in the 10-K?",
+    "answer": "$3,089",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the increase in annual interest expense on AAPL's term debt for fiscal year 2022 under a hypothetical 100 basis point increase in interest rates?",
+    "answer": "$201",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between the 2023 and 2022 potential decline in fair value of AAPL's investment portfolio under a hypothetical 100 basis point interest rate increase?",
+    "answer": "$3,089 - $4,022 = -$933 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What were Apple's total net sales for the fiscal year ended September 30, 2023?",
+    "answer": "383,285",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the change in products net sales from fiscal year 2022 to fiscal year 2023?",
+    "answer": "-18,114",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What were Apple's services net sales for the fiscal year ended September 24, 2022?",
+    "answer": "78,129",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the gross margin as a percentage of total net sales for the fiscal year ended September 30, 2023?",
+    "answer": "44.13%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the year-over-year percentage change in total net sales from fiscal year 2022 to 2023?",
+    "answer": "-2.80%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of total operating expenses was spent on research and development in fiscal year 2023?",
+    "answer": "54.55%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AAPL",
+    "year": "2023",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AAPL"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

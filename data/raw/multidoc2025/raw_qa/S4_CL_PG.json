@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company reported higher net sales growth in their respective fiscal year 2024, CL or PG?",
+    "answer": "CL reported net sales growth of 3.3%, while PG reported net sales growth of 2%. Therefore, CL had higher net sales growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CL",
+      "PG"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CL+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the organic sales growth rates of CL and PG compare for fiscal year 2024?",
+    "answer": "CL's organic sales increased 7.4% in 2024, while PG's organic sales increased 4% in fiscal 2024. CL's organic sales growth was higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CL",
+      "PG"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CL+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compared to PG's overall pricing impact, how did CL's net selling price increase differ?",
+    "answer": "CL's net selling price increase was 4.4% in fiscal 2024, while PG's higher pricing contributed 4% to net sales. Both companies had similar pricing impacts, with CL slightly higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CL",
+      "PG"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CL+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company experienced volume growth in fiscal 2024, and how did that compare between CL and PG?",
+    "answer": "CL reported volume growth of 3.1% in 2024, while PG reported volume unchanged versus the prior year. CL had positive volume growth, whereas PG had no volume change.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CL",
+      "PG"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CL+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the foreign exchange impact on net sales differ between CL and PG in fiscal 2024?",
+    "answer": "CL reported a negative foreign exchange impact of 4.1% on net sales, whereas PG reported an unfavorable foreign exchange impact of 2%. CL's net sales were more adversely affected by foreign exchange.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CL",
+      "PG"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CL+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In terms of absolute net sales, how does CL's size compare to PG's for fiscal year 2024?",
+    "answer": "CL's net sales were $20,101 million (approximately $20.1 billion) in 2024, while PG's net sales were $84.0 billion. PG's net sales were about 4.2 times larger than CL's.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CL",
+      "PG"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "CL+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

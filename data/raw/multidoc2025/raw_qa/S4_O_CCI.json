@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the portfolio diversification of O (Realty Income) compare to the competitive environment described for CCI (Crown Castle) in their respective 10-K filings?",
+    "answer": "O has a highly diversified portfolio with 15,621 properties across 89 industries and 1,565 clients, with 32.4% of annualized rent from investment-grade clients and a top 20 client concentration of 36.4%. In contrast, CCI faces intense competition from other infrastructure owners, tenants who self-perform, and alternative deployment methods, and notes that its fiber solutions business has higher non-renewal rates than towers and small cells, indicating a less diversified tenant base and greater exposure to competitive pressure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "O",
+      "CCI"
+    ],
+    "evidence_section": "O: Item 7 MD&A; CCI: Item 7 MD&A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "O+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the filings, what are the key strategic differences between O and CCI in terms of business focus and growth drivers?",
+    "answer": "O focuses on diversified commercial real estate with a mission to deliver dependable monthly dividends, having declared 656 consecutive monthly dividends and increased dividends for 30 consecutive years. Its growth drivers include a large portfolio (15,621 properties) with long weighted average lease terms (9.3 years) and investment-grade clients. CCI, on the other hand, operates in communications infrastructure (towers, small cells, fiber) and is implementing a 2023 Restructuring Plan that discontinued installation services as a Towers product offering. CCI’s growth depends on new tenant contracts and renewals, but it faces higher non-renewal rates in its fiber solutions business and competition from multiple sources.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "O",
+      "CCI"
+    ],
+    "evidence_section": "O: Item 7 MD&A; CCI: Item 7 MD&A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "O+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the client concentration risks differ between O and CCI according to their 10-K disclosures?",
+    "answer": "O discloses that its top 20 clients represent approximately 36.4% of annualized rent, and 10 of these have investment-grade credit, implying moderate concentration with high credit quality. CCI does not provide explicit client concentration percentages, but it describes competitive risks such as tenants electing to self-perform and the need to renegotiate contracts to avoid early terminations, particularly in its fiber solutions business, suggesting a more fragmented and potentially less stable client base.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "O",
+      "CCI"
+    ],
+    "evidence_section": "O: Item 7 MD&A; CCI: Item 7 MD&A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "O+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does each company’s filing reveal about the stability of their rental revenue streams?",
+    "answer": "O reports a weighted average remaining lease term of approximately 9.3 years (excluding renewal options) and annualized contractual rent of $4.97 billion, indicating a stable, long-term revenue stream. CCI acknowledges that the level of non-renewals associated with fiber solutions is generally higher than that of towers and small cells, and competition may cause it to renegotiate existing contracts to avoid early terminations, implying less stability in its fiber revenue stream compared to O’s portfolio.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "O",
+      "CCI"
+    ],
+    "evidence_section": "O: Item 7 MD&A; CCI: Item 7 MD&A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "O+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do O and CCI describe their competitive positions within the real estate and communications infrastructure sectors, respectively?",
+    "answer": "O positions itself as a diversified real estate partner to leading companies, with a large portfolio across the U.S. and Europe, and emphasizes its 30-year dividend growth track record. CCI describes a highly competitive environment in its industry, facing competition from other infrastructure owners, cable providers, and new deployment methods; it notes that competition may make it harder to attract tenants, maintain margins, or increase market share, especially in fiber solutions where competitors may have larger networks or greater financial resources.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "O",
+      "CCI"
+    ],
+    "evidence_section": "O: Item 7 MD&A; CCI: Item 7 MD&A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "O+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What evidence from the filings indicates differences in the scale and geographic reach of O and CCI?",
+    "answer": "O reports owning or holding interests in 15,621 properties across all 50 U.S. states, the U.K., and six other European countries, with 339.4 million square feet of leasable space. CCI’s filing does not provide a comparable property count or geographic breakdown; it focuses on its Towers and Fiber businesses and mentions ownership of towers, rooftops, broadcast towers, utility poles, fiber, and small cells, but no aggregate numbers are given. This contrast shows O’s explicit disclosure of scale and international presence versus CCI’s more qualitative description of its asset types.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "O",
+      "CCI"
+    ],
+    "evidence_section": "O: Item 7 MD&A; CCI: Item 7 MD&A",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "O+CCI",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

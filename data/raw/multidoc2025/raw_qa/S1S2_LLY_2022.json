@@ -1,0 +1,443 @@
+[
+  {
+    "question": "In what year was Eli Lilly and Company incorporated?",
+    "answer": "1901",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Approximately how many countries are Lilly's products sold in?",
+    "answer": "approximately 110 countries",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many years after the founding of the drug manufacturing business was Eli Lilly and Company incorporated?",
+    "answer": "25 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the typical cost to bring a drug from discovery to market, as mentioned in the risk factors?",
+    "answer": "often costs in excess of $2 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How long can it take to bring a drug from the discovery phase to market according to this section?",
+    "answer": "can take over a decade",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is $2 billion expressed in millions?",
+    "answer": "2000 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the gross margin as a percent of revenue for 2022?",
+    "answer": "76.8 %",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "EXECUTIVE OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the dollar increase in net income from 2021 to 2022?",
+    "answer": "$663.1 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "EXECUTIVE OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total of research and development expenses and marketing, selling, and administrative expenses for 2022?",
+    "answer": "$13,631.2 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "EXECUTIVE OVERVIEW",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the absolute change in gross margin from 2021 to 2022?",
+    "answer": "906.0",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Calculate the percentage point change in gross margin as a percent of revenue from 2021 to 2022.",
+    "answer": "2.6 percentage points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the ratio of research and development expenses to revenue in 2022? Express as a percentage to one decimal place.",
+    "answer": "25.2%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What information is incorporated by reference into Item 7A?",
+    "answer": "You can find quantitative and qualitative disclosures about market risk (e.g. , interest rate risk) at Item 7, \"Management's Discussion and Analysis - Financial Condition and Liquidity.\" That information is incorporated by reference herein.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which section of the filing contains the market risk disclosures referenced in Item 7A?",
+    "answer": "Item 7, \"Management's Discussion and Analysis - Financial Condition and Liquidity.\"",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What page number is mentioned at the end of Item 7A?",
+    "answer": "55",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the revenue for the year ended December 31, 2022?",
+    "answer": "$ 28,541.4",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the dollar increase in net income from 2021 to 2022?",
+    "answer": "663.1 million dollars",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the diluted earnings per share for the year ended December 31, 2020?",
+    "answer": "$ 6.79",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net profit margin (net income divided by revenue) for the year ended December 31, 2022?",
+    "answer": "21.88%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "subset": "S2",
+    "difficulty": "L1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the change in total revenue from 2021 to 2022?",
+    "answer": "$223.0 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "subset": "S2",
+    "difficulty": "L1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the effective tax rate (income taxes divided by income before income taxes) for the year ended December 31, 2020?",
+    "answer": "14.33%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "subset": "S2",
+    "difficulty": "L1",
+    "requires_calculation": true,
+    "company": "LLY",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LLY"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the company's discussion of restructuring activities evolve from FY2022 to FY2024?",
+    "answer": "In FY2022, there was no mention of restructuring activities. In FY2023, the company referenced 'our July 2023 restructuring activities' (Item 7 MD&A). In FY2024, the company referred to 'our 2023 Restructuring Plan, which included discontinuing installation services as a Towers product offering' (Item 7 MD&A). This indicates a strategic shift to discontinue installation services as part of the restructuring plan.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CCI",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "CCI"
+    ]
+  },
+  {
+    "question": "What changes in risk factors are highlighted across FY2022, FY2023, and FY2024?",
+    "answer": "In FY2022, the primary risk discussed was related to acquisition accounting and lease classification (e.g., 'determination of the final purchase price allocation could extend over several quarters'). In FY2023, risk factors shifted to health concerns from RF emissions ('If radio frequency emissions... are demonstrated to cause negative health effects') and cybersecurity ('Cybersecurity breaches or other information technology disruptions could adversely affect our operations, business, and reputation'). In FY2024, the focus moved to competitive pressures ('As a result of competition in our industry, we may find it more difficult to negotiate favorable rates'), with no mention of RF health or cybersecurity risks.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CCI",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "CCI"
+    ]
+  },
+  {
+    "question": "How did the company's discussion of lease classification for acquired towers change from FY2022 to FY2024?",
+    "answer": "In FY2022, the company provided a detailed explanation of lease classification criteria under ASC 840-10-25 for the AT&T and T-Mobile towers, concluding that tower leases were finance leases and land leases were operating leases ('we determined that the tower leases were finance leases and the underlying land leases were operating leases'). In FY2023 and FY2024, there was no mention of lease classification for acquired towers; the focus shifted to restructuring, risk factors, and competition.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CCI",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "CCI"
+    ]
+  },
+  {
+    "question": "What evidence is there of increasing attention to competition in the company's MD&A from FY2022 to FY2024?",
+    "answer": "In FY2022 and FY2023, there was no explicit discussion of competition in the provided excerpts. In FY2024, the company extensively discussed competition: 'As a result of competition in our industry, we may find it more difficult to negotiate favorable rates on our new or renewing tenant contracts' and 'We face competition for site rental tenants and associated contractual rates from various sources'. This represents a new and growing emphasis on competitive pressures in FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CCI",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "CCI"
+    ]
+  },
+  {
+    "question": "How did the company's references to its Fiber business change across FY2022, FY2023, and FY2024?",
+    "answer": "In FY2022 and FY2023, there were no mentions of the Fiber business in the provided content. In FY2024, the company noted that its Fiber business generally has different competitors than its Towers business, and that 'the level of non-renewals associated with fiber solutions is generally higher than that of Towers and small cells'. This indicates a new strategic focus on distinguishing the Fiber business's competitive landscape and renewal risks.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CCI",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "CCI"
+    ]
+  },
+  {
+    "question": "How did the description of the company's restructuring activities become more specific from FY2023 to FY2024?",
+    "answer": "In FY2023, the company merely referenced 'our July 2023 restructuring activities' without details. In FY2024, the company specified that the '2023 Restructuring Plan... included discontinuing installation services as a Towers product offering'. This indicates the restructuring plan's concrete action of ending installation services in the Towers segment.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CCI",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "CCI"
+    ]
+  }
+]

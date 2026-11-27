@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What does the FAS/CAS operating adjustment represent?",
+    "answer": "The difference between the service cost component of pension and postretirement benefit (PRB) expense under the Financial Accounting Standards (FAS) requirements of U.S. GAAP and pension and PRB expense under U.S. government Cost Accounting Standards (CAS) primarily related to the Raytheon segment.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which segments generally record pension and PRB expense on a FAS basis according to the text?",
+    "answer": "Collins and Pratt & Whitney.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is included in Eliminations and other besides intercompany sales and profit eliminations?",
+    "answer": "Certain smaller non-reportable segments and certain acquisition accounting adjustments, the FAS/CAS operating adjustment, and certain corporate expenses.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what has inflation increased?",
+    "answer": "material and component prices, labor rates, and supplier costs",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is a consequence of high interest rates mentioned in the risk factors?",
+    "answer": "High interest rates can increase the cost of borrowing and tighten the availability of capital for the Company, which could have an adverse effect on our operating results, financial condition, and liquidity.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Due to the nature of their contracts, what may RTX be unable to do to offset cost increases?",
+    "answer": "Increase our contract value or pricing to offset cost increases, in particular on our fixed price contracts.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the three principal business segments of RTX?",
+    "answer": "Collins Aerospace, Pratt & Whitney, and Raytheon",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What aftermarket services does Collins Aerospace provide?",
+    "answer": "spare parts, overhaul and repair, engineering and technical support, training and fleet management solutions, asset management services, and information management services",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many aftermarket services does Collins Aerospace provide according to the MD&A?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the primary market exposures mentioned in Item 7A?",
+    "answer": "fluctuations in foreign currency exchange rates and interest rates",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "List the market risk sensitive instruments referenced in this section.",
+    "answer": "cash, debt, and derivative instruments",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many notes are referenced in Item 7A?",
+    "answer": "Three",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who signed as President and Chief Executive Officer in the Management's Report on Internal Control Over Financial Reporting?",
+    "answer": "Christopher T. Calio",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What framework did management use to assess the effectiveness of RTX’s internal control over financial reporting?",
+    "answer": "Internal Control—Integrated Framework , released in 2013, by the Committee of Sponsoring Organizations of the Treadway Commission (COSO)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "As of what date did management assess the effectiveness of RTX’s internal control over financial reporting?",
+    "answer": "December 31, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "RTX",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "RTX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

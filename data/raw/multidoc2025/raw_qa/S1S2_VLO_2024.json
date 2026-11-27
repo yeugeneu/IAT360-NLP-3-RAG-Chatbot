@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What is the relationship that affects the company's financial results according to the risk factor?",
+    "answer": "the relationship, or margin, between our product prices and the prices for crude oil, corn, and other feedstocks that we purchase",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What examples of liquid transportation fuels are listed in the risk factor?",
+    "answer": "gasoline, diesel, renewable diesel, SAF, and ethanol",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many specific types of feedstocks are listed in parentheses as examples in the risk factor?",
+    "answer": "Three",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the name of the safe harbor provisions referenced in the cautionary statement?",
+    "answer": "Private Securities Litigation Reform Act of 1995",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what date was the annual report on Form 10-K filed?",
+    "answer": "February 22, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the fiscal year covered by the annual report?",
+    "answer": "year ended December 31, 2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many bullet points are listed under the forward-looking statements in the Cautionary Statement?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many of the forward-looking statements bullet points specifically mention the word 'margins'?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many different business segments are referenced in the bullet points regarding future margins?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage change in underlying price was used to assess the materiality of commodity derivative instruments as of December 31, 2024?",
+    "answer": "10 percent",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK COMMODITY PRICE RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "As of December 31, 2024 and 2023, was the gain or loss from a 10 percent change in the fair value of derivative instruments for the compliance program price risk material?",
+    "answer": "not material",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK COMMODITY PRICE RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many fiscal year ends are mentioned as of which the commodity derivative instruments' gain or loss from a 10% change was assessed?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK COMMODITY PRICE RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What date did management evaluate the effectiveness of Valero's internal control over financial reporting?",
+    "answer": "December 31, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What framework did management use for its evaluation of internal control over financial reporting?",
+    "answer": "Internal Control – Integrated Framework (2013) issued by COSO",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many more years of income statements were audited compared to the number of balance sheet dates?",
+    "answer": "1 (3 years of income statements minus 2 balance sheet dates)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many years are covered in the consolidated statements of income?",
+    "answer": "3 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the number of fiscal years covered by the consolidated balance sheets compared to the consolidated statements of income?",
+    "answer": "1 year",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the page number difference between the attestation report on internal control over financial reporting (page 68) and the Table of Contents (page 65)?",
+    "answer": "3 pages",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "VLO",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "VLO"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

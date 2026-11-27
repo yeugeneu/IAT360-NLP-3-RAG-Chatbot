@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What types of properties does each company target or reference in their MD&A?",
+    "answer": "Digital Realty Trust (DLR) targets 'high-quality, strategically located properties containing the physical and connectivity infrastructure that supports the applications and operations of data center and technology industry customers'. Public Storage (PSA) references its 'real estate facilities' in the context of impairment analysis, without specifying the property type.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "PSA"
+    ],
+    "evidence_section": "DLR: Item 7. Management’s Discussion and Analysis – Business Overview and Strategy; PSA: Item 7. Critical Accounting Estimates – Impairment of Long-Lived Assets",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+PSA",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's MD&A includes a dedicated section on Critical Accounting Estimates?",
+    "answer": "Public Storage (PSA) includes a 'Critical Accounting Estimates' section in its MD&A, discussing impairment of long-lived assets. Digital Realty Trust (DLR) does not include such a section in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "PSA"
+    ],
+    "evidence_section": "DLR: Item 7 (no critical accounting estimates section); PSA: ITEM 7. Management’s Discussion and Analysis – Critical Accounting Estimates",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+PSA",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does DLR describe its primary business objectives, and does PSA provide a similar description in the provided content?",
+    "answer": "DLR states its primary business objectives are to 'maximize: (i) sustainable long-term growth in earnings and funds from operations per share and unit; (ii) cash flow and returns to our stockholders and Digital Realty Trust, L.P.’s unitholders through the payment of distributions; and (iii) return on invested capital.' PSA does not provide a description of business objectives in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "PSA"
+    ],
+    "evidence_section": "DLR: Item 7. Management’s Discussion and Analysis – Business Overview and Strategy; PSA: No equivalent section in the provided excerpt",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+PSA",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the role of the Operating Partnership for DLR, and does PSA mention a similar structure?",
+    "answer": "DLR states that its 'Operating Partnership is the entity through which we conduct our business and own our assets.' PSA does not mention an operating partnership or similar structure in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "PSA"
+    ],
+    "evidence_section": "DLR: Item 7. Management’s Discussion and Analysis – Business Overview and Strategy; PSA: No mention in the provided excerpt",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+PSA",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly states it operates as a REIT for U.S. federal income tax purposes?",
+    "answer": "Digital Realty Trust (DLR) explicitly states: 'Digital Realty Trust, Inc. operates as a REIT for U.S. federal income tax purposes.' Public Storage (PSA) does not mention REIT status in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "PSA"
+    ],
+    "evidence_section": "DLR: Item 7. Management’s Discussion and Analysis – Business Overview and Strategy; PSA: No mention in the provided excerpt",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+PSA",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific accounting estimate does PSA discuss in its MD&A, and does DLR discuss any accounting estimates in the provided content?",
+    "answer": "PSA discusses 'Impairment of Long-Lived Assets' as a critical accounting estimate, focusing on its real estate facilities. DLR does not discuss specific accounting estimates in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DLR",
+      "PSA"
+    ],
+    "evidence_section": "DLR: No section on accounting estimates in the provided excerpt; PSA: ITEM 7. Critical Accounting Estimates – Impairment of Long-Lived Assets",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DLR+PSA",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

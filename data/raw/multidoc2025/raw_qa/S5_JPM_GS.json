@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What was the percentage increase in JPM's MD&A page count from FY2022 to FY2024, and how does it compare to GS's net revenue growth over the same period?",
+    "answer": "JPM's MD&A covered pages 46–154 (109 pages) in FY2022 and pages 52–167 (116 pages) in FY2024, a 6.4% increase (7/109). GS net revenue grew from $47,365 million in FY2022 to $53,512 million in FY2024, a 13.0% increase (6,147/47,365).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JPM",
+      "GS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "JPM FY2022 Item 7 (pages 46–154), JPM FY2024 Item 7 (pages 52–167), GS FY2024 Financial Overview table",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "JPM+GS",
+    "sector": "Financials"
+  },
+  {
+    "question": "How did GS's pre-tax earnings change from 2022 to 2024, and what is the implied compound annual growth rate? How does the length of JPM's MD&A change over the same period relate to this trend in terms of percentage change?",
+    "answer": "GS pre-tax earnings were $13,486 million in 2022 and $18,397 million in 2024, an increase of $4,911 million (36.4% total, CAGR approximately 16.9%). JPM's MD&A grew from 109 pages (2022) to 116 pages (2024), a 6.4% increase, which is less than half of GS's pre-tax earnings growth rate.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JPM",
+      "GS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GS FY2024 Financial Overview table (pre-tax earnings), JPM FY2022 Item 7 (page range), JPM FY2024 Item 7 (page range)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "JPM+GS",
+    "sector": "Financials"
+  },
+  {
+    "question": "In 2024, GS reported a diluted EPS of $40.54 and a dividend payout ratio of 28.4%. What is the implied dividend per share? How does the number of years for which GS provides EPS and payout ratio (2022–2024) compare to the number of fiscal years explicitly covered by JPM's MD&A page references in its 10-K excerpts?",
+    "answer": "Implied dividend per share for GS in 2024 is $40.54 × 28.4% = $11.51. GS provides financial data for three years (2022, 2023, 2024) in its table. JPM's MD&A page references cover two fiscal years (FY2022 and FY2024) as indicated by the two separate 10-K excerpts. Thus GS includes one more year of comparative data in its overview.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JPM",
+      "GS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GS FY2024 Financial Overview table (diluted EPS, dividend payout ratio), JPM FY2022 Item 7 (page reference), JPM FY2024 Item 7 (page reference)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "JPM+GS",
+    "sector": "Financials"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What business segments does RTX report in its 10-K for FY2024, and does DE provide any segment information in the same filing?",
+    "answer": "RTX reports three principal business segments: Collins Aerospace, Pratt & Whitney, and Raytheon. DE does not provide any segment information in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "DE"
+    ],
+    "evidence_section": "RTX: Item 7 - Business Segments; DE: Item 7 - no segment information",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do RTX and DE differ in their disclosure of internal control over financial reporting in their 10-Ks for FY2024?",
+    "answer": "RTX includes a detailed Management’s Report on Internal Control Over Financial Reporting and an independent auditor’s opinion from PricewaterhouseCoopers LLP, concluding that internal control was effective as of December 31, 2024. DE does not include any such report or auditor opinion in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "DE"
+    ],
+    "evidence_section": "RTX: Item 8 - Management’s Report and Auditor’s Report; DE: Item 8 - only references to financial statements",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which executive officers sign the management report on internal control for RTX, and are any such signatures present for DE in the provided 10-K content?",
+    "answer": "RTX’s report is signed by Christopher T. Calio (President and CEO), Neil G. Mitchill, Jr. (EVP and CFO), and Amy L. Johnson (Corporate VP and Controller). DE does not have any executive signatures in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "DE"
+    ],
+    "evidence_section": "RTX: Item 8 - signatures section; DE: no signatures present",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the nature of the information provided in Item 7 (Business Overview) for RTX versus the information provided in the same item for DE?",
+    "answer": "RTX provides a detailed description of its three segments and the products and services they offer. DE’s Item 7 only states: 'See the information under the caption “Management’s Discussion and Analysis.”' No actual business overview text is included in the provided DE content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "DE"
+    ],
+    "evidence_section": "RTX: Item 7 - Business Segments text; DE: Item 7 - reference only",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does the provided content for RTX or DE include an independent auditor’s report? If so, which firm performed the audit and what was the opinion?",
+    "answer": "Only RTX includes an independent auditor’s report. PricewaterhouseCoopers LLP audited RTX’s financial statements and internal control over financial reporting, issuing an unqualified opinion. DE does not include any auditor’s report in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "DE"
+    ],
+    "evidence_section": "RTX: Item 8 - Report of Independent Registered Public Accounting Firm; DE: no auditor report",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based solely on the provided 10-K excerpts, what differences exist in how RTX and DE structure their Item 8 (Financial Statements and Supplementary Data) disclosures?",
+    "answer": "RTX’s Item 8 includes a Management’s Report on Internal Control, an Auditor’s Report, and references to consolidated balance sheets and other statements. DE’s Item 8 simply directs the reader to 'the Consolidated Financial Statements and notes thereto and supplementary data' without providing any actual statements or reports in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "RTX",
+      "DE"
+    ],
+    "evidence_section": "RTX: Item 8 full content; DE: Item 8 single sentence",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "RTX+DE",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

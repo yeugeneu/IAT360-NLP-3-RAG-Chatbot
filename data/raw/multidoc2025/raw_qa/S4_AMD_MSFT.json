@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do AMD's and Microsoft's net incomes compare for their respective fiscal years 2024?",
+    "answer": "AMD reported net income of $1,641 million. Microsoft reported net income of $88,136 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMD",
+      "MSFT"
+    ],
+    "evidence_section": "AMD Item 8 (Consolidated Statements of Operations); MSFT Item 7 (reconciliation table)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMD+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the operating incomes of AMD and Microsoft compare in FY2024?",
+    "answer": "AMD operating income was $1,900 million. Microsoft operating income was $109,433 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMD",
+      "MSFT"
+    ],
+    "evidence_section": "AMD Item 8 (Consolidated Statements of Operations); MSFT Item 7 (reconciliation table)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMD+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the total cash, cash equivalents, and short-term investments of AMD and Microsoft as of their respective fiscal year ends.",
+    "answer": "As of December 28, 2024, AMD had cash and cash equivalents of $3,787 million and short-term investments of $1,345 million, totaling $5,132 million. As of June 30, 2024, Microsoft had cash, cash equivalents, and short-term investments totaling $75.5 billion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMD",
+      "MSFT"
+    ],
+    "evidence_section": "AMD Item 8 (Consolidated Balance Sheets); MSFT Item 7 (Liquidity and Capital Resources)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "AMD+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the gross profits of AMD and Microsoft compare in FY2024?",
+    "answer": "AMD gross profit was $12,725 million. Microsoft gross profit was $171,008 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMD",
+      "MSFT"
+    ],
+    "evidence_section": "AMD Item 8 (Consolidated Statements of Operations); MSFT Item 7 (reconciliation table)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMD+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the diluted earnings per share (EPS) of AMD and Microsoft in FY2024.",
+    "answer": "AMD diluted EPS was $1.00. Microsoft diluted EPS was $11.80.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMD",
+      "MSFT"
+    ],
+    "evidence_section": "AMD Item 8 (Consolidated Statements of Operations); MSFT Item 7 (reconciliation table)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMD+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the revenue growth of AMD with the operating income growth of Microsoft during FY2024.",
+    "answer": "AMD's net revenue increased 14% to $25.8 billion in 2024, compared to $22.7 billion in 2023. Microsoft's operating income increased 24% to $109,433 million in 2024, compared to $88,523 million in 2023.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMD",
+      "MSFT"
+    ],
+    "evidence_section": "AMD Item 7 (Overview); MSFT Item 7 (reconciliation table)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMD+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

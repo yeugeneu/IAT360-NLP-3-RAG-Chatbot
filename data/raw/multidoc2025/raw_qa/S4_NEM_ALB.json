@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do NEM and ALB differ in their treatment of impairment reversals according to their 10-Ks?",
+    "answer": "NEM states that impairment charges, if incurred, are not reversible at a later date even when favorable events occur. ALB states that write-offs or impairment of goodwill, intangible assets, or long-lived assets can result in significant charges to earnings, but does not mention any reversibility.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "ALB"
+    ],
+    "evidence_section": "NEM Item 7; ALB Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What external factors do NEM and ALB identify that could adversely affect their financial condition?",
+    "answer": "NEM identifies uncertainties such as favorable modifications to proven and probable reserves, revisions to environmental obligations, changes in legislation, and political or economic environment that could impact operating results. ALB identifies credit rating downgrades as adversely affecting cost of financing, market price of securities, and debt service obligations, and notes that downgrades increase applicable margins under credit agreements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "ALB"
+    ],
+    "evidence_section": "NEM Item 7; ALB Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company’s 10-K includes a discussion of deferred tax asset valuation allowances and what is the key estimate involved?",
+    "answer": "NEM discusses deferred tax assets and requires management to estimate future taxable income to assess recoverability; a valuation allowance is applied if realization is not more likely than not. ALB does not mention deferred tax assets or valuation allowances in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "ALB"
+    ],
+    "evidence_section": "NEM Item 7; ALB Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in the audit reports presented in each company’s financial statements section?",
+    "answer": "NEM’s Item 8 includes Reports of Independent Registered Public Accounting Firm from two different firms: Ernst & Young LLP (PCAOB ID: 42) and PricewaterhouseCoopers LLP (PCAOB ID: 271). ALB’s Item 8 discusses internal control over financial reporting but does not mention any specific audit firm or report.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "ALB"
+    ],
+    "evidence_section": "NEM Item 8; ALB Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do NEM and ALB describe their approach to assessing the effectiveness of internal control over financial reporting?",
+    "answer": "ALB explicitly states that management assessed internal control over financial reporting as of December 31, 2024 using the criteria in the Internal Control—Integrated Framework 2013 from COSO and concluded it was effective. NEM’s provided content does not include any discussion of internal control assessment.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "ALB"
+    ],
+    "evidence_section": "NEM Item 8; ALB Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic difference is implied by NEM’s reference to ‘proven and probable reserves’ and ‘measured, indicated and inferred resources’ compared to ALB’s focus on credit ratings and debt facilities?",
+    "answer": "NEM, a mining company, emphasizes resource estimation and reserves as key to asset valuation and impairment triggers, while ALB, a specialty chemicals company, focuses on credit ratings and their impact on borrowing costs and access to capital markets, reflecting differences in capital intensity and financing structure between the two sectors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NEM",
+      "ALB"
+    ],
+    "evidence_section": "NEM Item 7; ALB Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NEM+ALB",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

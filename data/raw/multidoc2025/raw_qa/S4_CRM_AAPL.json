@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do CRM and AAPL define their respective fiscal years, and what is the fiscal year covered in the provided 10-K extracts?",
+    "answer": "CRM’s fiscal year ends on January 31, as stated in the header ‘fiscal year ended January 31, 2024’. AAPL’s fiscal year ends on the last Saturday of September, and the provided extract covers the ‘fiscal year ended September 30, 2023’ for Item 7, but the financial statements are for years ended September 28, 2024, September 30, 2023, and September 24, 2022. AAPL also notes that an additional week is included in the first fiscal quarter every five or six years, which occurred in the first quarter of 2023, and that fiscal years 2024 and 2022 spanned 52 weeks each, whereas fiscal year 2023 spanned 53 weeks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "AAPL"
+    ],
+    "evidence_section": "CRM: 'Item 7 of our Annual Report on Form 10-K for the fiscal year ended January 31, 2024.' AAPL: 'The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. … the first quarter of 2023 …  fiscal years 2024 and 2022 spanned 52 weeks each, whereas fiscal year 2023 spanned 53 weeks.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the AI-related announcements made by CRM and AAPL in the provided extracts.",
+    "answer": "CRM introduced Agentforce, a new layer of its trusted platform that enables companies to build and deploy AI agents, in the third quarter of fiscal 2025. AAPL introduced Apple Intelligence, a personal intelligence system that uses generative models, in the third quarter of fiscal 2024. Both focus on generative AI but target different domains: CRM’s Agentforce is for enterprise customer relationship management, while AAPL’s Apple Intelligence is a personal intelligence system.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "AAPL"
+    ],
+    "evidence_section": "CRM: 'During the third quarter of fiscal 2025, we introduced Agentforce, a new layer of our trusted platform that enables companies to build and deploy AI agents ...' AAPL: 'Third Quarter 2024: ... Apple Intelligence™, a personal intelligence system that uses generative models.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies differ in their product and service announcement patterns within the fiscal year covered?",
+    "answer": "CRM’s provided extract mentions only one major new offering (Agentforce) introduced in the third quarter of fiscal 2025. AAPL lists multiple product and software announcements across all four quarters of fiscal 2024, including MacBook Pro, iMac, MacBook Air, iPad Air, iPad Pro, operating system updates, Apple Intelligence, iPhone 16 models, Apple Watch Series 10, and AirPods 4.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "AAPL"
+    ],
+    "evidence_section": "CRM: 'During the third quarter of fiscal 2025, we introduced Agentforce ...' AAPL: 'First Quarter 2024: MacBook Pro 14-in.; MacBook Pro 16-in.; and iMac.' followed by listings for all four quarters.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the number of reportable segments each company discloses?",
+    "answer": "AAPL reports five reportable segments: Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. CRM’s provided extract does not mention any reportable segments; the overview discusses operational focus but not segment reporting.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "AAPL"
+    ],
+    "evidence_section": "AAPL: 'The following table shows net sales by reportable segment for 2024, 2023 and 2022 (dollars in millions): ... Americas ... Europe ... Greater China ... Japan ... Rest of Asia Pacific' CRM: No segment information is provided in the extracted content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies describe their core business focus and target customers?",
+    "answer": "CRM describes itself as a global leader in CRM technology, enabling companies of every size and industry to connect with customers through data, AI, CRM and trust. Its platform unites sales, service, marketing, commerce and IT teams. AAPL focuses on hardware products (e.g., iPhone, Mac, iPad, Apple Watch) and services, with operating system updates and a personal intelligence system. CRM targets enterprise customers, while AAPL targets consumers and broader markets.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "AAPL"
+    ],
+    "evidence_section": "CRM: 'Salesforce is a global leader in customer relationship management ... enabling companies of every size and industry ... Our platform unites sales, service, marketing, commerce and IT teams' AAPL: 'Product, Service and Software Announcements' listing consumer hardware and software, and 'Apple Intelligence™, a personal intelligence system'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Do the two companies discuss macroeconomic conditions in their Item 7 overview?",
+    "answer": "AAPL explicitly discusses macroeconomic conditions: 'Macroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could in the future materially impact, the Company’s results of operations and financial condition.' CRM’s provided extract does not mention macroeconomic conditions; instead, it focuses on growth levers such as multiple service offering adoption, enterprise and international penetration, and industry-specific solutions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "AAPL"
+    ],
+    "evidence_section": "AAPL: 'Macroeconomic Conditions ... including inflation, interest rates and currency fluctuations, have directly and indirectly impacted ...' CRM: No mention of macroeconomic conditions; CRM content discusses 'growth levers' and 'invest for growth'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+AAPL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

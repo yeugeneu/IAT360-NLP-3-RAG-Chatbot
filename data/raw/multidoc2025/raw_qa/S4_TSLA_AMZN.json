@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the total revenue of TSLA in 2023, and what opinion did Ernst & Young express on AMZN's consolidated financial statements for the same year?",
+    "answer": "TSLA recognized total revenues of $96.77 billion in 2023. Ernst & Young expressed an unqualified opinion on AMZN's consolidated financial statements as of December 31, 2023.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA",
+      "AMZN"
+    ],
+    "evidence_section": "TSLA: Item 7 – Overview and 2023 Highlights; AMZN: Item 8 – Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TSLA+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does TSLA describe its strategic focus on artificial intelligence compared to AMZN's mention of AI in its risk factors?",
+    "answer": "TSLA states it is 'increasingly focused on products and services based on artificial intelligence, robotics and automation' and on improving 'FSD capabilities.' AMZN notes that 'new and enhanced technologies, including ... practical applications of artificial intelligence and machine learning ... continue to increase our competition.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA",
+      "AMZN"
+    ],
+    "evidence_section": "TSLA: Item 7 – Overview and 2023 Highlights; AMZN: Item 7 – Business and Industry Risks We Face – Intense Competition",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TSLA+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the mission of TSLA, and what is one significant business risk AMZN identifies in its 10-K?",
+    "answer": "TSLA's mission is 'to accelerate the world’s transition to sustainable energy.' AMZN identifies that its 'businesses are rapidly evolving and intensely competitive' and that it faces competition from entities with 'greater resources, longer histories, more customers, and/or greater brand recognition.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA",
+      "AMZN"
+    ],
+    "evidence_section": "TSLA: Item 7 – Overview and 2023 Highlights; AMZN: Item 7 – Business and Industry Risks We Face – Intense Competition",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TSLA+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many consumer vehicles did TSLA produce and deliver in 2023? What inference can be made about AMZN's competitive environment from its risk factors?",
+    "answer": "TSLA produced 1,845,985 consumer vehicles and delivered 1,808,581 consumer vehicles in 2023. AMZN states that 'competition continues to intensify, including with the development of new business models and the entry of new and well-funded competitors.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA",
+      "AMZN"
+    ],
+    "evidence_section": "TSLA: Item 7 – Overview and 2023 Highlights; AMZN: Item 7 – Business and Industry Risks We Face – Intense Competition",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TSLA+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What energy storage and solar deployment figures does TSLA report for 2023? How do these differ from the business lines AMZN lists in its risk factors?",
+    "answer": "TSLA deployed 14.72 GWh of energy storage products and 223 megawatts of solar energy systems in 2023. AMZN's risk factors describe its businesses as including 'physical, e-commerce, and omnichannel retail, e-commerce services, web and infrastructure computing services, electronic devices, digital content, advertising, grocery, and transportation and logistics services' – none of which involve energy storage or solar.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA",
+      "AMZN"
+    ],
+    "evidence_section": "TSLA: Item 7 – Overview and 2023 Highlights; AMZN: Item 7 – Business and Industry Risks We Face – Intense Competition",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TSLA+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which accounting firm audited AMZN's financial statements and what type of opinion was issued? For TSLA, what was the revenue increase in dollars compared to the prior year?",
+    "answer": "Ernst & Young audited AMZN's financial statements and expressed an unqualified opinion. TSLA recognized total revenues of $96.77 billion, representing an increase of $15.31 billion compared to the prior year.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TSLA",
+      "AMZN"
+    ],
+    "evidence_section": "TSLA: Item 7 – Overview and 2023 Highlights; AMZN: Item 8 – Report of Independent Registered Public Accounting Firm",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TSLA+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

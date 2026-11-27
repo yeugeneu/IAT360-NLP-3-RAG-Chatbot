@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What is the first risk factor listed under 'Risks Related to Our Manufacturing and Operations'?",
+    "answer": "Margins for the products we produce are cyclical and volatile due to changes in market conditions, which are largely dependent on factors beyond our control, and directly affect our earnings, financial condition and cash flows.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which risk factor addresses the impact of changes in government policies on renewable feedstocks?",
+    "answer": "Changes to government policies relating to renewable feedstocks and renewable fuels that adversely affect programs like the renewable fuels standards program, low-carbon fuels standards and tax credits for processing certain renewable feedstocks impact our financial condition and results of operations.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many risk factors are listed under 'Risks Related to Our Manufacturing and Operations' in the summary?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were Phillips 66's total assets at December 31, 2024?",
+    "answer": "$72.6 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How much cash did Phillips 66 generate from operating activities in 2024?",
+    "answer": "$4.2 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total amount Phillips 66 spent on share repurchases and dividends in 2024?",
+    "answer": "$5.4 billion ($3.5 billion + $1.9 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total amount of cash returned to shareholders through stock repurchases and dividends in 2024?",
+    "answer": "$5.4 billion ($3.5 billion + $1.9 billion = $5.4 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Executive Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How much more cash was generated from operating activities compared to capital expenditures and investments?",
+    "answer": "$2.3 billion ($4.2 billion - $1.9 billion = $2.3 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Executive Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of capital expenditures and investments and cash consideration for acquisitions?",
+    "answer": "$2.525 billion ($1.9 billion + $0.625 billion = $2.525 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Executive Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the three objectives for which PSX uses derivative contracts as listed in Item 7A?",
+    "answer": "1. Balance physical systems or meet our refinery requirements and market demand. 2. Enable us to use the market knowledge gained from our physical commodity market activities to capture market opportunities. 3. Manage the risk to our cash flows from price exposures on specific crude oil, refined petroleum product, NGL, renewable feedstocks and natural gas transactions.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many types of derivative contracts are explicitly mentioned as being used by PSX in the Commodity Price Risk discussion?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What document governs PSX's use of derivative instruments according to Item 7A?",
+    "answer": "An “Authority Limitations” document approved by the Board of Directors.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What page does the Consolidated Statement of Cash Flows appear in the index?",
+    "answer": "105",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID for the firm that audited DCP Midstream, LP?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the two PCAOB IDs mentioned in the index?",
+    "answer": "76",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total number of pages covered by the Consolidated Statement of Income, the Consolidated Statement of Comprehensive Income, and the Consolidated Balance Sheet?",
+    "answer": "309",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the start of the Report of Management and the start of the Consolidated Balance Sheet?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average page number of the five main consolidated financial statements (Consolidated Statement of Income, Consolidated Statement of Comprehensive Income, Consolidated Balance Sheet, Consolidated Statement of Cash Flows, and Consolidated Statement of Changes in Equity)?",
+    "answer": "104",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PSX"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

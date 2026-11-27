@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is the purpose of Goldman Sachs as stated in the business introduction?",
+    "answer": "to advance sustainable economic growth and financial opportunity",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business Introduction",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which regulatory body oversees Goldman Sachs as a bank holding company?",
+    "answer": "the Board of Governors of the Federal Reserve System (FRB)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business Introduction",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many business segments does Goldman Sachs manage and report its activities in?",
+    "answer": "three",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business Introduction",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What were the net revenues in 2022?",
+    "answer": "$47,365 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Financial Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the difference in net revenues between 2021 and 2022?",
+    "answer": "$11,974 million ($59,339 - $47,365)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Financial Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does ROE stand for and what was its value in 2022?",
+    "answer": "ROE is calculated by dividing net earnings to common by average monthly common shareholders’ equity, and its value for 2022 was 10.2%.",
+    "intent": "fact",
+    "is_hybrid_modal": true,
+    "evidence_section": "Financial Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the four categories of market risk identified in the MD&A?",
+    "answer": "Interest rate risk, equity price risk, currency rate risk, commodity price risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Market Risk Management Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which group has primary responsibility for assessing, monitoring and managing market risk, and to whom does it report?",
+    "answer": "Market Risk, which is independent of our revenue-producing units and reports to our chief risk officer.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Market Risk Management Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the text, what does equity price risk result from?",
+    "answer": "Exposures to changes in prices and volatilities of individual equities, baskets of equities and equity indices.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Market Risk Management Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of market risk categories that mention 'volatilities' to the total number of categories listed?",
+    "answer": "1.0",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Market Risk Management Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of market risk categories that specifically mention 'prepayment speeds' to the total number of categories?",
+    "answer": "0.25",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Market Risk Management Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of market risk categories that include both 'spot prices' and 'forward prices' to the total number of categories?",
+    "answer": "0.5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Market Risk Management Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where are the quantitative and qualitative disclosures about market risk set forth according to Item 7A?",
+    "answer": "In 'Management's Discussion and Analysis of Financial Condition and Results of Operations — Risk Management' in Part II.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the specific subsection referenced for market risk disclosures in Item 7A?",
+    "answer": "Management's Discussion and Analysis of Financial Condition and Results of Operations — Risk Management in Part II.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which part of the filing contains the market risk disclosures as indicated in Item 7A?",
+    "answer": "Part II, under Management's Discussion and Analysis of Financial Condition and Results of Operations — Risk Management.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What framework did management use to assess internal control over financial reporting as of December 31, 2022?",
+    "answer": "Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was management's determination regarding the effectiveness of the firm's internal control over financial reporting as of December 31, 2022?",
+    "answer": "The firm’s internal control over financial reporting as of December 31, 2022 was effective",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Who audited the firm's internal control over financial reporting as of December 31, 2022?",
+    "answer": "Pric",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the year after the assessment date? (add 1 to the year from the date in the text)",
+    "answer": "2023",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the day before the assessment date? (subtract 1 from the day in the date in the text)",
+    "answer": "30",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many months are in the year of the assessment date? (count the months in the year 2022)",
+    "answer": "12",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Management’s Report on Internal Control over Financial Reporting",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "GS",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "GS"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

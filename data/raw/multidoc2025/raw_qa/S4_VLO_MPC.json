@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What criteria did VLO use to evaluate internal control over financial reporting, and did MPC specify the same criteria?",
+    "answer": "VLO used the criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). MPC did not specify any criteria for evaluating internal control over financial reporting in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "MPC"
+    ],
+    "evidence_section": "VLO: ITEM 8 - Management's Report on Internal Control; MPC: Item 8 - Management's Report on Internal Control over Financial Reporting (no criteria mentioned)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's management report on internal control over financial reporting indicates that an independent registered public accounting firm issued an attestation report on the effectiveness of internal control?",
+    "answer": "VLO's management report states that their independent registered public accounting firm has issued an attestation report on the effectiveness of internal control over financial reporting. MPC's management report does not mention such an attestation report in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "MPC"
+    ],
+    "evidence_section": "VLO: ITEM 8 - Management's Report on Internal Control; MPC: Item 8 - Management's Responsibilities and Report on Internal Control (no attestation mentioned)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In the provided excerpts, which company discusses environmental liabilities under CERCLA and RCRA, and which company does not?",
+    "answer": "MPC discusses environmental matters including CERCLA, RCRA, and PFAS in Item 7 (Environmental Matters and Compliance Costs). VLO's provided content does not include any discussion of environmental liabilities under CERCLA or RCRA.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "MPC"
+    ],
+    "evidence_section": "VLO: No relevant section; MPC: Item 7 - Environmental Matters and Compliance Costs",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the effective date of the evaluation of internal control over financial reporting for VLO, and is a similar effective date provided for MPC?",
+    "answer": "VLO's evaluation of internal control over financial reporting was as of December 31, 2024. MPC's provided content does not specify an effective date for its evaluation of internal control over financial reporting.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "MPC"
+    ],
+    "evidence_section": "VLO: ITEM 8 - Management's Report on Internal Control; MPC: Item 8 - Management's Report on Internal Control (no date mentioned)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both companies have Item 8 - Financial Statements and Supplementary Data. What specific notes are listed in MPC's index that are not explicitly mentioned in VLO's Item 8 content?",
+    "answer": "MPC's Item 8 index lists notes 1 through 28 (e.g., Description of Business, Summary of Principal Accounting Policies, Accounting Standards, Short-Term Investments, etc.). VLO's Item 8 content only includes Management's Report on Internal Control and the Report of Independent Registered Public Accounting Firm, without listing any specific notes or financial statement details.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "MPC"
+    ],
+    "evidence_section": "VLO: ITEM 8 - Financial Statements and Supplementary Data (partial); MPC: Item 8 - Index listing Notes 1-28",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes a cautionary statement regarding forward-looking statements in the provided content, and which does not?",
+    "answer": "VLO includes a detailed cautionary statement for forward-looking statements under \"CAUTIONARY STATEMENT FOR THE PURPOSE OF SAFE HARBOR PROVISIONS\" in Item 7. MPC's provided content does not include a similar cautionary statement.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "MPC"
+    ],
+    "evidence_section": "VLO: ITEM 7 - Cautionary Statement; MPC: Item 7 - Environmental Matters (no cautionary statement)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+MPC",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What is the amount of deposits at December 31, 2023?",
+    "answer": "$1.4 trillion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between deposits and loans at December 31, 2023?",
+    "answer": "$463.3 billion ($1.4 trillion - $936.7 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Based on assets, what was Wells Fargo's rank among U.S. bank holding companies at December 31, 2023?",
+    "answer": "the fourth largest bank holding company in the United States",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Where can Item 7 information be found according to the provided content?",
+    "answer": "In the 2023 Annual Report to Shareholders under 'Financial Review.'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How is the information for Item 7 incorporated into the document?",
+    "answer": "By reference.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the title of the section in the Annual Report that contains Item 7?",
+    "answer": "Financial Review.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In which annual report can the information for Item 7A be found?",
+    "answer": "2023 Annual Report to Shareholders",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Under which specific sub-section within 'Financial Review' is the Item 7A information located?",
+    "answer": "Risk Management – Asset/Liability Management",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many parts are there in the section heading 'Financial Review – Risk Management – Asset/Liability Management' when separated by hyphens?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In which document can Item 8 of the 2023 Annual Report be found?",
+    "answer": "Item 8 can be found in the 2023 Annual Report to Shareholders.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Under which sections of the 2023 Annual Report to Shareholders is Item 8 located?",
+    "answer": "Under “Financial Statements,” under “Notes to Financial Statements” and under “Quarterly Financial Data.”",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What information is incorporated into Item 8 by reference?",
+    "answer": "That information (from the 2023 Annual Report to Shareholders under “Financial Statements,” under “Notes to Financial Statements” and under “Quarterly Financial Data”) is incorporated into this item by reference.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many items are listed in the first sentence of the provided content?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total number of characters (including spaces) in the names of all three sections (excluding quotes and commas)?",
+    "answer": "73",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of the number of items that contain the word 'Financial' to the total number of items?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

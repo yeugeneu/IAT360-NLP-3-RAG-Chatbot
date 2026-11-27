@@ -1,0 +1,68 @@
+[
+  {
+    "question": "How does the explicit mention of regulatory framework in forward-looking statements differ between CAT and HON across 2022 and 2024, and what does this imply about their comparative disclosure practices?",
+    "answer": "For both FY2022 and FY2024, CAT's Item 7 includes a specific reference to the 'Private Securities Litigation Reform Act of 1995' and notes that forward-looking statements 'involve uncertainties that could significantly impact results.' In contrast, HON's Item 7 for the same years includes only the heading 'Management’s Discussion and Analysis of Financial Condition and Results of Operations' with no additional forward-looking statement text or legal reference in the provided content. This indicates that CAT provides a more explicit regulatory disclaimer in its MD&A, while HON does not include such language in the excerpts provided. No numerical data from financial tables is available in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CAT",
+      "HON"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CAT+HON",
+    "sector": "Industrials"
+  },
+  {
+    "question": "Based on the provided excerpts from the FY2022 and FY2024 10-K filings of Caterpillar (CAT) and Honeywell (HON), what page number is listed for Item 7 in each filing? Compare the presence of page numbers across companies and years.",
+    "answer": "For Honeywell, both the FY2022 and FY2024 excerpts show 'ITEM 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations 37', indicating page 37. For Caterpillar, both the FY2022 and FY2024 excerpts do not include a page number. Therefore, Honeywell consistently provides a page reference for Item 7, while Caterpillar does not in these excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CAT",
+      "HON"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CAT+HON",
+    "sector": "Industrials"
+  },
+  {
+    "question": "How do the definitions of forward-looking statements in the Management's Discussion and Analysis sections compare between CAT and HON across fiscal years 2022 and 2024, and what page reference does HON provide that CAT does not?",
+    "answer": "Both CAT and HON state that forward-looking statements are defined as per the Private Securities Litigation Reform Act of 1995 for both fiscal years 2022 and 2024. CAT does not include a specific page number, while HON consistently references page 37 in both years. No financial tables were present in the provided content to support numerical analysis.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "CAT",
+      "HON"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 (and Item 8 for CAT)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "CAT+HON",
+    "sector": "Industrials"
+  }
+]

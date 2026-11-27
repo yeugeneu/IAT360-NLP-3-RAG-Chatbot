@@ -1,0 +1,68 @@
+[
+  {
+    "question": "In LLY's Item 7 forward-looking statements, what word is present in FY2022 but absent in FY2024 regarding the potential impact of risks on financial results?",
+    "answer": "In FY2022, LLY states that risks 'may cause our actual results, financial position, and cash generated from operations to differ materially from these forward-looking statements,' while in FY2024 the word 'materially' is omitted.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PFE",
+      "LLY"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "LLY FY2022 Item 7 and LLY FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PFE+LLY",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "How does LLY's description of its pipeline in Item 7 Executive Overview differ between FY2022 and FY2024?",
+    "answer": "In FY2022, LLY's Executive Overview mentions 'late-stage pipeline developments,' whereas in FY2024 it mentions 'clinical development pipeline.'",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PFE",
+      "LLY"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "LLY FY2022 Item 7 and LLY FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PFE+LLY",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "Compare the introductory text of Item 7 for PFE across FY2022 and FY2024, and also note how PFE's MD&A introduction compares to LLY's in terms of explicit forward-looking statements.",
+    "answer": "PFE's MD&A introductory text is identical for FY2022 and FY2024. LLY's Item 7 explicitly states that the section constitutes forward-looking statements, whereas PFE's Item 7 is labeled as MD&A and does not include that explicit statement within the provided snippet.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PFE",
+      "LLY"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PFE FY2022 Item 7, PFE FY2024 Item 7, LLY FY2022 Item 7, LLY FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PFE+LLY",
+    "sector": "Healthcare"
+  }
+]

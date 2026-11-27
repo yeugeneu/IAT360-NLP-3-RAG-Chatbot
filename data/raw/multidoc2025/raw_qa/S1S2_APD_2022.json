@@ -1,0 +1,443 @@
+[
+  {
+    "question": "How many reporting segments did Air Products report for fiscal year 2022?",
+    "answer": "five",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many years after its founding did Air Products' fiscal year 2022 end?",
+    "answer": "82",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the legal name of the company as stated in the business description?",
+    "answer": "Air Products and Chemicals, Inc.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what is one potential impact of the COVID-19 pandemic on the company's merchant business?",
+    "answer": "reduced demand for industrial gas products",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What specific actions by authorities could exacerbate the effects of COVID-19 on the company?",
+    "answer": "actions by health or other governmental authorities to attempt to reduce the transmission of COVID-19",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many times does the term 'COVID-19' appear in the provided text?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In what unit is financial information presented unless otherwise stated?",
+    "answer": "millions of dollars, except for per share data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which financial measure includes the results of discontinued operations?",
+    "answer": "net income",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the basis on which financial measures are discussed except as noted?",
+    "answer": "in accordance with U.S. generally accepted accounting principles (\"GAAP\")",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the '2023 Outlook' section and the '2022 in Summary' section?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the 'Business Overview' section and the 'Pension Benefits' section?",
+    "answer": "66",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the page number difference between the 'Critical Accounting Policies and Estimates' section and the 'Reconciliations of Non-GAAP Financial Measures' section?",
+    "answer": "11",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net financial instrument position at 30 September 2021?",
+    "answer": "$7,850.3 (liability)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What types of derivative financial instruments are mentioned in this section?",
+    "answer": "Interest rate swaps, cross currency interest rate swaps, and foreign exchange-forward contracts.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By how much did the net financial instrument position decrease from 30 September 2021 to 30 September 2022?",
+    "answer": "$951.7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number of the independent registered public accounting firm mentioned in the report?",
+    "answer": "34",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On which page does the Consolidated Statements of Cash Flows begin?",
+    "answer": "61",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many consolidated financial statements are listed in the index?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the page number difference between the start of the Consolidated Income Statements and the Consolidated Balance Sheets?",
+    "answer": "2 pages (60 - 58 = 2)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On which page does the Report of Deloitte & Touche LLP begin?",
+    "answer": "55",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of pages covered by the five main financial statements from page 58 to page 62?",
+    "answer": "5 pages (62 - 58 + 1 = 5)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "APD",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "APD"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do ECL and DD differ in their discussion of non-GAAP financial measures in their MD&A sections?",
+    "answer": "ECL explicitly discusses Non-GAAP Financial Measures, including organic sales, organic operating income, and organic operating income margin, and provides reconciliation information to U.S. GAAP. DD does not reference non-GAAP financial measures in the provided MD&A overview; instead, it focuses on liquidity and strategic separation plans.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "DD"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific liquidity metrics are reported by DD in its overview, and how does ECL's MD&A compare in providing quantitative financial condition information?",
+    "answer": "DD reports $1.6 billion of net working capital and $1.9 billion in cash and cash equivalents as of December 31, 2024. ECL's MD&A does not provide specific liquidity figures in the given excerpt; instead, it discusses quantitative information about sales drivers, volume, pricing, acquisitions, and currency effects.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "DD"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the two companies' disclosures regarding internal control over financial reporting.",
+    "answer": "ECL includes a detailed 'Management’s Report on Internal Control Over Financial Reporting' stating management's responsibility, the use of the 2013 COSO framework, and evaluation by the CEO and CFO. DD's provided content does not include a separate report on internal control over financial reporting; its financial statements section simply references the statements and supplementary data starting on page F-1.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "DD"
+    ],
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What major strategic initiative is discussed by DD in its MD&A, and how does ECL's discussion of acquisitions and divestitures compare in terms of impact on results?",
+    "answer": "DD discusses the Intended Electronics Separation, targeting completion by November 1, 2025, and notes the retention of the Water business. ECL discusses the impact of acquisitions and divestitures on comparability, specifically excluding acquired businesses from the first twelve months for non-GAAP organic measures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "DD"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies address segment results and operating income in their MD&A presentations?",
+    "answer": "ECL states it provides quantitative information about material sales drivers at the corporate and reportable segment level, including organic operating income and margin at fixed currency. DD's MD&A includes a 'Segment Results' component but no specific figures are given in the provided excerpt; it mentions 'Result of Operations' and 'Segment Results' as components.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "DD"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the companies' references to forward-looking statements and risk factors in the provided content.",
+    "answer": "ECL explicitly mentions 'forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995' and refers readers to the sections entitled 'Forward-Looking Statements' and 'Risk Factors' within Items 1 and 1A. DD does not mention forward-looking statements or risk factors in the provided MD&A excerpt; its overview focuses on liquidity and the intended separation.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "ECL",
+      "DD"
+    ],
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "ECL+DD",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

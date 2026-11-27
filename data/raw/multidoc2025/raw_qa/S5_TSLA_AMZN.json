@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Compare the fiscal year referenced in the Management's Discussion of TSLA's FY2022 filing versus its FY2024 filing. What does this reveal about the timing of management's outlook? Then, analyze AMZN's language shifts from FY2022 to FY2024 in the same section, and contrast the two companies' approaches to discussing economic risks.",
+    "answer": "TSLA's FY2022 Item 7 references a management discussion for fiscal year 2020, as stated: 'Item 7. Management's Discussion ... for fiscal year 2020'. TSLA's FY2024 Item 7 references a management discussion for fiscal year 2022, as stated: 'Item 7. Management’s Discussion ... for fiscal year 2022'. This indicates TSLA's forward-looking commentary lags by two fiscal years. AMZN's FY2022 Item 7 reads 'global economic climate' while AMZN's FY2024 Item 7 reads 'global economic and geopolitical conditions', showing a broadening of risk factors. No financial tables are needed for this comparison; the textual shifts highlight TSLA's backward-looking reference versus AMZN's trend towards geopolitical risk emphasis.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "TSLA",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of Part II, Management's Discussion and Analysis",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "TSLA+AMZN",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "Based on the provided excerpts from TSLA FY2022 and FY2024 and AMZN FY2022 and FY2024, what is the most recent fiscal year for which financial data is reported in the financial tables of each filing? Support your answer with text evidence from the management discussion and the filing dates.",
+    "answer": "For TSLA FY2022, the text references 'fiscal year 2020' and states the filing was 'filed with the Securities and Exchange Commission on February 8, 2021,' so the financial tables report data for fiscal year 2020. For TSLA FY2024, the text references 'fiscal year 2022' and states the filing was 'filed with the Securities and Exchange Commission on January 31, 2023,' so the financial tables report data for fiscal year 2022. For AMZN FY2022 and FY2024, the provided snippets do not specify a fiscal year; however, the filing labels indicate AMZN FY2022 covers fiscal year 2022 and AMZN FY2024 covers fiscal year 2024. Therefore, the most recent fiscal year data is from AMZN FY2024 (fiscal year 2024) compared to TSLA FY2024 (fiscal year 2022).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "TSLA",
+      "AMZN"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "TSLA+AMZN",
+    "sector": "Consumer Discretionary"
+  }
+]

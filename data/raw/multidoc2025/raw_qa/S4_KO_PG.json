@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the gross profit margins of KO and PG for their respective fiscal years 2024, based on the provided data?",
+    "answer": "KO's gross profit margin is 61.1% (calculated as Gross Profit $28,737 million divided by Net Operating Revenues $47,061 million). PG's gross margin is 51.4% as stated: 'Gross margin increased 350 basis points to 51.4% of net sales.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "PG"
+    ],
+    "evidence_section": "KO: Item 8 Consolidated Statements of Income; PG: Item 7 Operating Costs table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "KO+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the revenue growth rates of KO and PG compare for their fiscal years 2024?",
+    "answer": "KO's net operating revenues grew from $45,754 million in 2023 to $47,061 million in 2024, a growth of 2.86% (calculated as ($47,061 - $45,754) / $45,754). PG's net sales 'increased 2%' year-over-year as stated. Thus KO's growth rate was slightly higher at 2.86% versus PG's 2%.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "PG"
+    ],
+    "evidence_section": "KO: Item 8 Consolidated Statements of Income showing 2024 and 2023 revenues; PG: Item 7 'Net sales increased 2%'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "KO+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the selling, general and administrative expenses as a percentage of net sales/revenues for KO and PG in fiscal 2024.",
+    "answer": "KO's SG&A expenses were $14,582 million, which is 31.0% of net operating revenues ($47,061 million). PG's SG&A as a percentage of net sales was 27.7% as stated: 'Selling, general and administrative expense 27.7%'. Therefore KO's SG&A ratio is higher than PG's.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "PG"
+    ],
+    "evidence_section": "KO: Item 8 Consolidated Statements of Income; PG: Item 7 Operating Costs table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "KO+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the operating margins of KO and PG compare for fiscal 2024?",
+    "answer": "KO's operating margin is 21.2% (Operating Income $9,992 million divided by Net Operating Revenues $47,061 million). PG's operating margin is 22.1% as stated: 'Operating margin 22.1%'. Thus PG has a slightly higher operating margin.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "PG"
+    ],
+    "evidence_section": "KO: Item 8 Consolidated Statements of Income; PG: Item 7 Operating Costs table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "KO+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic difference in product focus is evident between KO and PG from their filings?",
+    "answer": "KO is actively expanding into the alcohol beverage category, stating: 'The Company has also directly entered the alcohol beverage category... focuses on three segments of alcohol ready-to-drink beverages: pre-mixed cocktails, flavored alcohol beverages and hard seltzers.' PG, conversely, faces headwinds from product mix, specifically 'the decline of the super-premium SK-II brand' which contributed an 80 basis-point decline in gross margin.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "PG"
+    ],
+    "evidence_section": "KO: Item 7 – 'The Company has also directly entered the alcohol beverage category'; PG: Item 7 – 'unfavorable product mix including the decline of the super-premium SK-II brand'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "KO+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the absolute net sales/revenues of KO and PG for fiscal 2024, and which company is larger?",
+    "answer": "KO's net operating revenues were $47,061 million ($47.061 billion). PG's net sales were $84.0 billion (stated as $84.0 billion in 'Net sales increased 2% to $84.0 billion'). Thus PG's net sales are larger by $36.939 billion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "KO",
+      "PG"
+    ],
+    "evidence_section": "KO: Item 8 Consolidated Statements of Income – 'Net Operating Revenues $47,061'; PG: Item 7 – ‘Net sales increased 2% to $84.0 billion’",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "KO+PG",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

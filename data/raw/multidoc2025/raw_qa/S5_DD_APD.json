@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the structure of the Management's Discussion and Analysis (MD&A) sections for DD (2022, 2024) and APD (2022, 2024). Which subsection appears in APD's MD&A that is not listed in DD's MD&A overview for either year, and what are the page numbers for that subsection in APD's 2022 and 2024 filings?",
+    "answer": "The subsection 'Reconciliations of Non-GAAP Financial Measures' appears in APD's MD&A but is not listed in DD's MD&A overview components. In APD's 2022 filing, this subsection is on page 35. In APD's 2024 filing, it is on page 37.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DD",
+      "APD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "DD+APD",
+    "sector": "Materials"
+  },
+  {
+    "question": "Analyze the inclusion of forward-looking statements disclaimers across DD and APD for fiscal years 2022 and 2024. Which company includes the safe harbor provision, and in which years? Quote the basis for these statements as stated in APD's 2024 MD&A.",
+    "answer": "APD includes the safe harbor provision in both 2022 and 2024. DD's MD&A does not include any forward-looking statements disclaimer in the provided excerpts. In APD's 2024 MD&A, the basis is 'management’s expectations and assumptions as of the date of this Annual Report on Form 10-K'.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DD",
+      "APD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "DD+APD",
+    "sector": "Materials"
+  },
+  {
+    "question": "How does the level of detail in the MD&A section headings differ between DD and APD in 2022 and 2024? Provide evidence from the components listed in DD's Overview and the page-numbered subsections in APD's Business Overview.",
+    "answer": "APD's MD&A includes a 'Business Overview' with specific, page-numbered subsections (e.g., '2022 in Summary' on page 22, '2023 Outlook' on page 23 for 2022; '2024 in Summary' on page 29, 'Outlook' on page 31 for 2024). DD's MD&A lists a generic 'Overview' with a bullet list of components (e.g., • Overview • Analysis of Operations • Result of Operations • Segment Results • Outlook • Liquidity and Capital Resources • Recent Accounting Pronouncements • Critical Accounting Estimates • Long-Term Employee Benefits • Environmental Matters) but does not include page numbers or sub-item headings.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DD",
+      "APD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "DD+APD",
+    "sector": "Materials"
+  }
+]

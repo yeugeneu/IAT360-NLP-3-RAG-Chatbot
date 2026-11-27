@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the customer segments served by AMZN and HD differ according to their respective Management’s Discussion and Analysis?",
+    "answer": "AMZN describes serving customers including third-party sellers across multiple industries such as retail, web services, etc., and notes that risks impacting customers indirectly affect them. HD divides customers into two groups: DIY customers (homeowners) and Professional Customers (Pros) such as renovators, contractors, etc. AMZN does not specify DIY or Pros; HD explicitly defines these segments.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "HD"
+    ],
+    "evidence_section": "AMZN: Item 7; HD: Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific acquisition did HD make in fiscal 2024 to serve professional customers, and does AMZN mention a similar acquisition in the provided content?",
+    "answer": "HD acquired SRS in fiscal 2024, which sells products to specialty trade roofers, landscapers, and pool contractors. The provided AMZN content does not mention any specific acquisition. Instead, AMZN discusses competitive intensity and new competitors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "HD"
+    ],
+    "evidence_section": "HD: Item 7 - 'In fiscal 2024, we acquired SRS, which sells products to specialty trade roofers, landscapers, and pool contractors.' AMZN: No acquisition mentioned.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the auditor reports, what was the opinion on internal control over financial reporting for each company?",
+    "answer": "For AMZN, the auditor expressed an unqualified opinion on internal control over financial reporting as of December 31, 2023, based on criteria in the 2013 COSO framework. For HD, the auditor report excerpt does not include a statement on internal control; the provided text cuts off before that opinion. The full HD auditor report is not shown. Therefore, based solely on the provided content, only AMZN’s auditor opinion on internal control is available.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "HD"
+    ],
+    "evidence_section": "AMZN: Item 8 - Auditor report '...our report dated February 1, 2024 expressed an unqualified opinion thereon.' HD: Item 8 - excerpt does not include internal control opinion.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the primary risks identified by AMZN in its Item 7 business risks? How does HD’s Item 7 differ in its discussion?",
+    "answer": "AMZN identifies intense competition as a key risk, listing many competitors and noting that some have greater resources. HD’s Item 7 does not discuss risks; instead it focuses on describing customer groups (DIY and Pros) and initiatives. HD does not include a risk factors section in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "HD"
+    ],
+    "evidence_section": "AMZN: Item 7 - 'Our businesses are rapidly evolving and intensely competitive...' HD: Item 7 - 'OUR CUSTOMERS We serve two primary customer groups...'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare how the two companies describe their competitive landscape. What specific competitive advantages do some of AMZN’s competitors have according to AMZN?",
+    "answer": "AMZN states that some competitors have greater resources, longer histories, more customers, and/or greater brand recognition, especially with newly-launched products and in newer regions. They may secure better vendor terms, adopt more aggressive pricing, and devote more resources. HD does not discuss competitive landscape in the provided content; it focuses on customer segmentation and initiatives for Pros.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "HD"
+    ],
+    "evidence_section": "AMZN: Item 7 - 'Some of our current and potential competitors have greater resources, longer histories, more customers, and/or greater brand recognition...' HD: No comparable discussion.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the fiscal year ends for AMZN and HD based on the auditor reports?",
+    "answer": "Based on the auditor reports in the provided content, AMZN’s fiscal year ends on December 31 (with reported years 2023 and 2022). HD’s fiscal year ends on the Sunday nearest January 31, specifically February 2, 2025 for the most recent fiscal year, and January 28, 2024 for the prior year.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN",
+      "HD"
+    ],
+    "evidence_section": "AMZN: Item 8 - 'as of December 31, 2023 and 2022'. HD: Item 8 - 'as of February 2, 2025 and January 28, 2024'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMZN+HD",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

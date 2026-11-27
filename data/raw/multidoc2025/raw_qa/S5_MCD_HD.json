@@ -1,0 +1,24 @@
+[
+  {
+    "question": "How did Home Depot's customer segment terminology change from FY2022 to FY2024, and what were McDonald's total revenues in FY2022 and FY2024 as reported in its financial tables?",
+    "answer": "In FY2022, Home Depot described its second customer group as 'professional customers'; by FY2024, this was changed to 'Pros'. The provided content for McDonald's contains page references (FY2022: Item 7 and 8, pages 8–35; FY2024: Item 7 and 8, page 7) but does not include the actual financial tables, so total revenue figures are not available from the provided content.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "MCD",
+      "HD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "HD FY2022: 'consumers (including both DIY and DIFM customers) and professional customers'; HD FY2024: 'consumers (including both DIY and DIFM customers) and Pros'; MCD FY2022: 'Pages 8-35'; MCD FY2024: 'Page 7'",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "MCD+HD",
+    "sector": "Consumer Discretionary"
+  }
+]

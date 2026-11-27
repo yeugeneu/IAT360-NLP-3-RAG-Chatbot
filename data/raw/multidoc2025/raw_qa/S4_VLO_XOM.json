@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company's management explicitly states that they evaluated internal control over financial reporting as of December 31, 2024 using the COSO 2013 framework?",
+    "answer": "Valero Energy Corporation (VLO) states that management evaluated the effectiveness of internal control over financial reporting as of December 31, 2024 using the criteria in Internal Control – Integrated Framework (2013) issued by COSO. The Exxon Mobil (XOM) content does not mention such an evaluation.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "XOM"
+    ],
+    "evidence_section": "ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the name of the independent registered public accounting firm for Exxon Mobil Corporation (XOM) as per the provided content, and is that firm named in the VLO excerpt?",
+    "answer": "Exxon Mobil's independent registered public accounting firm is PricewaterhouseCoopers LLP (PCAOB ID 238). The VLO excerpt does not name its independent registered public accounting firm.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "XOM"
+    ],
+    "evidence_section": "ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's 10-K filing includes a separate management report on internal control over financial reporting?",
+    "answer": "Valero Energy Corporation (VLO) includes a separate 'Management’s Report on Internal Control Over Financial Reporting' in its ITEM 8. The Exxon Mobil (XOM) content does not include such a separate report; it only references the Financial Section.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "XOM"
+    ],
+    "evidence_section": "ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the date of the auditor's report for XOM, and is a similar date provided for VLO in the given excerpt?",
+    "answer": "The auditor's report for Exxon Mobil (XOM) is dated February 19, 2025. The VLO excerpt does not provide a date for its auditor's report.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "XOM"
+    ],
+    "evidence_section": "ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly states that its independent auditor issued an attestation report on the effectiveness of internal control over financial reporting?",
+    "answer": "Valero Energy Corporation (VLO) states that its independent registered public accounting firm has issued an attestation report on the effectiveness of internal control over financial reporting, which begins on page 68. The Exxon Mobil (XOM) content does not mention any such attestation report.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "XOM"
+    ],
+    "evidence_section": "ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both companies provide financial statements as of December 31, 2024. Which company also explicitly includes financial statements as of December 31, 2023 in the provided audit opinion?",
+    "answer": "Valero Energy Corporation (VLO) explicitly states that its audit covers the consolidated balance sheets as of December 31, 2024 and 2023. The Exxon Mobil (XOM) excerpt does not specify the comparative year for its financial statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VLO",
+      "XOM"
+    ],
+    "evidence_section": "ITEM 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VLO+XOM",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

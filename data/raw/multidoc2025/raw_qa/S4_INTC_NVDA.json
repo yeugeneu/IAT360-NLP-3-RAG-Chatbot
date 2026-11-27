@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the level of detail in segment revenue disclosure differ between INTC and NVDA in their 10-K filings?",
+    "answer": "NVDA provides a detailed table with segment revenue and operating income for Compute & Networking ($47,405M) and Graphics ($13,517M) for FY2024. INTC's content only references Item 7 pages 28-30 and results of operations pages 13-27, without providing any segment revenue figures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "NVDA"
+    ],
+    "evidence_section": "INTC: Item 7 (pages 28-30, 13-27); NVDA: Reportable Segments Revenue by Reportable Segments table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+NVDA",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in reporting of operating expenses as a percentage of revenue between INTC and NVDA?",
+    "answer": "NVDA provides operating expenses as a percentage of revenue: Research and development 14.2%, Sales, general and administrative 4.4%, and Total operating expenses 18.6% for FY2024. INTC's content does not include any such percentage breakdown of operating expenses.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "NVDA"
+    ],
+    "evidence_section": "INTC: no percentage data provided; NVDA: Consolidated Statements of Income percentage table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+NVDA",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the gross profit percentages compare between NVDA and INTC based on the provided content?",
+    "answer": "NVDA reports a gross profit of 72.7% of revenue for FY2024. INTC's content does not provide any gross profit percentage or dollar figure; it only references pages for results of operations.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "NVDA"
+    ],
+    "evidence_section": "INTC: no gross profit data; NVDA: Gross profit 72.7% from percentage table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+NVDA",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the presentation of net income between INTC and NVDA?",
+    "answer": "NVDA reports net income as 48.9% of revenue for FY2024. INTC's content does not provide any net income percentage or dollar amount; it only references pages for results of operations and critical accounting estimates.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "NVDA"
+    ],
+    "evidence_section": "INTC: no net income data; NVDA: Net income 48.9% from percentage table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+NVDA",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the reporting of specific non-recurring items differ between INTC and NVDA?",
+    "answer": "NVDA reports an 'Acquisition termination cost' line item, which was 5.0% of revenue in FY2023 (year ended Jan 29, 2023) and $0 in FY2024. INTC's content does not mention any acquisition termination cost or similar non-recurring item.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "NVDA"
+    ],
+    "evidence_section": "INTC: no mention; NVDA: Acquisition termination cost 5.0% for 2023 from percentage table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+NVDA",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the extent of segment operating income disclosure between INTC and NVDA?",
+    "answer": "NVDA provides operating income by segment in a table: Compute & Networking $32,016M, Graphics $5,846M, All Other ($4,890M), and Total $32,972M for FY2024. INTC's content only references pages for results of operations and does not disclose segment operating income.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "NVDA"
+    ],
+    "evidence_section": "INTC: no segment operating income; NVDA: Operating Income by Reportable Segments table",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+NVDA",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

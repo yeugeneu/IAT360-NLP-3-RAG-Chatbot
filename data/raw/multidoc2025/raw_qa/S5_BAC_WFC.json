@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the list of competitors that BAC identifies in its MD&A text for FY2022 and FY2024 with the competitor types that WFC mentions in its FY2022 and FY2024 MD&A. What differences exist in the competitive landscape descriptions? Provide evidence from both the text paragraphs and any relevant financial tables (e.g., revenue breakdowns by segment) if available.",
+    "answer": "The provided content for BAC shows an identical competitor list in FY2022 and FY2024: banks, thrifts, credit unions, investment banking firms, investment advisory firms, brokerage firms, investment companies, insurance companies, mortgage banking companies, credit card issuers, mutual fund companies, hedge funds, private equity firms, and e-commerce and other internet-based companies, including merchant banks and companies providing nonbank financial services. For WFC, the content only states 'Item 7 can be found in the 2022 (2024) Annual Report to Shareholders under “Financial Review.” That information is incorporated into this item by reference.' No explicit competitor list or financial tables are provided for WFC. Therefore, a full comparison cannot be performed from the given content; no financial tables are available to supplement the text for either company.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "BAC",
+      "WFC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 MD&A (BAC) and incorporation by reference (WFC)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "BAC+WFC",
+    "sector": "Financials"
+  },
+  {
+    "question": "Using the financial tables from BAC and WFC for FY2022 and FY2024, determine the percentage change in net income for each bank. Then, based on the MD&A text, explain how competitive pressures mentioned by BAC (e.g., increasing competition from nonbank firms) might have contributed to these changes. Cite specific numerical evidence from the tables and relevant text excerpts.",
+    "answer": "The provided content does not include any financial tables for BAC or WFC. Net income figures are not available, so the percentage change cannot be calculated. The MD&A text for BAC (both FY2022 and FY2024) mentions that the company is 'increasingly competing with firms of' and lists numerous competitor types, but the sentence is incomplete and no numerical performance data is provided. For WFC, only an incorporation by reference for Item 7 is given; no financial tables or MD&A text are included. Therefore, the question cannot be answered from the given content.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "BAC",
+      "WFC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 MD&A (BAC) and incorporation by reference (WFC); no financial tables provided",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "BAC+WFC",
+    "sector": "Financials"
+  },
+  {
+    "question": "From the MD&A text for BAC (FY2022 and FY2024) and the financial tables for WFC (FY2022 and FY2024), identify which competitor types highlighted by BAC are also facing similar challenges at WFC based on its numerical performance data (e.g., changes in revenue or net income). Provide exact quotes from the text and exact figures from the tables.",
+    "answer": "The provided content for BAC includes a MD&A text that lists competitor types identically for both years and ends with an incomplete sentence about increasing competition. No financial tables are present for BAC. For WFC, the content only states that Item 7 is incorporated by reference; no financial tables or MD&A text are provided. Consequently, no competitor types from BAC can be matched to any numerical performance data from WFC. The question cannot be answered from the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "BAC",
+      "WFC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 MD&A (BAC) and incorporation by reference (WFC); no financial tables provided",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "BAC+WFC",
+    "sector": "Financials"
+  }
+]

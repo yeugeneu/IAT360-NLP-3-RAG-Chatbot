@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do Duke Energy (DUK) and Xcel Energy (XEL) differ in their approach to insuring electric transmission and distribution lines against storm damage?",
+    "answer": "Duke Energy self-insures their electric transmission and distribution lines against loss due to storm damage and other natural disasters, while Xcel Energy does not describe any self-insurance for such lines; instead, Xcel Energy Inc. provides guarantees and bond indemnities under specified agreements, with exposure based on the net liability of the relevant subsidiary.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "XEL"
+    ],
+    "evidence_section": "DUK: ITEM 8 - INSURANCE paragraph; XEL: ITEM 8 - Guarantees and Indemnifications",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in how Duke Energy and Xcel Energy present non-GAAP financial measures in their filings?",
+    "answer": "Duke Energy does not mention any non-GAAP financial measures in the provided content, whereas Xcel Energy explicitly discusses non-GAAP measures such as ongoing ROE, ongoing earnings, and ongoing diluted EPS, stating that they use these for financial planning, performance-based compensation, and communicating earnings outlook to analysts and investors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "XEL"
+    ],
+    "evidence_section": "DUK: ITEM 8 (no non-GAAP mention); XEL: ITEM 7 - Non-GAAP Financial Measures",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Duke Energy and Xcel Energy differ in their organizational structure regarding subsidiaries?",
+    "answer": "Duke Energy's financial statements include separate consolidated reports for multiple subsidiaries (e.g., Duke Energy Carolinas, Progress Energy, Duke Energy Progress, etc.), indicating a decentralized structure with separate reporting. Xcel Energy Inc. is a holding company with no business operations, and its investments in subsidiaries are presented under the equity method of accounting, meaning the assets and liabilities of subsidiaries are not consolidated in Xcel Energy Inc.'s balance sheet.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "XEL"
+    ],
+    "evidence_section": "DUK: ITEM 8 listing of subsidiary reports; XEL: ITEM 8 - Basis of Presentation",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What strategic approach do Duke Energy and Xcel Energy take regarding coal-fired generation retirements?",
+    "answer": "Duke Energy continues to evaluate retirement date assumptions for all coal-fired generating facilities and plans to seek regulatory recovery for amounts not otherwise recovered upon retirement. Xcel Energy's provided content does not mention coal-fired generation retirements or any similar strategy.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "XEL"
+    ],
+    "evidence_section": "DUK: ITEM 7 - Management's Discussion (resource plans); XEL: no relevant mention",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Duke Energy and Xcel Energy differ in their use of captive insurance arrangements?",
+    "answer": "Duke Energy uses a captive insurance company named Bison and its affiliates for insurance and reinsurance coverage. Xcel Energy's provided content does not mention any captive insurance arrangement; instead, Xcel Energy Inc. provides guarantees and bond indemnities directly.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "XEL"
+    ],
+    "evidence_section": "DUK: ITEM 8 - INSURANCE General Insurance; XEL: ITEM 8 - Guarantees and Indemnifications",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, which company appears to have more extensive rate case and regulatory recovery activities?",
+    "answer": "Duke Energy mentions that rate cases recently filed or approved across all jurisdictions included proposed depreciation rates that approximate earlier retirement dates as outlined in recent IRPs, and they plan to seek regulatory recovery for amounts not otherwise recovered when assets are retired. Xcel Energy's content does not discuss rate cases or regulatory recovery in the provided excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "XEL"
+    ],
+    "evidence_section": "DUK: ITEM 7 - Management's Discussion (rate cases, regulatory recovery); XEL: no relevant mention",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

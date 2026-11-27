@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the mention of a 'comprehensive business review' change across the three fiscal years?",
+    "answer": "In FY2022 and FY2023, the MD&A began with 'Dominion Energy has commenced a comprehensive business review.' This phrase is entirely absent from the FY2024 MD&A, which starts directly with 'Regulatory, Legislative and Legal Risks.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "D",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "D"
+    ]
+  },
+  {
+    "question": "What new risk factor was added in 2024 regarding federal electric transmission rate regulation?",
+    "answer": "In FY2022 and FY2023, the risk description stated: 'A failure by the Companies to support these rates could result in rate decreases...' In FY2024, this was expanded to: 'A failure by the Companies to support these rates or a change in FERC policy could result in rate decreases...'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "D",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "D"
+    ]
+  },
+  {
+    "question": "What new statutory detail about Virginia base rate reviews appears only in the FY2024 MD&A?",
+    "answer": "FY2024 adds: 'Legislation enacted in Virginia in April 2023 reset the frequency of base rate reviews to a biennial period commencing with the 2023 Biennial Review. Under certain circumstances described in the Regulation Act, Virginia Power may be required to refund a portion of its earnings to customers through a refund process and to reduce its rates.' This detail is absent from the FY2022 and FY2023 excerpts.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "D",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "D"
+    ]
+  },
+  {
+    "question": "How did the introductory sentence structure of Item 7 MD&A change from FY2022/2023 to FY2024?",
+    "answer": "In FY2022 and FY2023, the MD&A opened with 'Item 7. MD&A, Dominion Energy has commenced a comprehensive business review.' In FY2024, the introductory text no longer mentions the business review and simply begins with 'Item 7. MD&A. Regulatory, Legislative and Legal Risks...'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "D",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "D"
+    ]
+  },
+  {
+    "question": "What qualitative change in the risk of rate decreases occurred between FY2023 and FY2024?",
+    "answer": "In FY2022 and FY2023, the risk stated: 'A failure by the Companies to support these rates could result in rate decreases from current rate levels...' In FY2024, the risk was expanded to include 'or a change in FERC policy' as an additional cause of rate decreases, reflecting an expanded regulatory risk.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "D",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "D"
+    ]
+  },
+  {
+    "question": "Which year's MD&A excerpt introduced a potential refund obligation for Virginia Power, and how does that compare to prior years?",
+    "answer": "Only the FY2024 MD&A includes the statement: 'Under certain circumstances described in the Regulation Act, Virginia Power may be required to refund a portion of its earnings to customers through a refund process and to reduce its rates.' The FY2022 and FY2023 excerpts contain no mention of refunds or biennial reviews.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "D",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "D"
+    ]
+  }
+]

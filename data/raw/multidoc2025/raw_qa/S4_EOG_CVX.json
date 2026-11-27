@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do EOG and CVX differ in the level of operational detail provided in their Item 7 Management’s Discussion and Analysis for FY2024?",
+    "answer": "EOG's Item 7 includes detailed revenue breakdowns, volume and price statistics for crude oil, NGLs, and natural gas, and derivative contract gains. CVX's Item 7 only states 'The index to Management’s Discussion and Analysis ... is presented in the Financial Table of Contents' without providing any specific operational or financial data.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "CVX"
+    ],
+    "evidence_section": "EOG Item 7; CVX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+CVX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What operating revenues did EOG report for FY2024, and how does this compare with the operating revenue disclosure in CVX's FY2024 10-K?",
+    "answer": "EOG reported operating revenues of $23,698 million for 2024. CVX did not provide any operating revenue figure in the given excerpt; its Item 7 only references an index.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "CVX"
+    ],
+    "evidence_section": "EOG Item 7; CVX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+CVX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do EOG and CVX compare in the presentation of their financial statements in their FY2024 10-K filings?",
+    "answer": "EOG includes an 'Index to Financial Statements' on page F-1 and provides financial statements and supplementary data within the report. CVX similarly states that 'The index to Financial Statements and Supplementary Data is presented in the Financial Table of Contents.' Both provide indices, but only EOG's excerpt includes actual numerical data and operational details.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "CVX"
+    ],
+    "evidence_section": "EOG Item 8; CVX Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+CVX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was EOG's total crude oil and condensate production volume for FY2024, and does CVX disclose a comparable figure in its FY2024 10-K excerpt?",
+    "answer": "EOG reported total crude oil and condensate production of 491.4 MBbld for 2024. CVX did not disclose any production volume data in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "CVX"
+    ],
+    "evidence_section": "EOG Item 7 (volume table); CVX Item 7 (no volume data)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+CVX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do EOG and CVX differ in their disclosure of revenue from derivative contracts for FY2024?",
+    "answer": "EOG disclosed net gains on mark-to-market of financial commodity and other derivative contracts of $204 million for 2024. CVX provided no information about derivative gains or losses in its FY2024 10-K excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "CVX"
+    ],
+    "evidence_section": "EOG Item 7; CVX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+CVX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of EOG's total production revenues came from crude oil and condensate and NGLs in FY2024, and does CVX provide a comparable metric in its FY2024 10-K?",
+    "answer": "EOG stated that revenues from sales of crude oil and condensate and NGLs were 91% of total revenues from sales of crude oil and condensate, NGLs and natural gas in 2024. CVX did not provide any revenue breakdown or similar percentage in the given excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "CVX"
+    ],
+    "evidence_section": "EOG Item 7; CVX Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+CVX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

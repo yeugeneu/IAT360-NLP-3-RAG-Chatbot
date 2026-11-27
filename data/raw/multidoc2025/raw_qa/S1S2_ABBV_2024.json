@@ -1,0 +1,443 @@
+[
+  {
+    "question": "On what date was AbbVie incorporated in Delaware?",
+    "answer": "April 10, 2012",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many therapeutic areas are listed as having leadership positions in AbbVie's product portfolio?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who serves as the Chief Operating Decision Maker (CODM) at AbbVie?",
+    "answer": "The Chief Executive Officer (CEO)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the two general groups into which the risk factors have been separated?",
+    "answer": "Risks related to AbbVie's business and risks related to AbbVie's common stock.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the risk factor, what may happen if patent protection expires or is lost?",
+    "answer": "The expiration or loss of patent protection and licenses, including the loss of exclusivity for any of our products and increased competition from generics and biosimilars, may adversely affect AbbVie's revenues and operating earnings.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In which countries is patent protection important for AbbVie's marketing of pharmaceutical products?",
+    "answer": "In the United States and most.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what date did AbbVie complete the acquisition of Cerevel Therapeutics?",
+    "answer": "August 1, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Who succeeded Richard A. Gonzalez as Chief Executive Officer of AbbVie?",
+    "answer": "Robert A. Michael",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many days after Robert A. Michael became CEO did AbbVie complete the acquisition of Cerevel Therapeutics?",
+    "answer": "31 days",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many days passed between the acquisition of ImmunoGen (February 12, 2024) and the acquisition of Cerevel Therapeutics (August 1, 2024)?",
+    "answer": "171 days",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Executive Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many days after the ImmunoGen acquisition (February 12, 2024) did Robert A. Michael become CEO (July 1, 2024)?",
+    "answer": "140 days",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Executive Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many days after Robert A. Michael became CEO (July 1, 2024) will he become Chairman (July 1, 2025)?",
+    "answer": "365 days",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A - Executive Overview",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the primary net foreign currency exposures for AbbVie in fiscal year 2024?",
+    "answer": "Euro, Japanese yen, Canadian dollar and British pound",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the contract amount for the British pound foreign exchange forward contract at December 31, 2024?",
+    "answer": "$461 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total net change in the fair and carrying value receivable/(payable) for all foreign currency forward contracts from December 31, 2023 to December 31, 2024?",
+    "answer": "$415 million increase",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the net revenues for the fiscal year ended December 31, 2024?",
+    "answer": "$56,334 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Earnings",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "By how much did net earnings attributable to AbbVie change from 2023 to 2024?",
+    "answer": "$(585) million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Earnings",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the research and development expense for the year ended December 31, 2022?",
+    "answer": "$6,510 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Earnings",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the gross profit for 2024, calculated as Net revenues minus Cost of products sold?",
+    "answer": "$39,430 million (56,334 - 16,904 = 39,430)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Consolidated Statements of Earnings",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the operating margin (operating earnings as a percentage of net revenues) for 2022?",
+    "answer": "31.2% (18,117 / 58,054 ≈ 0.3120, or 31.20%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Consolidated Statements of Earnings",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the effective tax rate for 2024, calculated as Income tax expense (benefit) divided by Earnings before income tax expense?",
+    "answer": "-15.3% (–570 / 3,716 ≈ –0.1534, or –15.34%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements - Consolidated Statements of Earnings",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "ABBV",
+    "year": "2024",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "ABBV"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

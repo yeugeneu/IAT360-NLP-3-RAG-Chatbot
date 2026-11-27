@@ -1,0 +1,380 @@
+[
+  {
+    "question": "How many data centers are located in the United States according to the portfolio as of December 31, 2024?",
+    "answer": "121",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many data centers are located in Europe according to the portfolio as of December 31, 2024?",
+    "answer": "112",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many data centers are directly owned (excluding investments in unconsolidated entities) as of December 31, 2024?",
+    "answer": "230",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the term 'stockholders' refer to in the risk factors section?",
+    "answer": "the holders of shares of Digital Realty Trust, Inc.’s common stock and preferred stock",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which page does the forward-looking statements section start?",
+    "answer": "page 46",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many pages are there between the start of the risk factors section (page 14) and the start of the forward-looking statements section (page 46)?",
+    "answer": "32",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the filing date of the Annual Report on Form 10-K?",
+    "answer": "February 23, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "For which fiscal year end was the Annual Report on Form 10-K filed?",
+    "answer": "December 31, 2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many primary business objectives are listed in the business overview?",
+    "answer": "Three",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the section, do we use derivatives for trading or speculative purposes?",
+    "answer": "We do not use derivatives for trading or speculative purposes.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total amount of variable rate debt before considering interest rate swaps?",
+    "answer": "$ 4,687",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the decrease in fair value of fixed rate debt following a 10% increase in interest rates?",
+    "answer": "$ (131)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the Auditor Firm ID listed in the index?",
+    "answer": "185",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On what page does the Consolidated Balance Sheet for Digital Realty Trust, Inc. as of December 31, 2024 and 2023 begin?",
+    "answer": "91",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the Consolidated Balance Sheet (page 91) and the Consolidated Income Statement (page 92) for Digital Realty Trust, Inc.?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Balance Sheets of Digital Realty Trust, Inc. and Digital Realty Trust, L.P.?",
+    "answer": "189",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements (Index to Consolidated Financial Statements)",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the start of the Consolidated Income Statements for Digital Realty Trust, Inc. and the start of the Consolidated Statements of Comprehensive Income for Digital Realty Trust, Inc.?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements (Index to Consolidated Financial Statements)",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total of the page numbers for the Consolidated Statements of Cash Flows for both Digital Realty Trust, Inc. and Digital Realty Trust, L.P.?",
+    "answer": "201",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements (Index to Consolidated Financial Statements)",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DLR",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DLR"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

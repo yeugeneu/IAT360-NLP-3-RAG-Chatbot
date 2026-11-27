@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do Lockheed Martin's and Caterpillar's 10-K filings differ in the presentation of independent auditor oversight?",
+    "answer": "Lockheed Martin's filing includes a 'Report of Independent Registered Public Accounting Firm' with an audit opinion on financial statements and internal control over financial reporting, stating they are audited in accordance with PCAOB standards. Caterpillar's filing does not include an independent auditor's report in the provided excerpt; instead, it contains only management's report on internal control over financial reporting, without a referenced external auditor opinion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What framework do both Lockheed Martin and Caterpillar use for assessing internal control over financial reporting?",
+    "answer": "Both companies use the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Lockheed Martin uses the '2013 framework' as stated in the audit report, while Caterpillar uses the 'Internal Control-Integrated Framework' issued by COSO, though the specific year of the framework is not specified in Caterpillar's excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the risk disclosure approaches in the Management's Discussion and Analysis sections of Lockheed Martin and Caterpillar compare?",
+    "answer": "Lockheed Martin's MD&A introduction states it is intended to help understand results of operations and financial condition, and is a supplement to the financial statements. Caterpillar's MD&A introduction explicitly includes a cautionary discussion of forward-looking statements, identifying them with specific words like 'believe,' 'expect,' 'estimate,' and listing risks and uncertainties that could cause actual results to differ materially. Lockheed Martin does not include such forward-looking statement disclaimers in its provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in the responsibility statements for internal control between Lockheed Martin and Caterpillar?",
+    "answer": "Lockheed Martin's filing asserts that the independent auditor audited internal control over financial reporting and expressed an unqualified opinion. Caterpillar's management states it is responsible for establishing and maintaining adequate internal control over financial reporting, and management assessed its effectiveness. Lockheed Martin's responsibility is attributed to the external auditor's opinion, whereas Caterpillar's responsibility is attributed to management.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Lockheed Martin and Caterpillar address the limitations of internal control over financial reporting?",
+    "answer": "Caterpillar explicitly states that because of inherent limitations, internal control over financial reporting may not prevent or detect misstatements, and that projections of effectiveness to future periods are subject to risk of controls becoming inadequate or compliance deteriorating. Lockheed Martin's excerpt does not include a discussion of limitations; only the audit opinion and framework reference are provided.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's filing includes an explicit PCAOB registration and independence statement, and which does not show such a statement in the provided content?",
+    "answer": "Lockheed Martin's filing explicitly states the auditor is a public accounting firm registered with the PCAOB and required to be independent with respect to the Corporation in accordance with U.S. federal securities laws. Caterpillar's filing does not include any PCAOB registration or independence statement in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "LMT",
+      "CAT"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "LMT+CAT",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

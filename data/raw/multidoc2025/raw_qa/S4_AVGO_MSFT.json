@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the strategic emphases on artificial intelligence (AI) differ between AVGO and MSFT based solely on the provided excerpts?",
+    "answer": "AVGO explicitly includes 'artificial intelligence (AI) networking and connectivity' as part of its semiconductor solutions segment, while MSFT's excerpt does not mention AI at all. This indicates AVGO directly targets AI infrastructure in its product description, whereas MSFT's AI focus is not evident in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "MSFT"
+    ],
+    "evidence_section": "AVGO: Item 7 - 'artificial intelligence (“AI”) networking and connectivity'; MSFT: Item 7 and Item 8 - no mention of AI.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in the disclosure of non-GAAP financial measures between AVGO and MSFT?",
+    "answer": "MSFT provides a detailed reconciliation of GAAP to non-GAAP financial results, including adjustments for severance, hardware-related impairment, and lease consolidation costs for gross margin, operating income, net income, and diluted earnings per share. AVGO's excerpt does not include any non-GAAP measures or reconciliation, indicating a different reporting approach.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "MSFT"
+    ],
+    "evidence_section": "MSFT: Item 7 table; AVGO: Item 7 and Item 8 - no non-GAAP disclosure.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do AVGO and MSFT differ in their presentation of debt-related information?",
+    "answer": "AVGO lists multiple indentures for senior notes in its exhibit index, including '3.625% Senior Notes due 2024' and '3.875% Senior Notes due 2027', reflecting its role as a debt issuer. MSFT, in contrast, reports holding 'Corporate notes and bonds' as investments (e.g., Level 2 corporate notes and bonds of $10,809 million adjusted cost basis), reflecting its role as an investor in corporate debt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "MSFT"
+    ],
+    "evidence_section": "AVGO: Item 8 exhibits 4.6 and 4.7; MSFT: Item 8 fair value table - 'Corporate notes and bonds Level 2' row.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the liquidity disclosures of AVGO and MSFT as provided in the excerpts.",
+    "answer": "MSFT explicitly reports cash, cash equivalents, and short-term investments totaling '$75.5 billion' as of June 30, 2024, and discusses liquidity sufficiency. AVGO's excerpt does not provide any cash or liquidity figures; instead, its liquidity may be inferred only from references to debt issuance, such as senior notes due 2024 and 2027.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "MSFT"
+    ],
+    "evidence_section": "MSFT: Item 7 - 'Cash, cash equivalents, and short-term investments totaled $75.5 billion'; AVGO: Item 7 and Item 8 - no cash disclosure.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences are observed in the treatment of fair value hierarchy disclosures between AVGO and MSFT?",
+    "answer": "MSFT provides a comprehensive breakdown of debt investments by fair value level (Level 1, 2, 3) with specific amounts for each category, such as 'U.S. government securities Level 1 $65,237' adjusted cost. AVGO's excerpt does not include any fair value hierarchy table or similar classification of investments.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "MSFT"
+    ],
+    "evidence_section": "MSFT: Item 8 fair value table; AVGO: Item 7 and Item 8 - no fair value table.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the product scopes of AVGO and MSFT differ based on the provided excerpts?",
+    "answer": "AVGO's semiconductor solutions segment includes products for 'enterprise and data center networking, including artificial intelligence (“AI”) networking and connectivity, home connectivity, set-top boxes, broadband access, telecommunication equipment, smartphones and base stations'. MSFT's business is implied through its non-GAAP adjustments for 'hardware-related impairment' and 'lease consolidation costs', suggesting a mix of software and hardware, but its core products are not detailed in the excerpt, whereas AVGO lists many hardware categories.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AVGO",
+      "MSFT"
+    ],
+    "evidence_section": "AVGO: Item 7 overview; MSFT: Item 7 - 'Severance, hardware-related impairment, and lease consolidation costs'.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AVGO+MSFT",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

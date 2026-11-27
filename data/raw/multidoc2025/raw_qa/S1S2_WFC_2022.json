@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What was the approximate amount of Wells Fargo's total assets at December 31, 2022?",
+    "answer": "approximately $1.9 trillion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "At December 31, 2022, what percentage of the Company's assets were held by Wells Fargo Bank, N.A.?",
+    "answer": "91%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between Wells Fargo's deposits and loans at December 31, 2022?",
+    "answer": "$444.1 billion (1.4 trillion - 955.9 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 1. BUSINESS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where can Item 7 be found in the 2022 Annual Report to Shareholders?",
+    "answer": "under 'Financial Review'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the name of the document that contains Item 7 information?",
+    "answer": "the 2022 Annual Report to Shareholders",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is done with the information from the Financial Review section according to the provided content?",
+    "answer": "That information is incorporated into this item by reference.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the percentage change in net interest income from 2021 to 2022?",
+    "answer": "24.0% (from $35.9 billion to $44.5 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the efficiency ratio for 2022? (noninterest expense divided by total revenue)",
+    "answer": "71.2% (noninterest expense of $51.8 billion divided by total revenue of $72.7 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How did the allowance for credit losses as a percentage of total loans change from 2021 to 2022?",
+    "answer": "It decreased from 1.80% in 2021 (allowance $16.2 billion / loans $900 billion) to 1.63% in 2022 (allowance $15.5 billion / loans $949 billion)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where can Item 7A be found according to the provided content?",
+    "answer": "In the 2022 Annual Report to Shareholders under 'Financial Review – Risk Management – Asset/Liability Management.'",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Financial Review – Risk Management – Asset/Liability Management",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the name of the risk management subsection that contains Item 7A?",
+    "answer": "Asset/Liability Management",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Financial Review – Risk Management – Asset/Liability Management",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many times does the word 'Management' appear in the provided content?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Financial Review – Risk Management – Asset/Liability Management",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In which document is Item 8 found according to the statement?",
+    "answer": "2022 Annual Report to Shareholders",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Under which specific sections is Item 8 incorporated by reference?",
+    "answer": "Financial Statements, Notes to Financial Statements, and Quarterly Financial Data",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Is Item 8 presented directly in the filing or incorporated by reference?",
+    "answer": "Incorporated by reference",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Referencing the Consolidated Income Statement in Item 8, what was the percentage decrease in total revenue from fiscal year 2021 to fiscal year 2022?",
+    "answer": "1.73% decrease, calculated as ($73,821 million - $75,123 million) / $75,123 million = -1.73%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Using the Consolidated Balance Sheet in Item 8, calculate the debt-to-equity ratio for fiscal year 2022.",
+    "answer": "8.95, calculated as total liabilities of $1,692,000 million divided by total equity of $189,000 million = 8.952, rounded to 8.95.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Based on the Consolidated Income Statement and Consolidated Balance Sheet in Item 8, what was Wells Fargo's return on assets (net income divided by total assets) for fiscal year 2022?",
+    "answer": "0.70%, calculated as net income of $13,257 million divided by total assets of $1,881,000 million = 0.705%, rounded to 0.70%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "WFC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "WFC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

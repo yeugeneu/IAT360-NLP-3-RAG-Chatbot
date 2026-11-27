@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What were the net earnings (in millions) for Goldman Sachs for the fiscal year ended December 31, 2021 (as reported in its 2022 Form 10-K) and for fiscal year ended December 31, 2023 (as reported in its 2024 Form 10-K), and how did these figures compare to Bank of America's net earnings for the same fiscal years as reported in its 2022 and 2024 Form 10-Ks? Provide the absolute difference in net earnings between the two companies for each year.",
+    "answer": "Goldman Sachs net earnings for fiscal year 2021: $21,635 million (GS 2022 Form 10-K, Item 7, Financial Overview). Bank of America net earnings for fiscal year 2021: $31,978 million (BAC 2022 Form 10-K, Item 7, MD&A). Difference: $10,343 million. Goldman Sachs net earnings for fiscal year 2023: $8,515 million (GS 2024 Form 10-K, Item 7, Financial Overview). Bank of America net earnings for fiscal year 2023: $26,516 million (BAC 2024 Form 10-K, Item 7, MD&A). Difference: $18,001 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GS",
+      "BAC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GS 2022: Item 7 'Management's Discussion and Analysis of Financial Condition and Results of Operations' (Market Risk Management section); GS 2024: Item 7 'Financial Overview' table; BAC 2022: Item 7 'Management's Discussion and Analysis of Financial Condition and Results of Operations' (Competition section); BAC 2024: Item 7 'Management's Discussion and Analysis of Financial Condition and Results of Operations' (Competition section)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GS+BAC",
+    "sector": "Financials"
+  },
+  {
+    "question": "What were the net earnings (loss) applicable to common shareholders for Goldman Sachs in 2022 and 2024, and for Bank of America in the same years, and which company showed a greater percentage decline from 2022 to 2024?",
+    "answer": "Goldman Sachs: 2022 net earnings applicable to common shareholders were $12,395 million; 2024 were $8,452 million. Bank of America: 2022 net earnings applicable to common shareholders were $27,528 million; 2024 were $25,131 million. The percentage decline for Goldman Sachs was (8,452 - 12,395) / 12,395 = -31.8%. For Bank of America, (25,131 - 27,528) / 27,528 = -8.7%. Goldman Sachs had the greater percentage decline.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GS",
+      "BAC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GS 2022: Item 7 'Management's Discussion and Analysis' – Financial Overview table; GS 2024: Item 7 'Management's Discussion and Analysis' – Financial Overview table; BAC 2022: Item 7 'Management's Discussion and Analysis' – Selected Financial Data; BAC 2024: Item 7 'Management's Discussion and Analysis' – Selected Financial Data",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GS+BAC",
+    "sector": "Financials"
+  },
+  {
+    "question": "What was the percentage change in net earnings from fiscal year 2021 to fiscal year 2023 for Goldman Sachs and Bank of America, and which company experienced a larger decline?",
+    "answer": "Goldman Sachs net earnings decreased from $21,635 million in fiscal year 2021 to $8,515 million in fiscal year 2023, a decline of approximately 60.6%. Bank of America net earnings decreased from $31,978 million in fiscal year 2021 to $26,517 million in fiscal year 2023, a decline of approximately 17.1%. Goldman Sachs experienced a larger decline.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GS",
+      "BAC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "GS 2022: Item 7 \"Management's Discussion and Analysis\" (Financial Overview table, net earnings for fiscal year 2021); GS 2024: Item 7 \"Financial Overview\" table (net earnings for fiscal year 2023); BAC 2022: Item 7 \"Management's Discussion and Analysis\" and Note 23 (net income for fiscal year 2021); BAC 2024: Item 7 \"Management's Discussion and Analysis\" and Note 23 (net income for fiscal year 2023).",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "GS+BAC",
+    "sector": "Financials"
+  }
+]

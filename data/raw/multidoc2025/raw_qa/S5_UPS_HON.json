@@ -1,0 +1,68 @@
+[
+  {
+    "question": "In which UPS filings (FY2022 and FY2024) does the company explicitly state that non-GAAP adjusted financial measures should be considered in addition to, and not as an alternative for, GAAP results? Does the HON FY2022 or FY2024 filing contain any mention of non-GAAP measures in the provided excerpts?",
+    "answer": "UPS FY2022 states: 'Adjusted financial measures should be considered in addition to, and not as an alternative for, our reported results prepared in accordance with GAAP.' UPS FY2024 states: 'Non-GAAP adjusted financial measures should be considered in addition to, and not as an alternative for, our reported results prepared in accordance with GAAP.' The HON FY2022 and FY2024 filings provided only show the heading 'ITEM 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations' and do not include any text about non-GAAP measures.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UPS",
+      "HON"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "UPS+HON",
+    "sector": "Industrials"
+  },
+  {
+    "question": "What is the fiscal year covered by the UPS FY2022 filing based on the provided text? Compare this to the fiscal year typically implied by a 'FY2022' label. Does the HON FY2022 filing provide any explicit fiscal year coverage information in the excerpt?",
+    "answer": "The UPS FY2022 filing text states it is for 'the year ended December 31, 2021', meaning it covers fiscal year 2021, not 2022. This is a one-year lag. The HON FY2022 filing excerpt only shows a heading and does not specify the fiscal year covered, so no direct comparison can be made from the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UPS",
+      "HON"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 header",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "UPS+HON",
+    "sector": "Industrials"
+  },
+  {
+    "question": "Based on the UPS filings, calculate the number of years between the fiscal year covered and the filing year for both the FY2022 and FY2024 documents. (Assume the filing year is indicated by the document label and the fiscal year covered is stated in the text.) How does this lag compare between the two UPS documents? Is any lag information available for HON from the provided excerpts?",
+    "answer": "For UPS FY2022: filing year label is 2022, fiscal year covered is 2021 (from text), so lag = 2022 - 2021 = 1 year. For UPS FY2024: label is 2024, text says 'year ended December 31, 2023', so lag = 2024 - 2023 = 1 year. Both have a consistent 1-year lag. For HON, the provided excerpts do not state the fiscal year covered, so no calculation or comparison is possible.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "UPS",
+      "HON"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 header and text",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "UPS+HON",
+    "sector": "Industrials"
+  }
+]

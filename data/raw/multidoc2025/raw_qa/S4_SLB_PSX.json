@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did SLB's net income attributable to the parent in FY2024 compare to Phillips 66's net earnings for the same year?",
+    "answer": "SLB's net income attributable to SLB was $4,461 million, while Phillips 66 reported earnings of $2.1 billion. SLB’s net income was more than double Phillips 66’s earnings.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "PSX"
+    ],
+    "evidence_section": "SLB Item 8 – Consolidated Statement of Income; PSX Item 7 – Executive Overview: 'During 2024, we reported earnings of $2.1 billion'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SLB+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the cash flow from operations and free cash flow for SLB in FY2024, and how did Phillips 66's cash from operating activities compare?",
+    "answer": "SLB generated $6.6 billion in cash flow from operations and $4.0 billion in free cash flow. Phillips 66 generated $4.2 billion in cash from operating activities. SLB's operating cash flow was $2.4 billion higher, and SLB's free cash flow was $4.0 billion versus no free cash flow figure given for Phillips 66.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "PSX"
+    ],
+    "evidence_section": "SLB Item 7 – Executive Overview: 'generated $6.6 billion in cash flow from operations and $4.0 billion in free cash flow'; PSX Item 7 – Executive Overview: 'generated $4.2 billion in cash from operating activities.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SLB+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the total revenue of SLB in FY2024, and how did that compare to Phillips 66's total assets?",
+    "answer": "SLB's total revenue was $36,289 million ($36.289 billion). Phillips 66's total assets at December 31, 2024 were $72.6 billion. SLB's revenue was roughly half of Phillips 66's total assets.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "PSX"
+    ],
+    "evidence_section": "SLB Item 8 – Consolidated Statement of Income: 'Total Revenue 36,289'; PSX Item 7 – Executive Overview: 'At December 31, 2024, we had total assets of $72.6 billion.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SLB+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the shareholder returns of SLB and Phillips 66 differ in FY2024?",
+    "answer": "SLB returned $3.3 billion to shareholders (including dividends and share repurchases). Phillips 66 repurchased $3.5 billion of common stock and paid $1.9 billion in dividends, totaling $5.4 billion in shareholder returns. Phillips 66 returned $2.1 billion more to shareholders than SLB.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "PSX"
+    ],
+    "evidence_section": "SLB Item 7 – Executive Overview: 'enabling us to return $3.3 billion to shareholders'; PSX Item 7 – Executive Overview: 'We paid $3.5 billion to repurchase common stock and $1.9 billion to fund dividends on our common stock.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "SLB+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net debt reduction for SLB in FY2024, and what did Phillips 66 report regarding its debt and government obligations?",
+    "answer": "SLB reduced net debt by $571 million. Phillips 66 purchased government obligations of $1.1 billion that were ultimately used to extinguish debt, and received proceeds from debt issuances, net of debt repayments, of $2.1 billion. SLB decreased net debt, while Phillips 66 had net debt issuances and used government obligations to reduce debt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "PSX"
+    ],
+    "evidence_section": "SLB Item 7 – Executive Overview: 'reduce net debt by $571 million'; PSX Item 7 – Executive Overview: 'purchased government obligations of $1.1 billion that were ultimately used to extinguish debt, and received proceeds from debt issuances, net of debt repayments, of $2.1 billion.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SLB+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the pretax segment operating income growth and total revenue growth for SLB in FY2024, and how did that compare to Phillips 66's earnings level?",
+    "answer": "SLB's total revenue grew 10% year-on-year and pretax segment operating income grew 12%. Phillips 66 reported earnings of $2.1 billion for 2024, but no comparable growth percentages are given in the excerpt. SLB's growth metrics indicate expansion, while Phillips 66's absolute earnings number shows a $2.1 billion net income without a growth comparison.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SLB",
+      "PSX"
+    ],
+    "evidence_section": "SLB Item 7 – Executive Overview: 'revenue increased by 10% and pretax segment operating income grew by 12%'; PSX Item 7 – Executive Overview: 'reported earnings of $2.1 billion'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SLB+PSX",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

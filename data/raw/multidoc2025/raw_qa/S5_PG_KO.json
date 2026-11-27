@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Calculate the difference in net sales growth percentage points for PG between fiscal year 2022 and fiscal year 2024, and compare that number to the number of sparkling soft drink brands listed for KO in the provided excerpts.",
+    "answer": "PG net sales growth decreased from 5% in FY2022 to 2% in FY2024, a difference of 3 percentage points. KO's listed sparkling soft drink brands are Coca-Cola, Diet Coke/Coca-Cola Light, Coca-Cola Zero Sugar, Fanta, Fresca, and Schweppes, totaling 6 brands. Thus, the difference in PG's growth rate (3 percentage points) is half the number of KO's brands (6).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PG",
+      "KO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 for both PG and KO",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "PG+KO",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "Based on Procter & Gamble's (PG) fiscal year 2022 net sales of $80.2 billion and fiscal year 2024 net sales of $84.0 billion, calculate the overall percentage change and compare this growth trajectory with the growth rates reported in each year (5% in FY2022, 2% in FY2024). How does PG's performance, which includes a 4% positive pricing impact in both years, align with The Coca-Cola Company's (KO) strategy of leveraging its diverse brand portfolio (including Coca-Cola, Diet Coke, Fanta, etc.) as described in its FY2022 and FY2024 10-Ks? Provide evidence from both the financial tables (PG sales figures) and the text (PG growth drivers and KO brand descriptions).",
+    "answer": "PG's net sales grew from $80.2 billion in FY2022 to $84.0 billion in FY2024, an overall increase of 4.74% (($84.0 - $80.2)/$80.2 = 0.0474). This is consistent with the reported annual growth rates of 5% in FY2022 and 2% in FY2024, indicating a slowdown. In both years, pricing contributed 4% to net sales, while unfavorable foreign exchange offset 2%. KO's 10-Ks for FY2022 and FY2024 describe its ownership of strong sparkling soft drink brands (Coca-Cola, Diet Coke, Fanta, etc.), which likely support similar pricing power in the consumer staples sector, though KO's exact sales figures are not provided in the given excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PG",
+      "KO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PG FY2022 Item 8, PG FY2024 Item 8, PG FY2022 Item 7, PG FY2024 Item 7, KO FY2022 Item 7, KO FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "PG+KO",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "Based on the provided 10-K excerpts, calculate the net sales growth rate for Procter & Gamble from fiscal year 2022 to fiscal year 2024. Additionally, what information is provided for Coca-Cola's financial performance in the same periods, and how does the brand portfolio description compare between FY2022 and FY2024?",
+    "answer": "Procter & Gamble's net sales grew from $80.2 billion in FY2022 to $84.0 billion in FY2024, representing a growth of approximately 4.74% (($84.0 - $80.2) / $80.2 * 100). For Coca-Cola, the excerpts only list beverage brands (e.g., Coca-Cola, Diet Coke, Fanta, etc.) for both FY2022 and FY2024 with identical text; no financial data such as net sales or pricing components are provided. Therefore, a quantitative comparison of growth trajectories between the two companies is not possible from the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PG",
+      "KO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PG: Item 7 - Net Sales paragraphs for FY2022 and FY2024. KO: Item 7 - Brand list (identical text for both years).",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "PG+KO",
+    "sector": "Consumer Staples"
+  }
+]

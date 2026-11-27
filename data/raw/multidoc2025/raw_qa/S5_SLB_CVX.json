@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare SLB's year-over-year revenue growth in 2022 and 2024. How does this growth rate compare to CVX's growth in the same periods based on the provided filings?",
+    "answer": "SLB's revenue grew 23% in 2022 and 10% in 2024. CVX's revenue growth data is not provided in the given excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SLB",
+      "CVX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SLB FY2022 Item 7, SLB FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SLB+CVX",
+    "sector": "Energy"
+  },
+  {
+    "question": "In 2024, SLB reported $4.0 billion in free cash flow. What were SLB's free cash flow and cash flow from operations for 2022, and how do these compare to CVX's cash flow metrics across the two years?",
+    "answer": "SLB's 2022 free cash flow and cash flow from operations are not provided in the excerpt; only 2024 data is given: $6.6 billion cash flow from operations and $4.0 billion free cash flow. CVX data is not provided.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SLB",
+      "CVX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SLB FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SLB+CVX",
+    "sector": "Energy"
+  },
+  {
+    "question": "SLB's pretax segment operating income grew 12% in 2024. Based on SLB's 2022 revenue of $28.1 billion and the stated growth rates, calculate the implied revenue for 2021 and compare the revenue growth trajectory between SLB and CVX for 2022 and 2024.",
+    "answer": "SLB revenue for 2021 is not directly given; from 2022 revenue of $28.1 billion and 23% growth, 2021 revenue was $28.1B / 1.23 ≈ $22.85B. In 2024, revenue grew 10% over 2023, but 2023 revenue is not provided. CVX data is not provided. Thus comparison is limited.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SLB",
+      "CVX"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SLB FY2022 Item 7, SLB FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "SLB+CVX",
+    "sector": "Energy"
+  }
+]

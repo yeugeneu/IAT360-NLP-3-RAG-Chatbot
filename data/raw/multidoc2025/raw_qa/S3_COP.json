@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was the net income (loss) attributable to ConocoPhillips for 2021, 2022, and 2023?",
+    "answer": "2021: $8,079 million; 2022: $18,680 million; 2023: $10,957 million.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A (FY2022 and FY2023 tables)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "COP",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "COP"
+    ]
+  },
+  {
+    "question": "By how many million dollars did the net income of the Lower 48 segment change from 2022 to 2023?",
+    "answer": "From $11,015 million in 2022 to $6,461 million in 2023, a decrease of $4,554 million.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A (FY2022 and FY2023 tables)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "COP",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "COP"
+    ]
+  },
+  {
+    "question": "List two factors that negatively impacted net income in 2023 compared to 2022, as stated in the 2023 MD&A.",
+    "answer": "Lower realized commodity prices; Absence of a $462 million gain on disposition related to the divestiture of Indonesia assets.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A (FY2023)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "COP",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "COP"
+    ]
+  },
+  {
+    "question": "What was the Asia Pacific segment net income for 2021, 2022, and 2023?",
+    "answer": "2021: $962 million; 2022: $2,736 million; 2023: $1,961 million.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A (FY2022 and FY2023 tables)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "COP",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "COP"
+    ]
+  },
+  {
+    "question": "According to the 2024 MD&A, how does ConocoPhillips describe its portfolio?",
+    "answer": "As a diverse, low cost of supply portfolio that includes resource-rich unconventional plays in North America; conventional assets in North America, Europe, Africa and Asia; global LNG developments; oil sands in Canada; and an inven... (truncated in source).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A (FY2024)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "COP",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "COP"
+    ]
+  },
+  {
+    "question": "How many countries did ConocoPhillips have operations and activities in, according to the 2024 MD&A?",
+    "answer": "14 countries.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 - MD&A (FY2024)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "COP",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "COP"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the ending of the forward-looking statements cautionary discussion differ between 2022 and the two subsequent years?",
+    "answer": "In 2022 the cautionary discussion ends with the phrase 'to be a complete discussion'. In 2023 the text after 'to be a' is followed by a page break and '9 Table of Contents', and in 2024 the continuation after the page break includes 'statements'. Thus, the sentence is complete only in 2022.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CAT",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "CAT"
+    ]
+  },
+  {
+    "question": "In which fiscal years does the MD&A cautionary discussion include the text '9 Table of Contents'?",
+    "answer": "The text '9 Table of Contents' appears in the 2023 and 2024 filings, but not in the 2022 filing.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CAT",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "CAT"
+    ]
+  },
+  {
+    "question": "What term defined in the Private Securities Litigation Reform Act of 1995 is referenced consistently in the MD&A across 2022, 2023, and 2024?",
+    "answer": "The term 'forward-looking statements' is referenced in all three years as the term defined in the Private Securities Litigation Reform Act of 1995.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CAT",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "CAT"
+    ]
+  },
+  {
+    "question": "Does the company's statement regarding its obligation to update forward-looking statements change between 2022, 2023, and 2024?",
+    "answer": "No, in all three years the company states 'We undertake no obligation to publicly update forward-looking statements, whether as a result of new information, future events or otherwise.' The statement is identical each year.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CAT",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "CAT"
+    ]
+  },
+  {
+    "question": "What list of words does the company provide to identify forward-looking statements, and does that list change across the three years?",
+    "answer": "The list is identical in all three years: 'believe,' 'expect,' 'estimate,' 'anticipate,' 'will be,' 'should,' 'plan,' 'forecast,' 'target,' 'guide,' 'project,' 'intend,' 'could' and similar words or expressions. No changes are present.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CAT",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "CAT"
+    ]
+  },
+  {
+    "question": "How does the phrasing of the caution that actual results could differ from forward-looking statements compare across 2022, 2023, and 2024?",
+    "answer": "In each year the phrasing is essentially the same: 'Should known or unknown risks or uncertainties materialize or underlying assumptions prove inaccurate, actual results could materially differ from past results and/or those anticipated, estimated or projected.' The only difference is that in 2023 and 2024 the sentence is cut off by a page break, while in 2022 it ends with 'a complete discussion' and the sentence is complete. The core warning remains unchanged.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "CAT",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "companies": [
+      "CAT"
+    ]
+  }
+]

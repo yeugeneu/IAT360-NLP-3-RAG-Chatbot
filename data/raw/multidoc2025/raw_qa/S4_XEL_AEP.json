@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company explicitly discloses the use of non-GAAP financial measures such as ongoing earnings and ongoing diluted EPS in the provided content?",
+    "answer": "XEL explicitly discloses the use of ongoing ROE, ongoing earnings, and ongoing diluted EPS as non-GAAP financial measures. AEP does not mention any non-GAAP financial measures in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "AEP"
+    ],
+    "evidence_section": "XEL: ITEM 7 — MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Non-GAAP Financial Measures; AEP: Item 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations (no mention of non-GAAP)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the corporate structure differ between XEL and AEP based on the provided filings?",
+    "answer": "XEL is a holding company with no business operations; its assets consist primarily of investments in its utility subsidiaries, and it presents subsidiary investments under the equity method. AEP, based on its auditor report referencing consolidated financial statements, appears to be an operating company that consolidates its subsidiaries.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "AEP"
+    ],
+    "evidence_section": "XEL: Item 8. Basis of Presentation – 'As a holding company with no business operations, Xcel Energy Inc.’s assets consist primarily of investments in its utility subsidiaries.' and 'investments in subsidiaries are presented under the equity method.'; AEP: Item 8. 'Our responsibility is to express opinions on the Company’s consolidated financial statements'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company includes a discussion of forward-looking statements and associated risk factors in the provided content?",
+    "answer": "AEP includes a detailed forward-looking statements section with specific risk factors (e.g., changes in economic conditions, inflation, regulatory changes). XEL does not include forward-looking statements or risk factors in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "AEP"
+    ],
+    "evidence_section": "AEP: Item 7 – 'Forward-looking statements in this document are presented as of the date of this document... Among the factors that could cause actual results to differ materially...'; XEL: No equivalent section in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's filing includes an auditor's report on internal control over financial reporting?",
+    "answer": "AEP's filing includes an auditor's report (Item 8) that states 'Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting...'. XEL's provided content does not include an auditor's report.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "AEP"
+    ],
+    "evidence_section": "AEP: Item 8. 'Our audit of internal control over financial reporting included obtaining an understanding...'; XEL: No such section in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company discloses guarantees and bond indemnities in its filing?",
+    "answer": "XEL discloses that it provides guarantees and bond indemnities under specified agreements or transactions (Item 8). AEP does not mention guarantees or bond indemnities in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "AEP"
+    ],
+    "evidence_section": "XEL: Item 8. Guarantees and Indemnifications – 'Xcel Energy Inc. provides guarantees and bond indemnities under specified agreements or transactions...'; AEP: No such disclosure in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies differ in their basis of presentation for subsidiaries?",
+    "answer": "XEL presents its investments in subsidiaries under the equity method of accounting, reporting subsidiary income as 'equity in income of subsidiaries.' AEP presents consolidated financial statements, as indicated by the auditor's reference to 'the Company’s consolidated financial statements.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "XEL",
+      "AEP"
+    ],
+    "evidence_section": "XEL: Item 8. Basis of Presentation – 'Xcel Energy Inc.’s investments in subsidiaries are presented under the equity method of accounting.' and 'The income from operations of the subsidiaries is reported on a net basis as equity in income of subsidiaries.'; AEP: Item 8. 'Our responsibility is to express opinions on the Company’s consolidated financial statements'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "XEL+AEP",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

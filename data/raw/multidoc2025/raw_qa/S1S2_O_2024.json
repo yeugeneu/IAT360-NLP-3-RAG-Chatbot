@@ -1,0 +1,191 @@
+[
+  {
+    "question": "What is the ticker symbol under which the company's common stock is traded?",
+    "answer": "O",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 5: Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "O"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many registered holders of record were there as of January 30, 2025?",
+    "answer": "approximately 13,200",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 5: Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "O"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of shares withheld in October and November 2024?",
+    "answer": "1,455",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 5: Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "O"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total annualized contractual rent as of December 31, 2024?",
+    "answer": "$4.97 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "O"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many properties in the portfolio are multi-client properties as of December 31, 2024?",
+    "answer": "305 properties",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "O"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of annualized rent comes from properties leased to investment grade clients as of December 31, 2024?",
+    "answer": "approximately 32.4%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "O"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many multi-client properties did Realty Income own as of December 31, 2024?",
+    "answer": "305",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "O"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average leasable square footage per property as of December 31, 2024?",
+    "answer": "approximately 21,730 square feet (339.4 million sq ft / 15,621 properties)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "O"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What percentage of total portfolio annualized contractual rent came from non-investment grade clients as of December 31, 2024?",
+    "answer": "67.6% (100% - 32.4%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "O",
+    "year": "2024",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "O"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

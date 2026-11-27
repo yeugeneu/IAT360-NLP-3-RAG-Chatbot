@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the business models of AMT and EQIX differ based on the provided content?",
+    "answer": "AMT is a real estate investment trust focused on wireless communication towers, as evidenced by its financing activities involving senior unsecured notes and term loans related to its tower operations. EQIX provides a global, vendor-neutral data center, interconnection and edge solutions platform, offering premium data center colocation, interconnection and data exchange solutions, and edge solutions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "EQIX"
+    ],
+    "evidence_section": "AMT: Item 7 (financing transactions, liquidity); EQIX: Item 7 (overview, solutions)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the international exposure of AMT and EQIX using the available data.",
+    "answer": "AMT demonstrates international exposure by issuing 1.0 billion EUR of senior unsecured notes and repaying an 825.0 million EUR unsecured term loan, indicating significant European operations. EQIX states it has a global footprint spanning 74 markets around the world, including 268 IBX data centers, with some held in unconsolidated joint ventures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "EQIX"
+    ],
+    "evidence_section": "AMT: Item 7 (Registered public offering €1.0 billion, repayment €825 million term loan); EQIX: Item 7 (global footprint 74 markets, 268 IBXs)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in how AMT and EQIX disclose their liquidity and capital resources?",
+    "answer": "AMT provides a detailed liquidity table showing $11,964.0 million total liquidity, including $6,000.0 million available under the 2021 Multicurrency Credit Facility, $4,000.0 million under the 2021 Credit Facility, and $1,999.6 million of cash and cash equivalents. EQIX does not present any liquidity or capital resource figures in the provided excerpt; instead, it discusses accounting policies and estimates that involve significant estimation uncertainty.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "EQIX"
+    ],
+    "evidence_section": "AMT: Item 7 (liquidity table); EQIX: Item 8 (accounting policies with significant estimation uncertainty)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do AMT and EQIX utilize joint ventures or special purpose vehicles according to the filings?",
+    "answer": "AMT references the ATC TIPL Transaction as a source of proceeds to repay indebtedness under the 2021 Multicurrency Credit Facility, but does not detail joint ventures. EQIX explicitly states that its total global footprint of 268 IBXs includes 20 xScale data centers and the MC1 data center that are held in unconsolidated joint ventures.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "EQIX"
+    ],
+    "evidence_section": "AMT: Item 7 (repayment using proceeds from ATC TIPL Transaction); EQIX: Item 7 (xScale data centers held in unconsolidated joint ventures)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Contrast the cash flow profiles of AMT and EQIX based on the provided information.",
+    "answer": "AMT provides a summary cash flow statement for the year ended December 31, 2024, showing net cash provided by operating activities of $5,290.5 million, net cash provided by investing activities of $410.6 million, and net cash used in financing activities of $(5,452.4) million. EQIX does not provide any cash flow data in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "EQIX"
+    ],
+    "evidence_section": "AMT: Item 7 (summary cash flow information table); EQIX: No cash flow data in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the main sources of estimation uncertainty disclosed by EQIX that are not discussed in AMT's filing?",
+    "answer": "EQIX identifies five accounting policies with significant estimation uncertainty: accounting for income taxes, business combinations, impairment of goodwill and other intangible assets, property plant and equipment, and leases. It describes judgments and uncertainties for income taxes, including deferred tax assets, valuation allowances, and uncertain tax positions. AMT's filing does not discuss such accounting policies in the provided excerpt; instead, it focuses on financing transactions and liquidity.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "AMT",
+      "EQIX"
+    ],
+    "evidence_section": "AMT: Item 7 (financing, liquidity); EQIX: Item 8 (accounting policies with significant estimation uncertainty, specifically income taxes)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "AMT+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

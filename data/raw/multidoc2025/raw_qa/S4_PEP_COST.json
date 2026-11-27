@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the fiscal year end dates for PepsiCo and Costco in their FY2024 filings?",
+    "answer": "PepsiCo's FY2024 ended December 28, 2024; Costco's FY2024 ended September 1, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "COST"
+    ],
+    "evidence_section": "PEP: Item 7 (Consolidated Statement of Income – Fiscal years ended December 28, 2024); COST: Item 8 (Report of Independent Registered Public Accounting Firm – as of September 1, 2024)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a hypothetical scenario for currency risk involving a 10% strengthening of functional currencies, and what is the estimated impact?",
+    "answer": "Costco provides this scenario; a 10% strengthening would decrease fair value of contracts by approximately $120 and result in an unrealized loss. PepsiCo does not include such a disclosure in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "COST"
+    ],
+    "evidence_section": "COST: Item 7 (Management’s Discussion – hypothetical strengthening of functional currencies); PEP: No similar disclosure in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Both companies discuss risk management in their MD&A. Which specific types of risk are mentioned for each?",
+    "answer": "For PepsiCo, the provided content does not include specific risk discussions; only listing of MD&A section. For Costco, they discuss foreign exchange risk and commodity price risk (energy, electricity, natural gas, etc.).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "COST"
+    ],
+    "evidence_section": "PEP: Item 7 (no risk details in provided content); COST: Item 7 (paragraphs on foreign exchange and commodity price risk)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies differ in their disclosure of derivative instruments and hedging?",
+    "answer": "Costco discloses that they use fixed-price contracts for energy and variable-price contracts on index basis, which qualify for the 'normal purchases and normal sales' exception with no mark-to-market adjustment. PepsiCo's provided content does not include any discussion of derivatives or hedging.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "COST"
+    ],
+    "evidence_section": "COST: Item 7 (paragraphs on commodity price risk and derivative exception); PEP: No such disclosure in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of PepsiCo's independent auditor, and is it provided for Costco?",
+    "answer": "PepsiCo's independent auditor is PCAOB ID 185. Costco's independent auditor is not identified by PCAOB ID in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "COST"
+    ],
+    "evidence_section": "PEP: Item 7 (PCAOB ID: 185); COST: Item 8 (Report of Independent Registered Public Accounting Firm - no ID given)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What exhibits are filed as part of PepsiCo's 10-K, and does Costco's provided content mention any exhibits?",
+    "answer": "PepsiCo's 10-K includes Exhibits 3.1 (Amended Articles of Incorporation), 3.2 (By-laws), and 4.1 (instruments for long-term debt available upon request). Costco's provided content does not mention any exhibits.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "PEP",
+      "COST"
+    ],
+    "evidence_section": "PEP: Item 15(a)(3) (Index to Exhibits); COST: No exhibit listing in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "PEP+COST",
+    "year": "2024",
+    "sector": "Consumer Staples",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

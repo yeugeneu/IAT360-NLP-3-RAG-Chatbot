@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary strategic investments and focus areas for VZ and CHTR in FY2024 as described in their management discussions?",
+    "answer": "VZ focuses on enhancing and monetizing its 5G and 4G wireless networks, investing in C-Band spectrum, millimeter wave spectrum, and fiber infrastructure. CHTR focuses on growing mobile lines, average revenue per customer, and advertising sales, while noting lower customers in its overall customer base.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "CHTR"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do VZ and CHTR describe their customer base strategies and trends in FY2024?",
+    "answer": "VZ states it is focused on retaining and growing its high-quality customer base. CHTR reports that total revenue growth was partly offset by lower customers, but it achieved growth in mobile lines.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "CHTR"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What revenue categories does CHTR report, and how do they compare to VZ's business offerings as described?",
+    "answer": "CHTR reports Internet ($23,360M), Video ($15,126M), Mobile service ($3,083M), and Voice ($1,437M) revenues. VZ offers data, video, voice, and streaming services, with a strategic emphasis on 5G wireless and fiber networks. CHTR's Internet and Mobile service revenues are growing, while Video and Voice are declining; VZ's narrative focuses on wireless and streaming growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "CHTR"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of audit opinions did VZ and CHTR receive for their FY2024 financial statements and internal controls?",
+    "answer": "Both VZ and CHTR received unqualified opinions on their financial statements. VZ also received an unqualified opinion on internal control over financial reporting based on the COSO criteria as of December 31, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "CHTR"
+    ],
+    "evidence_section": "Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did CHTR's revenue growth of 0.9% in FY2024 compare to VZ's stated strategic priorities for growth?",
+    "answer": "CHTR's total revenues grew $478 million or 0.9% primarily due to growth in mobile lines, average revenue per customer, and advertising sales, partly offset by lower customers. VZ's strategic priorities include enhancing and driving monetization of its 5G and 4G wireless networks and platforms, and retaining and growing its high-quality customer base, implying a focus on top-line expansion through network leadership.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "CHTR"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key differences in the network technologies emphasized by VZ and CHTR in their FY2024 annual reports?",
+    "answer": "VZ emphasizes its 5G and 4G LTE wireless networks, C-Band spectrum, millimeter wave spectrum, and fiber infrastructure as core to its competitive advantage. CHTR does not discuss specific network technologies in the provided content; its focus is on service offerings (Internet, Video, Mobile service, Voice) and revenue growth drivers such as mobile lines and advertising.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "VZ",
+      "CHTR"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "VZ+CHTR",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

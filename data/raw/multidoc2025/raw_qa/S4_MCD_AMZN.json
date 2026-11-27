@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the common sector for both MCD and AMZN according to the provided text?",
+    "answer": "Both MCD and AMZN are in the Consumer Discretionary sector.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "evidence_section": "Sector: Consumer Discretionary (header for both companies)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's Item 7 MD&A appears in Part II of its 10-K, and which company's Item 7 MD&A is listed only by page number?",
+    "answer": "AMZN's Item 7 MD&A is noted as being in Part II of the 10-K. MCD's Item 7 MD&A is listed only as 'Page 7' without a Part reference.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "evidence_section": "MCD: 'Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations Page 7'. AMZN: 'Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,”'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's 10-K includes an independent auditor's report and what is the name of the auditor?",
+    "answer": "AMZN's 10-K includes an independent auditor's report from Ernst & Young LLP. MCD's provided content does not include any auditor's report.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "evidence_section": "AMZN: 'Report of Ernst & Young LLP , Independent Registered Public Accounting Firm'. MCD: no such mention.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID number mentioned for AMZN's auditor, and is it mentioned for MCD?",
+    "answer": "AMZN's auditor has PCAOB ID: 42. MCD's provided content does not mention any PCAOB ID.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "evidence_section": "AMZN: '(PCAOB ID: 42)'. MCD: not present.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of competitive risks does AMZN discuss that are not explicitly mentioned in MCD's provided content?",
+    "answer": "AMZN discusses intense competition from sectors including physical, e-commerce, omnichannel retail, e-commerce services, web and infrastructure computing services, electronic devices, digital content, advertising, grocery, and transportation and logistics. MCD's provided content (only the MD&A heading) does not discuss any competitive risks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "evidence_section": "AMZN: 'Business and Industry Risks We Face Intense Competition Our businesses are rapidly evolving and intensely competitive... including physical, e-commerce, and omnichannel retail, e-commerce services, web and infrastructure computing services...' MCD: only the Item 7 heading.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's 10-K includes a detailed discussion of global economic and geopolitical conditions as risk factors?",
+    "answer": "AMZN's content mentions 'global economic and geopolitical conditions' as risk factors. MCD's provided content does not include such discussion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MCD",
+      "AMZN"
+    ],
+    "evidence_section": "AMZN: 'global economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events may give rise to or amplify many of the risks discussed below.' MCD: not present.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MCD+AMZN",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

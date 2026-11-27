@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What is the name of the Delaware corporation formed in 2015, as described in the business section?",
+    "answer": "DuPont de Nemours, Inc. (formerly, DowDuPont Inc.)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On what date did the merger of TDCC and EID into DowDuPont become effective?",
+    "answer": "August 31, 2017",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many months after the spin-off of Dow Inc. (April 1, 2019) did the spin-off of Corteva, Inc. occur?",
+    "answer": "2 months",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What could cause DuPont to incur additional tax liabilities according to the risk factors?",
+    "answer": "If certain internal transactions undertaken in connection with the M&M Divestitures fail to qualify for their intended tax treatment under U.S. federal, state, local tax and/or foreign tax law, DuPont could incur additional tax liabilities.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many business divestitures are included in the M&M Divestitures?",
+    "answer": "two (the majority of the Mobility & Materials business to Celanese and the Delrin® business to TJC)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the expected tax treatment of the N&B Distribution and N&B Merger for DuPont stockholders?",
+    "answer": "They are expected to be tax-free to DuPont stockholders for U.S. federal income tax purposes (except to the extent that cash was paid to DuPont stockholders in lieu of fractional shares pursuant to the N&B Merger Agreement).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "As of December 31, 2023, what is the amount of net working capital?",
+    "answer": "$4.4 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the purchase price for the Mobility & Materials Divestiture as stated in the Transaction Agreement?",
+    "answer": "$11.0 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between net working capital and cash and cash equivalents as of December 31, 2023?",
+    "answer": "$2.0 billion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Based on the financial data in the table, what is the ratio of cash and cash equivalents to net working capital as of December 31, 2023?",
+    "answer": "0.545 (or 54.5%) calculated as $2.4 billion / $4.4 billion.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference between the net working capital and cash and cash equivalents as of December 31, 2023?",
+    "answer": "$2.0 billion, calculated as $4.4 billion minus $2.4 billion.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of net working capital is represented by cash and cash equivalents as of December 31, 2023?",
+    "answer": "54.5%, calculated as ($2.4 billion / $4.4 billion) * 100.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the primary foreign currencies to which the Company has exchange rate exposure?",
+    "answer": "European euro (EUR), Chinese renminbi (CNY), Japanese yen (JPY), South Korean won (KRW), and Canadian dollar (CAD).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many primary currencies does the Company have exchange rate exposure to?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What types of derivative instruments does the Company use to manage foreign currency exchange rate risks?",
+    "answer": "Forward exchange contracts and foreign currency exchange contracts.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "At which page do the financial statements begin according to Item 8?",
+    "answer": "page F-1",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the section number that covers financial statements and supplementary data?",
+    "answer": "Item 8",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the exact title of Item 8 as it appears in the report?",
+    "answer": "FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DD",
+    "year": "2023",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

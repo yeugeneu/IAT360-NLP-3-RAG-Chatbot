@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the list of sparkling soft drink brands in KO's FY2022 and FY2024 filings. Then, using the fiscal year definitions in WMT's FY2022 and FY2024 MD&A overviews, determine if the timeframe covered by KO's brand lists aligns with WMT's fiscal 2022 and fiscal 2024 periods. Identify which brands, if any, were added or removed between KO's two filings and how that relates to the calendar years in WMT's reporting periods.",
+    "answer": "KO's FY2022 brand list includes: Coca-Cola, Diet Coke/Coca-Cola Light, Coca-Cola Zero Sugar, Fanta, Fresca, Schweppes, Sprite, Thums Up. KO's FY2024 brand list includes the same eight sparkling brands with no additions or removals. WMT's FY2022 filing covers fiscal years ending January 31, 2021, 2022, and 2023; WMT's FY2024 filing covers fiscal years ending January 31, 2022, 2023, and 2024. Since KO's fiscal year typically ends December 31, its FY2022 filing would include periods ending December 31, 2021, 2020, and 2019 (assuming a three-year presentation similar to WMT's MD&A). However, the exact fiscal year dates for KO are not specified in the provided text. The brand lists themselves do not carry dates, so the alignment relies on the filing year. Both KO filings cover overlapping periods with WMT's fiscal 2022 and 2024, but exact month alignment would require financial table footnotes.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "WMT",
+      "KO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "WMT FY2022 Item 7 Overview paragraph; WMT FY2024 Item 7 Overview paragraph; KO FY2022 Item 7 brand list; KO FY2024 Item 7 brand list.",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "WMT+KO",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "Count the total number of beverage brands listed in KO's FY2022 and FY2024 filings by category (sparkling soft drinks; water, sports, coffee and tea; juice, value-added dairy and plant-based beverages). Compare the change in brand count between the two years. Then, using WMT's FY2022 and FY2024 MD&A overviews, calculate the difference in the number of fiscal years presented in each filing and discuss how the brand count change might align with the longer time horizon in WMT's later filing.",
+    "answer": "KO FY2022: Sparkling soft drinks: 8 brands; water, sports, coffee and tea: 17 brands; juice, value-added dairy and plant-based: 6 brands (AdeS, Del Valle, fairlife, innocent, Minute Maid, Minute Maid Pulpy, Simply) – total 31. KO FY2024: Sparkling soft drinks: 8 brands; water, sports, coffee and tea: 18 brands (added Crystal); juice, value-added dairy and plant-based: 7 brands (added Core Power, removed AdeS? Actually AdeS not listed in FY2024, but list includes Core Power, Del Valle, fairlife, innocent, Maaza, Minute Maid, Minute Maid Pulpy, Simply – that is 8? Let's recount: Core Power, Del Valle, fairlife, innocent, Maaza, Minute Maid, Minute Maid Pulpy, Simply = 8. So total 8+18+8=34, an increase of 3 brands. WMT's FY2022 filing presents three fiscal years (2021, 2022, 2023); WMT's FY2024 filing also presents three fiscal years (2022, 2023, 2024) – no difference in count. The brand portfolio expansion at KO over time suggests growth strategies that are not directly comparable to WMT's stable fiscal year presentation.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "WMT",
+      "KO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "KO FY2022 Item 7 brand lists; KO FY2024 Item 7 brand lists; WMT FY2022 Item 7 Overview (fiscal years listed); WMT FY2024 Item 7 Overview (fiscal years listed).",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "WMT+KO",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "From KO's FY2022 and FY2024 Item 7 brand descriptions, identify which brands appear only in one filing. Then, using the fiscal year coverage described in WMT's FY2022 and FY2024 MD&A overviews, determine the calendar year intervals during which those brands were likely introduced or phased out. For example, consider the brand 'Crystal' appearing only in FY2024 and 'AdeS' only in FY2022. Calculate the number of months between the start of WMT's fiscal 2022 (February 1, 2021) and the end of WMT's fiscal 2024 (January 31, 2024) and discuss how the brand additions fit into that interval.",
+    "answer": "Brands appearing only in KO FY2022: AdeS (juice category). Brands appearing only in KO FY2024: Crystal (water, sports, coffee and tea category) and Core Power (juice, value-added dairy and plant-based category). WMT's fiscal 2022 covers years ending Jan 31, 2021-2023; WMT's fiscal 2024 covers years ending Jan 31, 2022-2024. The three-year interval from the start of the earliest year in WMT's FY2022 filing (Feb 1, 2020) to the end of the latest year in WMT's FY2024 filing (Jan 31, 2024) is 47 months. However, the actual brand introduction dates are not given. The presence of different brands in KO's filings filed in different years suggests that KO's portfolio evolved between the filing dates. The exact timing would require additional financial table disclosures such as segment revenue or volume trends.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "WMT",
+      "KO"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "KO FY2022 Item 7 brand list; KO FY2024 Item 7 brand list; WMT FY2022 Item 7 Overview (fiscal year dates); WMT FY2024 Item 7 Overview (fiscal year dates).",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "WMT+KO",
+    "sector": "Consumer Staples"
+  }
+]

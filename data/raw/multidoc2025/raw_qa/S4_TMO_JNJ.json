@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do Thermo Fisher Scientific's (TMO) FY2024 revenues compare to Johnson & Johnson's (JNJ) FY2023 worldwide sales? What is the approximate ratio?",
+    "answer": "TMO FY2024 revenues were $42,879 million. JNJ FY2023 worldwide sales were $85.2 billion (i.e., $85,200 million). The ratio of TMO to JNJ sales is approximately 0.503 (42,879 / 85,200).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "JNJ"
+    ],
+    "evidence_section": "TMO: Item 7 'Revenues $ 42,879'; JNJ: Item 7 'worldwide sales increased 6.5% to $85.2 billion'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "TMO+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the GAAP operating income margin of TMO (FY2024) with the implied operating margin of JNJ (FY2023) using available data. Which company has a higher profitability on a GAAP basis?",
+    "answer": "TMO's GAAP operating income margin was 17.1% (GAAP operating income $7,337 million on revenues $42,879 million). JNJ's content does not directly provide GAAP operating income, but from the consolidated statements of earnings (Item 8) for 2023, net earnings are not detailed in the given excerpt. Therefore, a direct comparison of GAAP operating margin cannot be made from the provided JNJ content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "JNJ"
+    ],
+    "evidence_section": "TMO: Item 7 'GAAP operating income margin 17.1%'; JNJ: Item 8 balance sheet data but no income statement excerpt provided.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the adjusted (non-GAAP) operating income margins for TMO (FY2024) and how does it compare to TMO's GAAP margin? Is there any comparable non-GAAP metric disclosed for JNJ in the provided content?",
+    "answer": "TMO's adjusted operating income margin was 22.6% (non-GAAP), which is 5.5 percentage points higher than its GAAP margin of 17.1%. The provided JNJ content does not disclose any adjusted or non-GAAP operating income margin.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "JNJ"
+    ],
+    "evidence_section": "TMO: Item 7 'Adjusted operating income margin (non-GAAP measure) 22.6%' and 'GAAP operating income margin 17.1%'; JNJ: No non-GAAP margin mentioned.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does TMO's FY2024 revenue growth (0%) compare to JNJ's FY2023 worldwide sales growth (6.5%)? Based on these two periods, which company demonstrated stronger top-line growth?",
+    "answer": "TMO's revenue growth in FY2024 was 0% (change from $42,857 million to $42,879 million). JNJ's worldwide sales growth in FY2023 was 6.5%. JNJ showed stronger growth in its reported period.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "JNJ"
+    ],
+    "evidence_section": "TMO: Item 7 'Revenues $42,879 $42,857 Change 0%'; JNJ: Item 7 'worldwide sales increased 6.5% to $85.2 billion'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the geographic sales breakdown of JNJ (FY2023) with the segment structure of TMO. Which company appears more internationally diversified? (Note: TMO does not break out U.S. vs international in the provided content.)",
+    "answer": "JNJ reported U.S. sales of $46.4 billion and international sales of $38.7 billion in FY2023, with U.S. representing about 54.5% of total. TMO's provided content does not include a geographic sales split; it mentions four segments (Life Sciences Solutions, Analytical Instruments, Specialty Diagnostics, and Laboratory Products and Biopharma Services) but no U.S./international breakdown. Therefore, based on available data, JNJ appears more transparently diversified internationally.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "JNJ"
+    ],
+    "evidence_section": "TMO: Item 7 'operations fall into four segments'; JNJ: Item 7 'Sales by U.S. companies were $46.4 billion... Sales by international companies were $38.7 billion'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "TMO+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the five-year compound annual growth rates (CAGR) for worldwide sales reported by JNJ, and how do they compare to TMO's reported growth metrics? TMO does not disclose a multi-year CAGR in the provided content.",
+    "answer": "JNJ's five-year CAGR for worldwide sales was 4.7% (U.S. 5.2%, international 4.1%). The provided TMO content does not include any multi-year compound annual growth rate, so a direct comparison of CAGR is not possible.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "JNJ"
+    ],
+    "evidence_section": "JNJ: Item 7 'The five-year compound annual growth rates for worldwide, U.S. and international sales were 4.7%, 5.2% and 4.1%, respectively.' TMO: No CAGR data in provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

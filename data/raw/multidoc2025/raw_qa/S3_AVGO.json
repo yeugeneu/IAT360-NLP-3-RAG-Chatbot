@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What new end-product use case was added in the FY2024 overview that was not present in FY2022 or FY2023?",
+    "answer": "artificial intelligence (“AI”) networking and connectivity",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AVGO"
+    ]
+  },
+  {
+    "question": "How did the description of infrastructure software solutions change from FY2022/FY2023 to FY2024?",
+    "answer": "In FY2024, the description added 'help enterprises simplify their information technology environments' and included 'deliver' and 'edge' platforms, and specifically mentioned 'private and hybrid cloud platforms' instead of just 'cloud platforms'. FY2022 and FY2023 said 'plan, develop, automate, manage and secure applications across mainframe, distributed, mobile and cloud platforms.' FY2024 says 'plan, develop, deliver, automate, manage and secure applications across mainframe, distributed, edge, mobile, and private and hybrid cloud platforms.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AVGO"
+    ]
+  },
+  {
+    "question": "What change occurred in the definition of the infrastructure software segment between FY2022/FY2023 and FY2024?",
+    "answer": "In FY2022 and FY2023, the infrastructure software segment included 'mainframe, distributed and cyber security solutions, and our FC SAN business.' In FY2024, it includes 'private and hybrid cloud solutions and our FC SAN business.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AVGO"
+    ]
+  },
+  {
+    "question": "Did any specific technology area appear only in the FY2024 overview that was absent in FY2022 and FY2023?",
+    "answer": "Yes, artificial intelligence (AI) networking and connectivity specifically appears only in the FY2024 overview.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AVGO"
+    ]
+  },
+  {
+    "question": "What new platform was added to the list of platforms supported by infrastructure software in FY2024 compared to earlier fiscal years?",
+    "answer": "The 'edge' platform and 'private and hybrid cloud platforms' were added; FY2022 and FY2023 mentioned only 'mainframe, distributed, mobile and cloud platforms'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AVGO"
+    ]
+  },
+  {
+    "question": "How does the FY2024 overview describe the portfolio's purpose regarding hybrid environments compared to FY2022 and FY2023?",
+    "answer": "FY2024 says 'modernize, optimize, and secure the most complex private and hybrid cloud environments', whereas FY2022 and FY2023 said 'modernize, optimize, and secure the most complex hybrid environments' (without 'private and hybrid cloud').",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "AVGO",
+    "sector": "Information Technology",
+    "is_cross_doc": false,
+    "companies": [
+      "AVGO"
+    ]
+  }
+]

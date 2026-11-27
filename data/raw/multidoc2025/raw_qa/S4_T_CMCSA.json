@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare the total operating revenues for T and CMCSA for the fiscal year 2024.",
+    "answer": "T's total operating revenues for 2024 were $122,336 million. CMCSA's total operating revenues for 2024 are not provided in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "CMCSA"
+    ],
+    "evidence_section": "T: Item 8 – Consolidated Statements of Income; CMCSA: Item 7 – no data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+CMCSA",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the operating income for T and CMCSA in 2024?",
+    "answer": "T's operating income for 2024 was $19,049 million. CMCSA's operating income for 2024 is not provided in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "CMCSA"
+    ],
+    "evidence_section": "T: Item 8 – Consolidated Statements of Income; CMCSA: Item 7 – no data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+CMCSA",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the net income attributable to common stock for T compare to CMCSA's net income attributable to common stock in 2024?",
+    "answer": "T's net income attributable to common stock for 2024 was $10,746 million. CMCSA's net income attributable to common stock is not provided in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "CMCSA"
+    ],
+    "evidence_section": "T: Item 8 – Consolidated Statements of Income (Net Income Attributable to Common Stock); CMCSA: Item 7 – no data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+CMCSA",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the segment operating revenues for the Communications segment of T with any similar segment for CMCSA.",
+    "answer": "T's Communications segment operating revenue for 2024 was $117,652 million. CMCSA does not provide segment data in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "CMCSA"
+    ],
+    "evidence_section": "T: Item 7 – Segment results (Operating Revenues Communications); CMCSA: Item 7 – no data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+CMCSA",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the basic earnings per share from continuing operations for T and CMCSA in 2024?",
+    "answer": "T's basic earnings per share from continuing operations for 2024 was $1.49. CMCSA's basic earnings per share is not provided in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "CMCSA"
+    ],
+    "evidence_section": "T: Item 8 – Consolidated Statements of Income (Basic Earnings Per Share from continuing operations); CMCSA: Item 7 – no data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+CMCSA",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the percentage change in total operating revenues from 2023 to 2024 for T and compare with CMCSA's percentage change.",
+    "answer": "T's total operating revenues decreased by 0.1% from 2023 to 2024 (from $122,428 million to $122,336 million). CMCSA's percentage change cannot be calculated as their 2023 and 2024 revenues are not provided in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "CMCSA"
+    ],
+    "evidence_section": "T: Item 8 – Consolidated Statements of Income (2023 and 2024 total operating revenues) and Item 7 – percent change; CMCSA: Item 7 – no data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "T+CMCSA",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

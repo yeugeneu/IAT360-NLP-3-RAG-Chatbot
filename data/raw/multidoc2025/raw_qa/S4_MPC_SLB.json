@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do MPC and SLB describe their financial outlook or results in their 10-K filings?",
+    "answer": "MPC states it cannot reasonably estimate its ultimate cost of compliance with CERCLA but believes such costs will not be material to its business, financial condition, results of operations or cash flows. SLB reports strong financial performance with revenue increasing by 10%, pretax segment operating income growing by 12%, cash flow from operations of $6.6 billion, and free cash flow of $4.0 billion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MPC",
+      "SLB"
+    ],
+    "evidence_section": "MPC: Item 7 - Environmental Matters and Compliance Costs; SLB: Item 7 - 2024 Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MPC+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific environmental regulations do the companies address in the provided content?",
+    "answer": "MPC discusses CERCLA (Comprehensive Environmental Response, Compensation, and Liability Act), RCRA (Resource Conservation and Recovery Act), and PFAS (per- and polyfluoroalkyl substances) regulations, including the EPA's rule designating PFOS and PFOA as hazardous substances under CERCLA Section 102(a). SLB does not mention any environmental regulations in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MPC",
+      "SLB"
+    ],
+    "evidence_section": "MPC: Item 7 - Environmental Matters and Compliance Costs; SLB: No environmental regulation discussion in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MPC+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What business segments or divisions are highlighted in each company's filing?",
+    "answer": "SLB highlights its Digital & Integration division and Core divisions (Reservoir Performance, Well Construction, Production Systems). MPC's content does not describe specific business segments but references 'Vehicle and Fuel Requirements Fuel Economy and GHG Emissions,' indicating a downstream refining and fuel-focused business.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MPC",
+      "SLB"
+    ],
+    "evidence_section": "MPC: Item 7 - Vehicle and Fuel Requirements; SLB: Item 7 - 2024 Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MPC+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies describe their growth?",
+    "answer": "SLB provides quantitative growth figures: revenue increased by 10%, international revenue grew 12% (18% in Middle East & Asia, 13% in Europe & Africa), digital revenue reached $2.44 billion with 20% growth, and Production Systems grew 24% (9% organically). MPC does not discuss growth; its narrative focuses on environmental compliance costs and the inability to estimate their impact.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MPC",
+      "SLB"
+    ],
+    "evidence_section": "MPC: No growth discussion; SLB: Item 7 - 2024 Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MPC+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What cash flow and shareholder return information is disclosed by each company?",
+    "answer": "SLB discloses cash flow from operations of $6.6 billion, free cash flow of $4.0 billion, shareholder returns of $3.3 billion, and net debt reduction of $571 million. MPC's provided content does not include any cash flow or shareholder return information.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MPC",
+      "SLB"
+    ],
+    "evidence_section": "MPC: No cash flow or shareholder return data; SLB: Item 7 - 2024 Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MPC+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What risks are identified regarding regulatory changes in the provided content?",
+    "answer": "MPC identifies risks from CERCLA, RCRA, and PFAS regulations, noting it cannot currently predict the impact of potential statutes or regulations on its remediation costs. SLB does not discuss regulatory change risks in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MPC",
+      "SLB"
+    ],
+    "evidence_section": "MPC: Item 7 - Environmental Matters and Compliance Costs; SLB: No regulatory risk discussion",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MPC+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

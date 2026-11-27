@@ -1,0 +1,443 @@
+[
+  {
+    "question": "How many stores did The Home Depot operate as of the end of fiscal 2023?",
+    "answer": "2,335",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the telephone number of The Home Depot's corporate headquarters?",
+    "answer": "(770) 433-8211",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the total approximate enclosed square footage of all The Home Depot stores, assuming each store has the average enclosed space?",
+    "answer": "approximately 242,840,000 square feet",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the name of the certification that the CISO holds that includes 'Information Privacy'?",
+    "answer": "Certified Information Privacy Professional",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many associates are on the CISO's cybersecurity team?",
+    "answer": "over 500",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many years did the CISO work as a third-party consultant for the Company before joining as an employee?",
+    "answer": "2 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the two primary customer groups served by the company?",
+    "answer": "consumers (including both DIY and DIFM customers) and professional customers",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Who are typically the DIY customers?",
+    "answer": "homeowners who purchase products and complete their own projects and installations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Name one initiative designed to drive growth with professional customers as mentioned in the content.",
+    "answer": "Pro Xtra loyalty program",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many primary customer groups does the company serve, as listed in the customer segment breakdown?",
+    "answer": "Two",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which customer group is described as including homeowners who complete their own projects?",
+    "answer": "DIY Customers",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which customer group is eligible for the Pro Xtra loyalty program mentioned in the professional customer initiatives?",
+    "answer": "Professional Customers",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What was the aggregate liability position of interest rate swap agreements at January 28, 2024?",
+    "answer": "$858 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What percentage of the senior notes portfolio was floating-rate debt after considering interest rate swap agreements at January 28, 2024?",
+    "answer": "approximately 13%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Based on the floating-rate debt principal at January 28, 2024, what would be the increase in annual interest expense if the interest rate increased by 0.5 percentage points?",
+    "answer": "approximately $27 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the dates of the consolidated balance sheets as presented in the audit report?",
+    "answer": "January 28, 2024 and January 29, 2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "For what period did the independent auditor audit the consolidated financial statements?",
+    "answer": "each of the fiscal years in the three-year period ended January 28, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many notes to the consolidated financial statements are listed in the table of contents of Item 8?",
+    "answer": "13",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the Consolidated Balance Sheets (page 38) and the Consolidated Statements of Cash Flows (page 42)?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many financial statements (excluding the Report of Independent Registered Public Accounting Firm and the Notes to Consolidated Financial Statements) are listed in the table of contents of Item 8?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for Note 1 (page 43) and Note 13 (page 65) as listed in the table of contents?",
+    "answer": "108",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "HD",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "HD"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

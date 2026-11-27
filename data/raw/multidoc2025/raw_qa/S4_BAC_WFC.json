@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the level of detail in the MD&A section compare between Bank of America (BAC) and Wells Fargo (WFC)?",
+    "answer": "Bank of America provides a detailed MD&A including competition and human capital information, with approximately 213,000 employees noted. Wells Fargo's MD&A is incorporated by reference and not provided in the excerpt, so no comparable detail is available.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BAC",
+      "WFC"
+    ],
+    "evidence_section": "BAC: Item 7 (MD&A); WFC: Item 7 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BAC+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the employee count for Bank of America, and is a similar figure available for Wells Fargo from the provided content?",
+    "answer": "Bank of America has approximately 213,000 employees. Wells Fargo's employee count is not provided in the excerpt; its human capital discussion is incorporated by reference.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BAC",
+      "WFC"
+    ],
+    "evidence_section": "BAC: Item 7 (Human Capital Resources); WFC: Item 7 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BAC+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the number of notes to financial statements listed for BAC and WFC.",
+    "answer": "Bank of America lists 25 notes (Note 1 through Note 25) in its table of contents. Wells Fargo's notes are not listed in the provided content; they are incorporated by reference in Item 8.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BAC",
+      "WFC"
+    ],
+    "evidence_section": "BAC: Item 8 (Table of Contents); WFC: Item 8 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BAC+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of information does BAC disclose regarding competition that is not available from the WFC excerpt?",
+    "answer": "BAC provides a detailed list of competitors (e.g., banks, thrifts, credit unions, investment firms, fintech companies) and factors of competition (customer service, pricing, technology, etc.). WFC's competition discussion is not included in the provided content due to incorporation by reference.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BAC",
+      "WFC"
+    ],
+    "evidence_section": "BAC: Item 7 (Competition); WFC: Item 7 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BAC+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does the structure of the financial statement section differ between BAC and WFC in the provided content?",
+    "answer": "BAC includes a detailed table of contents for financial statements (e.g., Consolidated Statement of Income, Balance Sheet, Cash Flows) and lists all 25 notes individually. WFC's financial statements are incorporated by reference without a detailed listing, so the structure is not visible in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BAC",
+      "WFC"
+    ],
+    "evidence_section": "BAC: Item 8 (Table of Contents); WFC: Item 8 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BAC+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the name of the report on internal control over financial reporting for BAC, and is a similar report mentioned for WFC?",
+    "answer": "BAC includes a 'Report of Management on Internal Control Over Financial Reporting' under Item 8. WFC's provided content does not mention any such report; it only incorporates Item 8 by reference.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "BAC",
+      "WFC"
+    ],
+    "evidence_section": "BAC: Item 8 (Report of Management on Internal Control Over Financial Reporting); WFC: Item 8 (incorporated by reference)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "BAC+WFC",
+    "year": "2024",
+    "sector": "Financials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

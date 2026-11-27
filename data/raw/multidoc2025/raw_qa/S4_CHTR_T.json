@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company had higher total revenue in FY2024, and by what absolute amount?",
+    "answer": "AT&T (T) had higher total revenue of $122,336 million compared to Charter (CHTR) of $55,085 million, a difference of $67,251 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "T"
+    ],
+    "evidence_section": "CHTR CONTENT: 'Revenues $ 55,085'; T CONTENT: 'Total operating revenues 122,336'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "CHTR+T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the operating income margin (operating income / total revenue) for Charter and AT&T in FY2024.",
+    "answer": "Charter's operating income margin was 23.8% ($13,118M / $55,085M). AT&T's operating income margin was 15.6% ($19,049M / $122,336M). Charter had a higher operating margin.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "T"
+    ],
+    "evidence_section": "CHTR CONTENT: 'Income from operations 13,118' and 'Revenues $ 55,085'; T CONTENT: 'Operating Income (Loss) 19,049' and 'Total operating revenues 122,336'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "CHTR+T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the year-over-year revenue growth rates of Charter and AT&T compare in FY2024?",
+    "answer": "Charter's revenue grew 0.9% (from $54,607M to $55,085M). AT&T's revenue declined 0.1% (from $122,428M to $122,336M). Charter had positive growth while AT&T had a slight decline.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "T"
+    ],
+    "evidence_section": "CHTR CONTENT: 'Total revenues grew $478 million or 0.9%'; T CONTENT: 'AT&T Operating Revenues $ 122,336 $ 122,428 ... (0.1)%'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CHTR+T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the proportion of mobile service revenue to total revenue for Charter versus service revenue share for AT&T in FY2024.",
+    "answer": "Charter's mobile service revenue ($3,083M) was 5.6% of its total revenue ($55,085M). AT&T's service revenue ($100,135M) was 81.9% of its total revenue ($122,336M). This highlights AT&T's focus on service (wireless, wireline) while Charter's mobile is a smaller, though rapidly growing, component.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "T"
+    ],
+    "evidence_section": "CHTR CONTENT: 'Mobile service 3,083' and 'Revenues $ 55,085'; T CONTENT: 'Service $ 100,135' and 'Total operating revenues 122,336'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "CHTR+T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare net income attributable to parent for Charter and AT&T in FY2024.",
+    "answer": "Charter's net income attributable to shareholders was $5,083 million. AT&T's net income attributable to AT&T was $10,948 million. AT&T's net income was more than double Charter's, though AT&T had a much larger revenue base.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "T"
+    ],
+    "evidence_section": "CHTR CONTENT: 'Net income attributable to Charter shareholders $ 5,083'; T CONTENT: 'Net Income Attributable to AT&T $ 10,948'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CHTR+T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the diluted earnings per share (EPS) for Charter and AT&T in FY2024.",
+    "answer": "Charter's diluted EPS was $34.97, while AT&T's diluted EPS was $1.49. Charter had significantly higher EPS despite lower net income, due to a much smaller share count (145.4 million vs. approximately 7.2 billion for AT&T based on EPS calculation).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CHTR",
+      "T"
+    ],
+    "evidence_section": "CHTR CONTENT: 'Diluted $ 34.97'; T CONTENT: 'Diluted Earnings Per Share ... $ 1.49'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CHTR+T",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

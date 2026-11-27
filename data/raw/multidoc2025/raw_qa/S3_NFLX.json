@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were the year-over-year total revenue growth rates for fiscal years 2022, 2023, and 2024, as reported in the MD&A?",
+    "answer": "Total revenues increased 6% in 2022 versus 2021, 7% in 2023 versus 2022, and 16% in 2024 versus 2023.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "NFLX"
+    ]
+  },
+  {
+    "question": "How did the operating margin evolve over the three fiscal years 2022, 2023, and 2024?",
+    "answer": "Operating margin was 18% in 2022, increased to 21% in 2023, and further increased to 27% in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "NFLX"
+    ]
+  },
+  {
+    "question": "What was the reported streaming revenue in each fiscal year (2022, 2023, 2024) and the year-over-year percentage change?",
+    "answer": "Streaming revenues were $31,469,852 in 2022 (7% increase vs 2021), $33,640,458 in 2023 (7% increase vs 2022), and $39,000,966 in 2024 (16% increase vs 2023).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "NFLX"
+    ]
+  },
+  {
+    "question": "Describe the strategic shift regarding the DVD-by-mail service and how it affected DVD revenues over the three fiscal years.",
+    "answer": "Netflix announced the discontinuation of its DVD-by-mail service in April 2023 and ceased mailing services on September 29, 2023. DVD revenues declined from $145,698 in 2022 to $82,839 in 2023 (a 43% decrease), and became $0 in 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "NFLX"
+    ]
+  },
+  {
+    "question": "What were the paid net membership additions for each fiscal year (2022, 2023, 2024) and the year-over-year percentage changes?",
+    "answer": "Paid net membership additions were 8,903 in 2022, 29,529 in 2023 (a 232% increase vs 2022), and 41,350 in 2024 (a 40% increase vs 2023).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "NFLX"
+    ]
+  },
+  {
+    "question": "How did the average monthly revenue per paying membership change year over year from 2022 to 2024?",
+    "answer": "Average monthly revenue per paying membership was $11.76 in 2022 (1% increase vs 2021), $11.64 in 2023 (1% decrease vs 2022), and $11.70 in 2024 (1% increase vs 2023; constant currency change of 4%).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "NFLX",
+    "sector": "Communication Services",
+    "is_cross_doc": false,
+    "companies": [
+      "NFLX"
+    ]
+  }
+]

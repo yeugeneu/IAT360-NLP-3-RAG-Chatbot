@@ -1,0 +1,68 @@
+[
+  {
+    "question": "In the most recent fiscal year presented in the Consolidated Statement of Income for PEP FY2024 and WMT FY2024, what are the respective fiscal year end dates?",
+    "answer": "For PEP FY2024, the most recent fiscal year ends December 28, 2024. For WMT FY2024, the most recent fiscal year ends January 31, 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PEP",
+      "WMT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PEP FY2024 Item 7 and WMT FY2024 Item 7: Consolidated Statement of Income headings",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PEP+WMT",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "Using both the Management's Discussion and the Consolidated Statements of Income from the provided filings, identify the fiscal year-end dates for PepsiCo (PEP) and Walmart (WMT), and the sets of annual periods presented in their FY2024 reports. Then explain why a direct comparison of annual net revenue growth from FY2022 to FY2024 between the two companies requires adjusting for these different fiscal calendars, and specify the months that would need to be aligned.",
+    "answer": "PepsiCo's FY2024 report covers fiscal years ended December 28, 2024, December 30, 2023, and December 31, 2022. Walmart's FY2024 report covers fiscal years ended January 31, 2024, January 31, 2023, and January 31, 2022. Direct comparison of annual net revenue growth from FY2022 to FY2024 is not straightforward because PepsiCo's FY2022 ends on December 31, 2022, while Walmart's FY2022 ends on January 31, 2022—a difference of nearly one month. Similarly, their FY2024 ends are December 28, 2024 versus January 31, 2024. To enable meaningful comparison, one would need to adjust Walmart's fiscal periods to align with calendar quarters (e.g., by using quarterly data to approximate a calendar-year comparable) or restate PepsiCo's data to Walmart's fiscal year. This information is evident from the MD&A text (which describes the fiscal years) and from the headings of the Consolidated Statements of Income (which list the specific year-end dates).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PEP",
+      "WMT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 and Item 8 (Management's Discussion and Consolidated Statement of Income headings)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PEP+WMT",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "Based on the income statement data from PEP FY2022 and FY2024 documents and WMT FY2022 and FY2024 documents, compute the CAGR of net revenue for PepsiCo from fiscal 2022 to fiscal 2024 and for Walmart from fiscal 2022 to fiscal 2024. Using the Management’s Discussion and Analysis sections, identify the key drivers cited for each company’s revenue growth and explain which company outperformed in terms of growth rate. Provide the exact CAGR percentages and cite the relevant revenue figures from the income statement tables.",
+    "answer": "PepsiCo's net revenue was $86,392 million in fiscal 2022 (as per PEP FY2022 Consolidated Statement of Income) and $96,177 million in fiscal 2024 (as per PEP FY2024 Consolidated Statement of Income), yielding a CAGR of 5.5%. Walmart's net revenue was $559,154 million in fiscal 2022 (as per WMT FY2022 Consolidated Statement of Income) and $648,125 million in fiscal 2024 (as per WMT FY2024 Consolidated Statement of Income), yielding a CAGR of 7.7%. PepsiCo's MD&A (FY2024) attributed growth to net price realization and positive mix, partially offset by volume declines. Walmart's MD&A (FY2024) cited market share gains in grocery and general merchandise, e-commerce expansion, and inflation-driven price increases. Walmart outperformed PepsiCo by 2.2 percentage points in CAGR.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PEP",
+      "WMT"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7: Management's Discussion and Analysis (text) and Item 8: Consolidated Statement of Income (tables)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "PEP+WMT",
+    "sector": "Consumer Staples"
+  }
+]

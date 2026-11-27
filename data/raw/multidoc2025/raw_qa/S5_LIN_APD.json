@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Based on the provided Item 7 section pagination, what is the difference in the starting page number of the main financial discussion section for APD between FY2022 and FY2024, and how does LIN's FY2022 starting page compare to APD's FY2022 starting page?",
+    "answer": "For APD: FY2022 Business Overview starts on page 22; FY2024 Business Overview starts on page 28. The increase is 6 pages (28 - 22 = 6). For LIN: FY2022 Item 7 (Table of Contents) starts on page 6, which is 16 pages earlier than APD's FY2022 Business Overview (22 - 6 = 16).",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "LIN",
+      "APD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "LIN+APD",
+    "sector": "Materials"
+  },
+  {
+    "question": "Based on the provided excerpts from the 10-K filings of LIN (FY2022 and FY2024) and APD (FY2022 and FY2024), compare how each company references segment-level financial information and non-GAAP reconciliations across the two fiscal years. Specifically, identify the Item sections and any financial notes or tables mentioned in the text that contain this information.",
+    "answer": "LIN FY2024 Item 7 states that 'Management’s Discussion and Analysis' includes a discussion of consolidated sales and references Note 18 to the consolidated financial statements for information on reportable segments. LIN FY2022 Item 7 snippet does not mention segment details. APD FY2022 and FY2024 Item 7 both list a section titled 'Reconciliations of Non-GAAP Financial Measures' under the Results of Operations heading. Thus, LIN provides segment information via a financial table (Note 18) only in FY2024, while APD consistently includes non-GAAP reconciliation tables in the MD&A for both FY2022 and FY2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "LIN",
+      "APD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 for both companies and years; also Note 18 for LIN FY2024",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "LIN+APD",
+    "sector": "Materials"
+  },
+  {
+    "question": "Based on the provided Item 7 excerpts, compare the disclosure structure regarding forward-looking information for LIN and APD between FY2022 and FY2024. Does each company explicitly include an 'Outlook' subsection in both years? Provide evidence from both the text paragraphs (LIN's narrative descriptions) and the financial tables (APD's table of contents listings).",
+    "answer": "For LIN, in FY2022 the text only mentions 'Available Information' and does not list an 'Outlook' subsection. In FY2024, the text describes 'Management's Discussion and Analysis' for a discussion of consolidated sales and Note 18, but again does not include an 'Outlook' subsection. For APD, in FY2022 the table of contents lists '2023 Outlook' as a subsection under Item 7, and in FY2024 it lists 'Outlook' as a subsection. Therefore, only APD explicitly includes an outlook subsection in both years, while LIN does not provide a separate outlook section in either year.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "LIN",
+      "APD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "LIN+APD",
+    "sector": "Materials"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What were Linde's sales in 2022?",
+    "answer": "$33,364 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the increase in Linde's sales from 2020 to 2021?",
+    "answer": "$3,550 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the primary products in Linde's industrial gases business?",
+    "answer": "atmospheric gases (oxygen, nitrogen, argon, and rare gases) and process gases (carbon dioxide, helium, hydrogen, electronic gases, specialty gases, and acetylene etc)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many countries does Linde operate in?",
+    "answer": "more than 80 countries",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What forms of energy are used for Linde's distribution?",
+    "answer": "electricity, natural gas and diesel fuel",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which industries are described as cyclical in nature?",
+    "answer": "chemicals, metals and energy industries",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the age of Sanjiv Lamba as listed in the filing?",
+    "answer": "58",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Who was appointed Chief Executive Officer of Linde effective March 1, 2022?",
+    "answer": "Sanjiv Lamba",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many years passed between Sanjiv Lamba's start of his career in 1989 and his appointment as CEO in 2022?",
+    "answer": "33",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the age of Sanjiv Lamba as of the report?",
+    "answer": "58",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the age difference between Sanjiv Lamba and Guillermo Bichara?",
+    "answer": "10 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many executive officers are listed in the MD&A section?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where is Linde's research and development primarily conducted?",
+    "answer": "Munich, Germany, Tonawanda, New York, Burr Ridge, Illinois and Shanghai, China.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the single largest cost item in the production and distribution of industrial gases?",
+    "answer": "Energy",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How does Linde mitigate electricity, natural gas, and hydrocarbon price fluctuations?",
+    "answer": "Contractually through pricing formulas, surcharges, and cost pass–through and tolling arrangements.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of Linde's sales in 2022 were generated by its three geographic segments (Americas, EMEA and APAC)?",
+    "answer": "86%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Business Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the percentage of sales from Linde's three geographic segments (86%) and the remaining percentage related to the Engineering segment and Other (14%)?",
+    "answer": "100%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Business Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the two main categories of primary products in Linde's industrial gases business, and what specific gases are listed under each?",
+    "answer": "Atmospheric gases (oxygen, nitrogen, argon, rare gases) and process gases (carbon dioxide, helium, hydrogen, electronic gases, specialty gases, acetylene).",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Business Overview",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of combined sales from the three geographic segments (Americas, EMEA, APAC) to sales from the Engineering segment?",
+    "answer": "6.14 (86%/14%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "If total sales were $100, what would be the dollar amount of sales from the Engineering segment?",
+    "answer": "$14",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in percentage points between the combined geographic segment sales (86%) and the Engineering segment sales (14%)?",
+    "answer": "72 percentage points",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "LIN",
+    "year": "2022",
+    "sector": "Materials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "LIN"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

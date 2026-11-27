@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do TGT and NKE differentiate their product offerings according to their FY2024 10-Ks?",
+    "answer": "TGT emphasizes exclusive products and designer collaborations, such as 2,000 new wellness products (600 exclusive) and partnerships with celebrities like Taylor Swift and Dwayne Johnson, as well as owned brands like dealworthy and Auden. NKE focuses on creating innovative 'must-have' products and building deep personal consumer connections through digital platforms and retail experiences.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "NKE"
+    ],
+    "evidence_section": "TGT: Item 7 - 'Continued to emphasize newness and differentiation across our assortment, including a steady flow of exclusive products and designer collaborations... 2,000 new wellness products... 600 of which were exclusive to Target... partnerships with celebrities...' NKE: Item 7 - 'Our strategy is to achieve sustainable profitable long-term revenue growth by creating innovative, \"must-have\" products, building deep personal consumer connections with our brands...'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key strategic differences in how TGT and NKE approach their direct-to-consumer and marketplace channels?",
+    "answer": "TGT expanded its Target Plus digital marketplace and launched a reimagined Target Circle loyalty program with free and paid membership options. NKE invests in NIKE Direct operations (owned stores and digital platforms) while also elevating its brand experience within wholesale partners.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "NKE"
+    ],
+    "evidence_section": "TGT: Item 7 - 'Expanded the selection of products available on our Target Plus digital marketplace' and 'Launched our reimagined Target Circle loyalty program... free-to-join option and a paid membership for same-day delivery' NKE: Item 7 - 'We are focused on growing the entire marketplace by continuing to invest in our NIKE Direct operations while also increasing investment to elevate and differentiate our brand experience within our wholesale partners.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do TGT and NKE describe their market leadership or competitive position in their FY2024 filings?",
+    "answer": "NKE states it is 'the largest seller of athletic footwear and apparel in the world.' TGT does not claim a similar market-wide leadership but highlights that 11 of its owned brands exceed $1 billion in annual sales, indicating strong private-label performance.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "NKE"
+    ],
+    "evidence_section": "NKE: Item 7 - 'We are the largest seller of athletic footwear and apparel in the world.' TGT: Item 7 - '11 of our owned brands exceeding $1 billion in annual sales'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What organizational changes did NKE announce in fiscal 2024, and how does that compare to workforce or structural changes mentioned by TGT?",
+    "answer": "NKE announced an enterprise-wide initiative that resulted in a net reduction of its global workforce, with plans to reinvest wage savings into future growth. TGT's filing does not mention any workforce reduction or similar restructuring.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "NKE"
+    ],
+    "evidence_section": "NKE: Item 7 - 'in the third quarter of fiscal 2024, we announced an enterprise-wide initiative to prioritize investment... including taking steps to streamline the organization. This resulted in a net reduction of our global workforce...' TGT: No mention of workforce reduction in provided content.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do TGT and NKE leverage digital media or advertising in their strategies according to the 10-Ks?",
+    "answer": "TGT enhances its Roundel digital media products and services, including a new self-service buying tool (Roundel Media Studio) and experiential events. NKE focuses on digital platforms for consumer experiences and demand sensing through an end-to-end technology foundation.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "NKE"
+    ],
+    "evidence_section": "TGT: Item 7 - 'Continued to enhance our Roundel digital media products and services, including through a new self-service buying tool, Roundel Media Studio, and experiential events integrated with marketing activities' NKE: Item 7 - 'invest in... data and analytics, demand sensing, insight gathering... to create an end-to end technology foundation to serve our consumer with speed and scale.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the revenue trends of TGT and NKE as mentioned in their FY2024 reports.",
+    "answer": "NKE reports fiscal 2024 revenues of $51.4 billion compared to $51.2 billion in the prior year, indicating slight growth. TGT's filing does not provide specific revenue figures in the provided content, but focuses on strategic investments and brand performance.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TGT",
+      "NKE"
+    ],
+    "evidence_section": "NKE: Item 7 - 'NIKE, Inc. Revenues for fiscal 2024 were $51.4 billion compared to $51.2 billion' TGT: No revenue data in provided excerpt.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TGT+NKE",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

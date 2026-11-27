@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the regulatory frameworks for rate setting differ between Dominion Energy and Duke Energy based on the provided disclosures?",
+    "answer": "Dominion Energy’s wholesale electric transmission rates are regulated by FERC and updated annually according to a FERC-approved formula rate mechanism, while its Virginia retail base rates are reviewed biennially by the Virginia Commission. Duke Energy’s rates are set through rate cases filed across its jurisdictions, with proposed depreciation rates that approximate earlier retirement dates as outlined in recent Integrated Resource Plans (IRPs).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "evidence_section": "D: Item 7 MD&A; DUK: Item 7 Management's Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the different approaches to managing risks related to coal-fired generation and transmission line damage?",
+    "answer": "Dominion Energy does not discuss coal retirements or transmission line self-insurance in the provided content. Duke Energy evaluates the retirement date assumptions for all coal-fired generating facilities and self-insures its electric transmission and distribution lines against loss due to storm damage and other natural disasters.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "evidence_section": "D: not mentioned; DUK: Item 7 and Note 5 (Insurance)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the scope of regulated entities reported in financial statements for each company.",
+    "answer": "Dominion Energy presents consolidated financial statements for Dominion Energy, Inc. and subsidiaries, with separate statements for Virginia Electric and Power Company. Duke Energy presents consolidated statements for Duke Energy and separate statements for multiple subsidiaries: Duke Energy Carolinas, Progress Energy, Duke Energy Progress, Duke Energy Florida, Duke Energy Ohio, Duke Energy Indiana, and Piedmont.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "evidence_section": "D: Item 8 Financial Statements; DUK: Item 8 Financial Statements",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key differences in regulatory risk factors mentioned for each utility?",
+    "answer": "Dominion Energy faces risk of rate decreases from changes in FERC policy and potential refunds to customers if earned ROE exceeds allowed levels in Virginia’s biennial reviews. Duke Energy faces risk that it may not fully recover costs when coal-fired assets are retired, and it incorporates earlier retirement dates into depreciation rates through rate cases to mitigate this.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "evidence_section": "D: Item 7 MD&A; DUK: Item 7 Management's Discussion and Analysis and Note 5",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies differ in their treatment of asset retirement and recovery?",
+    "answer": "Dominion Energy does not discuss asset retirement in the provided content. Duke Energy plans to seek regulatory recovery for amounts that would not be otherwise recovered when any coal-fired assets are retired, and its rate cases have proposed depreciation rates that approximate earlier retirement dates as outlined in recent IRPs.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "evidence_section": "D: not mentioned; DUK: Item 7 Management's Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the structure of financial reporting for regulated utilities: which company has more separate legal entity reporting?",
+    "answer": "Duke Energy has more separate legal entity reporting, listing eight registrants in its financial statements: Duke Energy, Duke Energy Carolinas, Progress Energy, Duke Energy Progress, Duke Energy Florida, Duke Energy Ohio, Duke Energy Indiana, and Piedmont. Dominion Energy only lists two: Dominion Energy, Inc. and Virginia Electric and Power Company.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "D",
+      "DUK"
+    ],
+    "evidence_section": "D: Item 8; DUK: Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "D+DUK",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

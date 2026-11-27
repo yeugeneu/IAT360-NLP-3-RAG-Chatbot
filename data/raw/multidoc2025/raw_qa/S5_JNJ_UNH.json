@@ -1,0 +1,51 @@
+[
+  {
+    "question": "Based on the provided excerpts from JNJ's FY2022 and FY2024 10-Ks and UNH's FY2022 and FY2024 10-Ks, compare the disclosure of year-over-year sales growth. Calculate the absolute change in JNJ's worldwide sales from 2021 to 2023, noting the recast for continuing operations. How does UNH's approach to presenting year-over-year comparisons differ, and what does this imply for analyzing multi-year growth trends across the healthcare sector?",
+    "answer": "JNJ reported worldwide sales of $93.8 billion in 2021 and $85.2 billion in 2023 (recast for continuing operations), representing a decrease of $8.6 billion. In contrast, UNH's FY2022 and FY2024 filings explicitly state that discussions of year-over-year comparisons (2021/2020 and 2023/2022, respectively) are not included in those filings but are available in prior year 10-Ks. This suggests that while JNJ provides direct multi-year sales data within each filing (facilitating trend analysis), UNH requires investors to consult earlier filings for comparative context, complicating the assessment of sector-level growth trajectories without cross-referencing multiple documents.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JNJ",
+      "UNH"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 – Management's Discussion and Analysis (JNJ FY2022 and FY2024; UNH FY2022 and FY2024)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "JNJ+UNH",
+    "sector": "Healthcare"
+  },
+  {
+    "question": "Compare the worldwide sales growth rates reported by JNJ for fiscal years 2021 and 2023, as disclosed in its FY2022 and FY2024 10-Ks, with the disclosure practice observed in UNH's FY2022 and FY2024 10-Ks regarding year-over-year comparisons. What does this reveal about the two companies' reporting approaches?",
+    "answer": "JNJ reported worldwide sales growth of 13.6% to $93.8 billion in 2021 (from its FY2022 filing) and 6.5% to $85.2 billion in 2023 (from its FY2024 filing), a decline of 7.1 percentage points. In contrast, UNH's FY2022 and FY2024 10-Ks explicitly state that 'Discussions of year-over-year comparisons between 2021 and 2020 are not included' (FY2022) and 'between 2023 and 2022 are not included' (FY2024), indicating that UNH omits such comparative analyses in the same section, instead directing readers to prior filings. This highlights a divergence: JNJ includes explicit year-over-year growth rates and absolute sales figures in Management's Discussion, while UNH does not provide these comparisons in the same document, reflecting different financial communication strategies.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "JNJ",
+      "UNH"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": [
+      "JNJ FY2022 (Item 7+8)",
+      "JNJ FY2024 (Item 7+8)",
+      "UNH FY2022 (Item 7+8)",
+      "UNH FY2024 (Item 7+8)"
+    ],
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "JNJ+UNH",
+    "sector": "Healthcare"
+  }
+]

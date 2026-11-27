@@ -1,0 +1,443 @@
+[
+  {
+    "question": "On what date was Duke Energy incorporated?",
+    "answer": "May 3, 2005",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many reportable business segments does Duke Energy have?",
+    "answer": "2",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many Subsidiary Registrants are named in the text?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many risk factors are indicated in the heading of Item 1A?",
+    "answer": "23",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By what year does Duke Energy aim to achieve net-zero carbon emissions from electricity generation?",
+    "answer": "2050",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the result of subtracting the number of risk factors (23) from the net-zero target year (2050)?",
+    "answer": "2027",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Where is Duke Energy headquartered?",
+    "answer": "Charlotte, North Carolina",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many subsidiary registrants are explicitly listed as operating through direct and indirect subsidiaries?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What two key actions did Duke Energy announce in 2022 according to the executive overview?",
+    "answer": "The sale of its commercial renewables business and filing the Carbon Plan with the NCUC.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Count the number of distinct actions Duke Energy took in 2022 as mentioned in the MD&A.",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of Duke Energy subsidiaries listed by name in the provided content?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the number of distinct actions in 2022 and the number of named subsidiaries?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does Item 7A of the 10-K for DUK fiscal year 2022 refer to for market risk disclosures?",
+    "answer": "Management's Discussion and Analysis of Results of Operations and Financial Condition – Quantitative and Qualitative Disclosures About Market Risk.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to Item 7A, what page number is associated with the financial statements?",
+    "answer": "67",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct references to other parts of the filing are made in Item 7A?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the page number for Duke Energy's Consolidated Statements of Operations in Item 8 of the 2022 10-K?",
+    "answer": "73",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which company's Consolidated Balance Sheets start on page 81?",
+    "answer": "Progress Energy",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many separate 'Report of Independent Registered Public Accounting Firm' entries are listed in the Item 8 table of contents?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in page numbers between the start of Duke Energy's Report of Independent Registered Public Accounting Firm and the start of Duke Energy Carolinas' Report of Independent Registered Public Accounting Firm?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many pages after Duke Energy's Consolidated Balance Sheets do Duke Energy Progress's Consolidated Balance Sheets start?",
+    "answer": "18",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the starting page numbers of Duke Energy's Consolidated Statements of Operations and Duke Energy Florida's Consolidated Statements of Operations?",
+    "answer": "171",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "DUK",
+    "year": "2022",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "DUK"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do UPS's non-GAAP adjustments for operating expenses in 2024 compare to BA's research and development expense in 2024, and what does this suggest about each company's strategic focus?",
+    "answer": "UPS reported total non-GAAP adjustments to operating expenses of $426 million in 2024, which includes transformation strategy costs, gain on divestiture of Coyote, and other items. BA reported research and development expense, net of $3,812 million in 2024. This indicates that BA invests significantly more in R&D as a core strategic focus, while UPS's adjustments are dominated by restructuring and one-time items rather than sustained innovation spending.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UPS",
+      "BA"
+    ],
+    "evidence_section": "UPS Item 7 - Non-GAAP Adjustments table (total $426 million); BA Item 8 - Consolidated Statements of Operations (R&D $3,812 million)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UPS+BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What major one-time events affected each company's 2024 financial results, and how did they differ in nature?",
+    "answer": "UPS recorded a $156 million gain on the divestiture of Coyote and $204 million in 'Fit to Serve' transformation costs, along with other adjustments totaling $426 million. BA experienced the Alaska Airlines 737-9 door plug incident on January 5, 2024, which led to FAA grounding and inspections of most of the 737-9 fleet. While UPS had a divestiture gain and restructuring charges, BA faced an operational safety event with regulatory repercussions.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UPS",
+      "BA"
+    ],
+    "evidence_section": "UPS Item 7 - Non-GAAP Adjustments (Gain on Divestiture of Coyote $156 million, Fit to Serve $204 million); BA Item 7 - Alaska Airlines incident description",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UPS+BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided financial data, what was BA's operating income (loss) for 2024? How does this compare to UPS's total non-GAAP adjustments?",
+    "answer": "BA reported an operating loss of $1,991 million for 2024 (total revenues of $66,517 million minus total costs and expenses of $68,508 million). UPS's total non-GAAP adjustments to operating expenses were $426 million. Although not directly comparable, the figures illustrate that BA had a substantial operating loss while UPS's adjustments represent a much smaller portion of its overall operations.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UPS",
+      "BA"
+    ],
+    "evidence_section": "BA Item 8 - Consolidated Statements of Operations (revenues $66,517, costs $68,508, loss $1,991); UPS Item 7 - Non-GAAP Adjustments total $426 million",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "UPS+BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the companies describe their market positions in the provided filings?",
+    "answer": "BA explicitly states it is 'a global market leader' and 'one of the two major manufacturers of 100+ seat airplanes for the worldwide commercial airline industry and one of the largest defense contractors in the U.S.' UPS's filing does not contain a similar market-position statement in the provided excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UPS",
+      "BA"
+    ],
+    "evidence_section": "BA Item 7 - Overview paragraph; UPS content does not include a market leader statement",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UPS+BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the trend in BA's total revenues from 2023 to 2024? How does this compare to the overall magnitude of UPS's non-GAAP adjustments?",
+    "answer": "BA's total revenues decreased from $77,794 million in 2023 to $66,517 million in 2024. UPS's total non-GAAP adjustments for 2024 were $426 million. The revenue decline at BA is much larger than UPS's adjustments, highlighting that BA experienced a significant top-line contraction while UPS's adjustments are relatively minor in comparison.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UPS",
+      "BA"
+    ],
+    "evidence_section": "BA Item 8 - Consolidated Statements of Operations (2024 revenue $66,517, 2023 revenue $77,794); UPS Item 7 - Non-GAAP Adjustments total $426 million",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UPS+BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the composition of UPS's transformation costs and BA's R&D spending reveal about their strategic priorities?",
+    "answer": "UPS's transformation costs include $83 million from Transformation 2.0, $204 million from Fit to Serve, and $35 million from Network Reconfiguration, totaling $322 million in transformation strategy costs in 2024. In contrast, BA's R&D expense was $3,812 million. UPS is focusing on restructuring and efficiency initiatives, while BA is heavily investing in research and development for new products and technologies.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "UPS",
+      "BA"
+    ],
+    "evidence_section": "UPS Item 7 - Non-GAAP Adjustments table (Transformation Strategy Costs breakdown); BA Item 8 - Consolidated Statements of Operations (R&D $3,812 million)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "UPS+BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the year-over-year percentage growth in total vehicle deliveries from fiscal year 2021 to 2022 and from 2022 to 2023?",
+    "answer": "Deliveries increased from 936,222 in 2021 to 1,313,851 in 2022, a growth of (1,313,851 - 936,222) / 936,222 ≈ 40.3%. From 2022 to 2023, deliveries increased to 1,808,581, a growth of (1,808,581 - 1,313,851) / 1,313,851 ≈ 37.7%.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "TSLA"
+    ]
+  },
+  {
+    "question": "How did energy storage product deployments (in GWh) evolve over the three fiscal years 2021, 2022, and 2023?",
+    "answer": "Energy storage deployments were 3.99 GWh in 2021, 6.5 GWh in 2022, and 14.72 GWh in 2023, showing continuous growth with a significant acceleration in 2023.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "TSLA"
+    ]
+  },
+  {
+    "question": "What was the trend in total revenues over the three fiscal years 2021, 2022, and 2023?",
+    "answer": "Total revenues were $53.82 billion in 2021, $81.46 billion in 2022, and $96.77 billion in 2023, representing a consistent year-over-year increase.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "TSLA"
+    ]
+  },
+  {
+    "question": "What was the net income attributable to common stockholders in fiscal years 2021 and 2022, and what was the dollar increase?",
+    "answer": "Net income was $5.52 billion in 2021 and $12.56 billion in 2022, an increase of $7.04 billion.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "TSLA",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "TSLA"
+    ]
+  },
+  {
+    "question": "Describe the trend in solar energy system deployments (in MW) from 2021 to 2023.",
+    "answer": "Solar deployments were 345 MW in 2021, 348 MW in 2022 (essentially flat), and 223 MW in 2023, a decrease from the prior two years.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "TSLA"
+    ]
+  },
+  {
+    "question": "How did the company's strategic focus areas shift from the 2021 highlights to the 2023 highlights?",
+    "answer": "In 2021, the focus was on increasing vehicle production, improving battery technologies, FSD capabilities, affordability, and global infrastructure. By 2022, 'bringing new products to market' was added. In 2023, additional emphasis was placed on reducing costs, vertically integrating and localizing the supply chain, further deploying FSD capabilities, expanding service and charging infrastructure, and investing in AI, software, and fleet-based profits.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "TSLA",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "companies": [
+      "TSLA"
+    ]
+  }
+]

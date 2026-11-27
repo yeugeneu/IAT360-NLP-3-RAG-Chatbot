@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company reported higher total sales in its most recent fiscal year as presented in the provided data?",
+    "answer": "Johnson & Johnson reported $85.2 billion in sales for fiscal year 2023, while Merck reported $64,168 million ($64.168 billion) for fiscal year 2024. Johnson & Johnson's sales are higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MRK",
+      "JNJ"
+    ],
+    "evidence_section": "MRK: Item 8, Consolidated Statement of Income; JNJ: Item 7, Management's discussion",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MRK+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the sales growth rates of Merck (2024 vs 2023) and Johnson & Johnson (2023 vs 2022) based on the provided data.",
+    "answer": "Merck's sales increased from $60,115 million in 2023 to $64,168 million in 2024, a growth of 6.74%. Johnson & Johnson's worldwide sales increased 6.5% in 2023 compared to 2022. Merck's growth rate is slightly higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MRK",
+      "JNJ"
+    ],
+    "evidence_section": "MRK: Item 8, Consolidated Statement of Income (Sales 2024 $64,168, 2023 $60,115); JNJ: Item 7, 'worldwide sales increased 6.5% to $85.2 billion'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "MRK+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the reportable business segments of Merck, and does the provided Johnson & Johnson 10-K excerpt explicitly identify its reportable segments?",
+    "answer": "Merck has two reportable segments: Pharmaceutical and Animal Health. The Johnson & Johnson excerpt does not explicitly name its reportable segments; it mentions 'three wholesalers distributing products for both segm...' but the text is cut off and no segment names are provided.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MRK",
+      "JNJ"
+    ],
+    "evidence_section": "MRK: Item 7, 'include two operating segments, Pharmaceutical and Animal Health, both of which are reportable segments'; JNJ: Item 7, 'the Company utilized three wholesalers distributing products for both segm...'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MRK+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, does Johnson & Johnson disclose a net income figure for its most recent fiscal year? If not, what net income did Merck report for 2024?",
+    "answer": "Johnson & Johnson's net income is not provided in the given excerpts. Merck reported net income of $17,133 million ($17.133 billion) for fiscal year 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MRK",
+      "JNJ"
+    ],
+    "evidence_section": "MRK: Item 8, Consolidated Statement of Income 'Net Income $17,133'; JNJ: The provided sections (Item 7 and Item 8 balance sheet) do not contain net income data.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MRK+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the geographic sales breakdowns of Merck and Johnson & Johnson compare based on the provided 10-K excerpts?",
+    "answer": "Johnson & Johnson provides a geographic breakdown: U.S. sales of $46.4 billion and international sales of $38.7 billion for 2023. The Merck excerpt does not provide any geographic sales breakdown; only total sales are shown.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MRK",
+      "JNJ"
+    ],
+    "evidence_section": "MRK: Item 8, Consolidated Statement of Income (no geographic detail); JNJ: Item 7, 'Sales by U.S. companies were $46.4 billion... international companies were $38.7 billion'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MRK+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the impact of the COVID-19 vaccine on Johnson & Johnson's European sales in 2023, and does Merck mention any COVID-related impacts in its provided excerpt?",
+    "answer": "Johnson & Johnson reported that the net impact of the Covid-19 Vaccine and the loss of exclusivity of Zytiga on European operational sales was a negative 9.8% in fiscal 2023. Merck's provided excerpt does not mention any COVID-19 vaccine or related impact.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "MRK",
+      "JNJ"
+    ],
+    "evidence_section": "MRK: No COVID mention in the provided text; JNJ: Item 7, 'the net impact of the Covid-19 Vaccine and the loss of exclusivity of Zytiga on the European regions change in operational sales was a negative 9.8%.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "MRK+JNJ",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What changes occurred in The Coca-Cola Company's alcohol beverage strategy between 2022 and 2024?",
+    "answer": "In FY2022, there was no mention of alcohol beverages. In FY2023, the Company stated it 'has also directly entered the alcohol beverage category in numerous markets outside the United States' and described a U.S. subsidiary that 'authorizes alcohol-licensed third parties to use certain of our trademarks'. In FY2024, the subsidiary 'uses third-party manufacturers and distributors to produce and sell alcohol products in certain regions of the United States and also authorizes alcohol-licensed third parties'. The segments were reordered: FY2023 listed 'hard seltzers, hard alternatives, pre-mixed cocktails'; FY2024 listed 'pre-mixed cocktails, flavored alcohol beverages, hard seltzers'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "KO",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "KO"
+    ]
+  },
+  {
+    "question": "How did the list of juice, value-added dairy and plant-based beverage brands change from FY2022 to FY2024?",
+    "answer": "FY2022 and FY2023 listed: 'AdeS, Del Valle, fairlife, innocent, Minute Maid, Minute Maid Pulpy and Simply'. FY2024 listed: 'Core Power, Del Valle, fairlife, innocent, Maaza, Minute Maid, Minute Maid Pulpy and Simply', thus removing AdeS and adding Core Power and Maaza.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "KO",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "KO"
+    ]
+  },
+  {
+    "question": "Was the brand 'Crystal' included in the water, sports, coffee and tea category in all three fiscal years?",
+    "answer": "No. 'Crystal' was not listed in FY2022 or FY2023; it first appeared in the FY2024 list as 'Crystal'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "KO",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "KO"
+    ]
+  },
+  {
+    "question": "How did the description of the Company's alcohol subsidiary in the United States evolve from FY2023 to FY2024?",
+    "answer": "In FY2023, the subsidiary 'authorizes alcohol-licensed third parties to use certain of our trademarks and related intellectual property on alcohol beverages that contain Company beverage bases.' In FY2024, it 'uses third-party manufacturers and distributors to produce and sell alcohol products in certain regions of the United States and also authorizes alcohol-licensed third parties to use certain of our trademarks and related intellectual property on alcohol beverages that contain Company beverage bases.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "KO",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "KO"
+    ]
+  },
+  {
+    "question": "What were the three segments of alcohol ready-to-drink beverages mentioned in FY2023 and FY2024, and how did their naming or order differ?",
+    "answer": "In FY2023, the three segments were: 'hard seltzers (e.g., Topo Chico Hard Seltzer), hard alternatives (e.g., Lemon-Dou) and pre-mixed cocktails (e.g., Jack Daniel’s & Coca-Cola)'. In FY2024, they were: 'pre-mixed cocktails (e.g., Jack Daniel’s & Coca-Cola), flavored alcohol beverages (e.g., Lemon-Dou) and hard seltzers (e.g., Topo Chico Hard Seltzer)'. The term 'hard alternatives' was replaced with 'flavored alcohol beverages', and the order changed.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "KO",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "KO"
+    ]
+  },
+  {
+    "question": "Did the Company's statement about making products available in 'more than 200 countries and territories' remain consistent across all years?",
+    "answer": "Yes. In FY2022, the Company stated it makes products available 'in more than 200 countries and territories'. FY2023 content is truncated but implies the same. FY2024 also explicitly states 'in more than 200 countries and territories', so the scale has remained consistent.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "KO",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "KO"
+    ]
+  }
+]

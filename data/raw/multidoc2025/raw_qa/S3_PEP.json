@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the fiscal year end date for each of the three years (2022, 2023, 2024) as indicated in the MD&A headings?",
+    "answer": "FY2022: December 31, 2022; FY2023: December 30, 2023; FY2024: December 28, 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A heading",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PEP",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PEP"
+    ]
+  },
+  {
+    "question": "Did the PCAOB ID of the independent registered public accounting firm change across the three fiscal years?",
+    "answer": "No, the PCAOB ID remained 185 for all three years: FY2022, FY2023, and FY2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PEP",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PEP"
+    ]
+  },
+  {
+    "question": "What is the effective date of the By-laws of PepsiCo, Inc. as amended and restated in each of the three fiscal years?",
+    "answer": "For FY2022 and FY2023, the By-laws were effective as of April 15, 2020. For FY2024, the By-laws were amended and restated effective as of September 20, 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Exhibit 3.2 (referenced in MD&A exhibits listing)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PEP",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PEP"
+    ]
+  },
+  {
+    "question": "Are the financial statement schedules included or omitted in each year's 10-K filing?",
+    "answer": "They are omitted (not required or information set forth in financial statements or notes) in all three fiscal years: 2022, 2023, and 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 15(a)(2) (referenced in Item 7 / MD&A)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PEP",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PEP"
+    ]
+  },
+  {
+    "question": "What is the earliest fiscal year presented in the Consolidated Statement of Income for each filing?",
+    "answer": "For FY2022 filing: fiscal year 2020; for FY2023 filing: fiscal year 2021; for FY2024 filing: fiscal year 2022.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A – Consolidated Statement of Income listing",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PEP",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PEP"
+    ]
+  },
+  {
+    "question": "Did the effective date of the Amended and Restated Articles of Incorporation change across the three fiscal years?",
+    "answer": "No, the Articles of Incorporation were effective as of May 1, 2019 and remained unchanged in all three filings (FY2022, FY2023, FY2024).",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Exhibit 3.1 (referenced in MD&A exhibits listing)",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PEP",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "companies": [
+      "PEP"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What strategic difference is evident between DD and LIN regarding their business portfolio focus, based on the disclosed plans and product descriptions?",
+    "answer": "DD is pursuing a separation of its Electronics business (targeting November 1, 2025) and retaining its Water business, while LIN emphasizes its leadership in industrial gases, including atmospheric gases (oxygen, nitrogen, argon) and process gases (hydrogen, helium, carbon dioxide, etc.), with a focus on both conventional and low-carbon/renewable hydrogen production technologies.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DD",
+      "LIN"
+    ],
+    "evidence_section": "DD ITEM 7, LIN ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DD+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do DD and LIN position themselves competitively in terms of market leadership or strategic milestones in their respective segments?",
+    "answer": "LIN claims to be 'the market leader in the field of non-cryogenic air separation technologies for the production of industrial gases.' DD does not claim market leadership but highlights a major strategic milestone: the Intended Electronics Separation, which does not require a shareholder vote and is targeting November 1, 2025.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DD",
+      "LIN"
+    ],
+    "evidence_section": "DD ITEM 7, LIN ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DD+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What differences exist in the product and technology portfolios of DD and LIN as described in their filings?",
+    "answer": "DD’s filing focuses on its Electronics and Water businesses as part of a separation plan, but does not detail specific technologies. LIN details a wide range of industrial gas products (atmospheric gases: oxygen, nitrogen, argon, rare gases like krypton, neon, xenon; process gases: hydrogen, helium, carbon dioxide, carbon monoxide, specialty gases, acetylene) and technologies including cryogenic air separation, VPSA, membrane separation, SMR, ATR, and low-carbon/renewable hydrogen production.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DD",
+      "LIN"
+    ],
+    "evidence_section": "DD ITEM 7, LIN ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DD+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does each company disclose about its liquidity position, and how do they compare?",
+    "answer": "DD discloses specific liquidity figures: '$1.6 billion of net working capital' and '$1.9 billion in cash and cash equivalents' as of December 31, 2024. LIN’s filing does not provide any quantitative liquidity or cash position data in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DD",
+      "LIN"
+    ],
+    "evidence_section": "DD ITEM 7, LIN ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DD+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key differences in how DD and LIN describe their future strategic actions or outlook?",
+    "answer": "DD describes a specific planned action: the Intended Electronics Separation targeting November 1, 2025, and states it will retain the Water business. LIN does not disclose any specific future separations or strategic actions in the provided content; instead it describes its ongoing production technologies and market leadership in industrial gases.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DD",
+      "LIN"
+    ],
+    "evidence_section": "DD ITEM 7, LIN ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DD+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the filings, which company appears to have a broader product range, and what evidence supports that?",
+    "answer": "LIN appears to have a broader product range based on its detailed listing of atmospheric gases (oxygen, nitrogen, argon, rare gases) and process gases (hydrogen, helium, carbon dioxide, carbon monoxide, specialty gases, acetylene). DD’s filing mentions only 'Electronics' and 'Water' businesses without specific product details.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DD",
+      "LIN"
+    ],
+    "evidence_section": "DD ITEM 7, LIN ITEM 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DD+LIN",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

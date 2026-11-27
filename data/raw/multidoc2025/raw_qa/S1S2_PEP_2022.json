@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What types of operating costs did PepsiCo experience significantly higher in 2022?",
+    "answer": "transportation, labor and commodity (including energy) costs",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What deadly conflict is mentioned as an external factor impacting PepsiCo's supply chain?",
+    "answer": "the deadly conflict in Ukraine",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How does PepsiCo describe its transactions with vendors and customers where Board members have relationships?",
+    "answer": "in the normal course of business and are consistent with terms negotiated with other vendors and customers",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was PepsiCo's annual tax rate in 2022?",
+    "answer": "16.1%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Under what condition does PepsiCo establish valuation allowances for deferred tax assets?",
+    "answer": "If, based on the available evidence, it is not more likely than not that some portion or all of the deferred tax assets will be realized.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "By how many percentage points did PepsiCo's annual tax rate decrease from 2021 to 2022?",
+    "answer": "5.7 percentage points (21.8% - 16.1%)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of the independent registered public accounting firm mentioned in Item 7?",
+    "answer": "185",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What are the fiscal year end dates for the consolidated statements covered in this MD&A?",
+    "answer": "December 31, 2022, December 25, 2021 and December 26, 2020",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many fiscal years are covered in the consolidated statements listed in this section?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many consolidated financial statements are listed in Item 7?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct fiscal year end dates are mentioned across all consolidated statements?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in the number of fiscal years covered between the Consolidated Statement of Income (3 years) and the Consolidated Balance Sheet (2 years)?",
+    "answer": "1",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the exact title of Item 7A according to the provided content?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What phrase follows the section title in the provided content?",
+    "answer": "Included in",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does the provided text indicate about the location of market risk disclosures?",
+    "answer": "The disclosures are 'Included in' another section of the filing.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "PEP",
+    "year": "2022",
+    "sector": "Consumer Staples",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "PEP"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

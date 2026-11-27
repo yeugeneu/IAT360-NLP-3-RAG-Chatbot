@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the exact wording of the MD&A introduction in fiscal year 2022?",
+    "answer": "The exact wording is: 'ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Reference is made to the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Financial Section of this report.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "XOM",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "XOM"
+    ]
+  },
+  {
+    "question": "How does the MD&A introduction for 2023 differ from that of 2022?",
+    "answer": "There is no difference; the MD&A introduction for 2023 is identical to that of 2022, both stating: 'Reference is made to the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Financial Section of this report.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "XOM",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "XOM"
+    ]
+  },
+  {
+    "question": "Compare the MD&A introductory texts for all three years: 2022, 2023, and 2024. What pattern do you observe?",
+    "answer": "The introductory text is identical across all three years. For each year, the text is: 'ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Reference is made to the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Financial Section of this report.'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "XOM",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "XOM"
+    ]
+  },
+  {
+    "question": "In fiscal year 2024, what does the MD&A reference?",
+    "answer": "The MD&A references the section entitled 'Management’s Discussion and Analysis of Financial Condition and Results of Operations' in the Financial Section of the report.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "XOM",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "XOM"
+    ]
+  },
+  {
+    "question": "Across the three fiscal years, was there any change in the language used to introduce the MD&A section?",
+    "answer": "No, the language remained exactly the same for 2022, 2023, and 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "XOM",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "XOM"
+    ]
+  },
+  {
+    "question": "What is the title of the section referenced in the MD&A introduction for all three years?",
+    "answer": "The title is 'Management’s Discussion and Analysis of Financial Condition and Results of Operations' for all three years.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "XOM",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "companies": [
+      "XOM"
+    ]
+  }
+]

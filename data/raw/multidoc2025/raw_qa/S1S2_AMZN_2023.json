@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What type of statements does this Annual Report contain?",
+    "answer": "forward-looking statements",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On what are the forward-looking statements based?",
+    "answer": "expectations, estimates, and projections",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the name of this report?",
+    "answer": "Annual Report on Form 10-K",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What typically happens to Amazon's cash, cash equivalents, and marketable securities balances as of December 31 each year?",
+    "answer": "They typically reach their highest level.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What does Amazon's A-to-z Guarantee provide to customers?",
+    "answer": "Reimbursement for payments up to certain limits.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the text, if accounts payable declines during the first three months of the year, what is the corresponding change in cash, cash equivalents, and marketable securities balances?",
+    "answer": "A corresponding decline.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the MD&A, in which industries does Amazon face competition?",
+    "answer": "Physical, e-commerce, and omnichannel retail, e-commerce services, web and infrastructure computing services, electronic devices, digital content, advertising, grocery, and transportation and logistics services.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What advantages do some of Amazon's current and potential competitors have?",
+    "answer": "Greater resources, longer histories, more customers, and/or greater brand recognition.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What aspect of the Internet enhances the ability of new, smaller, or lesser known businesses to compete against Amazon?",
+    "answer": "The Internet facilitates competitive entry and comparison shopping.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the table of competitive factors, how many distinct industry segments are listed as areas of competition?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "In the table of competitor resources, how many categories of potential advantages do competitors have over Amazon?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "From the table of business risks, what is the total number of service-related competition types mentioned?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What types of market risk does the company disclose in Item 7A?",
+    "answer": "interest rate changes, foreign currency fluctuations, and changes in the market values of our investments",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many types of market risk are mentioned in Item 7A?",
+    "answer": "three",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the text, where is additional information relating to quantitative and qualitative disclosures about market risk set forth?",
+    "answer": "below and in",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of Ernst & Young LLP as stated in the Report of Independent Registered Public Accounting Firm?",
+    "answer": "42",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On which page does the Consolidated Balance Sheets appear according to the Index to Consolidated Financial Statements?",
+    "answer": "39",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many separate items (including the auditor's report and each financial statement) are listed in the Index to Consolidated Financial Statements?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Based on the Index to Consolidated Financial Statements provided in the 2023 10-K, what is the average page number of the six main financial statements (Consolidated Statements of Cash Flows, Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income (Loss), Consolidated Balance Sheets, Consolidated Statements of Stockholders’ Equity, and Notes to Consolidated Financial Statements)?",
+    "answer": "38.5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of the page number for the Consolidated Balance Sheets to the page number for the Consolidated Statements of Cash Flows?",
+    "answer": "13/12",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the sum of the page numbers for the Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income (Loss), and Consolidated Balance Sheets?",
+    "answer": "114",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "AMZN",
+    "year": "2023",
+    "sector": "Consumer Discretionary",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "AMZN"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

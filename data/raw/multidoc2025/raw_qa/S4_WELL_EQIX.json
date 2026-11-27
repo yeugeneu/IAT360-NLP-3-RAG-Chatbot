@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Compare the types of risks emphasized by Welltower in Item 7 with the critical accounting policies emphasized by Equinix in Item 8.",
+    "answer": "Welltower highlights macroeconomic and geopolitical risks such as public health crises, global conflicts, supply chain disruptions, labor market constraints, rising inflation, and high interest rates. Equinix identifies five critical accounting policies with significant estimation uncertainty: accounting for income taxes, business combinations, impairment of goodwill and other intangible assets, property plant and equipment, and leases.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "EQIX"
+    ],
+    "evidence_section": "WELL Item 7; EQIX Item 8",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the auditor's opinion on Welltower's financial statements and internal control, and does the provided Equinix excerpt include a similar audit opinion?",
+    "answer": "Welltower's auditor issued an unqualified opinion on both the consolidated financial statements (conformity with U.S. GAAP) and internal control over financial reporting (effective based on COSO 2013 framework). The provided Equinix excerpt does not contain any audit opinion.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "EQIX"
+    ],
+    "evidence_section": "WELL Item 8 – Report of Independent Registered Public Accounting Firm; EQIX- provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does Equinix describe its global footprint, and what sector focus can be inferred for Welltower from its filing?",
+    "answer": "Equinix states it has 268 IBXs (including 20 xScale data centers and the MC1 data center held in unconsolidated joint ventures) across 74 markets worldwide. Welltower is a real estate investment trust, and its risk factors discuss public health crises and healthcare-related exposures, indicating a focus on healthcare properties.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "EQIX"
+    ],
+    "evidence_section": "EQIX Overview; WELL Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What solutions does Equinix offer, and what risk factors does Welltower list that could affect its business?",
+    "answer": "Equinix offers premium data center colocation, interconnection and data exchange solutions, edge solutions for networking/security/hardware, and remote expert support and professional services. Welltower lists risks including public health crises, escalating global conflicts, supply chain disruptions, labor market constraints, rising inflation, and high interest rates.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "EQIX"
+    ],
+    "evidence_section": "EQIX Overview; WELL Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the accounting estimation uncertainties discussed by Equinix compare to the forward-looking statement cautions provided by Welltower?",
+    "answer": "Equinix discusses estimation uncertainties in specific accounting policies (income taxes, business combinations, goodwill impairment, property/equipment, leases) that could affect financial statements. Welltower cautions that actual results may differ materially from forward-looking statements due to specific risks and that macroeconomic developments may amplify those risks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "EQIX"
+    ],
+    "evidence_section": "EQIX Item 8 – Critical Accounting Policies; WELL Item 7 – Risk Factor Summary",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Identify the 'more likely than not' threshold used by Equinix in its tax accounting and state whether Welltower's filing contains a similar probability threshold.",
+    "answer": "Equinix uses a 'more likely than not' (greater than 50%) threshold for recognizing deferred tax assets and uncertain tax positions. Welltower's provided filing does not contain the phrase 'more likely than not' nor any explicitly stated probability threshold.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "WELL",
+      "EQIX"
+    ],
+    "evidence_section": "EQIX – Accounting for Income Taxes; WELL – provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "WELL+EQIX",
+    "year": "2024",
+    "sector": "Real Estate",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

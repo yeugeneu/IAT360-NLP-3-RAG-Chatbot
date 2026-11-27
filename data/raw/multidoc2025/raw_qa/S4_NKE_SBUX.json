@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were the total revenues for NIKE and Starbucks in fiscal 2024?",
+    "answer": "NIKE reported total revenues of $51.4 billion for fiscal 2024. Starbucks reported total net revenues of $36,176.2 million (or $36.2 billion) for fiscal 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NKE",
+      "SBUX"
+    ],
+    "evidence_section": "NIKE: ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS; Starbucks: Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NKE+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate and compare the year-over-year revenue growth rates for NIKE and Starbucks in fiscal 2024.",
+    "answer": "NIKE’s revenue grew from $51.2 billion in fiscal 2023 to $51.4 billion in fiscal 2024, a growth rate of approximately 0.39%. Starbucks’ total net revenues grew from $35,975.6 million in fiscal 2023 to $36,176.2 million in fiscal 2024, a growth rate of approximately 0.56%. Thus, Starbucks had a slightly higher revenue growth rate.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NKE",
+      "SBUX"
+    ],
+    "evidence_section": "NIKE: ITEM 7 (FISCAL 2024 FINANCIAL HIGHLIGHTS: $51.4 billion compared to $51.2 billion); Starbucks: Item 8 (Consolidated Statements of Earnings: fiscal 2024 $36,176.2 million, fiscal 2023 $35,975.6 million)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NKE+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the growth strategies of NIKE and Starbucks differ as described in their fiscal 2024 filings?",
+    "answer": "NIKE’s strategy focuses on creating innovative products, building consumer connections, and delivering compelling experiences through digital platforms and retail. It continues to invest in NIKE Direct operations while also increasing investment to elevate its brand experience within wholesale partners. Starbucks’ growth is driven by new store openings, comparable store sales, and operating margin management, underpinned by disciplined capital allocation.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NKE",
+      "SBUX"
+    ],
+    "evidence_section": "NIKE: ITEM 7 (OVERVIEW and strategy paragraphs); Starbucks: Item 7 (MD&A: Overview and key operating metrics)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NKE+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What workforce-related actions did NIKE and Starbucks report in their fiscal 2024 filings?",
+    "answer": "NIKE announced an enterprise-wide initiative in the third quarter of fiscal 2024 to streamline the organization, resulting in a net reduction of its global workforce. It expects to reinvest a majority of the future annual wage savings from these actions to support growth. Starbucks reported restructuring and impairments of $21.8 million in fiscal 2023, but none in fiscal 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NKE",
+      "SBUX"
+    ],
+    "evidence_section": "NIKE: ITEM 7 (OVERVIEW: 'net reduction of our global workforce'); Starbucks: Item 8 (Consolidated Statements of Earnings: Restructuring and impairments line)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NKE+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Did either NIKE or Starbucks report a decline in comparable store sales in fiscal 2024?",
+    "answer": "Starbucks reported a decrease in comparable store sales in fiscal 2024, including a 2% decline in both the North America segment and the U.S. market. NIKE does not discuss comparable store sales in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NKE",
+      "SBUX"
+    ],
+    "evidence_section": "NIKE: Not mentioned in provided content; Starbucks: Item 7 (MD&A: 'decrease in comparable store sales' and '2% decline in comparable store sales')",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "NKE+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the operating margin for Starbucks in fiscal 2024, and can the same metric be calculated for NIKE from the provided information?",
+    "answer": "Starbucks’ operating margin for fiscal 2024 is 14.95% (Operating income $5,408.8 million divided by total net revenues $36,176.2 million). NIKE does not disclose operating income or operating expenses in the provided excerpt, so its operating margin cannot be calculated.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "NKE",
+      "SBUX"
+    ],
+    "evidence_section": "Starbucks: Item 8 (Consolidated Statements of Earnings: Operating income and total net revenues); NIKE: Provided content does not include operating income or expenses",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "NKE+SBUX",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

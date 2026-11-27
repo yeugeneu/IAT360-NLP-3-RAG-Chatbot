@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Based on the 10-K filings, how does NEE's customer account growth between fiscal years 2022 and 2024 compare with DUK's strategic focus regarding coal-fired generation as of 2024? Provide the numerical evidence for NEE's growth and describe DUK's cited approach.",
+    "answer": "NEE served approximately 5.8 million customer accounts in FY2022 and more than six million customer accounts in FY2024, indicating growth. DUK, in its FY2024 filing, states it continues to evaluate the retirement date assumptions for all coal-fired generating facilities, focusing on transitioning away from coal.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DUK",
+      "NEE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "NEE FY2022 Item 7 Overview and FY2024 Item 7 Overview; DUK FY2024 Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "DUK+NEE",
+    "sector": "Utilities"
+  },
+  {
+    "question": "Based on NEE's FY2022 and FY2024 filings, what was the increase in customer accounts, and how does DUK's focus on evaluating coal-fired generating facility retirement dates contrast with NEE's growth strategy?",
+    "answer": "NEE's customer accounts grew from approximately 5.8 million in FY2022 to more than six million in FY2024. In contrast, DUK in FY2024 discusses evaluating retirement date assumptions for coal-fired generating facilities, indicating a strategic focus on transitioning away from coal, while NEE emphasizes serving a growing customer base.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DUK",
+      "NEE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "DUK+NEE",
+    "sector": "Utilities"
+  },
+  {
+    "question": "What is the minimum percentage growth in NextEra Energy's (NEE) customer accounts from FY2022 to FY2024, and how does this compare to Duke Energy's (DUK) stated approach to coal-fired generation during the same period?",
+    "answer": "NextEra Energy's customer accounts grew from approximately 5.8 million in FY2022 to more than six million in FY2024, representing a minimum increase of approximately 3.45% (calculated as (6.0 − 5.8) / 5.8). By contrast, Duke Energy's FY2024 MD&A states the company 'continues to evaluate the retirement date assumptions for all coal-fired generating facilities,' indicating a strategic focus on coal retirements without providing specific numerical targets or timelines. This comparison highlights NEE's measured customer base expansion alongside FPL's growth, while DUK signals a transition away from coal.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "DUK",
+      "NEE"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "DUK+NEE",
+    "sector": "Utilities"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were JNJ's worldwide sales in 2023, and does the PFE excerpt provide a similar revenue figure for 2024?",
+    "answer": "JNJ's worldwide sales in 2023 were $85.2 billion. The PFE excerpt does not include any revenue figure for 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ",
+      "PFE"
+    ],
+    "evidence_section": "JNJ Item 7; PFE Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JNJ+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the fiscal year ends compare between JNJ and PFE based on the provided content?",
+    "answer": "JNJ's fiscal year ends on December 31, 2023 (with a comparative balance sheet as of January 1, 2023). PFE's fiscal year ends on December 31, 2024 (with comparative balance sheets as of December 31, 2024 and 2023).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ",
+      "PFE"
+    ],
+    "evidence_section": "JNJ Item 8 (balance sheet dates); PFE Item 8 (audit report dates)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JNJ+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Did both JNJ and PFE receive an unqualified opinion on internal control over financial reporting in their filings?",
+    "answer": "PFE's audit report explicitly states an unqualified opinion on the effectiveness of internal control over financial reporting. JNJ's excerpt does not include any statement about an unqualified opinion on internal control; it only mentions a 'Report of independent registered public accounting firm' without specifying the opinion on internal control.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ",
+      "PFE"
+    ],
+    "evidence_section": "JNJ Item 8 (audit report line); PFE Item 8 (audit opinion paragraph)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JNJ+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a breakdown of sales growth by volume, price, and currency in its MD&A, and which does not?",
+    "answer": "JNJ provides a breakdown: volume 6.8%, price 0.6%, currency (0.9%) for 2023. PFE's excerpt does not include any such breakdown.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ",
+      "PFE"
+    ],
+    "evidence_section": "JNJ Item 7; PFE Item 7 (no such detail)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JNJ+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the geographic sales segments differ between JNJ and PFE in the provided excerpts?",
+    "answer": "JNJ reports U.S. sales of $46.4 billion and international sales of $38.7 billion for 2023, with additional regional breakdowns. PFE's excerpt does not provide any geographic sales segmentation.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ",
+      "PFE"
+    ],
+    "evidence_section": "JNJ Item 7; PFE Item 7 (no geographic detail)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JNJ+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Does either company disclose the use of wholesalers or discontinued operations in the provided content?",
+    "answer": "JNJ mentions that it utilized three wholesalers distributing products and reports discontinued operations with assets and liabilities. PFE's excerpt does not mention wholesalers or discontinued operations.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ",
+      "PFE"
+    ],
+    "evidence_section": "JNJ Item 7 (wholesalers) and Item 8 (discontinued operations balance sheet); PFE Items 7-8 (no such mentions)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "JNJ+PFE",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

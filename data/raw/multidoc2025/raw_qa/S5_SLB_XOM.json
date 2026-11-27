@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the year-on-year revenue growth rate of SLB in 2022 to the year-on-year revenue growth rate of XOM in 2024 based on the provided excerpts.",
+    "answer": "SLB's full-year 2022 revenue increased 23% year on year. XOM's 2024 revenue growth rate is not provided in the given excerpts; the 10-K only references its MD&A section without specific numerical data.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SLB",
+      "XOM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "SLB 2022: \"Full-year 2022 revenue of $28.1 billion increased 23% year on year.\" XOM 2024: \"Reference is made to the section entitled 'Management’s Discussion and Analysis of Financial Condition and Results of Operations'\" (no numerical growth rate provided).",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SLB+XOM",
+    "sector": "Energy"
+  },
+  {
+    "question": "For the years 2022 and 2024, what numerical revenue growth percentages are explicitly stated in the provided excerpts for SLB and XOM?",
+    "answer": "In the provided content, only SLB for the year 2022 explicitly states a numerical revenue growth percentage of 23%. For SLB 2024, the text mentions 'revenue increase' but does not provide a specific percentage. For XOM 2022 and 2024, no numerical revenue data is given in the excerpts.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SLB",
+      "XOM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 Executive Overview for SLB 2022 and 2024; Item 7 MD&A for XOM 2022 and 2024",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SLB+XOM",
+    "sector": "Energy"
+  },
+  {
+    "question": "Based on the provided Executive Overview excerpts, which company-year combination explicitly states a numerical revenue figure, and what is that figure?",
+    "answer": "Only SLB's 2022 Executive Overview provides a specific numerical revenue figure: full-year 2022 revenue of $28.1 billion. The SLB 2024 excerpt only mentions a revenue increase without a number, and both XOM 2022 and 2024 excerpts merely reference the MD&A section without providing any revenue numbers.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "SLB",
+      "XOM"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of SLB’s 2022 Annual Report (Executive Overview): 'Full-year 2022 revenue of $28.1 billion increased 23% year on year.'; SLB 2024: 'Year on year, revenue increase' (no number); XOM 2022 and 2024: 'Reference is made to the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Financial Section of this report.' (no numerical data provided).",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "SLB+XOM",
+    "sector": "Energy"
+  }
+]

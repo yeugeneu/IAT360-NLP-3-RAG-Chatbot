@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the stated purpose of the MD&A in FY2022, FY2023, and FY2024?",
+    "answer": "The MD&A in all three fiscal years states the same purpose: 'The following MD&A is intended to assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the consolidated financial statements and related notes in'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PFE",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "PFE"
+    ]
+  },
+  {
+    "question": "Does the description of MD&A's role change between FY2022 and FY2023? If so, how?",
+    "answer": "No, the description does not change; the exact same wording appears in both years: 'The following MD&A is intended to assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the consolidated financial statements and related notes in'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PFE",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "PFE"
+    ]
+  },
+  {
+    "question": "What phrase does the MD&A consistently use across all three years to indicate it should be read with the financial statements?",
+    "answer": "The phrase consistently used is 'should be read in conjunction with the consolidated financial statements and related notes in'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PFE",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "PFE"
+    ]
+  },
+  {
+    "question": "In how many of the fiscal years (2022, 2023, 2024) does the MD&A header include 'ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS GENERAL'?",
+    "answer": "All three fiscal years (2022, 2023, 2024) include that exact header.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PFE",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "PFE"
+    ]
+  },
+  {
+    "question": "Which fiscal year(s) include an evaluation of cash flows from operations and from outside sources in the MD&A description?",
+    "answer": "All three fiscal years (2022, 2023, 2024) include the phrase 'including an evaluation of the amounts and certainty of cash flows from operations and from outside sources' in the MD&A.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PFE",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "PFE"
+    ]
+  },
+  {
+    "question": "What is the exact wording of the first sentence of the MD&A for each fiscal year (2022, 2023, 2024)?",
+    "answer": "The exact first sentence is identical for each year: 'The following MD&A is intended to assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the consolidated financial statements and related notes in'",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PFE",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "companies": [
+      "PFE"
+    ]
+  }
+]

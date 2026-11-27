@@ -1,0 +1,380 @@
+[
+  {
+    "question": "In what year was Exxon Mobil Corporation incorporated?",
+    "answer": "1882",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In what state was Exxon Mobil Corporation incorporated?",
+    "answer": "New Jersey",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many years had Exxon Mobil Corporation been incorporated as of the fiscal year 2022?",
+    "answer": "140 years",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What factors can affect the timing and amount of proved reserves recovered?",
+    "answer": "The timing and amount recovered can be affected by a number of factors including completion of development projects, reservoir performance, regulatory approvals, government policies, consumer preferences, and significant changes in crude oil and natural gas price levels.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What condition must be met for the Corporation to record proved reserves?",
+    "answer": "The Corporation only records proved reserves for projects which have received significant funding commitments by management toward the development of the reserves.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What types of data are used in the integrated assessments to estimate proved reserves additions?",
+    "answer": "Data used include information obtained directly from the subsurface via wellbores (such as well logs, reservoir core samples, fluid samples, static and dynamic pressure information, production test data, and surveillance and performance information) and subsurface information obtained through indirect measurements including high-quality 3‑D and 4‑D seismic data, calibrated with available well control information.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the exact title of the section referenced in Item 7?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "In which part of the report is the Management's Discussion and Analysis section located?",
+    "answer": "in the Financial Section of this report",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many words are in the entire provided content?",
+    "answer": "38",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the market risk disclosure, when do restrictions on foreign investment in the oil and gas sector tend to increase?",
+    "answer": "in times of high commodity prices",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What restrictions may prohibit ExxonMobil or its affiliates from doing business in certain countries?",
+    "answer": "laws and sanctions imposed by the United States or by other jurisdictions where we do business",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does lack of legal certainty expose ExxonMobil's operations to?",
+    "answer": "increased risk of adverse or unpredictable actions by government officials",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the PCAOB ID of PricewaterhouseCoopers LLP mentioned in Item 8?",
+    "answer": "238",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the date of the report of the independent registered public accounting firm?",
+    "answer": "February 22, 2023",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the name of the last note covered in the consolidated financial statements according to Item 8?",
+    "answer": "Note 20: Divestment Activities",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of distinct sections listed in Item 8?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the PCAOB ID and the number of notes explicitly mentioned?",
+    "answer": "237",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the fiscal year and the year of the report date (as stated in the text)?",
+    "answer": "4045",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "XOM",
+    "year": "2022",
+    "sector": "Energy",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "XOM"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

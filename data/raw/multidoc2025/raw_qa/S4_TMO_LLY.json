@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What were the total revenues for TMO and LLY in FY2024? Which company generated higher revenue and by how much?",
+    "answer": "TMO reported revenues of $42,879 million and LLY reported revenues of $45,042.7 million. LLY's revenue was higher by $2,163.7 million ($45,042.7 - $42,879 = $2,163.7).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "LLY"
+    ],
+    "evidence_section": "TMO: 'Consolidated Results' table (Revenues $42,879); LLY: 'Financial Results' table (Revenue $45,042.7) and 'Revenue' line in income statement.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "TMO+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the revenue growth rates for TMO and LLY in FY2024. What were the percentages?",
+    "answer": "TMO reported 0% revenue growth. LLY reported 32% revenue growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "LLY"
+    ],
+    "evidence_section": "TMO: 'Consolidated Results' Revenue growth 0%; LLY: 'Financial Results' table shows Revenue $34,124.1 (2023) and $45,042.7 (2024) with 32% change.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare GAAP diluted earnings per share for TMO and LLY.",
+    "answer": "TMO GAAP diluted earnings per share: $16.53. LLY GAAP diluted earnings per share: $11.71.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "LLY"
+    ],
+    "evidence_section": "TMO: 'Consolidated Results' GAAP diluted earnings per share $16.53; LLY: 'Consolidated Statements of Operations' Diluted $11.71.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the GAAP operating income margin for TMO and the GAAP net income margin for LLY?",
+    "answer": "TMO GAAP operating income margin: 17.1%. LLY GAAP net income margin: 23.5% (calculated as net income $10,590.0 divided by revenue $45,042.7 = 0.23512, rounded to 23.5%).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "LLY"
+    ],
+    "evidence_section": "TMO: 'Consolidated Results' GAAP operating income margin 17.1%; LLY: 'Consolidated Statements of Operations' Net income $10,590.0 and Revenue $45,042.7.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "TMO+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does TMO's adjusted (non-GAAP) operating income margin compare to LLY's GAAP net income margin?",
+    "answer": "TMO adjusted operating income margin: 22.6%. LLY GAAP net income margin: 23.5% (calculated as $10,590.0 / $45,042.7 = 23.5%). The margins are similar, with LLY slightly higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "LLY"
+    ],
+    "evidence_section": "TMO: 'Consolidated Results' Adjusted operating income margin 22.6%; LLY: 'Consolidated Statements of Operations' Net income $10,590.0 and Revenue $45,042.7.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "TMO+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the primary drivers of revenue for each company in FY2024?",
+    "answer": "TMO's overall revenue was flat (0% growth) with no specific drivers mentioned in the excerpt. LLY's revenue increase was driven primarily by Mounjaro, Zepbound, and Verzenio, partially offset by Trulicity.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "TMO",
+      "LLY"
+    ],
+    "evidence_section": "TMO: 'Consolidated Results' Revenue growth 0%; LLY: 'Financial Results' paragraph: 'The increase in revenue in 2024 was primarily driven by Mounjaro, Zepbound, and Verzenio, partially offset by Trulicity.'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "TMO+LLY",
+    "year": "2024",
+    "sector": "Healthcare",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How does the insurance strategy for electric transmission and distribution lines differ between Duke Energy (DUK) and Exelon (EXC) based on the provided filings?",
+    "answer": "DUK states that it self-insures its electric transmission and distribution lines against loss due to storm damage and other natural disasters. EXC's filing does not mention self-insurance for transmission and distribution lines; instead it discusses rate increases, interest expense, and other operational factors.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "EXC"
+    ],
+    "evidence_section": "DUK: Item 8 — Insurance General Insurance paragraph; EXC: Item 7 — Financial Results of Operations and discussion",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company provides a breakdown of net income by subsidiary or registrant for fiscal year 2024, and what is the net income for Exelon's ComEd subsidiary?",
+    "answer": "EXC provides a table showing net income attributable to common shareholders from continuing operations by registrant; ComEd's net income for 2024 is $1,066 million. DUK does not provide such a breakdown in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "EXC"
+    ],
+    "evidence_section": "EXC: Item 7 — table listing 2024 net income by registrant ($1,066 for ComEd); DUK: Item 8 — no comparable segment net income table in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the filings, what are the key regulatory jurisdictions for DUK and EXC?",
+    "answer": "DUK operates through subsidiaries in the Carolinas (Duke Energy Carolinas, Progress Energy, Duke Energy Progress), Florida, Ohio, Indiana, and Piedmont. EXC operates through ComEd, PECO, BGE, and PHI (which includes Pepco, DPL, and ACE).",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "EXC"
+    ],
+    "evidence_section": "DUK: Item 8 — list of registrants (Duke Energy Carolinas, Progress Energy, Duke Energy Progress, Duke Energy Florida, Duke Energy Ohio, Duke Energy Indiana, Piedmont); EXC: Item 7 — table showing net income by registrant (ComEd, PECO, BGE, PHI with Pepco, DPL, ACE)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does DUK approach the retirement of coal-fired generation assets compared to EXC?",
+    "answer": "DUK states it continues to evaluate retirement date assumptions for coal-fired generating facilities and plans to seek regulatory recovery for amounts not otherwise recovered when assets are retired. EXC does not discuss coal plant retirements in the provided content; it focuses on rate increases, energy demand, and cost trends.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "EXC"
+    ],
+    "evidence_section": "DUK: Item 7 — paragraph on resource plans and coal-fired generating facilities retirement; EXC: Item 7 — discussion of rate increases, weather, return on regulatory assets, etc.",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the diluted earnings per share from continuing operations for Exelon in 2024, and does Duke Energy provide its diluted EPS in the included content?",
+    "answer": "EXC reports diluted earnings per average common share from continuing operations of $2.45 for 2024. DUK does not provide any diluted EPS figure in the content provided.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "EXC"
+    ],
+    "evidence_section": "EXC: Item 7 — \"Diluted earnings per average common share from continuing operations increased to $2.45 in 2024\"; DUK: entire provided content — no EPS data",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do DUK and EXC differ in their financial reporting structure for subsidiaries?",
+    "answer": "DUK includes separate consolidated financial statements for multiple subsidiaries: Duke Energy Carolinas, Progress Energy, Duke Energy Progress, Duke Energy Florida, Duke Energy Ohio, Duke Energy Indiana, and Piedmont. EXC reports consolidated financial statements and provides a segment breakdown by registrant (ComEd, PECO, BGE, PHI) in its MD&A, but does not include separate subsidiary financial statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "DUK",
+      "EXC"
+    ],
+    "evidence_section": "DUK: Item 8 — list of separate reports (e.g., Duke Energy Carolinas Report, Progress Energy Report, etc.); EXC: Item 8 — only one consolidated report; Item 7 — net income breakdown by registrant",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "DUK+EXC",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

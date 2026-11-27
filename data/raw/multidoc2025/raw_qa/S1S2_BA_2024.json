@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What is the narrow-body model currently in production according to this section?",
+    "answer": "737",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many commercial jet aircraft models are currently in production?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which wide-body models are mentioned as in production?",
+    "answer": "767, 777, 787",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the principal factors underlying long-term traffic growth in the commercial aircraft market?",
+    "answer": "sustained economic growth and political stability",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "According to the risk factors, what has the airline industry historically experienced?",
+    "answer": "significant profit swings and constant challenges to be more cost competitive",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many additional factors are listed that influence demand for commercial aircraft? (Count the items separated by commas after 'including')",
+    "answer": "14",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What date did an Alaska Airlines 737-9 flight make an emergency landing after a mid-exit door plug detached in flight?",
+    "answer": "January 5, 2024",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Approximately how many 737-9 aircraft were in the in-service fleet that had a mid-exit door plug?",
+    "answer": "approximately 220 737-9 aircraft",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many days passed between the emergency landing on January 5, 2024 and the FAA approval of enhanced maintenance inspections on January 24, 2024?",
+    "answer": "19 days",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What financial instruments subject Boeing to interest rate risk?",
+    "answer": "fixed-rate debt obligations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "As of December 31, 2024, what would be the effect on unrealized losses from a 10% change in foreign currency exchange rates?",
+    "answer": "increased or decreased our unrealized losses by $428 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "If the impact of a 10% change in foreign currency exchange rates on unrealized losses is $428 million, what would be the impact of a 5% change?",
+    "answer": "$214 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were total revenues for the year ended December 31, 2024?",
+    "answer": "$66,517 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between total revenues for 2023 and 2024?",
+    "answer": "$11,277 million (77,794 - 66,517)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Statements of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which page does Note 1 - Summary of Significant Accounting Policies begin?",
+    "answer": "Page 60",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Index to the Consolidated Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the ratio of research and development expense to total revenues for fiscal year 2024?",
+    "answer": "The ratio is 3,812 / 66,517 ≈ 0.0573 (5.73%).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Calculate the percentage change in total revenues from 2023 to 2024.",
+    "answer": "The change is (66,517 - 77,794) / 77,794 = -11,277 / 77,794 ≈ -0.1450, or a decline of 14.5%.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the total of general and administrative expense and research and development expense for fiscal year 2023?",
+    "answer": "The total is 5,168 + 3,377 = 8,545 (in millions).",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BA",
+    "year": "2024",
+    "sector": "Industrials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BA"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

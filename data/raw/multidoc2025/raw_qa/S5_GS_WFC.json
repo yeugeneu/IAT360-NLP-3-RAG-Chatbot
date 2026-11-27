@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Based on the provided excerpts from the 10-K filings, how does the presentation of Item 7 (Management’s Discussion and Analysis) differ between Goldman Sachs (GS) and Wells Fargo (WFC) in 2022 and 2024? Provide evidence from the text and any financial tables mentioned.",
+    "answer": "For both 2022 and 2024, GS includes a direct section titled 'Management’s Discussion and Analysis' with specific discussions (e.g., 'Market Risk Mana...' in 2022 and a mention of a financial table in 2024: 'The table below presents an overview of our financial results and selected financial ratios. Year Ended December $'). In contrast, WFC does not include the full text of Item 7 in its 10-K filing for either year; instead, it states that 'Item 7 can be found in the 2022 Annual Report to Shareholders under “Financial Review.” That information is incorporated into this item by reference.' (and similarly for 2024). No financial table data is provided for WFC in the excerpts, whereas GS FY2024 explicitly references a table containing numerical financial results, though the actual values from that table are not included in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GS",
+      "WFC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "GS+WFC",
+    "sector": "Financials"
+  },
+  {
+    "question": "Based on the provided excerpts, how did Goldman Sachs' and Wells Fargo's presentation of the Management's Discussion and Analysis (Item 7) in their Form 10-K change from fiscal year 2022 to 2024, and what does this indicate about their comparative disclosure approaches? Identify the specific evidence from both text and the mention of a financial table.",
+    "answer": "In 2022, GS directly included a discussion on 'Market Risk Management' within Item 7 (text evidence: 'Market Risk Mana'), while WFC incorporated Item 7 by reference (text evidence: 'Item 7 can be found in the 2022 Annual Report...'). In 2024, GS directly included a 'Financial Overview' table (text evidence: 'The table below presents an overview of our financial results...'), whereas WFC again incorporated by reference (text evidence: 'Item 7 can be found in the 2024 Annual Report...'). This indicates GS provides more granular numerical data and qualitative discussion directly in the filing, while WFC relies on its Annual Report to Shareholders for the full disclosure.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "GS",
+      "WFC"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 for both companies and years",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "GS+WFC",
+    "sector": "Financials"
+  }
+]

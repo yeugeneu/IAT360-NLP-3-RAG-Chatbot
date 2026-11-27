@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Compare the level of financial detail provided in the Item 7+8 excerpts for WFC and GS across the years 2022 and 2024. Which company provides more quantitative data for cross-year trend analysis?",
+    "answer": "The WFC excerpts for both 2022 and 2024 only state that the information is incorporated by reference, providing no numerical data. The GS 2024 excerpt includes a table with net revenues, pre-tax earnings, and net earnings for years 2022, 2023, and 2024, allowing cross-year trend analysis. The GS 2022 excerpt contains only text about market risk management, with no financial table. Therefore, GS provides more quantitative data in the 2024 excerpt, but not consistently across years. WFC provides no quantitative data in either year.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "WFC",
+      "GS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7+8 (WFC FY2022, WFC FY2024, GS FY2022, GS FY2024)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "WFC+GS",
+    "sector": "Financials"
+  },
+  {
+    "question": "What is the trend in GS's net revenues from 2022 to 2024 based on the provided data, and how does this compare to the trend that could be derived from WFC's excerpts?",
+    "answer": "GS net revenues: 2022 = $47,365 million, 2023 = $46,254 million, 2024 = $53,512 million, showing a decline in 2023 then a sharp increase in 2024. WFC's excerpts contain no revenue data, so no trend can be derived. Therefore, a comparison of trends is impossible due to insufficient WFC data.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "WFC",
+      "GS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7+8 (WFC FY2022, WFC FY2024, GS FY2024 table)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "WFC+GS",
+    "sector": "Financials"
+  },
+  {
+    "question": "Identify the specific numerical values for GS's pre-tax earnings in 2022 and 2024. Then, based on the excerpt, explain why a similar calculation cannot be performed for WFC.",
+    "answer": "GS pre-tax earnings: 2022 = $13,486 million, 2024 = $18,397 million (from the table in GS FY2024). WFC's excerpts contain no financial tables or numerical values for pre-tax earnings in either 2022 or 2024; the Item 7+8 are incorporated by reference, so no direct numbers are provided. Hence, no pre-tax earnings figures can be extracted or compared for WFC.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "WFC",
+      "GS"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7+8 (WFC FY2022, WFC FY2024, GS FY2024 table)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "WFC+GS",
+    "sector": "Financials"
+  }
+]

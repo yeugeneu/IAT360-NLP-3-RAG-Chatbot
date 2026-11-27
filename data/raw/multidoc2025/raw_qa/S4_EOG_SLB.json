@@ -1,0 +1,134 @@
+[
+  {
+    "question": "In 2024, what were EOG's operating revenues and SLB's total revenue, and how do they compare?",
+    "answer": "EOG's operating revenues were $23,698 million, while SLB's total revenue was $36,289 million. SLB's revenue was approximately 53% higher than EOG's.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "SLB"
+    ],
+    "evidence_section": "EOG: Item 7 - Operating Revenues and Other; SLB: Item 8 - Consolidated Statement of Income",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "EOG+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company experienced revenue growth in 2024, and by what percentage? Provide the growth rates for both.",
+    "answer": "SLB revenue increased 10% year-over-year, from $33,135 million to $36,289 million. EOG revenue decreased 2% year-over-year, from $24,186 million to $23,698 million.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "SLB"
+    ],
+    "evidence_section": "EOG: Item 7 - 'operating revenues decreased $488 million, or 2%, to $23,698 million from $24,186 million in 2023'; SLB: Item 7 - 'Year on year, revenue increased by 10%' and Item 8 showing 2023 revenue $33,135 and 2024 $36,289",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the geographic revenue exposure of EOG and SLB based on their 2024 results. Which company is more reliant on the US market?",
+    "answer": "EOG is heavily US-centric: 99.8% of its crude oil and condensate volumes (490.6 of 491.4 MBbld) and 88.7% of its natural gas volumes (1,728 of 1,948 MMcfd) come from the United States. SLB had 12% international revenue growth, led by Middle East & Asia (18% growth) and Europe & Africa (13% growth), indicating a global presence with significant non-US exposure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "SLB"
+    ],
+    "evidence_section": "EOG: Item 7 - Volume and price statistics table (US and Trinidad volumes); SLB: Item 7 - '12% international revenue growth... Middle East & Asia... 18%... Europe & Africa... 13%'",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "EOG+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the revenue compositions of EOG and SLB reflect their different roles in the energy sector?",
+    "answer": "EOG's revenue is primarily from the sale of crude oil, NGLs, and natural gas production ($17,578 million, which is 79% of total operating revenues of $23,698 million) plus gathering, processing and marketing revenues ($5,800 million), reflecting its upstream E&P business. SLB's revenue is split between services ($23,297 million) and product sales ($12,992 million), reflecting its oilfield services and equipment business. EOG's composition highlights commodity production, while SLB's highlights service and technology provision.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "SLB"
+    ],
+    "evidence_section": "EOG: Item 7 - Operating Revenues and Other (production revenues and gathering, processing and marketing revenues); SLB: Item 8 - Consolidated Statement of Income (Services and Product Sales)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company emphasizes digital technology as a key growth driver, and what evidence supports this?",
+    "answer": "SLB emphasizes digital technology, as its Digital & Integration revenue increased 10% year on year, driven by 20% growth in digital, which reached $2.44 billion for the year. EOG's provided content does not mention digital technology or digital revenues.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "SLB"
+    ],
+    "evidence_section": "SLB: Item 7 - 'Digital & Integration revenue increased 10% year on year, driven by 20% growth in digital, which reached $2.44 billion for the year'; EOG: no mention of digital in provided excerpts",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How does EOG's use of financial commodity derivatives compare to SLB's, and what does this indicate about their risk management approaches?",
+    "answer": "EOG actively uses financial commodity derivatives, recognizing net gains of $204 million in 2024 from mark-to-market of such contracts, indicating hedging of commodity price risk. SLB's provided content does not mention gains or losses from derivatives, suggesting less emphasis on commodity price hedging in its business model.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "EOG",
+      "SLB"
+    ],
+    "evidence_section": "EOG: Item 7 - 'net gains on the mark-to-market of financial commodity and other derivative contracts of $204 million'; SLB: no mention of derivative gains/losses in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "EOG+SLB",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What was the net revenue for INTC and AMD in FY2024?",
+    "answer": "For AMD, net revenue was $25,785 million (Consolidated Statements of Operations). For INTC, net revenue is not provided in the given content; refer to pages 13-27 of Item 7 in the INTC 10-K for the exact figure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AMD"
+    ],
+    "evidence_section": "AMD: Consolidated Statements of Operations; INTC: Item 7, pages 13-27",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the revenue growth rates of INTC and AMD compare in FY2024?",
+    "answer": "AMD's net revenue increased 14% to $25.8 billion from $22.7 billion in 2023 (Overview). INTC's revenue growth rate is not provided; see INTC's Item 7 Results of Operations pages 13-27 for the change.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AMD"
+    ],
+    "evidence_section": "AMD: Overview; INTC: Item 7, pages 13-27",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the gross profit margins for INTC and AMD in FY2024?",
+    "answer": "AMD's gross profit was $12,725 million on net revenue of $25,785 million, resulting in a gross margin of 49.4% (calculated as 12,725/25,785). INTC's gross profit margin is not provided; refer to INTC's Critical Accounting Estimates pages 30, 62-68 for gross profit details.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AMD"
+    ],
+    "evidence_section": "AMD: Consolidated Statements of Operations; INTC: Item 7, pages 30, 62-68",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "INTC+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What were the research and development expenses for INTC and AMD in FY2024?",
+    "answer": "AMD's R&D expense was $6,456 million (Consolidated Statements of Operations). INTC's R&D expense is not provided; see INTC's Item 7 Results of Operations pages 13-27 for the figure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AMD"
+    ],
+    "evidence_section": "AMD: Consolidated Statements of Operations; INTC: Item 7, pages 13-27",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the net income for INTC and AMD in FY2024?",
+    "answer": "AMD's net income was $1,641 million (Consolidated Statements of Operations). INTC's net income is not provided; refer to INTC's Item 7, pages 28-30 (Liquidity and Capital Resources) or pages 13-27 (Results of Operations) for the figure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AMD"
+    ],
+    "evidence_section": "AMD: Consolidated Statements of Operations; INTC: Item 7, pages 28-30 and 13-27",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the Data Center segment revenue compare between INTC and AMD in FY2024?",
+    "answer": "AMD's Data Center net revenue was $12.6 billion in 2024 (Overview). INTC's Data Center segment revenue is not provided; see INTC's Item 7 Results of Operations pages 13-27 for segment breakdown.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "INTC",
+      "AMD"
+    ],
+    "evidence_section": "AMD: Overview; INTC: Item 7, pages 13-27",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "INTC+AMD",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

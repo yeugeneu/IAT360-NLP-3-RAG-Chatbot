@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do FCX and ECL define internal control over financial reporting?",
+    "answer": "FCX defines it as 'a process designed by, or under the supervision of, the Company’s principal executive and principal financial officers and effected by the Company’s Board of Directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles' and includes specific policies for records, transactions, and asset prevention. ECL defines it by referencing 'Exchange Act Rule 13a-15(f)' and states that an evaluation was conducted 'based on the 2013 framework in Internal Control — Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "ECL"
+    ],
+    "evidence_section": "FCX: Item 8. Financial Statements and Supplementary Data. MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING; ECL: Item 8. Financial Statements and Supplementary Data. Management’s Report on Internal Control Over Financial Reporting",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What role do the Board of Directors and Audit Committee play in internal control according to each company's filing?",
+    "answer": "FCX states internal control is 'effected by the Company’s Board of Directors, management and other personnel' but does not mention an Audit Committee in the provided text. ECL states 'The Board of Directors, acting through its Audit Committee composed solely of independent directors, is responsible for determining that management fulfills its responsibilities in the preparation of financial statements and maintains internal control over financial reporting.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "ECL"
+    ],
+    "evidence_section": "FCX: same as above; ECL: Item 8. Statements and Supplementary Data. REPORTS OF MANAGEMENT – Management’s Responsibility for Financial Statements",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Do both companies acknowledge inherent limitations of internal control over financial reporting in their filings?",
+    "answer": "Only FCX explicitly acknowledges limitations: 'Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.' ECL does not include a similar statement in the provided excerpts from its 10-K.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "ECL"
+    ],
+    "evidence_section": "FCX: Item 8 as above; ECL: no equivalent statement found in the provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Where within their 10-K filings do FCX and ECL discuss internal control over financial reporting?",
+    "answer": "Both companies place the discussion in Item 8: Financial Statements and Supplementary Data. FCX has a section titled 'MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING'; ECL has 'Management’s Report on Internal Control Over Financial Reporting' under the broader 'REPORTS OF MANAGEMENT'.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "ECL"
+    ],
+    "evidence_section": "FCX and ECL: both Item 8 as captioned in content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Do the filings mention the role of independent auditors with respect to internal control?",
+    "answer": "FCX does not mention independent auditors in the provided excerpt. ECL states: 'The independent registered public accounting firm has audited the consolidated financial statements included in this annual report and have expressed their opinion regarding whether these consolidated financial statements present fairly in all material respects our financial position and results of operation and cash flows as stated in their report presented separately herein.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "ECL"
+    ],
+    "evidence_section": "FCX: no mention; ECL: Item 8. REPORTS OF MANAGEMENT – Management’s Responsibility for Financial Statements",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company's filing includes discussion of Non-GAAP financial measures and forward-looking statements?",
+    "answer": "ECL's MD&A explicitly states: 'This discussion contains various Non-GAAP Financial Measures and also contains various forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.' FCX's provided content does not mention Non-GAAP measures or forward-looking statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "FCX",
+      "ECL"
+    ],
+    "evidence_section": "ECL: Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations; FCX: no equivalent in provided content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "FCX+ECL",
+    "year": "2024",
+    "sector": "Materials",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

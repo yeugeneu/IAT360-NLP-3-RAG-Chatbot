@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What was JPMorganChase's stockholders' equity as of December 31, 2024?",
+    "answer": "$344.8 billion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In how many U.S. states does JPMorgan Chase Bank, N.A. have branches?",
+    "answer": "48 states",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the ratio of stockholders' equity to total assets for JPMorganChase as of December 31, 2024, expressed as a percentage?",
+    "answer": "8.62%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the first risk factor mentioned in the summary of principal risk factors?",
+    "answer": "Regulatory risks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many separate consequences of regulatory risks are listed in the summary?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does the summary say about the impact of differences in financial services regulation on JPMorganChase?",
+    "answer": "The ways in which differences in financial services regulation and supervision in different jurisdictions or with respect to certain competitors can negatively impact JPMorganChase’s business",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7 as it appears in the filing?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many pages does the Management's Discussion and Analysis section (the content described as 'Management’s discussion and analysis') span based on the provided page range?",
+    "answer": "116 pages (from page 52 to 167 inclusive)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "On which pages do the Consolidated Financial Statements and Notes appear?",
+    "answer": "pages 172–321",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "No tables are present in the provided content to generate questions.",
+    "answer": "N/A",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "No tables are present in the provided content to generate questions.",
+    "answer": "N/A",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "No tables are present in the provided content to generate questions.",
+    "answer": "N/A",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which pages are referenced in Item 7A for the discussion of market risk?",
+    "answer": "pages 141–149",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference between the starting and ending page numbers referenced?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the exact title of Item 7A as presented in the text?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What was the effective date of the Restated Certificate of Incorporation of JPMorgan Chase & Co.?",
+    "answer": "April 5, 2006",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which exhibit number corresponds to the Certificate of Designations for 6.00% Non-Cumulative Preferred Stock, Series EE?",
+    "answer": "3.5",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many exhibits are listed in the section?",
+    "answer": "9",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the sum of the fixed dividend rates (in percentage points) for the Non-Cumulative Preferred Stock series that have a specified fixed rate listed in the exhibits?",
+    "answer": "21.05",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the average fixed dividend rate (rounded to two decimal places) of the Non-Cumulative Preferred Stock series DD, EE, GG, and JJ?",
+    "answer": "5.26%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many series of Non-Cumulative Preferred Stock with a fixed dividend rate are listed in the exhibits?",
+    "answer": "4",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2024",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2024"
+    ]
+  }
+]

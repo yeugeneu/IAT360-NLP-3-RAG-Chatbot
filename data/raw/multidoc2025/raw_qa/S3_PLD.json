@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did O&M operating portfolio occupancy change from 2022 to 2023 and 2024?",
+    "answer": "For 2022, occupancy was 98.2% at December 31, 2022. The 2023 and 2024 excerpts do not provide specific occupancy percentages, but they state that 'low vacancy' and 'low vacancy rates' persisted, indicating continued high occupancy.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PLD",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "PLD"
+    ]
+  },
+  {
+    "question": "What was the rent change on leases commenced in 2022, and what qualitative descriptions are given for subsequent years?",
+    "answer": "In 2022, rent change on leases commenced was 48.0% on a net effective basis. For 2023, the excerpt mentions 'meaningful increases in rents', and for 2024, 'meaningful rent growth' is noted, indicating continued strong rent growth but no specific figures.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PLD",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "PLD"
+    ]
+  },
+  {
+    "question": "How did the number of countries where Prologis operates change from 2023 to 2024?",
+    "answer": "In the 2023 excerpt, Prologis operates in 19 countries. In the 2024 excerpt, it operates in 20 countries, indicating expansion by one country.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PLD",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "PLD"
+    ]
+  },
+  {
+    "question": "What strategic shift regarding contributions into open-ended funds is noted in 2022, and is it mentioned in later years?",
+    "answer": "In 2022, the company stated it would 'pause on contributions into our open-ended funds in the near term.' The 2023 and 2024 excerpts do not mention this pause, suggesting a possible change in strategy or resumption.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PLD",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "PLD"
+    ]
+  },
+  {
+    "question": "How did the description of demand drivers evolve from 2022 to 2023 and 2024?",
+    "answer": "In 2022, demand drivers were driven by 'long-term trends of e-commerce adoption and supply chain resiliency'. In 2023, three factors were listed: (i) supply chain re-positioning for e-commerce, (ii) overall consumption and household growth. In 2024, the three factors were similar: (i) re-positioning for e-commerce, (ii) supply chain resiliency, (iii) heightened service expectations. The consistent emphasis indicates a stable strategic focus on e-commerce and supply chain modernization.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PLD",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "PLD"
+    ]
+  },
+  {
+    "question": "What specific headwinds or risks are mentioned in 2022 that are absent in the 2023 and 2024 excerpts?",
+    "answer": "In 2022, specific headwinds included 'challenging headwinds from the capital markets, ongoing inflation, steeply rising interest rates and the war and energy crisis in Europe.' The 2023 and 2024 excerpts focus on positive trends and do not explicitly list these headwinds, indicating a shift in narrative away from those risks.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7 / MD&A",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "PLD",
+    "sector": "Real Estate",
+    "is_cross_doc": false,
+    "companies": [
+      "PLD"
+    ]
+  }
+]

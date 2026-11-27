@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the primary strategic focuses of META and VZ as described in their MD&A sections?",
+    "answer": "META focuses on Family metrics, constant currency revenue, and free cash flow as non-GAAP measures, while VZ focuses on deploying 5G and 4G networks, C-Band spectrum, fiber infrastructure, and capital investments to drive growth.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "VZ"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What type of audit opinion did each company receive on internal control over financial reporting for FY2024?",
+    "answer": "META received an unqualified opinion on internal control over financial reporting from its auditor (PCAOB ID No. 42) dated January 29, 2025, and VZ also received an unqualified opinion from its auditor dated February 12, 2025. Both audits were based on the COSO 2013 framework.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "VZ"
+    ],
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data (audit reports)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the two companies describe their competitive positioning within the communication services sector?",
+    "answer": "META positions itself through user engagement metrics (Family metrics) and non-GAAP measures like constant currency revenue and free cash flow, while VZ positions itself as a leading provider of communications, technology, information, and streaming products, emphasizing network quality, 5G/4G leadership, C-Band spectrum, and fiber infrastructure.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "VZ"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What non-GAAP financial measures are highlighted by META and VZ in their MD&A?",
+    "answer": "META presents revenue on a constant currency basis and free cash flow as non-GAAP measures. VZ does not explicitly mention non-GAAP measures in the provided content; it focuses on GAAP financial results and capital expenditure strategy.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "VZ"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do META and VZ describe their reportable segments or business structure?",
+    "answer": "META does not specify reportable segments in the provided content. VZ states it has two reportable segments but does not name them in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "VZ"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis (VZ); no segment detail in META content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What are the key capital investment themes mentioned by META and VZ in their FY2024 MD&A?",
+    "answer": "META does not discuss capital investments in the provided content. VZ emphasizes significant capital investments to acquire wireless spectrum (especially C-Band), deploy 5G and 4G networks, invest in fiber, and maintain IT systems and data capabilities.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "META",
+      "VZ"
+    ],
+    "evidence_section": "Item 7. Management's Discussion and Analysis (VZ); no equivalent in META content",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "META+VZ",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

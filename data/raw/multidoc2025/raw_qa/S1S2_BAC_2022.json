@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What factor related to interest rates and financing is mentioned as potentially affecting global markets?",
+    "answer": "the level and volatility of interest rates, availability and market conditions of financing",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does the text say about climate change and its impact on global markets?",
+    "answer": "the current or anticipated impact of climate change, acute and/or chronic extreme weather events or natural disasters",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "According to the content, what is mentioned regarding digital assets?",
+    "answer": "the impact of volatility of digital assets on the broader market",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net interest income for 2022 as shown in the Financial Highlights Table?",
+    "answer": "$52,462 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Financial Highlights Table 1 Summary Income Statement and Selected Financial Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total revenue, net of interest expense for 2022 and 2021, and what was the dollar change?",
+    "answer": "2022: $94,950 million; 2021: $89,113 million; change: $5,837 million increase",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Financial Highlights Table 1 Summary Income Statement and Selected Financial Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Calculate the change in provision for credit losses from 2021 to 2022 and explain how the narrative describes its effect on net income.",
+    "answer": "The provision increased from -$4,594 million in 2021 to $2,543 million in 2022, a change of $7,137 million. The narrative states that the increase in provision for credit losses was a primary reason for the decrease in net income.",
+    "intent": "calculation",
+    "is_hybrid_modal": true,
+    "evidence_section": "Item 1A. Risk Factors – Other (including Financial Highlights Table and narrative)",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "List the types of entities that Bank of America competes with according to the MD&A.",
+    "answer": "Banks, thrifts, credit unions, investment banking firms, investment advisory firms, brokerage firms, investment companies, insurance companies, mortgage banking companies, credit card issuers, mutual fund companies, hedge funds, private equity firms, and e-commerce and other internet-based companies, including merchant banks and companies providing nonbank financial services.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) and Note 23 – Business Segment Information to the Consolidated Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What factors does Bank of America state competition is based on?",
+    "answer": "Customer service and convenience, the pricing, quality and range of products and services offered, lending limits, the quality and delivery of our technology and our reputation, experience and relationships in relevant markets.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) and Note 23 – Business Segment Information to the Consolidated Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Which committee or body provides oversight of human capital management strategies at Bank of America?",
+    "answer": "The Board and its Compensation and Human Capital Committee.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) and Note 23 – Business Segment Information to the Consolidated Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many distinct types of competitors are listed in the competition paragraph?",
+    "answer": "14",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many factors is competition based on according to the text?",
+    "answer": "5",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many times does the word 'employees' appear in the human capital section?",
+    "answer": "3",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On which page in the MD&A are the Quantitative and Qualitative Disclosures about Market Risk found according to Item 7A?",
+    "answer": "Page 75",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of the section referenced in Item 7A that contains market risk information?",
+    "answer": "Market Risk Management",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What type of disclosures does Item 7A direct the reader to find in the referenced sections?",
+    "answer": "Quantitative and Qualitative Disclosures about Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "On what page does Note 5 – Outstanding Loans and Leases and Allowance for Credit Losses begin?",
+    "answer": "114",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of the note that starts on page 111?",
+    "answer": "Note 4 – Securities",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many notes are listed from Note 1 through Note 10 inclusive in the Table of Contents?",
+    "answer": "10",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference in starting page numbers between Note 1 (page 94) and Note 25 (page 165)?",
+    "answer": "71",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Calculate the ratio of the starting page of Note 20 (148) to the starting page of Note 10 (130).",
+    "answer": "1.1385",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the total number of notes listed from Note 1 through Note 25, and how does it compare to the number of additional sections (Glossary and Acronyms)?",
+    "answer": "25 notes; 2 additional sections; total 27 items.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements and Supplementary Data Table of Contents",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "BAC",
+    "year": "2022",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "BAC"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]

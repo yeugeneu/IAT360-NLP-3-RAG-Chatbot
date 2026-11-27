@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What were PG's net sales in fiscal years 2022 and 2024, and how many fiscal years' income statements does PEP present in its FY2022 10-K?",
+    "answer": "PG's net sales were $80.2 billion in fiscal 2022 and $84.0 billion in fiscal 2024. PEP's FY2022 10-K presents income statements for fiscal years ended December 31, 2022, December 25, 2021, and December 26, 2020, covering three fiscal years.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PG FY2022 (Item 7+8): 'Net sales increased 5% to $80.2 billion in fiscal 2022'; PG FY2024 (Item 7+8): 'Net sales increased 2% to $84.0 billion in fiscal 2024'; PEP FY2022 (Item 7+8): 'Consolidated Statement of Income – Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020'",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PG+PEP",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "What percentage of PG's net sales growth in fiscal 2022 was driven by pricing, and how many years of data does PEP include in its FY2024 consolidated statements of income, comprehensive income, cash flows, and equity?",
+    "answer": "Pricing contributed 4% to PG's net sales growth in fiscal 2022. PEP's FY2024 10-K includes three fiscal years (2024, 2023, and 2022) in each of its consolidated statements of income, comprehensive income, cash flows, and equity.",
+    "intent": "trend",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PG FY2022 (Item 7+8): 'Favorable pricing had a 4% positive impact on net sales'; PEP FY2024 (Item 7+8): 'Consolidated Statement of Income – Fiscal years ended December 28, 2024, December 30, 2023 and December 31, 2022 ... Consolidated Statement of Equity – Fiscal years ended December 28, 2024, December 30, 2023 and December 31, 2022' (each lists three fiscal years)",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PG+PEP",
+    "sector": "Consumer Staples"
+  },
+  {
+    "question": "What was PG's net sales in fiscal 2022 and fiscal 2024, and what are the fiscal year-end dates for the income statements presented in PEP's FY2022 and FY2024 10-Ks?",
+    "answer": "PG's net sales were $80.2 billion in fiscal 2022 and $84.0 billion in fiscal 2024. PEP's FY2022 income statement covers years ended December 31, 2022, December 25, 2021, and December 26, 2020. PEP's FY2024 income statement covers years ended December 28, 2024, December 30, 2023, and December 31, 2022.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "PG",
+      "PEP"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "PG FY2022 (Item 7+8): 'Net sales increased 5% to $80.2 billion in fiscal 2022'; PG FY2024 (Item 7+8): 'Net sales increased 2% to $84.0 billion in fiscal 2024'; PEP FY2022 (Item 7+8): 'Consolidated Statement of Income – Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020'; PEP FY2024 (Item 7+8): 'Consolidated Statement of Income – Fiscal years ended December 28, 2024, December 30, 2023 and December 31, 2022'",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "PG+PEP",
+    "sector": "Consumer Staples"
+  }
+]

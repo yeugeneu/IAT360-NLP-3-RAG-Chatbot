@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the description of generating fleet transitions change between fiscal years 2022, 2023, and 2024?",
+    "answer": "In 2022 and 2023, the description reads: 'as the traditional electric operating companies and Southern Power transition their generating fleets in support of the Southern Company system's net zero goal.' In 2024, it was changed to: 'as the traditional electric operating companies transition their generating fleets in support of the Southern Company system's net zero goal' – removing the reference to 'Southern Power'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SO",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "SO"
+    ]
+  },
+  {
+    "question": "Which catastrophic events were added to the risk list in fiscal year 2023 that were not present in fiscal year 2022?",
+    "answer": "In 2023, the risk list added 'wars' as a catastrophic event. The 2022 list did not include 'wars' but ended with 'political unrest'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SO",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "SO"
+    ]
+  },
+  {
+    "question": "What specific new type of fire was introduced in the catastrophic events list in fiscal year 2024 compared to previous years?",
+    "answer": "In 2024, the list specifies 'fires, including wildfires'. In 2022 and 2023, it only mentioned 'fires' without the wildfire specification.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SO",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "SO"
+    ]
+  },
+  {
+    "question": "How did the listing of risks associated with nuclear facilities evolve across the three fiscal years?",
+    "answer": "In 2022, the nuclear risks sentence is truncated, ending with 'natural disasters, cy'. In 2023, it reads 'natural disasters, cyber intrusions, physical attacks, and financial'. In 2024, it reads 'natural disasters, cyber intrusions, physical attacks, and financi' (truncated similarly due to content cut-off). The pattern shows that 'cyber intrusions, physical attacks, and financial' were consistently mentioned in 2023 and 2024.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SO",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "SO"
+    ]
+  },
+  {
+    "question": "Did the phrasing regarding 'compliance with mandatory reliability standards' change between fiscal years 2022 and 2024?",
+    "answer": "No, the phrasing remained identical across all three years: 'compliance with mandatory reliability standards, including mandatory cyber security standards'.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SO",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "SO"
+    ]
+  },
+  {
+    "question": "What change occurred in the list of catastrophic events between fiscal year 2023 and fiscal year 2024?",
+    "answer": "In 2023, the list included 'fires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, wars, political unrest'. In 2024, it was updated to 'fires, including wildfires, earthquakes, explosions, floods, tornadoes, hurricanes and other storms, droughts, pandemic health events, wars, political unrest' – adding 'including wildfires' to the fires category.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "SO",
+    "sector": "Utilities",
+    "is_cross_doc": false,
+    "companies": [
+      "SO"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What is the key recent product introduction mentioned by CRM in its fiscal 2025, and does ORCL mention any similarly specific new product offering in its MD&A?",
+    "answer": "CRM introduced Agentforce, a new layer of its trusted platform that enables companies to build and deploy AI agents, during the third quarter of fiscal 2025. ORCL does not mention any specific new product introduction in its MD&A; instead, it discusses risks related to developing and releasing new or enhanced products and services generally.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "ORCL"
+    ],
+    "evidence_section": "CRM: Item 7, third paragraph; ORCL: Item 7, first paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+ORCL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do CRM and ORCL differ in their description of go-to-market strategy and customer acquisition costs?",
+    "answer": "CRM states that its growth levers often require a more sophisticated go-to-market approach and may incur additional upfront costs to obtain new customers and expand relationships, including additional sales and marketing expenses specific to subscription and support. ORCL does not explicitly discuss go-to-market strategy but notes that if it cannot position and price products and services to meet demand, customers may not purchase or renew contracts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "ORCL"
+    ],
+    "evidence_section": "CRM: Item 7, last sentence; ORCL: Item 7, first paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+ORCL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly identifies itself as a global leader in its sector, and which company focuses more on describing risks of failing to keep pace with technological change?",
+    "answer": "CRM explicitly states it is 'a global leader in customer relationship management technology.' ORCL does not claim a leadership position in its MD&A; instead, it focuses on risks related to rapid technological advances, intense competition, and the need to develop new products and services in a timely manner.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "ORCL"
+    ],
+    "evidence_section": "CRM: Item 7, first sentence; ORCL: Item 7, first paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+ORCL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of revenue offerings does each company highlight?",
+    "answer": "CRM highlights 'subscription and support' revenues as part of its business model. ORCL mentions 'license, hardware or cloud offerings' and 'license support, hardware support or cloud subscriptions' as part of its revenue contracts.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "ORCL"
+    ],
+    "evidence_section": "CRM: Item 7, last paragraph; ORCL: Item 7, first paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+ORCL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Based on the provided content, which company discusses integrating artificial intelligence (AI) into its platform, and which company does not mention AI in its MD&A?",
+    "answer": "CRM discusses AI extensively, including 'human intelligence,' 'AI,' 'generative and agentic AI,' and its Agentforce offering. ORCL's MD&A does not mention artificial intelligence as a specific technology focus in the provided excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "ORCL"
+    ],
+    "evidence_section": "CRM: Item 7, first and third paragraphs; ORCL: Item 7, first paragraph (no AI mention)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+ORCL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What does each company say about the importance of contract renewals?",
+    "answer": "CRM does not directly discuss contract renewals in the provided content. ORCL explicitly states that renewals of license support, hardware support, and cloud subscription contracts are 'important to our future success.'",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CRM",
+      "ORCL"
+    ],
+    "evidence_section": "CRM: Item 7 (no mention); ORCL: Item 7, first paragraph",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CRM+ORCL",
+    "year": "2024",
+    "sector": "Information Technology",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

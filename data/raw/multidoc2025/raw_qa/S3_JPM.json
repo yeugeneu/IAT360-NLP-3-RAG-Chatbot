@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How did the number of pages in the MD&A section (Item 7) change from FY2022 to FY2024?",
+    "answer": "In FY2022, MD&A spanned pages 46–154 (109 pages). In FY2023, it spanned pages 48–161 (114 pages). In FY2024, it spanned pages 52–167 (116 pages). The MD&A section grew from 109 to 116 pages over the three years.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "JPM",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "JPM"
+    ]
+  },
+  {
+    "question": "What was the starting page number of Item 7 in each of the three fiscal years?",
+    "answer": "FY2022: page 46; FY2023: page 48; FY2024: page 52.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "JPM",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "JPM"
+    ]
+  },
+  {
+    "question": "Compare the starting page of the Consolidated Financial Statements across FY2022, FY2023, and FY2024.",
+    "answer": "FY2022: page 159; FY2023: page 166; FY2024: page 172.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": false,
+    "company": "JPM",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "JPM"
+    ]
+  },
+  {
+    "question": "How many pages are in the Consolidated Financial Statements section in each fiscal year?",
+    "answer": "FY2022: pages 159–291 = 133 pages; FY2023: pages 166–309 = 144 pages; FY2024: pages 172–321 = 150 pages.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "JPM",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "JPM"
+    ]
+  },
+  {
+    "question": "What was the combined page count of the MD&A and Consolidated Financial Statements sections for each fiscal year?",
+    "answer": "FY2022: 109 + 133 = 242 pages; FY2023: 114 + 144 = 258 pages; FY2024: 116 + 150 = 266 pages.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "JPM",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "JPM"
+    ]
+  },
+  {
+    "question": "How many blank or filler pages exist between the end of the MD&A section and the start of the Consolidated Financial Statements in each year?",
+    "answer": "FY2022: MD&A ends on page 154, Financials start on page 159 → 5 pages; FY2023: MD&A ends on page 161, Financials start on page 166 → 5 pages; FY2024: MD&A ends on page 167, Financials start on page 172 → 5 pages. The gap remained constant at 5 pages across all three years.",
+    "intent": "trend",
+    "is_hybrid_modal": false,
+    "is_cross_year": true,
+    "years_required": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S3",
+    "requires_calculation": true,
+    "company": "JPM",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "companies": [
+      "JPM"
+    ]
+  }
+]

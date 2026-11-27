@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the business structures of Southern Company and Xcel Energy differ based on their filings?",
+    "answer": "Southern Company is a holding company that owns all common stock of three traditional electric operating companies, Southern Power, and Southern Company Gas; its primary businesses are electricity sales and natural gas distribution. Xcel Energy Inc. is a holding company with no business operations, whose assets consist primarily of investments in utility subsidiaries, and its material cash inflows come only from dividends and other payments from its subsidiaries.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "evidence_section": "SO: Item 7, business activities; XEL: Item 8, basis of presentation",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SO+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What operational risks does Southern Company highlight that are not mentioned in Xcel Energy's filing?",
+    "answer": "Southern Company specifically mentions risks from operator error, equipment failures, physical attacks, fuel or material supply interruptions, transmission disruptions, generating fleet transition for net zero goals, cyber intrusions, environmental events, supply chain disruptions, inflation, and catastrophic events such as wildfires, earthquakes, tornadoes, hurricanes, droughts, pandemics, wars, and political unrest. Xcel Energy's filing does not discuss these specific operational risks.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "evidence_section": "SO: Item 7 operational risks; XEL: Items 7 and 8 (no mention of operational risks)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SO+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do Southern Company and Xcel Energy differ in their use of non-GAAP financial measures?",
+    "answer": "Xcel Energy explicitly discusses its use of non-GAAP financial measures such as ongoing ROE, ongoing earnings, and ongoing diluted EPS for financial planning, reporting to the Board, performance-based compensation, and communicating earnings outlook. Southern Company does not mention any non-GAAP measures in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "evidence_section": "SO: no mention; XEL: Item 7 non-GAAP financial measures",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SO+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the difference in the regulatory constraints on dividend payments between Southern Company and Xcel Energy based on the filings?",
+    "answer": "Xcel Energy's ability to pay dividends depends on its utility subsidiaries making dividend payments to the holding company, which is subject to the subsidiaries' fund availability, debt terms, FERC regulations under the Federal Power Act, and applicable state laws. Southern Company's filing does not discuss dividend constraints in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "evidence_section": "SO: no mention; XEL: Item 8 basis of presentation, ability to pay dividends",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SO+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company explicitly mentions having a net zero goal, and which does not, based on the filings?",
+    "answer": "Southern Company explicitly mentions supporting the system's net zero goal in the context of generating fleet transition. Xcel Energy's filing does not mention any net zero goal in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "evidence_section": "SO: Item 7 operational risks, 'net zero goal'; XEL: no mention",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SO+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do the reportable segments of Southern Company compare to the business structure of Xcel Energy?",
+    "answer": "Southern Company's reportable segments are the sale of electricity by traditional electric operating companies, sale of electricity in the competitive wholesale market by Southern Power, and sale of natural gas and other products by Southern Company Gas. Xcel Energy's filing does not list reportable segments; it describes itself as a holding company with no business operations, relying on utility subsidiaries.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "SO",
+      "XEL"
+    ],
+    "evidence_section": "SO: Item 7 business activities; XEL: Item 8 basis of presentation",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "SO+XEL",
+    "year": "2024",
+    "sector": "Utilities",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

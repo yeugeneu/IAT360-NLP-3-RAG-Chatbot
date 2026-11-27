@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which company reported higher total operating revenues in fiscal 2024?",
+    "answer": "AT&T reported total operating revenues of $122,336 million, while Disney reported revenues of $91.4 billion. AT&T's revenues were higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "DIS"
+    ],
+    "evidence_section": "T: Item 8, Consolidated Statements of Income – Total operating revenues $122,336 (2024); DIS: Item 7 – Revenues for fiscal 2024 increased 3%... to $91.4 billion",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare net income attributable to common shareholders for AT&T and net income attributable to Disney for fiscal 2024.",
+    "answer": "AT&T's Net Income Attributable to Common Stock was $10,746 million (after preferred dividends of $202 million). Disney's net income attributable to Disney was $5.0 billion ($5,000 million). AT&T's net income was higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "DIS"
+    ],
+    "evidence_section": "T: Item 8 – Net Income Attributable to Common Stock $10,746 (2024); DIS: Item 7 – net income attributable to Disney increased… to income of $5.0 billion",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How do diluted earnings per share from continuing operations compare between AT&T and Disney for fiscal 2024?",
+    "answer": "AT&T's diluted EPS from continuing operations was $1.49. Disney's diluted EPS from continuing operations was $2.72. Disney's EPS was higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "DIS"
+    ],
+    "evidence_section": "T: Item 8 – Diluted Earnings Per Share from continuing operations $1.49; DIS: Item 7 – diluted earnings per share from continuing operations attributable to Disney increased to $2.72",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the total restructuring and impairment charges reported by AT&T and Disney in fiscal 2024.",
+    "answer": "AT&T reported Asset impairments and abandonments and restructuring of $5,075 million. Disney's total restructuring and impairment charges, computed by summing the line items in its table, are $1,545 (Star India) + $1,287 (Goodwill) + $328 (Retail assets) + $187 (Content) + $165 (Equity investments) + $83 (Severance) = $3,595 million. AT&T's charges were larger.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "DIS"
+    ],
+    "evidence_section": "T: Item 8 – Asset impairments and abandonments and restructuring $5,075 (2024); DIS: Item 7 – table listing impairment charges (Star India $1,545, Goodwill $1,287, Retail assets $328, Content $187, Equity investments $165, Severance $83)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "T+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare service revenues for AT&T and Disney in fiscal 2024.",
+    "answer": "AT&T's Service revenues were $100,135 million. Disney's Service revenues were $81.8 billion. AT&T's service revenue was higher.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "DIS"
+    ],
+    "evidence_section": "T: Item 8 – Service $100,135 (2024); DIS: Item 7 – Service revenues for fiscal 2024 increased 3%... to $81.8 billion",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "T+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How did the change in net income from the prior fiscal year compare between AT&T and Disney?",
+    "answer": "AT&T's net income attributable to AT&T decreased from $14,400 million in 2023 to $10,948 million in 2024, a decline of approximately 24% (($10,948 - $14,400) / $14,400). Disney's net income attributable to Disney increased from $2.4 billion in the prior year to $5.0 billion in 2024, an increase of approximately 108% (($5.0 - $2.4) / $2.4). Disney's net income grew while AT&T's declined.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "T",
+      "DIS"
+    ],
+    "evidence_section": "T: Item 8 – Net Income Attributable to AT&T $14,400 (2023) and $10,948 (2024); DIS: Item 7 – net income attributable to Disney increased $2.6 billion to income of $5.0 billion compared to $2.4 billion in the prior year",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": true,
+    "company": "T+DIS",
+    "year": "2024",
+    "sector": "Communication Services",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

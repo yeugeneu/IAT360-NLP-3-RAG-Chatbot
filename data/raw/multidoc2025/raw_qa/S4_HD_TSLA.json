@@ -1,0 +1,134 @@
+[
+  {
+    "question": "How do the primary customer groups of HD and TSLA differ according to the provided content?",
+    "answer": "HD serves two primary customer groups: consumers (including DIY and DIFM customers) and professional customers (Pros) such as renovators, contractors, and specialty tradespeople. TSLA does not explicitly categorize its customer groups in the provided content; it states it designs, manufactures, leases, and sells vehicles, energy systems, and storage products, and also offers AI, robotics, and automation products and services.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "TSLA"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific acquisition did HD make in fiscal 2024, and does TSLA mention any acquisition in its provided content?",
+    "answer": "HD acquired SRS in fiscal 2024, which sells products to specialty trade roofers, landscapers, and pool contractors. TSLA's provided content does not mention any acquisition.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "TSLA"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What is the stated mission of TSLA, and how does HD describe its approach to customers?",
+    "answer": "TSLA's mission is 'to accelerate the world’s transition to sustainable energy.' HD describes its approach to customers as serving DIY and DIFM customers and Pros, with initiatives such as a customized online experience, dedicated sales force, Pro Xtra loyalty program, and enhanced credit offerings.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "TSLA"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "TSLA reports total revenues of $96.77 billion in the provided content. Does HD report any revenue figure in the provided content?",
+    "answer": "No, the provided content for HD does not include any revenue figure; it only includes descriptions of customers and a table of contents for financial statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "TSLA"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the types of products and services offered by HD and TSLA based on the provided content.",
+    "answer": "HD sells products for home improvement and construction to consumers and Pros, offering a broad assortment of Pro-focused products, an extensive delivery network, credit offerings, and a loyalty program. TSLA designs and manufactures fully electric vehicles, solar energy generation systems, and energy storage products, and offers maintenance, installation, charging, insurance, and services related to AI, robotics, and automation.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "TSLA"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What specific operational metrics (e.g., production, delivery) does TSLA provide for 2023 that HD does not provide for its fiscal year?",
+    "answer": "TSLA provides that it produced 1,845,985 consumer vehicles and delivered 1,808,581 consumer vehicles in 2023, as well as deployed 14.72 GWh of energy storage products and 223 megawatts of solar energy systems. HD does not provide any similar production or delivery metrics in the given content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "HD",
+      "TSLA"
+    ],
+    "evidence_section": "Item 7",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "HD+TSLA",
+    "year": "2024",
+    "sector": "Consumer Discretionary",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

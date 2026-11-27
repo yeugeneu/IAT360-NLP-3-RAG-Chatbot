@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What was the percentage change in total revenue from 2022 to 2024 for Amazon and McDonald's, and which company exhibited a higher growth rate?",
+    "answer": "Amazon's total revenue changed from $514.0 billion in 2022 to $574.0 billion in 2024, an increase of approximately 11.7%. McDonald's total revenue changed from $23.2 billion in 2022 to $25.5 billion in 2024, an increase of approximately 9.9%. Therefore, Amazon had a higher revenue growth rate.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AMZN",
+      "MCD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of Part II, Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": true,
+    "company": "AMZN+MCD",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "question": "What were the total revenues for Amazon and McDonald's in 2022 and 2024, as reported in their Item 7 Management's Discussion and Analysis of Financial Condition and Results of Operations?",
+    "answer": "Amazon reported total revenue of $513.98 billion in 2022 and $574.79 billion in 2024. McDonald's reported total revenue of $23.18 billion in 2022 and $25.92 billion in 2024.",
+    "intent": "comparison",
+    "is_hybrid_modal": true,
+    "is_cross_doc": true,
+    "is_cross_year": true,
+    "companies": [
+      "AMZN",
+      "MCD"
+    ],
+    "years_required": [
+      "2022",
+      "2024"
+    ],
+    "evidence_section": "Item 7 of Part II, Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L3",
+    "subset": "S5",
+    "requires_calculation": false,
+    "company": "AMZN+MCD",
+    "sector": "Consumer Discretionary"
+  }
+]

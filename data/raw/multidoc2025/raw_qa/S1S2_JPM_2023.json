@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What was JPMorgan Chase's total assets as of December 31, 2023?",
+    "answer": "$3.9 trillion",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the principal bank subsidiary of JPMorgan Chase?",
+    "answer": "JPMorgan Chase Bank, National Association (JPMorgan Chase Bank, N.A.)",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What were JPMorgan Chase's total liabilities as of December 31, 2023, implied by its assets and stockholders' equity?",
+    "answer": "$3.5721 trillion",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Business",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many principal risk factors are listed in the summary provided in the content?",
+    "answer": "2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What are the two principal risk factors summarized in the content?",
+    "answer": "Regulatory risks and Political risks",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "According to the content, what will security holders absorb if JPMorgan Chase were to enter into a resolution?",
+    "answer": "losses",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7 in JPMorgan Chase's 2023 10-K?",
+    "answer": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "On which pages does the Management's Discussion and Analysis section appear?",
+    "answer": "pages 48–161",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many pages does the Management's Discussion and Analysis section cover?",
+    "answer": "114",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "Quantitative and Qualitative Disclosures About Market Risk",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which pages of the filing contain the quantitative and qualitative disclosures about market risk?",
+    "answer": "pages 135–143",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "To which section and part of the filing does Item 7A refer for a discussion of quantitative and qualitative disclosures about market risk?",
+    "answer": "the Market Risk Management section of Management’s discussion and analysis on pages 135–143",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the effective date of the Restated Certificate of Incorporation of JPMorgan Chase & Co. as per Exhibit 3.1?",
+    "answer": "April 5, 2006",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "Which exhibit designates the Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series X?",
+    "answer": "3.7",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many exhibits are listed in Item 8 of this section?",
+    "answer": "8",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many series of Fixed-to-Floating Rate Non-Cumulative Preferred Stock are listed in the exhibits from 3.3 to 3.8?",
+    "answer": "6",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8 (Exhibits)",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "What is the ratio of series filed in 2013 to series filed in 2014 among the Fixed-to-Floating Rate Non-Cumulative Preferred Stock series?",
+    "answer": "1:2",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8 (Exhibits)",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  },
+  {
+    "question": "How many days elapsed between the filing dates of Series S (January 22, 2014) and Series U (March 10, 2014)?",
+    "answer": "47",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8 (Exhibits)",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JPM",
+    "year": "2023",
+    "sector": "Financials",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JPM"
+    ],
+    "years_required": [
+      "2023"
+    ]
+  }
+]

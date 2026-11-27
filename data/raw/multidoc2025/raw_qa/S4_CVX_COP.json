@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Based on the excerpts, which company explicitly describes itself as an exploration and production (E&P) company, and which does not?",
+    "answer": "Only ConocoPhillips (COP) describes itself as “one of the world’s leading E&P companies” in its Management’s Discussion and Analysis. Chevron (CVX) does not mention its business type in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "COP"
+    ],
+    "evidence_section": "CVX: Item 7 (no relevant text); COP: Item 7 - Business Environment and Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "How many countries does ConocoPhillips state it operates in, and does Chevron provide any comparable geographic scope?",
+    "answer": "ConocoPhillips states it has “operations and activities in 14 countries.” Chevron’s 10-K excerpt does not mention any countries or geographic scope.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "COP"
+    ],
+    "evidence_section": "CVX: no evidence; COP: Item 7 - Business Environment and Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Compare the level of detail provided in the Management’s Discussion and Analysis (MD&A) sections of both 10-Ks.",
+    "answer": "Chevron’s excerpt only includes an index reference: “The index to Management’s Discussion and Analysis of Financial Condition and Results of Operations is presented in the Financial Table of Contents.” ConocoPhillips provides a full narrative describing the purpose of MD&A, including a caution regarding forward-looking statements and a list of specific words that identify such statements.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "COP"
+    ],
+    "evidence_section": "CVX: Item 7; COP: Item 7 - Management’s Discussion and Analysis",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "Which company’s 10-K excerpt includes a detailed list of forward-looking words and a safe harbor statement?",
+    "answer": "Only ConocoPhillips includes a detailed list of forward-looking words such as “ambition,” “anticipate,” “believe,” etc., and references the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Chevron does not mention forward-looking statements in the provided content.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "COP"
+    ],
+    "evidence_section": "CVX: no evidence; COP: Item 7 - Management’s Discussion and Analysis (first paragraph)",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "What types of assets does ConocoPhillips mention in its portfolio, and does Chevron provide any similar breakdown?",
+    "answer": "ConocoPhillips describes its portfolio as including “resource-rich unconventional plays in North America; conventional assets in North America, Europe, Africa and Asia; global LNG developments; oil sands in Canada.” Chevron provides no asset breakdown in the excerpt.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "COP"
+    ],
+    "evidence_section": "CVX: no evidence; COP: Item 7 - Business Environment and Executive Overview",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  },
+  {
+    "question": "In the Financial Statements and Supplementary Data section (Item 8), how does the detail of the index differ between Chevron and ConocoPhillips?",
+    "answer": "Chevron’s excerpt only says “The index to Financial Statements and Supplementary Data is presented in the Financial Table of Contents.” ConocoPhillips provides a full index listing specific financial statements (e.g., Consolidated Income Statement, Balance Sheet) and 24 notes, plus supplementary information on oil and gas operations.",
+    "intent": "comparison",
+    "is_hybrid_modal": false,
+    "is_cross_doc": true,
+    "is_cross_year": false,
+    "companies": [
+      "CVX",
+      "COP"
+    ],
+    "evidence_section": "CVX: Item 8; COP: Item 8 - ConocoPhillips Index to Financial Statements",
+    "difficulty": "L2",
+    "subset": "S4",
+    "requires_calculation": false,
+    "company": "CVX+COP",
+    "year": "2024",
+    "sector": "Energy",
+    "years_required": [
+      "2024"
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is the position of Peter M. Fasolo?",
+    "answer": "Member, Executive Committee; Executive Vice President, Chief Human Resources Officer",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Election of Directors” in the Proxy Statement.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How old is the Worldwide Chairman of Consumer Health?",
+    "answer": "52",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Election of Directors” in the Proxy Statement.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the median age of the listed Executive Committee members?",
+    "answer": "56",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1. Election of Directors” in the Proxy Statement.",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What does the company face in all three operating segments and in all geographic markets?",
+    "answer": "substantial competition",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many operating segments does the company have?",
+    "answer": "three",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many bases of competition are listed in the risk factors section?",
+    "answer": "7",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 1A. Risk Factors",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the ten-year compound annual growth rate for international sales?",
+    "answer": "2.6%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the sum of the percentage impacts of volume, price, and currency on worldwide sales in 2021?",
+    "answer": "12.9% + (-0.7%) + 1.4% = 13.6%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the net negative impact of acquisitions and divestitures on worldwide sales growth in 2021?",
+    "answer": "negative impact of 0.6%",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the difference between the volume component of sales growth in 2021 and the volume component in 2020?",
+    "answer": "9.4%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What percentage of worldwide sales in 2021 was contributed by U.S. companies?",
+    "answer": "50.3%",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the ratio of the currency impact on sales growth for Europe to the currency impact for the Asia-Pacific, Africa region?",
+    "answer": "1.33",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7. MD&A",
+    "difficulty": "L1",
+    "subset": "S2",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What is the title of Item 7A?",
+    "answer": "QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How is the information for Item 7A provided in this section?",
+    "answer": "The information called for by this item is incorporated herein by reference.",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "How many words are in the provided content of Item 7A (including the title)?",
+    "answer": "22",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What were Johnson & Johnson's total assets as of January 2, 2022 (fiscal year 2021)?",
+    "answer": "$182,018 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Balance Sheets",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the change in total assets from fiscal year 2020 to fiscal year 2021?",
+    "answer": "Increased by $7,124 million from $174,894 million to $182,018 million",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Balance Sheets",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What were Johnson & Johnson's current assets as of January 2, 2022?",
+    "answer": "$60,979 million",
+    "intent": "fact",
+    "is_hybrid_modal": false,
+    "evidence_section": "Consolidated Balance Sheets",
+    "difficulty": "L1",
+    "subset": "S1",
+    "requires_calculation": false,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the current ratio (current assets divided by current liabilities) for Johnson & Johnson as of January 2, 2022 (2021 column) and as of January 3, 2021 (2020 column)? Provide the ratios rounded to four decimal places.",
+    "answer": "2021: 1.3483 (60,979 / 45,226), 2020: 1.2058 (51,237 / 42,493)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "subset": "S2",
+    "difficulty": "L1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the absolute change in intangible assets, net from fiscal year 2020 to 2021? (Calculate 2021 value minus 2020 value)",
+    "answer": "Intangible assets, net decreased by $7,010 million ($46,392 - $53,402 = -$7,010)",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "subset": "S2",
+    "difficulty": "L1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  },
+  {
+    "question": "What was the total liabilities to total assets ratio for each fiscal year (2021 and 2020)? Which year had a higher ratio? (Calculate ratio as total liabilities divided by total assets)",
+    "answer": "2021: 0.5933 (107,995 / 182,018), 2020: 0.6383 (111,616 / 174,894). The ratio was higher in 2020.",
+    "intent": "calculation",
+    "is_hybrid_modal": false,
+    "evidence_section": "Item 8. Financial Statements",
+    "subset": "S2",
+    "difficulty": "L1",
+    "requires_calculation": true,
+    "company": "JNJ",
+    "year": "2022",
+    "sector": "Healthcare",
+    "is_cross_doc": false,
+    "is_cross_year": false,
+    "companies": [
+      "JNJ"
+    ],
+    "years_required": [
+      "2022"
+    ]
+  }
+]
