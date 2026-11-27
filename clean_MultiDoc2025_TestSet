@@ -108,3 +108,22 @@ if STRICT_2023_ONLY:
     before = len(df)
     df = df[df["years_required"].map(only_target_year)]
     print(f"Dropped {before - len(df)} rows that also need another fiscal year")
+
+#-------------------------------------------
+# Delete the year cross-check columns, keep the true/false flags
+#--------------------------------------------
+
+df = df.drop(columns=[c for c in YEAR_CHECK_COLS if c in df.columns])
+
+bool_cols = ["is_cross_doc", "is_hybrid_modal", "requires_calculation"]
+for c in bool_cols:
+    df[c] = df[c].astype(bool)
+
+df["question"] = df["question"].map(clean_text)
+df["answer"] = df["answer"].map(clean_text)
+df["company"] = df["company"].astype(str).str.strip().str.upper()
+df["companies"] = df["companies"].map(lambda cs: [str(c).strip().upper() for c in cs])
+
+before = len(df)
+df = df.drop_duplicates(subset = ["question", "answer", "company", "year"]).reset_index(drop = True)
+print(f"Dropped {before - len(df)} duplicate questions")
