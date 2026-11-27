@@ -79,3 +79,32 @@ if len(raw) != 2327:
     print(f"Warning: dataset card says 2,327 roaw but found {len(raw)}")
 assert raw["id"].is_unique, "Duplicate ids after merging splits"
 
+#-----------------------------------------------
+# keep only the 2023 year rows and drop the rest
+#------------------------------------------------
+
+def clean_text(s: str) -> str:
+    """Collapse whitespace/newlines and trim."""
+    return re.sub(r"\s+", " ", str(s)).strip()
+
+df = raw.copy()
+df["year"] = pd.to_numeric(df["year"], errors="coerce").astype("Int64")
+
+print("Rows per year before filtering:", 
+    df["year"].value_counts().to_dict())
+
+before = len(df)
+df = df[df["year"] == TARGET_YEAR]
+print(f"Dropped {before - len(df)} rows whose primary year isnot from {TARGET_YEAR}")
+
+if STRICT_2023_ONLY:
+    def only_target_year(ys):
+        return(
+            isinstance(ys, list) 
+            and len(ys) > 0 
+            and all(str(y) == str(TARGET_YEAR) for y in ys)
+        )
+
+    before = len(df)
+    df = df[df["years_required"].map(only_target_year)]
+    print(f"Dropped {before - len(df)} rows that also need another fiscal year")
