@@ -33,3 +33,28 @@ DROP_UNCOVERED = False
 YEAR_CHECK_COLS = ["years_required", "is_cross_year"]
 
 SPLIT_NAMES = {"train", "val", "validation", "test"}
+
+#------------------------------------
+# download (skipped if the files are already there)
+#------------------------------------
+def find_split_files():
+    return sorted(
+        p for p in RAW_DIR.rglob("*.json") 
+        if p.stem.lower() in SPLIT_NAMES and ".cache" not in p.parts
+    )
+
+if not find_split_files():
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    snapshot_download(
+        repo_id=HF_REPO,
+        repo_type="dataset",
+        allow_patterns=["*.json"],
+        local_dir=str(RAW_DIR),
+    )
+
+files = find_split_files()
+print("Split files found:", [str(f) for f in files])
+assert files, "No train/val/test json split files found, check repo layout on Huggingface."
+
+
+#--------------------------------------
